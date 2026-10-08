@@ -1,11 +1,99 @@
 {
-  "generated_at": "2026-10-08T15:16:38.313544+00:00",
+  "generated_at": "2026-10-08T20:45:52.505738+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 137,
+  "count": 135,
   "items": [
     {
-      "id": "the-decoder-4867792107",
+      "id": "the-decoder-5433892020",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from text and images. Docs, Slides, and Design now work across all plans, including free accounts.</p>\n<p>The article <a href=\"https://the-decoder.com/claude-can-now-generate-ani...",
+      "link": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+      "published_at": "2026-10-08T19:17:22+00:00"
+    },
+    {
+      "id": "the-decoder-6377550817",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/claude_sad.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an approach that already lets models end some conversations and treats Claude as an entity that may deserve protection.</p>\n<p>The article <a href=\"https://the-decoder.com/being-mean-to-claude-can-now-get-...",
+      "link": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
+      "published_at": "2026-10-08T19:03:14+00:00"
+    },
+    {
+      "id": "aws-ml-4875713743",
+      "source_id": "aws-ml",
+      "source_name": "AWS Machine Learning",
+      "category": "ai-products",
+      "module": "🛠️ 产品与工具",
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "summary": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "published_at": "2026-10-08T18:33:29+00:00"
+    },
+    {
+      "id": "the-decoder-5174588766",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_mathematics_controversy.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass \"harvesting\" of open problems leaves entire branches of mathematics less fertile.</p>\n<p...",
+      "link": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
+      "published_at": "2026-10-08T18:17:07+00:00"
+    },
+    {
+      "id": "latent-space-4582521213",
+      "source_id": "latent-space",
+      "source_name": "Latent Space",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "summary": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+      "link": "https://www.latent.space/p/periodic",
+      "published_at": "2026-10-08T16:27:54+00:00"
+    },
+    {
+      "id": "aws-ml-4035091888",
+      "source_id": "aws-ml",
+      "source_name": "AWS Machine Learning",
+      "category": "ai-products",
+      "module": "🛠️ 产品与工具",
+      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+      "summary": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for fairness, and namespace-level cost allocation for chargeback.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "published_at": "2026-10-08T16:20:04+00:00"
+    },
+    {
+      "id": "openai-news-5941433695",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "link": "https://openai.com/index/oracle",
+      "published_at": "2026-10-08T16:00:00+00:00"
+    },
+    {
+      "id": "leiphone-6088074072",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Claude Haiku 5.5 降本背后：操作能力暴涨，复杂编程为何仍差一截？",
+      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261008/6ac7b88ded3c4.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
+      "link": "https://www.leiphone.com/category/ai/n2GjuJRnM4utgaun.html",
+      "published_at": "2026-10-08T15:37:00+00:00"
+    },
+    {
+      "id": "the-decoder-8038758778",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -16,7 +104,7 @@
       "published_at": "2026-10-08T13:52:54+00:00"
     },
     {
-      "id": "the-decoder-489742526",
+      "id": "the-decoder-4107116994",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -27,7 +115,7 @@
       "published_at": "2026-10-08T13:01:01+00:00"
     },
     {
-      "id": "nvidia-blog-2832546250",
+      "id": "nvidia-blog-6753529726",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -38,7 +126,18 @@
       "published_at": "2026-10-08T13:00:46+00:00"
     },
     {
-      "id": "the-decoder-7221702156",
+      "id": "openai-news-4645148288",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "link": "https://openai.com/index/pollo-ai",
+      "published_at": "2026-10-08T12:00:00+00:00"
+    },
+    {
+      "id": "the-decoder-599856265",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -49,7 +148,7 @@
       "published_at": "2026-10-08T10:30:23+00:00"
     },
     {
-      "id": "the-decoder-4473785183",
+      "id": "the-decoder-4598694708",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -60,7 +159,7 @@
       "published_at": "2026-10-08T09:57:42+00:00"
     },
     {
-      "id": "thelec-1000769194",
+      "id": "thelec-561230768",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -71,7 +170,7 @@
       "published_at": "2026-10-08T09:51:52+00:00"
     },
     {
-      "id": "thelec-4043801352",
+      "id": "thelec-5401583597",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -82,7 +181,7 @@
       "published_at": "2026-10-08T09:51:49+00:00"
     },
     {
-      "id": "thelec-1533660716",
+      "id": "thelec-385850050",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -93,7 +192,7 @@
       "published_at": "2026-10-08T09:51:47+00:00"
     },
     {
-      "id": "thelec-3384099745",
+      "id": "thelec-322445852",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -104,7 +203,7 @@
       "published_at": "2026-10-08T09:51:46+00:00"
     },
     {
-      "id": "thelec-3495873473",
+      "id": "thelec-7344218778",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +214,7 @@
       "published_at": "2026-10-08T09:51:44+00:00"
     },
     {
-      "id": "thelec-4844692503",
+      "id": "thelec-3117938846",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -126,7 +225,7 @@
       "published_at": "2026-10-08T09:51:42+00:00"
     },
     {
-      "id": "thelec-7370119009",
+      "id": "thelec-3865369680",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -137,7 +236,7 @@
       "published_at": "2026-10-08T09:51:41+00:00"
     },
     {
-      "id": "thelec-2203091771",
+      "id": "thelec-8195072831",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +247,7 @@
       "published_at": "2026-10-08T09:51:28+00:00"
     },
     {
-      "id": "leiphone-3354912112",
+      "id": "leiphone-2852518435",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -159,7 +258,7 @@
       "published_at": "2026-10-08T09:42:00+00:00"
     },
     {
-      "id": "the-decoder-9672620380",
+      "id": "the-decoder-5622345205",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -170,7 +269,7 @@
       "published_at": "2026-10-08T09:24:17+00:00"
     },
     {
-      "id": "mit-tech-review-1126210889",
+      "id": "mit-tech-review-2112699431",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -181,7 +280,7 @@
       "published_at": "2026-10-08T09:00:00+00:00"
     },
     {
-      "id": "mit-tech-review-5022563746",
+      "id": "mit-tech-review-5693447986",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -192,7 +291,7 @@
       "published_at": "2026-10-08T08:17:32+00:00"
     },
     {
-      "id": "leiphone-5104005028",
+      "id": "leiphone-4416303928",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -203,7 +302,7 @@
       "published_at": "2026-10-08T08:02:00+00:00"
     },
     {
-      "id": "leiphone-6309340948",
+      "id": "leiphone-7331323616",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -214,7 +313,7 @@
       "published_at": "2026-10-08T08:00:00+00:00"
     },
     {
-      "id": "leiphone-7727651396",
+      "id": "leiphone-8930760232",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -225,7 +324,7 @@
       "published_at": "2026-10-08T07:58:00+00:00"
     },
     {
-      "id": "leiphone-9039101698",
+      "id": "leiphone-2453940899",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -236,7 +335,7 @@
       "published_at": "2026-10-08T07:56:00+00:00"
     },
     {
-      "id": "leiphone-8669654061",
+      "id": "leiphone-5061282936",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -247,7 +346,7 @@
       "published_at": "2026-10-08T07:54:00+00:00"
     },
     {
-      "id": "latent-space-4686944011",
+      "id": "latent-space-2904123084",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -258,7 +357,7 @@
       "published_at": "2026-10-08T07:27:51+00:00"
     },
     {
-      "id": "leiphone-2550596297",
+      "id": "leiphone-4337517837",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -269,7 +368,7 @@
       "published_at": "2026-10-08T07:26:00+00:00"
     },
     {
-      "id": "leiphone-4917926914",
+      "id": "leiphone-2539391216",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -280,7 +379,7 @@
       "published_at": "2026-10-08T07:20:00+00:00"
     },
     {
-      "id": "leiphone-9373748282",
+      "id": "leiphone-1683681314",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -291,7 +390,7 @@
       "published_at": "2026-10-08T07:16:00+00:00"
     },
     {
-      "id": "leiphone-4724805518",
+      "id": "leiphone-9291524936",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -302,7 +401,7 @@
       "published_at": "2026-10-08T06:45:00+00:00"
     },
     {
-      "id": "leiphone-3230425829",
+      "id": "leiphone-295875783",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -313,7 +412,7 @@
       "published_at": "2026-10-08T06:39:00+00:00"
     },
     {
-      "id": "leiphone-9819114374",
+      "id": "leiphone-4568813214",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -324,7 +423,7 @@
       "published_at": "2026-10-08T06:37:00+00:00"
     },
     {
-      "id": "leiphone-869164838",
+      "id": "leiphone-2891835371",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -335,7 +434,7 @@
       "published_at": "2026-10-08T06:07:00+00:00"
     },
     {
-      "id": "leiphone-7662100027",
+      "id": "leiphone-7454156227",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -346,7 +445,7 @@
       "published_at": "2026-10-08T05:53:00+00:00"
     },
     {
-      "id": "leiphone-7525354515",
+      "id": "leiphone-9179812644",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -357,7 +456,7 @@
       "published_at": "2026-10-08T05:49:00+00:00"
     },
     {
-      "id": "leiphone-82584975",
+      "id": "leiphone-8049811524",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -368,7 +467,7 @@
       "published_at": "2026-10-08T03:55:00+00:00"
     },
     {
-      "id": "leiphone-2847619594",
+      "id": "leiphone-9042941346",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -379,7 +478,7 @@
       "published_at": "2026-10-08T03:18:00+00:00"
     },
     {
-      "id": "leiphone-2502197490",
+      "id": "leiphone-9355400667",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -390,7 +489,7 @@
       "published_at": "2026-10-08T02:57:00+00:00"
     },
     {
-      "id": "leiphone-2461360768",
+      "id": "leiphone-173765477",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -401,18 +500,7 @@
       "published_at": "2026-10-08T02:46:00+00:00"
     },
     {
-      "id": "leiphone-702961529",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "银河通用&清华 LATENT：用「不完美人类数据」让机器人学会网球对打 | IROS 2026",
-      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261008/6ac701e8601e8.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
-      "link": "https://www.leiphone.com/category/private/HkC1hSwn255e7hL9.html",
-      "published_at": "2026-10-08T02:40:00+00:00"
-    },
-    {
-      "id": "geekpark-133334676",
+      "id": "geekpark-4351307296",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -423,7 +511,7 @@
       "published_at": "2026-10-08T01:40:34+00:00"
     },
     {
-      "id": "geekpark-1672522764",
+      "id": "geekpark-2734997877",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -434,7 +522,18 @@
       "published_at": "2026-10-08T00:49:27+00:00"
     },
     {
-      "id": "simon-willison-6545113729",
+      "id": "openai-news-1697828039",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "published_at": "2026-10-08T00:00:00+00:00"
+    },
+    {
+      "id": "simon-willison-6267584730",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -445,7 +544,7 @@
       "published_at": "2026-10-07T23:14:58+00:00"
     },
     {
-      "id": "simon-willison-8488261973",
+      "id": "simon-willison-8891215374",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -456,7 +555,7 @@
       "published_at": "2026-10-07T20:56:21+00:00"
     },
     {
-      "id": "google-research-7915708968",
+      "id": "google-research-2174764704",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -467,7 +566,7 @@
       "published_at": "2026-10-07T20:19:57+00:00"
     },
     {
-      "id": "the-decoder-8759656756",
+      "id": "the-decoder-3654886564",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -478,7 +577,7 @@
       "published_at": "2026-10-07T19:06:40+00:00"
     },
     {
-      "id": "aws-ml-6653575246",
+      "id": "aws-ml-3590284883",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -489,7 +588,7 @@
       "published_at": "2026-10-07T18:52:10+00:00"
     },
     {
-      "id": "nvidia-blog-2829631446",
+      "id": "nvidia-blog-16381026",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -500,7 +599,7 @@
       "published_at": "2026-10-07T18:45:28+00:00"
     },
     {
-      "id": "aws-ml-8931800099",
+      "id": "aws-ml-5196656632",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -511,7 +610,7 @@
       "published_at": "2026-10-07T18:34:44+00:00"
     },
     {
-      "id": "the-decoder-6345641484",
+      "id": "the-decoder-2637895119",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -522,18 +621,7 @@
       "published_at": "2026-10-07T17:58:20+00:00"
     },
     {
-      "id": "the-decoder-4727034911",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/google_synthid.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia. More than 180 billion pieces of content already carry the watermark, but the tool only identifies SynthID-tagged content, not AI-generated media in general.</p>\n<p>The article <a href=\"https://the-decode...",
-      "link": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/",
-      "published_at": "2026-10-07T17:50:17+00:00"
-    },
-    {
-      "id": "github-ai-5317010461",
+      "id": "github-ai-6781770583",
       "source_id": "github-ai",
       "source_name": "GitHub AI & ML",
       "category": "ai-products",
@@ -544,7 +632,7 @@
       "published_at": "2026-10-07T17:45:34+00:00"
     },
     {
-      "id": "huggingface-3109527536",
+      "id": "huggingface-9739284756",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -555,7 +643,7 @@
       "published_at": "2026-10-07T16:54:33+00:00"
     },
     {
-      "id": "microsoft-research-7437235891",
+      "id": "microsoft-research-8727771251",
       "source_id": "microsoft-research",
       "source_name": "Microsoft Research",
       "category": "ai-models",
@@ -566,7 +654,7 @@
       "published_at": "2026-10-07T16:00:00+00:00"
     },
     {
-      "id": "aws-ml-7927615836",
+      "id": "aws-ml-7475865202",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -577,7 +665,7 @@
       "published_at": "2026-10-07T15:50:00+00:00"
     },
     {
-      "id": "aws-ml-8285987941",
+      "id": "aws-ml-9353540387",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -588,7 +676,7 @@
       "published_at": "2026-10-07T15:48:46+00:00"
     },
     {
-      "id": "aws-ml-3027986334",
+      "id": "aws-ml-3544682034",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -599,7 +687,7 @@
       "published_at": "2026-10-07T15:46:49+00:00"
     },
     {
-      "id": "aws-ml-6820346986",
+      "id": "aws-ml-6443416683",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -610,7 +698,7 @@
       "published_at": "2026-10-07T15:44:27+00:00"
     },
     {
-      "id": "aws-ml-7642169195",
+      "id": "aws-ml-9985573386",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -621,18 +709,7 @@
       "published_at": "2026-10-07T15:38:28+00:00"
     },
     {
-      "id": "the-decoder-6718227257",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-e...",
-      "link": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
-      "published_at": "2026-10-07T15:36:39+00:00"
-    },
-    {
-      "id": "simon-willison-4527114484",
+      "id": "simon-willison-9425610739",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -643,18 +720,7 @@
       "published_at": "2026-10-07T14:53:51+00:00"
     },
     {
-      "id": "the-decoder-6032071874",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/google_playground.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026.</p>\n<p>The article <a href=\"https://the-decoder.co...",
-      "link": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
-      "published_at": "2026-10-07T14:44:42+00:00"
-    },
-    {
-      "id": "latent-space-4357681189",
+      "id": "latent-space-2167583094",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -665,7 +731,7 @@
       "published_at": "2026-10-07T14:10:45+00:00"
     },
     {
-      "id": "huggingface-2828267738",
+      "id": "huggingface-2560048713",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -676,7 +742,7 @@
       "published_at": "2026-10-07T13:21:03+00:00"
     },
     {
-      "id": "huggingface-6193380836",
+      "id": "huggingface-9171973433",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -687,7 +753,7 @@
       "published_at": "2026-10-07T12:45:31+00:00"
     },
     {
-      "id": "openai-news-8813161186",
+      "id": "openai-news-133856343",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -698,7 +764,7 @@
       "published_at": "2026-10-07T12:00:00+00:00"
     },
     {
-      "id": "thelec-2426691954",
+      "id": "thelec-6069738092",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -709,7 +775,7 @@
       "published_at": "2026-10-07T11:23:54+00:00"
     },
     {
-      "id": "thelec-581974045",
+      "id": "thelec-385018043",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -720,7 +786,7 @@
       "published_at": "2026-10-07T11:21:00+00:00"
     },
     {
-      "id": "thelec-6083332762",
+      "id": "thelec-7603528596",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -731,7 +797,7 @@
       "published_at": "2026-10-07T11:21:00+00:00"
     },
     {
-      "id": "thelec-3587045128",
+      "id": "thelec-6781928621",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -742,7 +808,7 @@
       "published_at": "2026-10-07T11:15:13+00:00"
     },
     {
-      "id": "thelec-5858103100",
+      "id": "thelec-904780559",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -753,7 +819,7 @@
       "published_at": "2026-10-07T11:15:00+00:00"
     },
     {
-      "id": "thelec-81295600",
+      "id": "thelec-5617883879",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -764,7 +830,7 @@
       "published_at": "2026-10-07T11:14:58+00:00"
     },
     {
-      "id": "thelec-2205010617",
+      "id": "thelec-9218788401",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -775,7 +841,7 @@
       "published_at": "2026-10-07T11:14:54+00:00"
     },
     {
-      "id": "thelec-8720215079",
+      "id": "thelec-7712280239",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -786,7 +852,7 @@
       "published_at": "2026-10-07T11:14:52+00:00"
     },
     {
-      "id": "thelec-8903035508",
+      "id": "thelec-5495969035",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -797,7 +863,7 @@
       "published_at": "2026-10-07T11:14:49+00:00"
     },
     {
-      "id": "thelec-4495317589",
+      "id": "thelec-8323526605",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -808,7 +874,7 @@
       "published_at": "2026-10-07T11:14:36+00:00"
     },
     {
-      "id": "thelec-8996933884",
+      "id": "thelec-4934967433",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -819,7 +885,7 @@
       "published_at": "2026-10-07T11:14:30+00:00"
     },
     {
-      "id": "thelec-2592861356",
+      "id": "thelec-9954748018",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -830,7 +896,7 @@
       "published_at": "2026-10-07T11:14:22+00:00"
     },
     {
-      "id": "thelec-6332966023",
+      "id": "thelec-442927756",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -841,7 +907,7 @@
       "published_at": "2026-10-07T11:14:20+00:00"
     },
     {
-      "id": "thelec-6048045009",
+      "id": "thelec-7242880204",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -852,7 +918,7 @@
       "published_at": "2026-10-07T11:14:16+00:00"
     },
     {
-      "id": "thelec-9511314559",
+      "id": "thelec-9991649669",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -863,7 +929,7 @@
       "published_at": "2026-10-07T11:14:14+00:00"
     },
     {
-      "id": "thelec-256611293",
+      "id": "thelec-9552521093",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -874,7 +940,7 @@
       "published_at": "2026-10-07T11:14:10+00:00"
     },
     {
-      "id": "thelec-5232029638",
+      "id": "thelec-8003617336",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -885,7 +951,7 @@
       "published_at": "2026-10-07T11:14:05+00:00"
     },
     {
-      "id": "thelec-4239568957",
+      "id": "thelec-4687266025",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -896,7 +962,7 @@
       "published_at": "2026-10-07T11:13:59+00:00"
     },
     {
-      "id": "thelec-7782504285",
+      "id": "thelec-26296010",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -907,7 +973,7 @@
       "published_at": "2026-10-07T11:13:58+00:00"
     },
     {
-      "id": "thelec-7683553234",
+      "id": "thelec-7853468055",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -918,7 +984,7 @@
       "published_at": "2026-10-07T11:13:57+00:00"
     },
     {
-      "id": "thelec-4773271389",
+      "id": "thelec-5542429548",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -929,7 +995,7 @@
       "published_at": "2026-10-07T11:13:52+00:00"
     },
     {
-      "id": "openai-news-1874617966",
+      "id": "openai-news-4123353206",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -940,7 +1006,7 @@
       "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
-      "id": "thelec-5789622703",
+      "id": "thelec-8933246488",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -951,7 +1017,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-3780608016",
+      "id": "thelec-4419471555",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -962,7 +1028,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-2291669006",
+      "id": "thelec-8561061253",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -973,7 +1039,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-4265356563",
+      "id": "thelec-2004087899",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -984,7 +1050,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-500162716",
+      "id": "thelec-2649487587",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -995,7 +1061,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-3445314963",
+      "id": "thelec-3578830408",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1006,7 +1072,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-4149685293",
+      "id": "thelec-9662341329",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1017,7 +1083,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-7266546954",
+      "id": "thelec-6915495636",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1028,7 +1094,7 @@
       "published_at": "2026-10-07T06:27:31+00:00"
     },
     {
-      "id": "thelec-9075012159",
+      "id": "thelec-9119006395",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1039,7 +1105,7 @@
       "published_at": "2026-10-07T06:27:09+00:00"
     },
     {
-      "id": "latent-space-896574251",
+      "id": "latent-space-885855845",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1050,7 +1116,7 @@
       "published_at": "2026-10-07T04:55:44+00:00"
     },
     {
-      "id": "simon-willison-1172353966",
+      "id": "simon-willison-2655454732",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1061,7 +1127,7 @@
       "published_at": "2026-10-07T04:47:55+00:00"
     },
     {
-      "id": "geekpark-3487976563",
+      "id": "geekpark-4411545230",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1072,7 +1138,7 @@
       "published_at": "2026-10-07T00:39:21+00:00"
     },
     {
-      "id": "simon-willison-8070373498",
+      "id": "simon-willison-4147273821",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1083,7 +1149,7 @@
       "published_at": "2026-10-07T00:16:45+00:00"
     },
     {
-      "id": "openai-news-308592344",
+      "id": "openai-news-4086999538",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1094,7 +1160,7 @@
       "published_at": "2026-10-07T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-5132019393",
+      "id": "simon-willison-7088011891",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1105,7 +1171,7 @@
       "published_at": "2026-10-06T23:58:56+00:00"
     },
     {
-      "id": "simon-willison-7875987871",
+      "id": "simon-willison-6543373290",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1116,7 +1182,7 @@
       "published_at": "2026-10-06T23:04:13+00:00"
     },
     {
-      "id": "simon-willison-861832340",
+      "id": "simon-willison-6908432698",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1127,7 +1193,7 @@
       "published_at": "2026-10-06T21:32:34+00:00"
     },
     {
-      "id": "simon-willison-5520377878",
+      "id": "simon-willison-8596323646",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1138,7 +1204,7 @@
       "published_at": "2026-10-06T20:37:53+00:00"
     },
     {
-      "id": "simon-willison-688331385",
+      "id": "simon-willison-3777326342",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1149,7 +1215,7 @@
       "published_at": "2026-10-06T20:18:19+00:00"
     },
     {
-      "id": "google-deepmind-5240670374",
+      "id": "google-deepmind-8030817610",
       "source_id": "google-deepmind",
       "source_name": "Google DeepMind",
       "category": "ai-models",
@@ -1160,7 +1226,7 @@
       "published_at": "2026-10-06T19:57:04+00:00"
     },
     {
-      "id": "aws-ml-1426797668",
+      "id": "aws-ml-9864476663",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1171,7 +1237,7 @@
       "published_at": "2026-10-06T19:19:15+00:00"
     },
     {
-      "id": "simon-willison-9551533332",
+      "id": "simon-willison-1637477627",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1182,7 +1248,7 @@
       "published_at": "2026-10-06T19:07:31+00:00"
     },
     {
-      "id": "simon-willison-8068765103",
+      "id": "simon-willison-7828789169",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1193,7 +1259,7 @@
       "published_at": "2026-10-06T18:20:58+00:00"
     },
     {
-      "id": "simon-willison-4199985872",
+      "id": "simon-willison-5339267093",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1204,7 +1270,7 @@
       "published_at": "2026-10-06T17:35:39+00:00"
     },
     {
-      "id": "microsoft-research-4371083185",
+      "id": "microsoft-research-8429670351",
       "source_id": "microsoft-research",
       "source_name": "Microsoft Research",
       "category": "ai-models",
@@ -1215,7 +1281,7 @@
       "published_at": "2026-10-06T16:19:06+00:00"
     },
     {
-      "id": "openai-news-4033820461",
+      "id": "openai-news-1434994574",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1226,7 +1292,7 @@
       "published_at": "2026-10-06T16:00:00+00:00"
     },
     {
-      "id": "aws-ml-7477662028",
+      "id": "aws-ml-7188875164",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1237,7 +1303,7 @@
       "published_at": "2026-10-06T15:53:28+00:00"
     },
     {
-      "id": "aws-ml-4261872514",
+      "id": "aws-ml-1976574035",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1248,7 +1314,7 @@
       "published_at": "2026-10-06T15:50:23+00:00"
     },
     {
-      "id": "aws-ml-2366594403",
+      "id": "aws-ml-6229601330",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1259,7 +1325,7 @@
       "published_at": "2026-10-06T15:47:02+00:00"
     },
     {
-      "id": "aws-ml-3050386727",
+      "id": "aws-ml-7109049323",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1270,7 +1336,7 @@
       "published_at": "2026-10-06T15:45:42+00:00"
     },
     {
-      "id": "simon-willison-9420070544",
+      "id": "simon-willison-6915652322",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1281,7 +1347,7 @@
       "published_at": "2026-10-06T15:17:39+00:00"
     },
     {
-      "id": "google-research-9378522152",
+      "id": "google-research-8626918471",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -1292,7 +1358,7 @@
       "published_at": "2026-10-06T15:05:11+00:00"
     },
     {
-      "id": "nvidia-blog-8607679904",
+      "id": "nvidia-blog-4660925586",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1303,7 +1369,7 @@
       "published_at": "2026-10-06T13:00:19+00:00"
     },
     {
-      "id": "mistral-1620106398",
+      "id": "mistral-1130077340",
       "source_id": "mistral",
       "source_name": "Mistral AI",
       "category": "ai-models",
@@ -1314,7 +1380,7 @@
       "published_at": "2026-10-06T12:00:27+00:00"
     },
     {
-      "id": "openai-news-9548278490",
+      "id": "openai-news-824178448",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1325,7 +1391,7 @@
       "published_at": "2026-10-06T12:00:00+00:00"
     },
     {
-      "id": "openai-news-8214225561",
+      "id": "openai-news-3907775634",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1336,7 +1402,7 @@
       "published_at": "2026-10-06T12:00:00+00:00"
     },
     {
-      "id": "openai-news-8091125843",
+      "id": "openai-news-5793272058",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1347,7 +1413,7 @@
       "published_at": "2026-10-06T10:00:00+00:00"
     },
     {
-      "id": "geekpark-1525873629",
+      "id": "geekpark-4587821776",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1358,7 +1424,7 @@
       "published_at": "2026-10-06T08:33:30+00:00"
     },
     {
-      "id": "latent-space-9488563718",
+      "id": "latent-space-9121663174",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1369,7 +1435,7 @@
       "published_at": "2026-10-06T06:28:43+00:00"
     },
     {
-      "id": "geekpark-2356569765",
+      "id": "geekpark-423032869",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1380,7 +1446,7 @@
       "published_at": "2026-10-06T01:16:53+00:00"
     },
     {
-      "id": "geekpark-809339438",
+      "id": "geekpark-2962473485",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1391,7 +1457,7 @@
       "published_at": "2026-10-06T01:15:06+00:00"
     },
     {
-      "id": "simon-willison-8766438013",
+      "id": "simon-willison-1501302498",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1402,7 +1468,7 @@
       "published_at": "2026-10-05T23:56:47+00:00"
     },
     {
-      "id": "aws-ml-8774250156",
+      "id": "aws-ml-9473891952",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1413,7 +1479,7 @@
       "published_at": "2026-10-05T23:25:17+00:00"
     },
     {
-      "id": "google-research-209118592",
+      "id": "google-research-1030204233",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -1422,94 +1488,6 @@
       "summary": "Generative AI",
       "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
       "published_at": "2026-10-05T21:08:00+00:00"
-    },
-    {
-      "id": "aws-ml-6072584670",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
-      "summary": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned, AI-assisted development on regulated and ITAR workloads.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
-      "published_at": "2026-10-05T17:25:20+00:00"
-    },
-    {
-      "id": "aws-ml-4097861778",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
-      "summary": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable SageMaker Python SDK v3 code to benchmark, recommend, and compare deployments.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
-      "published_at": "2026-10-05T17:23:19+00:00"
-    },
-    {
-      "id": "github-ai-5952666574",
-      "source_id": "github-ai",
-      "source_name": "GitHub AI & ML",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "ReviewBench: An open benchmark for AI code review",
-      "summary": "<p>We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/\">ReviewBench: An open benchmark for AI code review</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "published_at": "2026-10-05T15:59:40+00:00"
-    },
-    {
-      "id": "aws-ml-1684249607",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
-      "summary": "Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
-      "published_at": "2026-10-05T15:56:28+00:00"
-    },
-    {
-      "id": "aws-ml-2274531464",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
-      "summary": "Build a Retrieval Augmented Generation (RAG) application on Amazon Bedrock Managed Knowledge Base with LangChain, and see how agentic retrieval handles the multi-part questions that single-shot retrieval answers poorly. Run the same query through both paths, read the trace events, and compare what each retrieval path costs.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/",
-      "published_at": "2026-10-05T15:53:56+00:00"
-    },
-    {
-      "id": "aws-ml-3501988793",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Downgrading user roles in Amazon Quick",
-      "summary": "Amazon Quick doesn't offer a direct console path to downgrade a user from Admin or Author to Reader. This post walks through two reliable methods: a manual delete-and-recreate approach and an AWS CLI step-down sequence that downgrades roles safely while preserving asset ownership.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/",
-      "published_at": "2026-10-05T15:51:38+00:00"
-    },
-    {
-      "id": "aws-ml-5315178036",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
-      "summary": "Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent supply chain decisioning system and evaluate it with Amazon Bedrock AgentCore Evaluations using built-in, custom, and explainability evaluators.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/",
-      "published_at": "2026-10-05T15:50:01+00:00"
-    },
-    {
-      "id": "mit-tech-review-7117397270",
-      "source_id": "mit-tech-review",
-      "source_name": "MIT Technology Review",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
-      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "published_at": "2026-10-05T15:47:52+00:00"
     }
   ]
 }
