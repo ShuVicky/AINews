@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-11T00:20:48.229016+00:00",
+  "generated_at": "2026-10-11T06:11:29.305037+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 87,
+  "count": 88,
   "items": [
     {
-      "id": "simon-willison-6763319222",
+      "id": "geekpark-9748269078",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准",
+      "summary": "<p>&nbsp;</p>\n<p><img src=\"https://imgslim.geekpark.net/uploads/image/file/44/ad/44ad72a68bdf0f2b29d045b8d20c5e29.png\" /></p>\n<p>图片来源：吉利银河</p>\n<p>「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。</p>\n<p>就在几分钟前，10 月 10 日，吉利银河战舰 700，一台新能源野车正式发布，16.98 万（限时焕新价）起的价格，让这台最高配备三电机四驱，千匹马力，能爬 45&deg; 坡、能应急浮水的越野车，变得十分打动人心。</p>\n<p><img src=\"https://imgslim.geekpark.net/uploads/image/file/88/cf/88cf6de613a6f5b7f5a4080a32499b3d.png\" /></p>\n<p>吉利银河战舰 700 的价格梯度比较大｜图片来源：极客公园</p>\n<p>事实也是如此，在发布会后 12 分钟，吉利银河战舰 700 的订单数量就突破 1 万台。</p>\n<p>但在显性成功的背后，你确实会猜测，可能恰恰因为吉利「缺乏越野基因」，才能让团队没有任何包袱，从底层架构层面，重新思考新能源时代的越野车，到底应该是什么样。或者，<st...",
+      "link": "http://www.geekpark.net/news/372213",
+      "published_at": "2026-10-11T05:52:01+00:00"
+    },
+    {
+      "id": "geekpark-1630632507",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/d2/04/d204d27e0c20c3e37f63a06813e59e29.png\" /></p><h1>马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸</h1><p>近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量约 118 万亿美元，此番极具颠覆性的超高估值言论引发全网热议与质疑。</p><p>面对这一惊人预测，有网友晒出富国银行证券整理的一张名为「说到做到记录，以及其所隐含的折价」数据表格，直接打脸马斯克的激进预测。</p><p>表格梳理了特斯拉、SpaceX 多项核心项目，Robotaxi、Semi 卡车、星舰等重点产品的实际落地成果与马斯克此前公布的目标差距悬殊，多项项目达成率极低、交付严重延期，部分目标甚至已被撤回。</p><p>据不完全统计，马斯克在过去 15 年间提出的 602 个明确目标中，仅有约三成能够按期实现。从 Robotaxi 的多次跳票，到 Cybertruck 交付的反复推迟，再到 Semi 卡车的量产困境...",
+      "link": "http://www.geekpark.net/news/372216",
+      "published_at": "2026-10-11T00:53:38+00:00"
+    },
+    {
+      "id": "simon-willison-9480641193",
+      "source_id": "simon-willison",
+      "source_name": "Simon Willison",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Dwarf Fortress uses version control now",
+      "summary": "<p>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control <em>more</em>. That's art.</p>\n<p>I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time:</p>\n<ul>\n<li>March 2013: <a href=\"https://www.reddit.com/r/IAmA/comments/1avszc/comment/c919fo8/?solution=43270267461a564b43270267461a564b&amp;js_challenge=1&amp;jsc_token=2824be10929bdc604753c70a67a1c3...",
+      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "published_at": "2026-10-11T00:52:37+00:00"
+    },
+    {
+      "id": "simon-willison-9992847448",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -16,7 +49,7 @@
       "published_at": "2026-10-10T23:58:04+00:00"
     },
     {
-      "id": "latent-space-4600227271",
+      "id": "latent-space-172125722",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -27,7 +60,7 @@
       "published_at": "2026-10-10T22:07:17+00:00"
     },
     {
-      "id": "the-decoder-8471148274",
+      "id": "the-decoder-5607841524",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -38,7 +71,7 @@
       "published_at": "2026-10-10T15:15:40+00:00"
     },
     {
-      "id": "the-decoder-4469781415",
+      "id": "the-decoder-778118555",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -49,7 +82,7 @@
       "published_at": "2026-10-10T14:57:33+00:00"
     },
     {
-      "id": "latent-space-1581385958",
+      "id": "latent-space-5572601706",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -60,7 +93,7 @@
       "published_at": "2026-10-10T14:04:11+00:00"
     },
     {
-      "id": "the-decoder-183932183",
+      "id": "the-decoder-6942705665",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -71,7 +104,7 @@
       "published_at": "2026-10-10T13:03:59+00:00"
     },
     {
-      "id": "leiphone-5832783873",
+      "id": "leiphone-2752303906",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -82,7 +115,7 @@
       "published_at": "2026-10-10T11:40:00+00:00"
     },
     {
-      "id": "the-decoder-8779375198",
+      "id": "the-decoder-2778009174",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -93,7 +126,7 @@
       "published_at": "2026-10-10T10:54:56+00:00"
     },
     {
-      "id": "the-decoder-5262868915",
+      "id": "the-decoder-6049481078",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -104,7 +137,7 @@
       "published_at": "2026-10-10T10:16:26+00:00"
     },
     {
-      "id": "the-decoder-7956235162",
+      "id": "the-decoder-813897170",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -115,7 +148,7 @@
       "published_at": "2026-10-10T08:59:49+00:00"
     },
     {
-      "id": "leiphone-1802086537",
+      "id": "leiphone-5805397134",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -126,7 +159,7 @@
       "published_at": "2026-10-10T08:28:00+00:00"
     },
     {
-      "id": "leiphone-4869675602",
+      "id": "leiphone-263694872",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -137,7 +170,7 @@
       "published_at": "2026-10-10T08:26:00+00:00"
     },
     {
-      "id": "leiphone-4032398759",
+      "id": "leiphone-7657791350",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -148,7 +181,7 @@
       "published_at": "2026-10-10T08:24:00+00:00"
     },
     {
-      "id": "leiphone-2355479131",
+      "id": "leiphone-3714722566",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -159,7 +192,7 @@
       "published_at": "2026-10-10T08:22:00+00:00"
     },
     {
-      "id": "leiphone-7039959020",
+      "id": "leiphone-5471136312",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -170,7 +203,7 @@
       "published_at": "2026-10-10T08:20:00+00:00"
     },
     {
-      "id": "leiphone-4906787120",
+      "id": "leiphone-114764125",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -181,7 +214,7 @@
       "published_at": "2026-10-10T08:15:00+00:00"
     },
     {
-      "id": "leiphone-4171372919",
+      "id": "leiphone-3314374390",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -192,7 +225,7 @@
       "published_at": "2026-10-10T07:52:00+00:00"
     },
     {
-      "id": "leiphone-4037451468",
+      "id": "leiphone-9887558586",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -203,7 +236,7 @@
       "published_at": "2026-10-10T07:49:00+00:00"
     },
     {
-      "id": "leiphone-642874655",
+      "id": "leiphone-3409502094",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -214,7 +247,7 @@
       "published_at": "2026-10-10T07:47:00+00:00"
     },
     {
-      "id": "leiphone-254041270",
+      "id": "leiphone-2432362962",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -225,7 +258,7 @@
       "published_at": "2026-10-10T07:45:00+00:00"
     },
     {
-      "id": "latent-space-6225387631",
+      "id": "latent-space-5923450637",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -236,7 +269,7 @@
       "published_at": "2026-10-10T06:45:57+00:00"
     },
     {
-      "id": "geekpark-7500795541",
+      "id": "geekpark-5468255610",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -247,7 +280,7 @@
       "published_at": "2026-10-10T06:07:11+00:00"
     },
     {
-      "id": "geekpark-6300832263",
+      "id": "geekpark-122144334",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -258,7 +291,7 @@
       "published_at": "2026-10-10T05:58:20+00:00"
     },
     {
-      "id": "leiphone-9781347223",
+      "id": "leiphone-247826978",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -269,7 +302,7 @@
       "published_at": "2026-10-10T05:30:00+00:00"
     },
     {
-      "id": "leiphone-7799181411",
+      "id": "leiphone-9015485171",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -280,7 +313,7 @@
       "published_at": "2026-10-10T04:08:00+00:00"
     },
     {
-      "id": "leiphone-1071884206",
+      "id": "leiphone-9191091940",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -291,7 +324,7 @@
       "published_at": "2026-10-10T03:40:00+00:00"
     },
     {
-      "id": "leiphone-6159981866",
+      "id": "leiphone-4347622732",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -302,7 +335,7 @@
       "published_at": "2026-10-10T03:37:00+00:00"
     },
     {
-      "id": "leiphone-9911127088",
+      "id": "leiphone-7282868085",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -313,7 +346,7 @@
       "published_at": "2026-10-10T03:28:00+00:00"
     },
     {
-      "id": "leiphone-2105496437",
+      "id": "leiphone-6617029225",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -324,7 +357,7 @@
       "published_at": "2026-10-10T03:25:00+00:00"
     },
     {
-      "id": "leiphone-9134772754",
+      "id": "leiphone-4631170707",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -335,7 +368,7 @@
       "published_at": "2026-10-10T03:08:00+00:00"
     },
     {
-      "id": "leiphone-5262894478",
+      "id": "leiphone-1706905200",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -346,7 +379,7 @@
       "published_at": "2026-10-10T03:04:00+00:00"
     },
     {
-      "id": "simon-willison-5516364433",
+      "id": "simon-willison-1316334900",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -357,7 +390,7 @@
       "published_at": "2026-10-10T02:04:12+00:00"
     },
     {
-      "id": "leiphone-2680850843",
+      "id": "leiphone-7786312799",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -368,7 +401,7 @@
       "published_at": "2026-10-10T01:38:00+00:00"
     },
     {
-      "id": "geekpark-2366792297",
+      "id": "geekpark-5067387229",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -379,7 +412,7 @@
       "published_at": "2026-10-10T01:27:14+00:00"
     },
     {
-      "id": "latent-space-9108131832",
+      "id": "latent-space-477755788",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -390,7 +423,7 @@
       "published_at": "2026-10-10T00:31:26+00:00"
     },
     {
-      "id": "simon-willison-4212865803",
+      "id": "simon-willison-5771722487",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -401,7 +434,7 @@
       "published_at": "2026-10-09T22:48:37+00:00"
     },
     {
-      "id": "the-decoder-6629475174",
+      "id": "the-decoder-1414023235",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -412,7 +445,7 @@
       "published_at": "2026-10-09T18:28:25+00:00"
     },
     {
-      "id": "the-decoder-2385083659",
+      "id": "the-decoder-6068621729",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -423,7 +456,7 @@
       "published_at": "2026-10-09T17:54:44+00:00"
     },
     {
-      "id": "the-decoder-3592265834",
+      "id": "the-decoder-6026605590",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -434,7 +467,7 @@
       "published_at": "2026-10-09T17:20:34+00:00"
     },
     {
-      "id": "aws-ml-5941344823",
+      "id": "aws-ml-9451487852",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -445,7 +478,7 @@
       "published_at": "2026-10-09T15:38:39+00:00"
     },
     {
-      "id": "aws-ml-4977867225",
+      "id": "aws-ml-2860519467",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -456,7 +489,7 @@
       "published_at": "2026-10-09T15:35:02+00:00"
     },
     {
-      "id": "huggingface-3769184998",
+      "id": "huggingface-1123004316",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -467,7 +500,7 @@
       "published_at": "2026-10-09T15:20:29+00:00"
     },
     {
-      "id": "simon-willison-6633149461",
+      "id": "simon-willison-388217913",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -478,7 +511,7 @@
       "published_at": "2026-10-09T15:02:29+00:00"
     },
     {
-      "id": "simon-willison-4016764894",
+      "id": "simon-willison-6841590158",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -489,7 +522,7 @@
       "published_at": "2026-10-09T12:54:06+00:00"
     },
     {
-      "id": "the-decoder-5118496885",
+      "id": "the-decoder-9923267507",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -500,7 +533,7 @@
       "published_at": "2026-10-09T11:45:04+00:00"
     },
     {
-      "id": "mit-tech-review-1689724589",
+      "id": "mit-tech-review-8995489682",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -511,7 +544,7 @@
       "published_at": "2026-10-09T09:00:00+00:00"
     },
     {
-      "id": "openai-news-7980757830",
+      "id": "openai-news-379612755",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -522,7 +555,7 @@
       "published_at": "2026-10-09T07:00:00+00:00"
     },
     {
-      "id": "openai-news-1571128055",
+      "id": "openai-news-2962995767",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -533,7 +566,7 @@
       "published_at": "2026-10-09T07:00:00+00:00"
     },
     {
-      "id": "geekpark-3473810285",
+      "id": "geekpark-1389367906",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -544,7 +577,7 @@
       "published_at": "2026-10-09T04:34:12+00:00"
     },
     {
-      "id": "geekpark-4155251103",
+      "id": "geekpark-2440208364",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -555,7 +588,7 @@
       "published_at": "2026-10-09T04:28:07+00:00"
     },
     {
-      "id": "thelec-9761077026",
+      "id": "thelec-2919401547",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -566,7 +599,7 @@
       "published_at": "2026-10-09T04:08:16+00:00"
     },
     {
-      "id": "thelec-8832716061",
+      "id": "thelec-2120303665",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -577,7 +610,7 @@
       "published_at": "2026-10-09T04:08:13+00:00"
     },
     {
-      "id": "thelec-1547635905",
+      "id": "thelec-2682381483",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -588,7 +621,7 @@
       "published_at": "2026-10-09T04:08:02+00:00"
     },
     {
-      "id": "thelec-8995860989",
+      "id": "thelec-2070134001",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -599,7 +632,7 @@
       "published_at": "2026-10-09T04:07:59+00:00"
     },
     {
-      "id": "thelec-423838169",
+      "id": "thelec-5318081756",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -610,7 +643,7 @@
       "published_at": "2026-10-09T04:07:40+00:00"
     },
     {
-      "id": "thelec-5998388332",
+      "id": "thelec-4343829537",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -621,7 +654,7 @@
       "published_at": "2026-10-09T04:07:33+00:00"
     },
     {
-      "id": "thelec-3605203425",
+      "id": "thelec-4942263331",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -632,7 +665,7 @@
       "published_at": "2026-10-09T04:07:26+00:00"
     },
     {
-      "id": "thelec-4254353688",
+      "id": "thelec-4820829007",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -643,7 +676,7 @@
       "published_at": "2026-10-09T04:07:24+00:00"
     },
     {
-      "id": "thelec-988096793",
+      "id": "thelec-6365642867",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -654,7 +687,7 @@
       "published_at": "2026-10-09T04:07:22+00:00"
     },
     {
-      "id": "thelec-1395130754",
+      "id": "thelec-7304572775",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -665,7 +698,7 @@
       "published_at": "2026-10-09T04:07:19+00:00"
     },
     {
-      "id": "geekpark-9044897138",
+      "id": "geekpark-6043602723",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -676,7 +709,7 @@
       "published_at": "2026-10-09T00:35:13+00:00"
     },
     {
-      "id": "simon-willison-3895720722",
+      "id": "simon-willison-3716334516",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -687,7 +720,7 @@
       "published_at": "2026-10-09T00:34:43+00:00"
     },
     {
-      "id": "mit-tech-review-2530591609",
+      "id": "mit-tech-review-9563629287",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -698,7 +731,7 @@
       "published_at": "2026-10-09T00:08:24+00:00"
     },
     {
-      "id": "simon-willison-958164603",
+      "id": "simon-willison-168891",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -709,7 +742,7 @@
       "published_at": "2026-10-08T23:34:28+00:00"
     },
     {
-      "id": "latent-space-8797184731",
+      "id": "latent-space-4824251004",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -720,7 +753,7 @@
       "published_at": "2026-10-08T23:29:43+00:00"
     },
     {
-      "id": "nvidia-blog-5675815020",
+      "id": "nvidia-blog-5646280110",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -731,7 +764,7 @@
       "published_at": "2026-10-08T21:06:35+00:00"
     },
     {
-      "id": "simon-willison-3467784461",
+      "id": "simon-willison-3607493980",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -742,7 +775,7 @@
       "published_at": "2026-10-08T21:05:44+00:00"
     },
     {
-      "id": "aws-ml-6283983161",
+      "id": "aws-ml-6464579695",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -753,7 +786,7 @@
       "published_at": "2026-10-08T18:33:29+00:00"
     },
     {
-      "id": "latent-space-3294313268",
+      "id": "latent-space-3114952068",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -764,7 +797,7 @@
       "published_at": "2026-10-08T16:27:54+00:00"
     },
     {
-      "id": "aws-ml-2371734751",
+      "id": "aws-ml-2913377507",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -775,7 +808,7 @@
       "published_at": "2026-10-08T16:20:04+00:00"
     },
     {
-      "id": "openai-news-4730206725",
+      "id": "openai-news-1386494080",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -786,7 +819,7 @@
       "published_at": "2026-10-08T16:00:00+00:00"
     },
     {
-      "id": "nvidia-blog-4798413097",
+      "id": "nvidia-blog-2415372520",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -797,7 +830,7 @@
       "published_at": "2026-10-08T13:00:46+00:00"
     },
     {
-      "id": "openai-news-299522342",
+      "id": "openai-news-2083265617",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -808,7 +841,7 @@
       "published_at": "2026-10-08T12:00:00+00:00"
     },
     {
-      "id": "openai-news-8917548940",
+      "id": "openai-news-5567845534",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -819,7 +852,7 @@
       "published_at": "2026-10-08T12:00:00+00:00"
     },
     {
-      "id": "thelec-9830602216",
+      "id": "thelec-1836284548",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -830,7 +863,7 @@
       "published_at": "2026-10-08T09:51:52+00:00"
     },
     {
-      "id": "thelec-2640024343",
+      "id": "thelec-1600140873",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -841,7 +874,7 @@
       "published_at": "2026-10-08T09:51:49+00:00"
     },
     {
-      "id": "thelec-2491093819",
+      "id": "thelec-332341113",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -852,7 +885,7 @@
       "published_at": "2026-10-08T09:51:47+00:00"
     },
     {
-      "id": "thelec-8211150799",
+      "id": "thelec-1800361815",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -863,7 +896,7 @@
       "published_at": "2026-10-08T09:51:46+00:00"
     },
     {
-      "id": "thelec-6139145066",
+      "id": "thelec-7883276111",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -874,7 +907,7 @@
       "published_at": "2026-10-08T09:51:44+00:00"
     },
     {
-      "id": "thelec-857835729",
+      "id": "thelec-162874295",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -885,7 +918,7 @@
       "published_at": "2026-10-08T09:51:42+00:00"
     },
     {
-      "id": "thelec-660164128",
+      "id": "thelec-8068332852",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -896,7 +929,7 @@
       "published_at": "2026-10-08T09:51:41+00:00"
     },
     {
-      "id": "thelec-8804481072",
+      "id": "thelec-6370463201",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -907,7 +940,7 @@
       "published_at": "2026-10-08T09:51:28+00:00"
     },
     {
-      "id": "mit-tech-review-6637424723",
+      "id": "mit-tech-review-6704477927",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -918,7 +951,7 @@
       "published_at": "2026-10-08T09:00:00+00:00"
     },
     {
-      "id": "mit-tech-review-1922636764",
+      "id": "mit-tech-review-2915527336",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -929,7 +962,7 @@
       "published_at": "2026-10-08T08:17:32+00:00"
     },
     {
-      "id": "latent-space-2522731590",
+      "id": "latent-space-7787136346",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -938,28 +971,6 @@
       "summary": "yay small models",
       "link": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
       "published_at": "2026-10-08T07:27:51+00:00"
-    },
-    {
-      "id": "geekpark-7392964937",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "造物 100#07   | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙",
-      "summary": "<p>产品的创新，究竟应该如何定义它的价值？</p>\n<p>上周，华为、小米、苹果在 72 小时内接连发布折叠屏旗舰。华为 Mate XT 2 非凡大师 19999 元起售，小米 18 Fold 10999 元，苹果首款折叠屏 iPhone Duo 市场预计 1.6 万起。与此同时，一组数据冲上热搜，通用内存合约价环比涨超 58%，固态硬盘涨超 70%，主流性能机比去年贵了 2800 到 4500 元。「普通人没必要追求电子产品顶配」登上热搜，年轻人转向二手电脑和标准版机型，不再一味追求顶配功能。</p>\n<p>一边是厂商急需拓展新产品线的渴望，一边是用户日益下探的购买力。当「更贵」不再自动等于「更想要」，创新到底该如何定义价值？消费者真正愿意买单的还有什么？</p>\n<p>上周我们谈到在成熟品类上小创新成为当下造物的一种方式。这周，这个方向仍在不少品类上体现。这些新造物几乎都不是一个完全独立的创新品类，但它们都希望重新定义产品的使用指南。</p>\n<p>智能数据拓展坞 MUZIM L1 结合了桌面交互、拓展坞、内存条盒的基础功能上，基于本地化，重新定义了存储和信息搜索。手机皮肤镜 Lumeria Lumoscope 基于手机和专有摄像头，去解决亲人具体困扰已久的皮肤敏感问题。无线指纹钥匙 immurok IK-1 则是在 Mac 的指纹解锁上，硬件独立化，解决 AI 授权的...",
-      "link": "http://www.geekpark.net/news/372099",
-      "published_at": "2026-10-08T01:40:34+00:00"
-    },
-    {
-      "id": "geekpark-2002871726",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道",
-      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/9e/40/9e40f9772b90b2e469e4dc6938518a66.png\" /></p>\n<h2>2026 年诺贝尔化学奖公布：二人因解开不对称有机合成难题获奖，其中一位 96 岁高龄</h2>\n<p>10 月 7 日，2026 年诺贝尔化学奖正式公布，瑞典皇家科学院决定将 2026 年诺贝尔化学奖授予亨利 &middot;B&middot; 卡甘（Henri B. Kagan）和硖合宪三（Kenso Soai），「表彰他们在不对称有机合成中发现非线性效应和自催化现象。」</p>\n<p>有些分子，例如氨基酸，以两种变体形式存在，互为镜像。然而，生物体只包含这些镜像之一。像这样的化学不对称性是如何出现的，长期以来对化学家来说一直是个谜。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/5b/d9/5bd97d3817125c6001163e2501a71a88.png\" /></p>\n<p>亨利 &middot;B&middot; 卡甘和硖合宪三因发现这一...",
-      "link": "http://www.geekpark.net/news/372090",
-      "published_at": "2026-10-08T00:49:27+00:00"
     }
   ]
 }
