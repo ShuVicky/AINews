@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-10-18T03:50:16.449967+00:00",
+  "generated_at": "2026-10-18T08:37:29.638624+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 119,
+  "count": 117,
   "items": [
     {
-      "id": "geekpark-1843159440",
+      "id": "the-decoder-8848232689",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+      "summary": "<p><img alt=\"A collage of emails, “canceled” tickets, a gavel, and files symbolizes the flood of automated requests from AI agents.\" class=\"attachment-full size-full wp-post-image\" height=\"937\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/ai-agentic-flooding-communication-overload.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1678\" /></p>\n<p>        Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages i...",
+      "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+      "published_at": "2026-10-18T08:15:04+00:00"
+    },
+    {
+      "id": "leiphone-6022433724",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+      "summary": "<p>10月16日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）圆满收官。本届展会规模与能级实现跨越式提升，3天展期，近8万平方米展区迎来超15.67万人次专业观众，多位院士、150位顶尖学者同台论道，超500位产业领袖与一线技术精英共赴盛会，来自20余个国家和地区的1000余家海内外优质企业参展，超3000件年度首发新品集中亮相，40余场高规格论坛串联起从技术到产业全链条对话……一场不一样的展会，在鹏城写下不一样的“芯”精彩，从产品展示到创新首发，从思想碰撞到供需对接，湾芯展正着力打造具有全球引领力的中国集成电路自主品牌“第一展”。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261018/6ad44deac3d09.png?imageView2/2/w/740\" /></p><p><strong>不一样的“芯”版图 产业全链一展尽览</strong></p><p>2026湾芯展以“芯向未来 智创生态”为主题，以晶圆制造、化合物半导体、先进封装、IC设计/AI基础设施四大核心展区为主线，串联起从研发设计、装备材料到制造封测、系统应用的关键环节。来自20余个国家和地区超1000家领军企业齐聚鹏城，A...",
+      "link": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
+      "published_at": "2026-10-18T04:47:00+00:00"
+    },
+    {
+      "id": "geekpark-203307656",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -16,7 +38,7 @@
       "published_at": "2026-10-18T00:39:02+00:00"
     },
     {
-      "id": "thelec-2407425780",
+      "id": "thelec-4402216119",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -27,7 +49,7 @@
       "published_at": "2026-10-17T23:22:12+00:00"
     },
     {
-      "id": "thelec-9212285483",
+      "id": "thelec-9826606945",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -38,7 +60,7 @@
       "published_at": "2026-10-17T23:22:06+00:00"
     },
     {
-      "id": "thelec-9351634378",
+      "id": "thelec-8501761790",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -49,7 +71,7 @@
       "published_at": "2026-10-17T23:21:58+00:00"
     },
     {
-      "id": "thelec-4088245316",
+      "id": "thelec-2232532983",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -60,7 +82,7 @@
       "published_at": "2026-10-17T23:21:57+00:00"
     },
     {
-      "id": "thelec-1665091238",
+      "id": "thelec-784813667",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -71,7 +93,7 @@
       "published_at": "2026-10-17T23:21:55+00:00"
     },
     {
-      "id": "thelec-7706578780",
+      "id": "thelec-9173876156",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -82,7 +104,7 @@
       "published_at": "2026-10-17T23:21:53+00:00"
     },
     {
-      "id": "thelec-4421975872",
+      "id": "thelec-2350987106",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -93,18 +115,7 @@
       "published_at": "2026-10-17T23:21:43+00:00"
     },
     {
-      "id": "thelec-6551085672",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Intel to Launch Razor Lake AX Robotics SoC in 2028",
-      "summary": "Intel plans to launch Razor Lake AX, a new system-on-chip (SoC) designed for robotics applications, in 2028.Cho Min-sung, vice president at Intel, said at the \\\"Semiconductors Powering Humanoids\\\" conference held at COEX in Samseong-dong, Seoul, on Oct. 16 that the company\\'s current Panther Lake-based",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14667",
-      "published_at": "2026-10-17T23:21:34+00:00"
-    },
-    {
-      "id": "thelec-6967829463",
+      "id": "thelec-7487381756",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +126,7 @@
       "published_at": "2026-10-17T23:21:31+00:00"
     },
     {
-      "id": "thelec-9639486275",
+      "id": "thelec-5359178488",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -126,7 +137,7 @@
       "published_at": "2026-10-17T23:21:29+00:00"
     },
     {
-      "id": "thelec-9977785826",
+      "id": "thelec-9614403483",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -137,7 +148,7 @@
       "published_at": "2026-10-17T23:21:25+00:00"
     },
     {
-      "id": "thelec-1874230013",
+      "id": "thelec-3200257252",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +159,7 @@
       "published_at": "2026-10-17T23:21:18+00:00"
     },
     {
-      "id": "thelec-3853441584",
+      "id": "thelec-8005386421",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +170,7 @@
       "published_at": "2026-10-17T23:21:15+00:00"
     },
     {
-      "id": "thelec-94268857",
+      "id": "thelec-2691147351",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -170,7 +181,7 @@
       "published_at": "2026-10-17T23:21:04+00:00"
     },
     {
-      "id": "simon-willison-3300913948",
+      "id": "simon-willison-4088910894",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -181,7 +192,7 @@
       "published_at": "2026-10-17T21:11:12+00:00"
     },
     {
-      "id": "nvidia-blog-9757832547",
+      "id": "nvidia-blog-8545014363",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -192,7 +203,7 @@
       "published_at": "2026-10-17T21:00:13+00:00"
     },
     {
-      "id": "the-decoder-8600330106",
+      "id": "the-decoder-4158308576",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -203,7 +214,7 @@
       "published_at": "2026-10-17T15:36:11+00:00"
     },
     {
-      "id": "the-decoder-1808639140",
+      "id": "the-decoder-5664245872",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -214,7 +225,7 @@
       "published_at": "2026-10-17T14:42:56+00:00"
     },
     {
-      "id": "leiphone-8375299316",
+      "id": "leiphone-8561264479",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -225,7 +236,7 @@
       "published_at": "2026-10-17T14:42:00+00:00"
     },
     {
-      "id": "simon-willison-9707350436",
+      "id": "simon-willison-6224145255",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -236,7 +247,7 @@
       "published_at": "2026-10-17T13:16:49+00:00"
     },
     {
-      "id": "the-decoder-203487967",
+      "id": "the-decoder-2899172121",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -247,7 +258,7 @@
       "published_at": "2026-10-17T10:33:28+00:00"
     },
     {
-      "id": "the-decoder-5515494008",
+      "id": "the-decoder-9944101531",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -258,7 +269,7 @@
       "published_at": "2026-10-17T09:54:36+00:00"
     },
     {
-      "id": "the-decoder-8974055324",
+      "id": "the-decoder-4507867909",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -269,7 +280,7 @@
       "published_at": "2026-10-17T09:00:26+00:00"
     },
     {
-      "id": "latent-space-1842621850",
+      "id": "latent-space-5668416068",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -280,7 +291,7 @@
       "published_at": "2026-10-17T07:47:38+00:00"
     },
     {
-      "id": "leiphone-3049580534",
+      "id": "leiphone-7966178026",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -291,7 +302,7 @@
       "published_at": "2026-10-17T04:29:00+00:00"
     },
     {
-      "id": "leiphone-679178090",
+      "id": "leiphone-8704710363",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -302,7 +313,7 @@
       "published_at": "2026-10-17T04:16:00+00:00"
     },
     {
-      "id": "geekpark-4598892427",
+      "id": "geekpark-2944706081",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -313,7 +324,7 @@
       "published_at": "2026-10-17T02:46:16+00:00"
     },
     {
-      "id": "geekpark-6460346630",
+      "id": "geekpark-3483111016",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -324,7 +335,7 @@
       "published_at": "2026-10-17T00:22:32+00:00"
     },
     {
-      "id": "simon-willison-2091598108",
+      "id": "simon-willison-5840273356",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -335,7 +346,7 @@
       "published_at": "2026-10-16T22:06:37+00:00"
     },
     {
-      "id": "aws-ml-9831668481",
+      "id": "aws-ml-160635203",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -346,7 +357,7 @@
       "published_at": "2026-10-16T20:48:16+00:00"
     },
     {
-      "id": "openai-news-8411846027",
+      "id": "openai-news-4335573410",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -357,7 +368,7 @@
       "published_at": "2026-10-16T19:00:00+00:00"
     },
     {
-      "id": "google-research-7227642969",
+      "id": "google-research-1166688003",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -368,7 +379,7 @@
       "published_at": "2026-10-16T18:11:34+00:00"
     },
     {
-      "id": "the-decoder-9107460791",
+      "id": "the-decoder-7813535081",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -379,7 +390,7 @@
       "published_at": "2026-10-16T18:10:27+00:00"
     },
     {
-      "id": "mit-tech-review-4998038574",
+      "id": "mit-tech-review-3065131623",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -390,7 +401,7 @@
       "published_at": "2026-10-16T18:00:00+00:00"
     },
     {
-      "id": "the-decoder-1781955232",
+      "id": "the-decoder-3754292783",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -401,7 +412,7 @@
       "published_at": "2026-10-16T17:42:47+00:00"
     },
     {
-      "id": "aws-ml-5714097765",
+      "id": "aws-ml-9342144890",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -412,7 +423,7 @@
       "published_at": "2026-10-16T15:23:10+00:00"
     },
     {
-      "id": "the-decoder-5826656741",
+      "id": "the-decoder-9059819656",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -423,7 +434,7 @@
       "published_at": "2026-10-16T15:03:46+00:00"
     },
     {
-      "id": "the-decoder-1250452659",
+      "id": "the-decoder-3546181739",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -434,18 +445,7 @@
       "published_at": "2026-10-16T13:48:08+00:00"
     },
     {
-      "id": "the-decoder-6755747967",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract.</p>\n<p>The article <a href=\"https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/\">OpenAI&#039;s new Rosalind Academic Plan gives research labs up to ...",
-      "link": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
-      "published_at": "2026-10-16T13:15:09+00:00"
-    },
-    {
-      "id": "leiphone-9482419385",
+      "id": "leiphone-6758177394",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -456,7 +456,7 @@
       "published_at": "2026-10-16T12:50:00+00:00"
     },
     {
-      "id": "leiphone-9599666695",
+      "id": "leiphone-8896579412",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -467,7 +467,7 @@
       "published_at": "2026-10-16T12:17:00+00:00"
     },
     {
-      "id": "leiphone-8453042146",
+      "id": "leiphone-675371418",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -478,7 +478,7 @@
       "published_at": "2026-10-16T11:33:00+00:00"
     },
     {
-      "id": "leiphone-602321951",
+      "id": "leiphone-1052104489",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -489,7 +489,7 @@
       "published_at": "2026-10-16T10:39:00+00:00"
     },
     {
-      "id": "leiphone-7533905150",
+      "id": "leiphone-3472480055",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -500,7 +500,7 @@
       "published_at": "2026-10-16T09:02:00+00:00"
     },
     {
-      "id": "leiphone-1864740930",
+      "id": "leiphone-2617606848",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -511,7 +511,7 @@
       "published_at": "2026-10-16T07:51:00+00:00"
     },
     {
-      "id": "geekpark-9411816273",
+      "id": "geekpark-6689439880",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -522,7 +522,7 @@
       "published_at": "2026-10-16T06:50:02+00:00"
     },
     {
-      "id": "thelec-7113698695",
+      "id": "thelec-4628486362",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -533,7 +533,7 @@
       "published_at": "2026-10-16T06:49:05+00:00"
     },
     {
-      "id": "thelec-8925319546",
+      "id": "thelec-9930225134",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -544,7 +544,7 @@
       "published_at": "2026-10-16T06:49:04+00:00"
     },
     {
-      "id": "thelec-3345947879",
+      "id": "thelec-3589879044",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -555,7 +555,7 @@
       "published_at": "2026-10-16T06:49:03+00:00"
     },
     {
-      "id": "thelec-1101626127",
+      "id": "thelec-3373530801",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -566,7 +566,7 @@
       "published_at": "2026-10-16T06:49:02+00:00"
     },
     {
-      "id": "thelec-5125321263",
+      "id": "thelec-4288732577",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -577,7 +577,7 @@
       "published_at": "2026-10-16T06:48:53+00:00"
     },
     {
-      "id": "thelec-1955812008",
+      "id": "thelec-5229196666",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -588,7 +588,7 @@
       "published_at": "2026-10-16T06:48:52+00:00"
     },
     {
-      "id": "thelec-7872772474",
+      "id": "thelec-5304043614",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -599,7 +599,7 @@
       "published_at": "2026-10-16T06:48:35+00:00"
     },
     {
-      "id": "geekpark-5141899655",
+      "id": "geekpark-4377116874",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -610,7 +610,7 @@
       "published_at": "2026-10-16T06:46:47+00:00"
     },
     {
-      "id": "geekpark-4741591273",
+      "id": "geekpark-7753335149",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -621,7 +621,7 @@
       "published_at": "2026-10-16T06:41:48+00:00"
     },
     {
-      "id": "leiphone-1004695177",
+      "id": "leiphone-1334189326",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -632,7 +632,7 @@
       "published_at": "2026-10-16T04:32:00+00:00"
     },
     {
-      "id": "latent-space-1453607868",
+      "id": "latent-space-970992895",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -643,7 +643,7 @@
       "published_at": "2026-10-16T04:16:45+00:00"
     },
     {
-      "id": "leiphone-6202536606",
+      "id": "leiphone-2816090811",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -654,7 +654,7 @@
       "published_at": "2026-10-16T04:10:00+00:00"
     },
     {
-      "id": "leiphone-8759307503",
+      "id": "leiphone-8123981625",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -665,7 +665,7 @@
       "published_at": "2026-10-16T02:37:00+00:00"
     },
     {
-      "id": "leiphone-8881611127",
+      "id": "leiphone-6248432433",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -676,18 +676,18 @@
       "published_at": "2026-10-16T02:36:00+00:00"
     },
     {
-      "id": "leiphone-1214238588",
+      "id": "leiphone-6312075624",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
       "module": "📊 行业观察",
       "title": "无人机表演十年后，大漠大想做「会干活」的机群",
-      "summary": "<p>即便对大漠大这家公司名字感到陌生的人，大概也看过它的无人机编队表演——7次登上央视春晚，多次出现在《新闻联播》里，但迄今为止，大漠大鲜少对外讲述自己的品牌故事。</p><p>在刚刚过去的国庆假期，大漠大在南昌、宜昌、昆明等多地执飞的无人机表演刷屏全网，持续推进“低空＋文旅＋融媒”的低空融媒业务运营，为城市发展打造新的内容传播载体。</p><p>但表演本身并不是大漠大的营收主体。据公司披露，设备销售占其整体营收约70%，研发人员占比约40%，无人机集群设备与技术系统，才是支撑其业务的核心。</p><p>据雷峰网了解，大漠大海外设备销量五年上涨四十五倍，正在开发具身智能方向的第二产品线；并面向C端用户拓展业务场景；同步推进融资进程，计划于2027年申报IPO。</p><p>表演只是名片，设备才是生意。而眼下，在十周年节点，它正准备讲一个更大的故事。</p><h2>低空融媒：无人机表演正变成流量刚需</h2><p>今年国庆四城项目，是大漠大表演业务的缩影。</p><p>据公司援引的官方通报数据：南昌场次在抖音热榜连续停留7天，全网传播量达50亿量级，10月1日当天外地游客占比超过五成；宜昌场现场观演游客约70万；昆明场未做任何预告，表演当晚即登上《新闻联播》。</p><p>&quot;当下流量价格高企，一场无人机表演的花费，对应的是亿级乃至几十亿级的全网曝光。&quot;大漠...",
+      "summary": "<p>即便对大漠大这家公司名字感到陌生的人，大概也看过它的无人机编队表演——7次登上央视春晚，多次出现在《新闻联播》里，但迄今为止，大漠大鲜少对外讲述自己的品牌故事。</p><p>在刚刚过去的国庆假期，大漠大在南昌、宜昌、昆明等多地执飞的无人机表演刷屏全网，持续推进“低空＋文旅＋融媒”的低空融媒业务运营，为城市发展打造新的内容传播载体。</p><p>但表演本身并不是大漠大的营收主体。据公司披露，设备销售占其整体营收约70%，研发人员占比约40%，无人机集群设备与技术系统，才是支撑其业务的核心。</p><p>据雷峰网了解，大漠大海外设备销量五年上涨四十五倍，正在开发具身智能方向的第二产品线；并面向C端用户拓展业务场景；同步推进融资进程，计划于2027年申报IPO。</p><p>表演只是名片，设备才是生意。而眼下，在十周年节点，它正准备讲一个更大的故事。</p><h2>低空融媒：无人机表演正变成流量刚需</h2><p>今年国庆四城项目，是大漠大表演业务的缩影。</p><p>据公司援引的官方通报数据：南昌场次在抖音热榜连续停留7天，全网传播量达50亿量级，10月1日当天外地游客占比超过五成；宜昌场现场观演游客约70万；昆明场未做任何预告，表演当晚即登上《新闻联播》。</p><p style=\"text-align: center;\"><img src=\"https://static...",
       "link": "https://www.leiphone.com/category/robot/OA7EpCSSkv3D6yMD.html",
       "published_at": "2026-10-16T02:31:00+00:00"
     },
     {
-      "id": "leiphone-2004310945",
+      "id": "leiphone-5778861505",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -698,7 +698,7 @@
       "published_at": "2026-10-16T02:24:00+00:00"
     },
     {
-      "id": "geekpark-4279690173",
+      "id": "geekpark-50786894",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -709,7 +709,7 @@
       "published_at": "2026-10-16T02:22:17+00:00"
     },
     {
-      "id": "geekpark-1845127761",
+      "id": "geekpark-716841009",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -720,7 +720,7 @@
       "published_at": "2026-10-16T02:18:36+00:00"
     },
     {
-      "id": "geekpark-8123390887",
+      "id": "geekpark-812522323",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -731,7 +731,7 @@
       "published_at": "2026-10-16T02:15:21+00:00"
     },
     {
-      "id": "thelec-253821376",
+      "id": "thelec-832423636",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -742,7 +742,7 @@
       "published_at": "2026-10-16T02:12:13+00:00"
     },
     {
-      "id": "thelec-4885830403",
+      "id": "thelec-9454360681",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -753,7 +753,7 @@
       "published_at": "2026-10-16T02:11:53+00:00"
     },
     {
-      "id": "thelec-45564279",
+      "id": "thelec-5435156192",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -764,7 +764,7 @@
       "published_at": "2026-10-16T02:11:33+00:00"
     },
     {
-      "id": "huggingface-3483920025",
+      "id": "huggingface-8249766379",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -775,7 +775,7 @@
       "published_at": "2026-10-16T01:44:47+00:00"
     },
     {
-      "id": "thelec-5278237496",
+      "id": "thelec-8625886830",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -786,7 +786,7 @@
       "published_at": "2026-10-16T00:50:04+00:00"
     },
     {
-      "id": "thelec-3855725939",
+      "id": "thelec-9397813309",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -797,7 +797,7 @@
       "published_at": "2026-10-16T00:50:04+00:00"
     },
     {
-      "id": "thelec-8438845723",
+      "id": "thelec-7263118684",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -808,7 +808,7 @@
       "published_at": "2026-10-16T00:50:04+00:00"
     },
     {
-      "id": "thelec-5320663258",
+      "id": "thelec-2089491150",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -819,7 +819,7 @@
       "published_at": "2026-10-16T00:48:37+00:00"
     },
     {
-      "id": "thelec-4274968176",
+      "id": "thelec-7360677584",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -830,7 +830,7 @@
       "published_at": "2026-10-16T00:47:59+00:00"
     },
     {
-      "id": "geekpark-4806324584",
+      "id": "geekpark-8623522535",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -841,7 +841,7 @@
       "published_at": "2026-10-16T00:15:00+00:00"
     },
     {
-      "id": "openai-news-9935375087",
+      "id": "openai-news-5792941321",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -852,7 +852,7 @@
       "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
-      "id": "openai-news-5876121493",
+      "id": "openai-news-422163103",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -863,7 +863,7 @@
       "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
-      "id": "huggingface-6212683941",
+      "id": "huggingface-3699740585",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -874,7 +874,7 @@
       "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
-      "id": "leiphone-1035976379",
+      "id": "leiphone-7137286475",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -885,7 +885,7 @@
       "published_at": "2026-10-15T23:55:00+00:00"
     },
     {
-      "id": "thelec-1209680065",
+      "id": "thelec-9551133425",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -896,7 +896,7 @@
       "published_at": "2026-10-15T22:38:15+00:00"
     },
     {
-      "id": "thelec-1231191322",
+      "id": "thelec-436805654",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -907,7 +907,7 @@
       "published_at": "2026-10-15T22:38:13+00:00"
     },
     {
-      "id": "thelec-8523631418",
+      "id": "thelec-4355433502",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -918,7 +918,7 @@
       "published_at": "2026-10-15T22:38:13+00:00"
     },
     {
-      "id": "thelec-1550230749",
+      "id": "thelec-8811324271",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -929,7 +929,7 @@
       "published_at": "2026-10-15T22:37:48+00:00"
     },
     {
-      "id": "thelec-8600212648",
+      "id": "thelec-2759270006",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -940,7 +940,7 @@
       "published_at": "2026-10-15T22:37:47+00:00"
     },
     {
-      "id": "thelec-8301147056",
+      "id": "thelec-8233624126",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -951,7 +951,7 @@
       "published_at": "2026-10-15T22:37:45+00:00"
     },
     {
-      "id": "thelec-9537933433",
+      "id": "thelec-1912508591",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -962,7 +962,7 @@
       "published_at": "2026-10-15T22:37:44+00:00"
     },
     {
-      "id": "huggingface-8013058721",
+      "id": "huggingface-3608907455",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -973,7 +973,7 @@
       "published_at": "2026-10-15T20:34:01+00:00"
     },
     {
-      "id": "simon-willison-7740317689",
+      "id": "simon-willison-6063935890",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -984,7 +984,7 @@
       "published_at": "2026-10-15T19:47:52+00:00"
     },
     {
-      "id": "openai-news-9902063888",
+      "id": "openai-news-4573248678",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -995,7 +995,7 @@
       "published_at": "2026-10-15T19:00:00+00:00"
     },
     {
-      "id": "aws-ml-4440083730",
+      "id": "aws-ml-7592016840",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1006,7 +1006,7 @@
       "published_at": "2026-10-15T17:43:35+00:00"
     },
     {
-      "id": "geekpark-4167656679",
+      "id": "geekpark-9135187555",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1017,7 +1017,7 @@
       "published_at": "2026-10-15T17:08:03+00:00"
     },
     {
-      "id": "nvidia-blog-4682272721",
+      "id": "nvidia-blog-7324734230",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1028,7 +1028,7 @@
       "published_at": "2026-10-15T17:00:23+00:00"
     },
     {
-      "id": "google-deepmind-6634305984",
+      "id": "google-deepmind-6161471455",
       "source_id": "google-deepmind",
       "source_name": "Google DeepMind",
       "category": "ai-models",
@@ -1039,7 +1039,7 @@
       "published_at": "2026-10-15T16:08:03+00:00"
     },
     {
-      "id": "microsoft-research-2397761569",
+      "id": "microsoft-research-9771011533",
       "source_id": "microsoft-research",
       "source_name": "Microsoft Research",
       "category": "ai-models",
@@ -1050,7 +1050,7 @@
       "published_at": "2026-10-15T16:00:00+00:00"
     },
     {
-      "id": "thelec-8507004529",
+      "id": "thelec-2725755105",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1061,7 +1061,7 @@
       "published_at": "2026-10-15T15:36:30+00:00"
     },
     {
-      "id": "thelec-8143713988",
+      "id": "thelec-8910571059",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1072,7 +1072,7 @@
       "published_at": "2026-10-15T15:36:20+00:00"
     },
     {
-      "id": "thelec-7074282204",
+      "id": "thelec-9770480882",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1083,7 +1083,7 @@
       "published_at": "2026-10-15T15:36:10+00:00"
     },
     {
-      "id": "thelec-481045400",
+      "id": "thelec-4937766028",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1094,7 +1094,7 @@
       "published_at": "2026-10-15T15:36:02+00:00"
     },
     {
-      "id": "thelec-257110821",
+      "id": "thelec-9048553923",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1105,7 +1105,7 @@
       "published_at": "2026-10-15T15:35:53+00:00"
     },
     {
-      "id": "thelec-9844067759",
+      "id": "thelec-3161236284",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1116,7 +1116,7 @@
       "published_at": "2026-10-15T15:35:42+00:00"
     },
     {
-      "id": "aws-ml-7717824102",
+      "id": "aws-ml-4286226699",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1127,7 +1127,7 @@
       "published_at": "2026-10-15T15:05:35+00:00"
     },
     {
-      "id": "nvidia-blog-9256713445",
+      "id": "nvidia-blog-2885826965",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1138,7 +1138,7 @@
       "published_at": "2026-10-15T15:00:24+00:00"
     },
     {
-      "id": "simon-willison-910772051",
+      "id": "simon-willison-902146406",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1149,7 +1149,7 @@
       "published_at": "2026-10-15T13:04:03+00:00"
     },
     {
-      "id": "nvidia-blog-9099033708",
+      "id": "nvidia-blog-7146369695",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1160,7 +1160,7 @@
       "published_at": "2026-10-15T13:00:59+00:00"
     },
     {
-      "id": "openai-news-5382880752",
+      "id": "openai-news-5081942186",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1171,7 +1171,7 @@
       "published_at": "2026-10-15T13:00:00+00:00"
     },
     {
-      "id": "mistral-9079176003",
+      "id": "mistral-4698541850",
       "source_id": "mistral",
       "source_name": "Mistral AI",
       "category": "ai-models",
@@ -1182,7 +1182,7 @@
       "published_at": "2026-10-15T12:00:00+00:00"
     },
     {
-      "id": "leiphone-1130498213",
+      "id": "leiphone-6509760649",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1193,7 +1193,7 @@
       "published_at": "2026-10-15T10:40:00+00:00"
     },
     {
-      "id": "leiphone-6732171764",
+      "id": "leiphone-3322381800",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1204,7 +1204,7 @@
       "published_at": "2026-10-15T10:32:00+00:00"
     },
     {
-      "id": "leiphone-6869682336",
+      "id": "leiphone-8225487852",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1215,7 +1215,7 @@
       "published_at": "2026-10-15T10:26:00+00:00"
     },
     {
-      "id": "thelec-6980250420",
+      "id": "thelec-4407642270",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1226,7 +1226,7 @@
       "published_at": "2026-10-15T10:22:28+00:00"
     },
     {
-      "id": "thelec-5423926053",
+      "id": "thelec-2383997366",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1237,7 +1237,7 @@
       "published_at": "2026-10-15T10:22:27+00:00"
     },
     {
-      "id": "thelec-6408884029",
+      "id": "thelec-6024786809",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1248,7 +1248,18 @@
       "published_at": "2026-10-15T10:22:20+00:00"
     },
     {
-      "id": "geekpark-3519522095",
+      "id": "thelec-1914071528",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Nvidia Unveils Next-Generation CPO Technology",
+      "summary": "Nvidia has unveiled next-generation co-packaged optics (CPO) technology that places optical engines directly on the interposer carrying computing chips rather than on the package substrate.By eliminating the organic substrate from the electrical signal path, the technology can increase bandwidth den",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14603",
+      "published_at": "2026-10-15T10:22:19+00:00"
+    },
+    {
+      "id": "geekpark-785980568",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1259,18 +1270,7 @@
       "published_at": "2026-10-15T10:20:44+00:00"
     },
     {
-      "id": "leiphone-4785068768",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
-      "summary": "<p>近日，基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。根据官方信息，用户在 TokenRhythm API平台单笔充值满50元，即可获得等额模型调用额度，用一个API Key调用平台全量模型；活动期间可多次参与，累计赠额不设上限。基元律动表示，本轮充值不设上限且赠额永久有效，历史赠送额度的有效期也同步调整为永久有效。</p><p>同期上线的“邀请有礼”活动，为新用户提供另一种体验入口。受邀好友注册并完成实名认证后，可获得18元额度。邀请好友可以解锁更多充值抵扣券及站内奖励。</p><p>作为中国版OpenRouter，基元律动希望让开发者更方便地接入和使用不同模型，并且享受平台提供的价格优惠和供应链保障。平台通过一个API Key提供主流模型的统一入口，展示模型配置、价格与能力评测，并结合使用场景帮助用户选型、持续接入新模型。搭配自研开源智能体 OpenSquilla，系统可根据任务完成多模型智能融合路由，寻找效果与成本更匹配的模型。平台也通过上游技术合作强化模型供给，通过多个优质源头提升调用体验。</p><p>此前，TokenRhythm API于2026年8月启动公测；9月，基元律动先后与无问芯穹、阿里云签署战略合作协议，合作方向涵盖Agent基础设施、模型协同优化与算力服务供给。此次活动则让更多开发者以更低门槛体验其...",
-      "link": "https://www.leiphone.com/category/industrynews/q4lmqn7eQuS484J7.html",
-      "published_at": "2026-10-15T10:17:00+00:00"
-    },
-    {
-      "id": "latent-space-6457901931",
+      "id": "latent-space-6150258842",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1281,7 +1281,7 @@
       "published_at": "2026-10-15T10:08:08+00:00"
     },
     {
-      "id": "nvidia-blog-2247639962",
+      "id": "nvidia-blog-9745237538",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1290,28 +1290,6 @@
       "summary": "Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: [&#8230;]",
       "link": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
       "published_at": "2026-10-15T10:00:12+00:00"
-    },
-    {
-      "id": "nvidia-blog-4672392915",
-      "source_id": "nvidia-blog",
-      "source_name": "NVIDIA Blog",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway [&#8230;]",
-      "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-      "published_at": "2026-10-15T05:00:12+00:00"
-    },
-    {
-      "id": "geekpark-1712651537",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "卖出去≠全球化成功，中国企业出海究竟还差什么？",
-      "summary": "<p>中国的汽车产业，正陷入前所未有的冰火两重天夹击。</p>\n<p>2025 年，中国企业的全球销量 2700 万辆，首次超越日本；其中出口 832 万辆，相较十年前的 72.82 万辆增长超 10 倍。</p>\n<p>但销量曲线向上的同时，利润曲线却在一路向下。2026 年上半年，国内汽车销售的利润率已经跌到了 1.52%，创下 10 年最低纪录。</p>\n<p>出海也由此从选择题变成必答题。但出海并不只是把货卖出去这么简单，本地团队、合规体系、运营能力，需要环环相扣。有时候，一辆汽车交付到海外用户手中之后，真正的考验才刚刚开始。</p>\n<p>小鹏集团对此体会深刻。作为国内头部物理 AI 科技公司，小鹏自 2020 年就开始加速布局欧洲，但考虑到欧洲各个国家对数据隐私的特殊要求，想要在当地快速推广智驾与智能网联服务并不是一件容易的事情。</p>\n<p>而针对这些问题，服务了全球<strong>超过 80% 的世界 500 强选的亚马逊云科技早已驾轻就熟。</strong></p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/50/1c/501c4cfc2e56f08930e2378708e2a2ed.png\" /></p>\n<p>为此，小...",
-      "link": "http://www.geekpark.net/news/372386",
-      "published_at": "2026-10-15T04:40:24+00:00"
     }
   ]
 }
