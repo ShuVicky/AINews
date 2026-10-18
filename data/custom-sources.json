@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-18T21:40:20.683171+00:00",
+  "generated_at": "2026-10-18T23:57:05.493945+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 88,
+  "count": 83,
   "items": [
     {
-      "id": "the-decoder-105524806",
+      "id": "thelec-166228179",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Nvidia Says Consumer GPU Shortages Are Beyond Its Control",
+      "summary": "An Nvidia executive said shortages of consumer graphics processing units (GPUs) stem from insufficient memory supplies.Ida Keita, Nvidia’s vice president of developer relations, told THE ELEC after an RTX Spark launch event at COEX in Seoul’s Samseong-dong district on Oct. 16 that supply difficultie",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14685",
+      "published_at": "2026-10-18T22:56:52+00:00"
+    },
+    {
+      "id": "thelec-7854931662",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Doosan Enerbility Promotes CFO Park, Names New COO",
+      "summary": "Doosan Enerbility has announced changes to its senior management.The company said on Oct. 16 that it had promoted CEO and Chief Financial Officer (CFO) Park Sang-hyun from president to vice chairman and appointed Song Yong-jin, president and head of the Strategy and Innovation Division, as its new C",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14684",
+      "published_at": "2026-10-18T22:56:51+00:00"
+    },
+    {
+      "id": "thelec-9418888122",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "TNE Korea Sets IPO Price at 15,300 Won",
+      "summary": "TNE Korea, which is preparing to list on the KOSDAQ market, has finalized its initial public offering (IPO) price at 15,300 won per share.The company announced on Oct. 16 that it had set the offering price at the top of its indicative range of 12,600 won to 15,300 won. The IPO is expected to raise 3",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14682",
+      "published_at": "2026-10-18T22:56:48+00:00"
+    },
+    {
+      "id": "the-decoder-4277986820",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -16,7 +49,7 @@
       "published_at": "2026-10-18T13:22:26+00:00"
     },
     {
-      "id": "the-decoder-6295769050",
+      "id": "the-decoder-7191339826",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -27,7 +60,7 @@
       "published_at": "2026-10-18T12:39:51+00:00"
     },
     {
-      "id": "the-decoder-9245540416",
+      "id": "the-decoder-8374305081",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -38,7 +71,7 @@
       "published_at": "2026-10-18T10:52:39+00:00"
     },
     {
-      "id": "the-decoder-9030071140",
+      "id": "the-decoder-5154431633",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -49,7 +82,7 @@
       "published_at": "2026-10-18T09:11:29+00:00"
     },
     {
-      "id": "the-decoder-2323042230",
+      "id": "the-decoder-7878944224",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -60,7 +93,7 @@
       "published_at": "2026-10-18T08:49:41+00:00"
     },
     {
-      "id": "the-decoder-218332700",
+      "id": "the-decoder-7030007833",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -71,7 +104,7 @@
       "published_at": "2026-10-18T08:15:04+00:00"
     },
     {
-      "id": "leiphone-6046733586",
+      "id": "leiphone-7236415214",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -82,7 +115,7 @@
       "published_at": "2026-10-18T04:47:00+00:00"
     },
     {
-      "id": "geekpark-883680243",
+      "id": "geekpark-4592121856",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -93,7 +126,7 @@
       "published_at": "2026-10-18T00:39:02+00:00"
     },
     {
-      "id": "thelec-9399866498",
+      "id": "thelec-4101357294",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -104,7 +137,7 @@
       "published_at": "2026-10-17T23:22:12+00:00"
     },
     {
-      "id": "thelec-7242063708",
+      "id": "thelec-3631972211",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +148,7 @@
       "published_at": "2026-10-17T23:22:06+00:00"
     },
     {
-      "id": "thelec-9539743805",
+      "id": "thelec-9522784067",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -126,7 +159,7 @@
       "published_at": "2026-10-17T23:21:58+00:00"
     },
     {
-      "id": "thelec-3223181073",
+      "id": "thelec-1508273589",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -137,7 +170,7 @@
       "published_at": "2026-10-17T23:21:57+00:00"
     },
     {
-      "id": "thelec-3491913939",
+      "id": "thelec-7605128348",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +181,7 @@
       "published_at": "2026-10-17T23:21:55+00:00"
     },
     {
-      "id": "thelec-7150069242",
+      "id": "thelec-3350387482",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +192,7 @@
       "published_at": "2026-10-17T23:21:53+00:00"
     },
     {
-      "id": "thelec-5244368292",
+      "id": "thelec-9139777553",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -170,7 +203,7 @@
       "published_at": "2026-10-17T23:21:43+00:00"
     },
     {
-      "id": "thelec-5498740445",
+      "id": "thelec-7848106608",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -181,7 +214,7 @@
       "published_at": "2026-10-17T23:21:31+00:00"
     },
     {
-      "id": "thelec-4891087203",
+      "id": "thelec-566450989",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -192,7 +225,7 @@
       "published_at": "2026-10-17T23:21:29+00:00"
     },
     {
-      "id": "thelec-767476421",
+      "id": "thelec-2322951156",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -203,7 +236,7 @@
       "published_at": "2026-10-17T23:21:25+00:00"
     },
     {
-      "id": "thelec-6659907957",
+      "id": "thelec-7274446376",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -214,7 +247,7 @@
       "published_at": "2026-10-17T23:21:18+00:00"
     },
     {
-      "id": "thelec-7863563453",
+      "id": "thelec-6539225520",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -225,7 +258,7 @@
       "published_at": "2026-10-17T23:21:15+00:00"
     },
     {
-      "id": "thelec-474788398",
+      "id": "thelec-7253811677",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +269,7 @@
       "published_at": "2026-10-17T23:21:04+00:00"
     },
     {
-      "id": "thelec-8440834843",
+      "id": "thelec-3033896714",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +280,7 @@
       "published_at": "2026-10-17T23:21:00+00:00"
     },
     {
-      "id": "simon-willison-1979885339",
+      "id": "simon-willison-5963974775",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -258,7 +291,7 @@
       "published_at": "2026-10-17T21:11:12+00:00"
     },
     {
-      "id": "nvidia-blog-1544696992",
+      "id": "nvidia-blog-2691115776",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -269,7 +302,7 @@
       "published_at": "2026-10-17T21:00:13+00:00"
     },
     {
-      "id": "the-decoder-729280038",
+      "id": "the-decoder-8719869919",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -280,7 +313,7 @@
       "published_at": "2026-10-17T15:36:11+00:00"
     },
     {
-      "id": "the-decoder-2030497721",
+      "id": "the-decoder-1287648399",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -291,7 +324,7 @@
       "published_at": "2026-10-17T14:42:56+00:00"
     },
     {
-      "id": "leiphone-9143400505",
+      "id": "leiphone-4441936888",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -302,7 +335,7 @@
       "published_at": "2026-10-17T14:42:00+00:00"
     },
     {
-      "id": "simon-willison-2486536797",
+      "id": "simon-willison-2441447410",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -313,7 +346,7 @@
       "published_at": "2026-10-17T13:16:49+00:00"
     },
     {
-      "id": "the-decoder-5926887007",
+      "id": "the-decoder-7706246613",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -324,7 +357,7 @@
       "published_at": "2026-10-17T10:33:28+00:00"
     },
     {
-      "id": "the-decoder-7824506043",
+      "id": "the-decoder-4489446211",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -335,7 +368,7 @@
       "published_at": "2026-10-17T09:54:36+00:00"
     },
     {
-      "id": "latent-space-6742592187",
+      "id": "latent-space-7069564328",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -346,7 +379,7 @@
       "published_at": "2026-10-17T07:47:38+00:00"
     },
     {
-      "id": "leiphone-8905790390",
+      "id": "leiphone-5524118205",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -357,7 +390,7 @@
       "published_at": "2026-10-17T04:29:00+00:00"
     },
     {
-      "id": "leiphone-1313136664",
+      "id": "leiphone-9320338078",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -368,7 +401,7 @@
       "published_at": "2026-10-17T04:16:00+00:00"
     },
     {
-      "id": "geekpark-2161804762",
+      "id": "geekpark-5720038639",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -379,7 +412,7 @@
       "published_at": "2026-10-17T02:46:16+00:00"
     },
     {
-      "id": "geekpark-5792998005",
+      "id": "geekpark-9779580364",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -390,7 +423,7 @@
       "published_at": "2026-10-17T00:22:32+00:00"
     },
     {
-      "id": "simon-willison-5975862659",
+      "id": "simon-willison-8641286953",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -401,7 +434,7 @@
       "published_at": "2026-10-16T22:06:37+00:00"
     },
     {
-      "id": "aws-ml-2684176235",
+      "id": "aws-ml-6754972292",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -412,7 +445,7 @@
       "published_at": "2026-10-16T20:48:16+00:00"
     },
     {
-      "id": "openai-news-1052590777",
+      "id": "openai-news-9557871641",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -423,7 +456,7 @@
       "published_at": "2026-10-16T19:00:00+00:00"
     },
     {
-      "id": "google-research-280740686",
+      "id": "google-research-7311841144",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -434,7 +467,7 @@
       "published_at": "2026-10-16T18:11:34+00:00"
     },
     {
-      "id": "mit-tech-review-6127116745",
+      "id": "mit-tech-review-7111615014",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -445,7 +478,7 @@
       "published_at": "2026-10-16T18:00:00+00:00"
     },
     {
-      "id": "aws-ml-1773213381",
+      "id": "aws-ml-4874226832",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -456,7 +489,7 @@
       "published_at": "2026-10-16T15:23:10+00:00"
     },
     {
-      "id": "leiphone-8503690848",
+      "id": "leiphone-1542585949",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -467,7 +500,7 @@
       "published_at": "2026-10-16T12:50:00+00:00"
     },
     {
-      "id": "leiphone-3372894596",
+      "id": "leiphone-8137044145",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -478,7 +511,7 @@
       "published_at": "2026-10-16T12:17:00+00:00"
     },
     {
-      "id": "leiphone-9744153627",
+      "id": "leiphone-7336001638",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -489,7 +522,7 @@
       "published_at": "2026-10-16T11:33:00+00:00"
     },
     {
-      "id": "leiphone-6798987252",
+      "id": "leiphone-3296269917",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -500,7 +533,7 @@
       "published_at": "2026-10-16T10:39:00+00:00"
     },
     {
-      "id": "leiphone-917300193",
+      "id": "leiphone-8801459034",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -511,7 +544,7 @@
       "published_at": "2026-10-16T09:02:00+00:00"
     },
     {
-      "id": "leiphone-2263037479",
+      "id": "leiphone-8964836624",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -522,7 +555,7 @@
       "published_at": "2026-10-16T07:51:00+00:00"
     },
     {
-      "id": "geekpark-4553321903",
+      "id": "geekpark-8613810482",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -533,7 +566,7 @@
       "published_at": "2026-10-16T06:50:02+00:00"
     },
     {
-      "id": "thelec-9795200282",
+      "id": "thelec-4291670880",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -544,7 +577,7 @@
       "published_at": "2026-10-16T06:49:05+00:00"
     },
     {
-      "id": "thelec-6433722065",
+      "id": "thelec-4491654730",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -555,7 +588,7 @@
       "published_at": "2026-10-16T06:49:04+00:00"
     },
     {
-      "id": "thelec-1432053610",
+      "id": "thelec-1050995381",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -566,7 +599,7 @@
       "published_at": "2026-10-16T06:49:03+00:00"
     },
     {
-      "id": "thelec-6087941117",
+      "id": "thelec-2782049159",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -577,7 +610,7 @@
       "published_at": "2026-10-16T06:49:02+00:00"
     },
     {
-      "id": "thelec-5715580023",
+      "id": "thelec-9997550742",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -588,7 +621,7 @@
       "published_at": "2026-10-16T06:48:53+00:00"
     },
     {
-      "id": "thelec-8208360569",
+      "id": "thelec-6240721609",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -599,7 +632,7 @@
       "published_at": "2026-10-16T06:48:52+00:00"
     },
     {
-      "id": "thelec-5635608965",
+      "id": "thelec-3626814026",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -610,7 +643,7 @@
       "published_at": "2026-10-16T06:48:35+00:00"
     },
     {
-      "id": "geekpark-3581578598",
+      "id": "geekpark-6128100724",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -621,7 +654,7 @@
       "published_at": "2026-10-16T06:46:47+00:00"
     },
     {
-      "id": "geekpark-7788031668",
+      "id": "geekpark-3778273175",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -632,7 +665,7 @@
       "published_at": "2026-10-16T06:41:48+00:00"
     },
     {
-      "id": "leiphone-2372587441",
+      "id": "leiphone-8793290266",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -643,7 +676,7 @@
       "published_at": "2026-10-16T04:32:00+00:00"
     },
     {
-      "id": "latent-space-3006638462",
+      "id": "latent-space-4948175157",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -654,7 +687,7 @@
       "published_at": "2026-10-16T04:16:45+00:00"
     },
     {
-      "id": "leiphone-4806790523",
+      "id": "leiphone-3088659867",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -665,7 +698,7 @@
       "published_at": "2026-10-16T04:10:00+00:00"
     },
     {
-      "id": "leiphone-1974692233",
+      "id": "leiphone-8083974306",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -676,7 +709,7 @@
       "published_at": "2026-10-16T02:37:00+00:00"
     },
     {
-      "id": "leiphone-2386696275",
+      "id": "leiphone-9026891988",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -687,7 +720,7 @@
       "published_at": "2026-10-16T02:36:00+00:00"
     },
     {
-      "id": "leiphone-9359936092",
+      "id": "leiphone-4291574561",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -698,7 +731,7 @@
       "published_at": "2026-10-16T02:31:00+00:00"
     },
     {
-      "id": "leiphone-5599475237",
+      "id": "leiphone-3624214365",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -709,7 +742,7 @@
       "published_at": "2026-10-16T02:24:00+00:00"
     },
     {
-      "id": "geekpark-6018572478",
+      "id": "geekpark-1278141525",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -720,7 +753,7 @@
       "published_at": "2026-10-16T02:22:17+00:00"
     },
     {
-      "id": "geekpark-6618000542",
+      "id": "geekpark-4467958094",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -731,7 +764,7 @@
       "published_at": "2026-10-16T02:18:36+00:00"
     },
     {
-      "id": "geekpark-6999349585",
+      "id": "geekpark-3929125526",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -742,7 +775,7 @@
       "published_at": "2026-10-16T02:15:21+00:00"
     },
     {
-      "id": "thelec-3904802304",
+      "id": "thelec-4479119788",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -753,7 +786,7 @@
       "published_at": "2026-10-16T02:12:13+00:00"
     },
     {
-      "id": "thelec-223317587",
+      "id": "thelec-2007156823",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -764,7 +797,7 @@
       "published_at": "2026-10-16T02:11:53+00:00"
     },
     {
-      "id": "thelec-9271262197",
+      "id": "thelec-2821566389",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -775,7 +808,7 @@
       "published_at": "2026-10-16T02:11:33+00:00"
     },
     {
-      "id": "huggingface-6832516622",
+      "id": "huggingface-8188066859",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -786,7 +819,7 @@
       "published_at": "2026-10-16T01:44:47+00:00"
     },
     {
-      "id": "thelec-2507052639",
+      "id": "thelec-4824985549",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -797,7 +830,7 @@
       "published_at": "2026-10-16T00:50:04+00:00"
     },
     {
-      "id": "thelec-8758334219",
+      "id": "thelec-3001123753",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -808,7 +841,7 @@
       "published_at": "2026-10-16T00:50:04+00:00"
     },
     {
-      "id": "thelec-6258416286",
+      "id": "thelec-797949503",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -819,7 +852,7 @@
       "published_at": "2026-10-16T00:50:04+00:00"
     },
     {
-      "id": "thelec-8494392570",
+      "id": "thelec-1077728169",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -830,7 +863,7 @@
       "published_at": "2026-10-16T00:48:37+00:00"
     },
     {
-      "id": "thelec-1038096447",
+      "id": "thelec-1279844281",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -841,7 +874,7 @@
       "published_at": "2026-10-16T00:47:59+00:00"
     },
     {
-      "id": "geekpark-9013166951",
+      "id": "geekpark-445067281",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -852,7 +885,7 @@
       "published_at": "2026-10-16T00:15:00+00:00"
     },
     {
-      "id": "openai-news-2210438107",
+      "id": "openai-news-5874634140",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -863,7 +896,7 @@
       "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
-      "id": "openai-news-4642439513",
+      "id": "openai-news-7517672031",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -874,7 +907,7 @@
       "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
-      "id": "huggingface-1986315584",
+      "id": "huggingface-3882396885",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -883,94 +916,6 @@
       "summary": "",
       "link": "https://huggingface.co/blog/reflection-beam",
       "published_at": "2026-10-16T00:00:00+00:00"
-    },
-    {
-      "id": "leiphone-8074502670",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了",
-      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261016/6ad167b0e7a89.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
-      "link": "https://www.leiphone.com/category/yanxishe/gO1lTcRqFyRtbiFP.html",
-      "published_at": "2026-10-15T23:55:00+00:00"
-    },
-    {
-      "id": "thelec-7459720199",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "HD Construction Equipment Unveils DX77 Generator Engine for Data Centers",
-      "summary": "HD Construction Equipment is seeking to address surging data center power demand with its generator engines.The company said on Oct. 15 that it held a first-start ceremony for its DX77 generator engine at its Gunsan campus. Mass production is scheduled to begin in 2028.The DX77 is an ultra-large die",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14635",
-      "published_at": "2026-10-15T22:38:15+00:00"
-    },
-    {
-      "id": "thelec-754554995",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Coway Ranks Among South Korea's Top 100 Brands in Third Quarter",
-      "summary": "Coway has been named one of South Korea\\'s top 100 brands for the third quarter of this year.The company said on Oct. 15 that it ranked 28th in the Korea Top 100 Brands list published by brand valuation firm Brandstock.The ranking selects the 100 most valuable brands from 1,000 brands across 230 majo",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14639",
-      "published_at": "2026-10-15T22:38:13+00:00"
-    },
-    {
-      "id": "thelec-6038490211",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "KAI, Gyeongsang National University to Jointly Develop Eco-Friendly Aerospace Technologies",
-      "summary": "Korea Aerospace Industries (KAI) will jointly develop eco-friendly aerospace technologies with Gyeongsang National University.KAI said on Oct. 15 that it signed a memorandum of understanding (MOU) with the university at its headquarters in Sacheon, South Gyeongsang Province, on Oct. 14 to promote en",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14637",
-      "published_at": "2026-10-15T22:38:13+00:00"
-    },
-    {
-      "id": "thelec-3152274766",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Taihan’s Order Backlog Tops 4 Trillion Won on High-Voltage Grid Demand",
-      "summary": "Taihan Cable & Solution has secured a major power grid contract in the United States.Taihan said in a regulatory filing on Oct. 15 that it signed a 120 billion won contract with its subsidiary T.E.USA (TAIHAN ELECTRIC USA LTD) to supply materials for an extra-high-voltage power grid project awarded",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14619",
-      "published_at": "2026-10-15T22:37:48+00:00"
-    },
-    {
-      "id": "thelec-9668018097",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Systems Laser Weapons Shoot Down Three Drones in Army Exercise",
-      "summary": "Laser air defense weapons developed with Hanwha Systems’ participation successfully intercepted all three drones during a South Korean Army exercise.Hanwha Systems said on Oct. 15 that the Cheongwang laser air defense weapon and a 30-kilowatt (kW) vehicle-mounted laser cannon completed drone interce",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14617",
-      "published_at": "2026-10-15T22:37:47+00:00"
-    },
-    {
-      "id": "thelec-4951459291",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Taihan Builds 400kV Power Grid in London",
-      "summary": "Taihan Cable & Solution is expanding its extra-high-voltage power grid business in the UK, including a 400-kilovolt (kV) power network project in London.Taihan said on Oct. 15 that members of South Korea’s National Assembly Foreign Affairs and Unification Committee visited the London Power Tunnels 2",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14616",
-      "published_at": "2026-10-15T22:37:45+00:00"
-    },
-    {
-      "id": "thelec-8733292596",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Standard Energy Urges Lawmakers to Expand ESS Demonstration Projects",
-      "summary": "Standard Energy has urged South Korean lawmakers to expand demonstration opportunities for non-lithium batteries and support mass production by manufacturing startups. The proposal aims to facilitate the commercialization of new battery technologies in South Korea\\'s energy storage system (ESS) marke",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14615",
-      "published_at": "2026-10-15T22:37:44+00:00"
     }
   ]
 }
