@@ -1,11 +1,88 @@
 {
-  "generated_at": "2026-10-19T17:04:52.574570+00:00",
+  "generated_at": "2026-10-19T21:39:56.068908+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 90,
+  "count": 93,
   "items": [
     {
-      "id": "aws-ml-4221417678",
+      "id": "aws-ml-3697328882",
+      "source_id": "aws-ml",
+      "source_name": "AWS Machine Learning",
+      "category": "ai-products",
+      "module": "🛠️ 产品与工具",
+      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+      "summary": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+      "published_at": "2026-10-19T21:14:44+00:00"
+    },
+    {
+      "id": "nvidia-blog-8521946009",
+      "source_id": "nvidia-blog",
+      "source_name": "NVIDIA Blog",
+      "category": "ai-products",
+      "module": "🛠️ 产品与工具",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive [&#8230;]",
+      "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "published_at": "2026-10-19T19:27:08+00:00"
+    },
+    {
+      "id": "github-ai-7860078929",
+      "source_id": "github-ai",
+      "source_name": "GitHub AI & ML",
+      "category": "ai-products",
+      "module": "🛠️ 产品与工具",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "summary": "<p>Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/\">How to continue a GitHub Copilot app session in VS Code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "published_at": "2026-10-19T18:47:22+00:00"
+    },
+    {
+      "id": "mit-tech-review-3469929857",
+      "source_id": "mit-tech-review",
+      "source_name": "MIT Technology Review",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "published_at": "2026-10-19T18:22:47+00:00"
+    },
+    {
+      "id": "the-decoder-7888582348",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/minimax.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price.</p>\n<p>The article <a href=\"https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-r...",
+      "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+      "published_at": "2026-10-19T18:22:30+00:00"
+    },
+    {
+      "id": "mit-tech-review-5778228724",
+      "source_id": "mit-tech-review",
+      "source_name": "MIT Technology Review",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "published_at": "2026-10-19T17:45:55+00:00"
+    },
+    {
+      "id": "the-decoder-6975213297",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"702\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/kling4.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1248\" /></p>\n<p>        Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which could be an early sign that the breakneck pace of progress in AI video models is starting to level o...",
+      "link": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+      "published_at": "2026-10-19T17:36:26+00:00"
+    },
+    {
+      "id": "aws-ml-7504918962",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -16,7 +93,7 @@
       "published_at": "2026-10-19T16:49:19+00:00"
     },
     {
-      "id": "aws-ml-3996445521",
+      "id": "aws-ml-3314287561",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -27,7 +104,7 @@
       "published_at": "2026-10-19T16:23:22+00:00"
     },
     {
-      "id": "aws-ml-1354276227",
+      "id": "aws-ml-8434831961",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -38,7 +115,7 @@
       "published_at": "2026-10-19T16:05:17+00:00"
     },
     {
-      "id": "aws-ml-5433215014",
+      "id": "aws-ml-8410911893",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -49,7 +126,18 @@
       "published_at": "2026-10-19T16:03:23+00:00"
     },
     {
-      "id": "nvidia-blog-381254294",
+      "id": "leiphone-7360992087",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "射频计算：探索智能边界｜CNCC 2026",
+      "summary": "<p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>来源：物联网研究与创新</em></span></p><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>文章链接：https://mp.weixin.qq.com/s/JVhpxoANJIjLvIfi8YiUqQ</em></span></p><p><span>从信号感知到空间认知，从可</span><span>编程电磁环境到无源智能系统，</span><span><span>射频计算正从对物理信号的处理走向对智能形态的重塑。射频计算是指在射频空间内对射频信号做变换从而完成相应的信息处理和转换的过程，其内涵正随人工智能的深度渗透而不断拓展。本届论坛以</span><span>&quot;</span><span>射频计算</span><span>&quot;</span><span><span>为核心主题，在前两届关于射频信号信息载体、通感智能和空间计算重构等探讨基础上，进一步引入大模型、具身智能、边缘计算等前沿视角，探索射频计算与人工智能深度融合的边界与可能。在理论方面，深化射频计算的科学内涵，完善射频计算理论体系；在技术方面，聚焦信息</span><span>超材料、智能反射面、无源物联网及射频域智能计算等关...",
+      "link": "https://www.leiphone.com/category/private/7vTJq8gu376Dldil.html",
+      "published_at": "2026-10-19T15:36:00+00:00"
+    },
+    {
+      "id": "nvidia-blog-9784585174",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -60,7 +148,7 @@
       "published_at": "2026-10-19T15:00:31+00:00"
     },
     {
-      "id": "the-decoder-7041784111",
+      "id": "the-decoder-3306182419",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -71,7 +159,7 @@
       "published_at": "2026-10-19T14:54:39+00:00"
     },
     {
-      "id": "geekpark-5827345278",
+      "id": "geekpark-3874446528",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -82,7 +170,7 @@
       "published_at": "2026-10-19T13:57:34+00:00"
     },
     {
-      "id": "the-decoder-784285838",
+      "id": "the-decoder-2268567527",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -93,7 +181,7 @@
       "published_at": "2026-10-19T12:51:12+00:00"
     },
     {
-      "id": "leiphone-1588401291",
+      "id": "leiphone-7394375860",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -104,7 +192,7 @@
       "published_at": "2026-10-19T12:47:00+00:00"
     },
     {
-      "id": "leiphone-4737433633",
+      "id": "leiphone-6742977190",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -115,7 +203,7 @@
       "published_at": "2026-10-19T12:04:00+00:00"
     },
     {
-      "id": "the-decoder-2457118836",
+      "id": "the-decoder-1255390963",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -126,7 +214,7 @@
       "published_at": "2026-10-19T11:33:36+00:00"
     },
     {
-      "id": "the-decoder-2870443390",
+      "id": "the-decoder-4833702119",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -137,7 +225,7 @@
       "published_at": "2026-10-19T11:19:12+00:00"
     },
     {
-      "id": "thelec-5385895903",
+      "id": "thelec-2447937036",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +236,7 @@
       "published_at": "2026-10-19T10:10:42+00:00"
     },
     {
-      "id": "thelec-6106594533",
+      "id": "thelec-3319202771",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +247,7 @@
       "published_at": "2026-10-19T10:10:42+00:00"
     },
     {
-      "id": "thelec-4044962977",
+      "id": "thelec-4951632896",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -170,7 +258,7 @@
       "published_at": "2026-10-19T10:10:23+00:00"
     },
     {
-      "id": "thelec-8119477004",
+      "id": "thelec-8734024218",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -181,7 +269,7 @@
       "published_at": "2026-10-19T10:10:23+00:00"
     },
     {
-      "id": "thelec-282308459",
+      "id": "thelec-5614593360",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -192,7 +280,7 @@
       "published_at": "2026-10-19T10:10:23+00:00"
     },
     {
-      "id": "thelec-9531030234",
+      "id": "thelec-7716179633",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -203,7 +291,7 @@
       "published_at": "2026-10-19T10:10:23+00:00"
     },
     {
-      "id": "thelec-3083273719",
+      "id": "thelec-8709432612",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -214,7 +302,7 @@
       "published_at": "2026-10-19T10:10:23+00:00"
     },
     {
-      "id": "thelec-3203016468",
+      "id": "thelec-7002487831",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -225,7 +313,7 @@
       "published_at": "2026-10-19T10:10:23+00:00"
     },
     {
-      "id": "thelec-5076916141",
+      "id": "thelec-5207770864",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +324,7 @@
       "published_at": "2026-10-19T10:10:23+00:00"
     },
     {
-      "id": "thelec-2316783413",
+      "id": "thelec-4322882484",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +335,7 @@
       "published_at": "2026-10-19T10:10:09+00:00"
     },
     {
-      "id": "geekpark-1504178166",
+      "id": "geekpark-7084259822",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -258,7 +346,7 @@
       "published_at": "2026-10-19T10:10:03+00:00"
     },
     {
-      "id": "thelec-1831739275",
+      "id": "thelec-9112287532",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -269,7 +357,7 @@
       "published_at": "2026-10-19T10:01:32+00:00"
     },
     {
-      "id": "thelec-9389421973",
+      "id": "thelec-6430261071",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -280,7 +368,7 @@
       "published_at": "2026-10-19T10:01:22+00:00"
     },
     {
-      "id": "thelec-691219434",
+      "id": "thelec-8407339531",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -291,7 +379,7 @@
       "published_at": "2026-10-19T10:01:19+00:00"
     },
     {
-      "id": "mit-tech-review-5504270147",
+      "id": "mit-tech-review-3736676028",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -302,7 +390,7 @@
       "published_at": "2026-10-19T09:08:05+00:00"
     },
     {
-      "id": "leiphone-378605864",
+      "id": "leiphone-645183625",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -313,7 +401,7 @@
       "published_at": "2026-10-19T08:51:00+00:00"
     },
     {
-      "id": "leiphone-3674798617",
+      "id": "leiphone-6133247895",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -324,7 +412,7 @@
       "published_at": "2026-10-19T07:49:00+00:00"
     },
     {
-      "id": "leiphone-2465620926",
+      "id": "leiphone-2873339507",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -335,7 +423,7 @@
       "published_at": "2026-10-19T06:48:00+00:00"
     },
     {
-      "id": "leiphone-5261329075",
+      "id": "leiphone-8897201839",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -346,7 +434,7 @@
       "published_at": "2026-10-19T06:19:00+00:00"
     },
     {
-      "id": "leiphone-8338688683",
+      "id": "leiphone-3938293753",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -357,7 +445,7 @@
       "published_at": "2026-10-19T06:02:00+00:00"
     },
     {
-      "id": "thelec-2145887405",
+      "id": "thelec-9093561980",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -368,7 +456,7 @@
       "published_at": "2026-10-19T05:22:19+00:00"
     },
     {
-      "id": "thelec-2549632604",
+      "id": "thelec-8305356804",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -379,7 +467,7 @@
       "published_at": "2026-10-19T05:22:19+00:00"
     },
     {
-      "id": "leiphone-3381322548",
+      "id": "leiphone-9126140612",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -390,7 +478,7 @@
       "published_at": "2026-10-19T04:27:00+00:00"
     },
     {
-      "id": "leiphone-2073435924",
+      "id": "leiphone-2497280939",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -401,7 +489,7 @@
       "published_at": "2026-10-19T04:23:00+00:00"
     },
     {
-      "id": "leiphone-6179036270",
+      "id": "leiphone-9608486707",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -412,7 +500,7 @@
       "published_at": "2026-10-19T04:14:00+00:00"
     },
     {
-      "id": "thelec-6038599526",
+      "id": "thelec-6556607334",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -423,7 +511,7 @@
       "published_at": "2026-10-19T04:02:00+00:00"
     },
     {
-      "id": "geekpark-8607667879",
+      "id": "geekpark-5870056956",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -434,7 +522,7 @@
       "published_at": "2026-10-19T04:00:32+00:00"
     },
     {
-      "id": "thelec-2464420098",
+      "id": "thelec-875187356",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -445,7 +533,7 @@
       "published_at": "2026-10-19T03:39:52+00:00"
     },
     {
-      "id": "thelec-4618342606",
+      "id": "thelec-1877854854",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -456,7 +544,7 @@
       "published_at": "2026-10-19T03:39:42+00:00"
     },
     {
-      "id": "thelec-4859733541",
+      "id": "thelec-7515205589",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -467,7 +555,7 @@
       "published_at": "2026-10-19T03:39:23+00:00"
     },
     {
-      "id": "thelec-6775563079",
+      "id": "thelec-501036253",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -478,7 +566,7 @@
       "published_at": "2026-10-19T03:38:57+00:00"
     },
     {
-      "id": "thelec-7566665575",
+      "id": "thelec-6870594476",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -489,7 +577,7 @@
       "published_at": "2026-10-19T03:38:40+00:00"
     },
     {
-      "id": "thelec-2756458756",
+      "id": "thelec-4456537487",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -500,7 +588,7 @@
       "published_at": "2026-10-19T03:37:44+00:00"
     },
     {
-      "id": "thelec-7271065123",
+      "id": "thelec-6043804199",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -511,7 +599,7 @@
       "published_at": "2026-10-19T03:37:20+00:00"
     },
     {
-      "id": "thelec-7670196822",
+      "id": "thelec-5392838704",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -522,7 +610,7 @@
       "published_at": "2026-10-19T03:37:06+00:00"
     },
     {
-      "id": "thelec-7446431541",
+      "id": "thelec-3581663032",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -533,7 +621,7 @@
       "published_at": "2026-10-19T03:36:55+00:00"
     },
     {
-      "id": "thelec-4967850510",
+      "id": "thelec-632165964",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -544,7 +632,7 @@
       "published_at": "2026-10-19T03:36:27+00:00"
     },
     {
-      "id": "leiphone-3659110468",
+      "id": "leiphone-578395661",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -555,7 +643,7 @@
       "published_at": "2026-10-19T03:06:00+00:00"
     },
     {
-      "id": "thelec-7188663165",
+      "id": "thelec-3989594807",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -566,7 +654,7 @@
       "published_at": "2026-10-19T02:45:42+00:00"
     },
     {
-      "id": "thelec-3929660228",
+      "id": "thelec-1119002405",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -577,7 +665,7 @@
       "published_at": "2026-10-19T02:44:15+00:00"
     },
     {
-      "id": "thelec-413805637",
+      "id": "thelec-6860953683",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -588,7 +676,7 @@
       "published_at": "2026-10-19T02:44:02+00:00"
     },
     {
-      "id": "thelec-6259718470",
+      "id": "thelec-3382569862",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -599,7 +687,7 @@
       "published_at": "2026-10-19T02:42:49+00:00"
     },
     {
-      "id": "leiphone-4577782436",
+      "id": "leiphone-1470903981",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -610,7 +698,7 @@
       "published_at": "2026-10-19T01:40:00+00:00"
     },
     {
-      "id": "geekpark-9211317443",
+      "id": "geekpark-384436002",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -621,7 +709,18 @@
       "published_at": "2026-10-19T01:18:11+00:00"
     },
     {
-      "id": "simon-willison-6768550694",
+      "id": "huggingface-1155614835",
+      "source_id": "huggingface",
+      "source_name": "HuggingFace Blog",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "summary": "",
+      "link": "https://huggingface.co/blog/hf-torchneuron",
+      "published_at": "2026-10-19T00:00:00+00:00"
+    },
+    {
+      "id": "simon-willison-7681812260",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -632,7 +731,7 @@
       "published_at": "2026-10-18T23:43:09+00:00"
     },
     {
-      "id": "simon-willison-1695171030",
+      "id": "simon-willison-5907207861",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -643,7 +742,7 @@
       "published_at": "2026-10-18T23:16:16+00:00"
     },
     {
-      "id": "thelec-8130725584",
+      "id": "thelec-8317627961",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -654,7 +753,7 @@
       "published_at": "2026-10-18T22:56:52+00:00"
     },
     {
-      "id": "thelec-7765609669",
+      "id": "thelec-8055462321",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -665,7 +764,7 @@
       "published_at": "2026-10-18T22:56:51+00:00"
     },
     {
-      "id": "thelec-3175477812",
+      "id": "thelec-6478329927",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -676,7 +775,7 @@
       "published_at": "2026-10-18T22:56:48+00:00"
     },
     {
-      "id": "the-decoder-6427799510",
+      "id": "the-decoder-771257749",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -687,7 +786,7 @@
       "published_at": "2026-10-18T13:22:26+00:00"
     },
     {
-      "id": "the-decoder-8417924102",
+      "id": "the-decoder-5810480377",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -698,7 +797,7 @@
       "published_at": "2026-10-18T12:39:51+00:00"
     },
     {
-      "id": "the-decoder-6707773829",
+      "id": "the-decoder-2439525265",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -709,7 +808,7 @@
       "published_at": "2026-10-18T09:11:29+00:00"
     },
     {
-      "id": "the-decoder-3948437221",
+      "id": "the-decoder-1869271406",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -720,18 +819,7 @@
       "published_at": "2026-10-18T08:49:41+00:00"
     },
     {
-      "id": "the-decoder-827463068",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
-      "summary": "<p><img alt=\"A collage of emails, “canceled” tickets, a gavel, and files symbolizes the flood of automated requests from AI agents.\" class=\"attachment-full size-full wp-post-image\" height=\"937\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/ai-agentic-flooding-communication-overload.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1678\" /></p>\n<p>        Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages i...",
-      "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
-      "published_at": "2026-10-18T08:15:04+00:00"
-    },
-    {
-      "id": "leiphone-4612791021",
+      "id": "leiphone-3820317512",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -742,7 +830,7 @@
       "published_at": "2026-10-18T04:47:00+00:00"
     },
     {
-      "id": "geekpark-3427843852",
+      "id": "geekpark-2808309797",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -753,7 +841,7 @@
       "published_at": "2026-10-18T00:39:02+00:00"
     },
     {
-      "id": "thelec-816280613",
+      "id": "thelec-4472500786",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -764,7 +852,7 @@
       "published_at": "2026-10-17T23:22:12+00:00"
     },
     {
-      "id": "thelec-5664970192",
+      "id": "thelec-8241109603",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -775,7 +863,7 @@
       "published_at": "2026-10-17T23:22:06+00:00"
     },
     {
-      "id": "thelec-436415890",
+      "id": "thelec-8747082192",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -786,7 +874,7 @@
       "published_at": "2026-10-17T23:21:58+00:00"
     },
     {
-      "id": "thelec-624503884",
+      "id": "thelec-356172294",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -797,7 +885,7 @@
       "published_at": "2026-10-17T23:21:57+00:00"
     },
     {
-      "id": "thelec-1325571673",
+      "id": "thelec-95529649",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -808,7 +896,7 @@
       "published_at": "2026-10-17T23:21:55+00:00"
     },
     {
-      "id": "thelec-7345303815",
+      "id": "thelec-5987149689",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -819,7 +907,7 @@
       "published_at": "2026-10-17T23:21:53+00:00"
     },
     {
-      "id": "thelec-5677220371",
+      "id": "thelec-7106223553",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -830,7 +918,7 @@
       "published_at": "2026-10-17T23:21:43+00:00"
     },
     {
-      "id": "simon-willison-4980257725",
+      "id": "simon-willison-1105399255",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -841,7 +929,7 @@
       "published_at": "2026-10-17T21:11:12+00:00"
     },
     {
-      "id": "nvidia-blog-5983903439",
+      "id": "nvidia-blog-7267227511",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -852,18 +940,7 @@
       "published_at": "2026-10-17T21:00:13+00:00"
     },
     {
-      "id": "the-decoder-6473959573",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without mentioning the unauthorized access.</p>\n<p>The article <a href=\"https://the-decoder.com...",
-      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
-      "published_at": "2026-10-17T15:36:11+00:00"
-    },
-    {
-      "id": "leiphone-3620363329",
+      "id": "leiphone-3628286353",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -874,7 +951,7 @@
       "published_at": "2026-10-17T14:42:00+00:00"
     },
     {
-      "id": "simon-willison-9799441929",
+      "id": "simon-willison-4265879108",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -885,7 +962,7 @@
       "published_at": "2026-10-17T13:16:49+00:00"
     },
     {
-      "id": "latent-space-2155000404",
+      "id": "latent-space-5091268346",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -896,7 +973,7 @@
       "published_at": "2026-10-17T07:47:38+00:00"
     },
     {
-      "id": "leiphone-5874385129",
+      "id": "leiphone-5099098352",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -907,7 +984,7 @@
       "published_at": "2026-10-17T04:29:00+00:00"
     },
     {
-      "id": "leiphone-4904694024",
+      "id": "leiphone-8682456705",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -918,7 +995,7 @@
       "published_at": "2026-10-17T04:16:00+00:00"
     },
     {
-      "id": "geekpark-1409191400",
+      "id": "geekpark-3675285601",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -929,7 +1006,7 @@
       "published_at": "2026-10-17T02:46:16+00:00"
     },
     {
-      "id": "geekpark-9627658153",
+      "id": "geekpark-7889418008",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -940,7 +1017,7 @@
       "published_at": "2026-10-17T00:22:32+00:00"
     },
     {
-      "id": "simon-willison-2862918067",
+      "id": "simon-willison-2002195720",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -949,50 +1026,6 @@
       "summary": "<blockquote cite=\"https://claude.dev/blog/solving-code-review-at-anthropic/\"><p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"</p>\n<p>Asking that question also changed <em>when</em> review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague.</p>\n<p>Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. ...",
       "link": "https://simonwillison.net/2026/Oct/16/code-review/",
       "published_at": "2026-10-16T22:06:37+00:00"
-    },
-    {
-      "id": "aws-ml-8776537818",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
-      "published_at": "2026-10-16T20:48:16+00:00"
-    },
-    {
-      "id": "openai-news-8038566470",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "published_at": "2026-10-16T19:00:00+00:00"
-    },
-    {
-      "id": "google-research-8743210883",
-      "source_id": "google-research",
-      "source_name": "Google Research",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "summary": "General Science",
-      "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "published_at": "2026-10-16T18:11:34+00:00"
-    },
-    {
-      "id": "mit-tech-review-8530392777",
-      "source_id": "mit-tech-review",
-      "source_name": "MIT Technology Review",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
-      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "published_at": "2026-10-16T18:00:00+00:00"
     }
   ]
 }
