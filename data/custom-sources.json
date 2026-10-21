@@ -1,11 +1,176 @@
 {
-  "generated_at": "2026-10-21T12:12:45.806398+00:00",
+  "generated_at": "2026-10-21T17:32:57.752035+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 145,
+  "count": 157,
   "items": [
     {
-      "id": "mistral-3237967029",
+      "id": "the-decoder-2557907616",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"608\" src=\"https://the-decoder.com/wp-content/uploads/2026/07/deepmind_hassabis.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1088\" /></p>\n<p>        Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year.</p>\n<p>The article <a href=\"https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/\">Deepmind founde...",
+      "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
+      "published_at": "2026-10-21T17:10:46+00:00"
+    },
+    {
+      "id": "simon-willison-6259565270",
+      "source_id": "simon-willison",
+      "source_name": "Simon Willison",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "summary": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p>\nWell this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Battle Drones</a> yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro!</p>\n<blockquote>\n<p><strong>Panache</strong> est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, ...",
+      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "published_at": "2026-10-21T16:25:16+00:00"
+    },
+    {
+      "id": "google-research-2923410133",
+      "source_id": "google-research",
+      "source_name": "Google Research",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "summary": "Health & Bioscience",
+      "link": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "published_at": "2026-10-21T16:23:53+00:00"
+    },
+    {
+      "id": "huggingface-9595670881",
+      "source_id": "huggingface",
+      "source_name": "HuggingFace Blog",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "",
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published_at": "2026-10-21T16:04:43+00:00"
+    },
+    {
+      "id": "microsoft-research-4088804881",
+      "source_id": "microsoft-research",
+      "source_name": "Microsoft Research",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "summary": "<p>For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of high-dimensional [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/\">Solving a 31-year-old grand chal...",
+      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "published_at": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "id": "huggingface-1193823979",
+      "source_id": "huggingface",
+      "source_name": "HuggingFace Blog",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published_at": "2026-10-21T14:58:18+00:00"
+    },
+    {
+      "id": "the-decoder-3003587681",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/inception.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet.</p>\n<p>The article <a href=\"https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-c...",
+      "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+      "published_at": "2026-10-21T14:45:45+00:00"
+    },
+    {
+      "id": "the-decoder-9847655067",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1003\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/Mistral-Nvidia-partnership.webp\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI.</p>\n<p>The article <a href=\"https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/\">Mistral and Nvidia want to speed up industrial design with physics AI</a> appeared first on <a href=\"https://the-decoder.com...",
+      "link": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
+      "published_at": "2026-10-21T14:40:51+00:00"
+    },
+    {
+      "id": "geekpark-9472048568",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "奇瑞说，中国家庭的下一台车是摩托",
+      "summary": "<p>「SUV 有了、轿车有了、MPV 也有了，你再买什么？中国家庭接下来要买的车，就是一台摩托。」</p>\n<p>说这话的是奇瑞智能科技副总经理涂小岳。10 月 19 日，2026 奇瑞全球创新大会期间，奇瑞旗下的两轮公司零维科技第一次正式面对媒体。芜湖下着雨，展台上摆着一台白色的增程巡航车、一台银色的电动探索踏板，还有一顶能把导航投到眼前的智能头盔。</p>\n<p><img alt=\"零维科技在 2026 奇瑞全球创新大会上展出的 GROW C3 与 SOLO X5\" src=\"https://imgslim.geekpark.net/uploads/image/file/e0/d6/e0d619b0776e4d3e0267ef38f89a8085.jpg\" /></p>\n<p>车企造摩托，这件事本身不算新闻。宝马、本田早就两条腿走路，长城有灵魂，吉利有钱江，长安刚把轻骑收入囊中。真正值得多看两眼的是，奇瑞给这家公司定的目标，听上去不太像一家摩托车厂。</p>\n<h2>出口是本田的四倍，利润不到六成</h2>\n<p>先算一笔账。中国摩托车商会的数据显示，2025 年全国摩托车销量约 2197 万辆，其中出口 1337 万辆，连续 31 年全球第一。但国内销量在下滑，燃油摩托内销同比减少 6.18%；唯一逆势猛涨的是 250cc 以上的大排量休闲车型，全年卖出 95 万辆，...",
+      "link": "http://www.geekpark.net/news/372692",
+      "published_at": "2026-10-21T14:26:58+00:00"
+    },
+    {
+      "id": "the-decoder-3878413244",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/nvidia-dsx-pod.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        Nvidia wants AI data centers to ship fully preassembled in containers.</p>\n<p>The article <a href=\"https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/\">Nvidia&#039;s DSX POD could cut AI data center setup from six months to as little as 14 days</a> appeared first on <a href=\"https://the-decoder.com\">The Decod...",
+      "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/",
+      "published_at": "2026-10-21T13:42:05+00:00"
+    },
+    {
+      "id": "latent-space-6392389638",
+      "source_id": "latent-space",
+      "source_name": "Latent Space",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "link": "https://www.latent.space/p/claude-mods",
+      "published_at": "2026-10-21T13:04:19+00:00"
+    },
+    {
+      "id": "the-decoder-2838952419",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signal of possible retaliation.</p>\n<p>The article <a href=\"https://the-decoder....",
+      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+      "published_at": "2026-10-21T13:04:19+00:00"
+    },
+    {
+      "id": "openai-news-7125638101",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published_at": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "id": "huggingface-6582182313",
+      "source_id": "huggingface",
+      "source_name": "HuggingFace Blog",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "published_at": "2026-10-21T12:51:24+00:00"
+    },
+    {
+      "id": "the-decoder-2003195272",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation for the behavior.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-can...",
+      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
+      "published_at": "2026-10-21T12:34:57+00:00"
+    },
+    {
+      "id": "mistral-8662777917",
       "source_id": "mistral",
       "source_name": "Mistral AI",
       "category": "ai-models",
@@ -16,7 +181,18 @@
       "published_at": "2026-10-21T12:00:20+00:00"
     },
     {
-      "id": "thelec-4232175755",
+      "id": "openai-news-8155044665",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    },
+    {
+      "id": "thelec-1325480793",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -27,7 +203,7 @@
       "published_at": "2026-10-21T11:19:31+00:00"
     },
     {
-      "id": "thelec-244915314",
+      "id": "thelec-6180975537",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -38,7 +214,7 @@
       "published_at": "2026-10-21T11:19:26+00:00"
     },
     {
-      "id": "thelec-6496842876",
+      "id": "thelec-6853036545",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -49,7 +225,7 @@
       "published_at": "2026-10-21T11:18:51+00:00"
     },
     {
-      "id": "thelec-5601275847",
+      "id": "thelec-9564410322",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -60,7 +236,7 @@
       "published_at": "2026-10-21T11:18:50+00:00"
     },
     {
-      "id": "thelec-2908857675",
+      "id": "thelec-7692596095",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -71,7 +247,7 @@
       "published_at": "2026-10-21T11:18:31+00:00"
     },
     {
-      "id": "thelec-8692501567",
+      "id": "thelec-8953646878",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -82,7 +258,7 @@
       "published_at": "2026-10-21T11:18:29+00:00"
     },
     {
-      "id": "thelec-8053409954",
+      "id": "thelec-5721096726",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -93,7 +269,7 @@
       "published_at": "2026-10-21T11:18:27+00:00"
     },
     {
-      "id": "thelec-2485936197",
+      "id": "thelec-6943383497",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -104,7 +280,7 @@
       "published_at": "2026-10-21T11:18:24+00:00"
     },
     {
-      "id": "thelec-6366744442",
+      "id": "thelec-2726942823",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +291,7 @@
       "published_at": "2026-10-21T11:18:19+00:00"
     },
     {
-      "id": "thelec-5603666996",
+      "id": "thelec-2847501083",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -126,7 +302,7 @@
       "published_at": "2026-10-21T11:18:09+00:00"
     },
     {
-      "id": "thelec-8850810809",
+      "id": "thelec-7851351737",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -137,7 +313,7 @@
       "published_at": "2026-10-21T11:18:07+00:00"
     },
     {
-      "id": "thelec-6125184442",
+      "id": "thelec-2817603195",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +324,7 @@
       "published_at": "2026-10-21T11:18:00+00:00"
     },
     {
-      "id": "thelec-6679181270",
+      "id": "thelec-7233047685",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +335,7 @@
       "published_at": "2026-10-21T11:17:58+00:00"
     },
     {
-      "id": "thelec-542340758",
+      "id": "thelec-9362671701",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -170,7 +346,7 @@
       "published_at": "2026-10-21T11:17:57+00:00"
     },
     {
-      "id": "thelec-1775883457",
+      "id": "thelec-9486772046",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -181,7 +357,7 @@
       "published_at": "2026-10-21T11:17:55+00:00"
     },
     {
-      "id": "thelec-6591783832",
+      "id": "thelec-3009812979",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -192,7 +368,7 @@
       "published_at": "2026-10-21T11:17:54+00:00"
     },
     {
-      "id": "thelec-2269239310",
+      "id": "thelec-1650258123",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -203,18 +379,7 @@
       "published_at": "2026-10-21T11:17:21+00:00"
     },
     {
-      "id": "huggingface-117022224",
-      "source_id": "huggingface",
-      "source_name": "HuggingFace Blog",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-      "published_at": "2026-10-21T10:59:42+00:00"
-    },
-    {
-      "id": "nvidia-blog-864139492",
+      "id": "nvidia-blog-1691209570",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -225,7 +390,7 @@
       "published_at": "2026-10-21T10:50:37+00:00"
     },
     {
-      "id": "nvidia-blog-54779693",
+      "id": "nvidia-blog-3670373325",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -236,7 +401,7 @@
       "published_at": "2026-10-21T10:45:17+00:00"
     },
     {
-      "id": "nvidia-blog-1905261272",
+      "id": "nvidia-blog-1771141705",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -247,7 +412,7 @@
       "published_at": "2026-10-21T10:30:41+00:00"
     },
     {
-      "id": "nvidia-blog-5872966874",
+      "id": "nvidia-blog-2215168061",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -258,7 +423,7 @@
       "published_at": "2026-10-21T10:30:40+00:00"
     },
     {
-      "id": "nvidia-blog-5232310142",
+      "id": "nvidia-blog-2375826826",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -269,7 +434,7 @@
       "published_at": "2026-10-21T10:30:25+00:00"
     },
     {
-      "id": "nvidia-blog-7358602074",
+      "id": "nvidia-blog-4346981276",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -280,7 +445,18 @@
       "published_at": "2026-10-21T10:30:02+00:00"
     },
     {
-      "id": "nvidia-blog-1955854116",
+      "id": "leiphone-9567534495",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "海信获“2026福布斯中国最佳雇主”称号",
+      "summary": "<p>10月20日，“2026福布斯中国最佳雇主”榜单公布，海信集团荣获2026中国年度最佳雇主！这是海信连续第三年获得福布斯中国雇主系列奖项。从ESG实践到数智化转型，再到综合雇主价值，连续三年的认可，见证了海信在科技创新与人才发展领域的持续探索。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261021/6ad892013852f.png?imageMogr2/quality/90\" /></p><p>2026福布斯中国最佳雇主评选增设AI实践维度，从组织效能、AI战略协同、员工发展与企业社会责任等维度，综合考察企业的雇主品牌与人才管理实践。 多年来，海信高度重视员工的长期发展，持续健全人才培养体系与职业发展通道。依托新员工培养、导师带教、专业/管理双通道晋升、内部活水轮岗等机制，系统赋能员工能力提升，护航职业成长，为员工成长发展提供了广阔的发展平台。</p><p>面对向 AI 驱动的能力变革与工作模式迭代，海信将“用技术发展人、成就人”作为建设雇主品牌、推动企业与员工共同发展的重要出发点。海信通过推动新技术与人才发展深度融合，鼓励员工主动求知、大胆探索，在实战中锤炼数字化素养与创新能力。依托多元业务场景与全球化平台，为员工搭建广阔成长舞台，支持员工深耕专业、跨界实践、走向全球，在持续突...",
+      "link": "https://www.leiphone.com/category/industrynews/O80fSJbgn1ciXTl3.html",
+      "published_at": "2026-10-21T10:20:00+00:00"
+    },
+    {
+      "id": "nvidia-blog-8753210671",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -291,7 +467,7 @@
       "published_at": "2026-10-21T10:10:01+00:00"
     },
     {
-      "id": "nvidia-blog-8987954819",
+      "id": "nvidia-blog-9145829468",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -302,7 +478,7 @@
       "published_at": "2026-10-21T10:00:07+00:00"
     },
     {
-      "id": "leiphone-6866631765",
+      "id": "leiphone-18530936",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -313,7 +489,7 @@
       "published_at": "2026-10-21T10:00:00+00:00"
     },
     {
-      "id": "leiphone-9997413920",
+      "id": "leiphone-5197784682",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -324,7 +500,7 @@
       "published_at": "2026-10-21T09:32:00+00:00"
     },
     {
-      "id": "nvidia-blog-6956458396",
+      "id": "nvidia-blog-6978850817",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -335,7 +511,7 @@
       "published_at": "2026-10-21T09:30:16+00:00"
     },
     {
-      "id": "leiphone-3987858463",
+      "id": "leiphone-2360049794",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -346,7 +522,7 @@
       "published_at": "2026-10-21T09:28:00+00:00"
     },
     {
-      "id": "leiphone-4247003299",
+      "id": "leiphone-4085286055",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -357,7 +533,7 @@
       "published_at": "2026-10-21T09:11:00+00:00"
     },
     {
-      "id": "geekpark-1217136801",
+      "id": "geekpark-5574683145",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -368,7 +544,7 @@
       "published_at": "2026-10-21T09:10:33+00:00"
     },
     {
-      "id": "the-decoder-4481303141",
+      "id": "the-decoder-4841045814",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -379,7 +555,7 @@
       "published_at": "2026-10-21T08:37:06+00:00"
     },
     {
-      "id": "the-decoder-5887327540",
+      "id": "the-decoder-7711829623",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -390,7 +566,7 @@
       "published_at": "2026-10-21T08:32:54+00:00"
     },
     {
-      "id": "thelec-2064163706",
+      "id": "thelec-3259077038",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -401,7 +577,29 @@
       "published_at": "2026-10-21T07:39:51+00:00"
     },
     {
-      "id": "latent-space-6404243746",
+      "id": "openai-news-9772134957",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published_at": "2026-10-21T07:00:00+00:00"
+    },
+    {
+      "id": "openai-news-5302396176",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published_at": "2026-10-21T07:00:00+00:00"
+    },
+    {
+      "id": "latent-space-3979065711",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -412,7 +610,7 @@
       "published_at": "2026-10-21T06:54:09+00:00"
     },
     {
-      "id": "leiphone-2893967283",
+      "id": "leiphone-6178021811",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -423,7 +621,7 @@
       "published_at": "2026-10-21T06:53:00+00:00"
     },
     {
-      "id": "thelec-8983565949",
+      "id": "thelec-3712442698",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -434,7 +632,7 @@
       "published_at": "2026-10-21T06:51:35+00:00"
     },
     {
-      "id": "thelec-3560541097",
+      "id": "thelec-2845388183",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -445,7 +643,7 @@
       "published_at": "2026-10-21T06:51:00+00:00"
     },
     {
-      "id": "thelec-9999839873",
+      "id": "thelec-309782123",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -456,7 +654,7 @@
       "published_at": "2026-10-21T06:50:42+00:00"
     },
     {
-      "id": "thelec-5236858645",
+      "id": "thelec-6029004578",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -467,7 +665,7 @@
       "published_at": "2026-10-21T06:50:31+00:00"
     },
     {
-      "id": "thelec-3458307723",
+      "id": "thelec-8690411911",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -478,7 +676,7 @@
       "published_at": "2026-10-21T06:50:18+00:00"
     },
     {
-      "id": "leiphone-835265117",
+      "id": "leiphone-3896396546",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -489,7 +687,7 @@
       "published_at": "2026-10-21T06:29:00+00:00"
     },
     {
-      "id": "leiphone-6663851378",
+      "id": "leiphone-8349798612",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -500,7 +698,7 @@
       "published_at": "2026-10-21T06:14:00+00:00"
     },
     {
-      "id": "thelec-5415446804",
+      "id": "thelec-5533274209",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -511,7 +709,7 @@
       "published_at": "2026-10-21T05:42:42+00:00"
     },
     {
-      "id": "thelec-1312275211",
+      "id": "thelec-1235199244",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -522,7 +720,7 @@
       "published_at": "2026-10-21T05:41:54+00:00"
     },
     {
-      "id": "thelec-6359806138",
+      "id": "thelec-6405883608",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -533,7 +731,7 @@
       "published_at": "2026-10-21T05:41:18+00:00"
     },
     {
-      "id": "leiphone-4379721634",
+      "id": "leiphone-8262359985",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -544,7 +742,7 @@
       "published_at": "2026-10-21T05:13:00+00:00"
     },
     {
-      "id": "latent-space-9698490786",
+      "id": "latent-space-4904602294",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -555,7 +753,18 @@
       "published_at": "2026-10-21T05:01:26+00:00"
     },
     {
-      "id": "geekpark-6984350885",
+      "id": "openai-news-2607713996",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published_at": "2026-10-21T04:50:00+00:00"
+    },
+    {
+      "id": "geekpark-3689750933",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -566,7 +775,7 @@
       "published_at": "2026-10-21T04:16:25+00:00"
     },
     {
-      "id": "leiphone-2582753211",
+      "id": "leiphone-4354906156",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -577,7 +786,7 @@
       "published_at": "2026-10-21T04:09:00+00:00"
     },
     {
-      "id": "leiphone-1969688000",
+      "id": "leiphone-1204902408",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -588,7 +797,7 @@
       "published_at": "2026-10-21T03:07:00+00:00"
     },
     {
-      "id": "leiphone-4618747753",
+      "id": "leiphone-8323315713",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -599,7 +808,7 @@
       "published_at": "2026-10-21T02:57:00+00:00"
     },
     {
-      "id": "geekpark-854076723",
+      "id": "geekpark-4606388534",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -610,7 +819,7 @@
       "published_at": "2026-10-21T00:37:07+00:00"
     },
     {
-      "id": "thelec-1031125779",
+      "id": "thelec-4638766780",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -621,7 +830,7 @@
       "published_at": "2026-10-21T00:32:10+00:00"
     },
     {
-      "id": "thelec-3448941999",
+      "id": "thelec-5434737256",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -632,7 +841,7 @@
       "published_at": "2026-10-21T00:31:48+00:00"
     },
     {
-      "id": "thelec-7617932948",
+      "id": "thelec-6545514888",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -643,7 +852,7 @@
       "published_at": "2026-10-21T00:31:37+00:00"
     },
     {
-      "id": "thelec-5993810441",
+      "id": "thelec-9111566962",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -654,7 +863,7 @@
       "published_at": "2026-10-21T00:31:20+00:00"
     },
     {
-      "id": "thelec-2499499425",
+      "id": "thelec-2448474844",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -665,7 +874,7 @@
       "published_at": "2026-10-21T00:31:08+00:00"
     },
     {
-      "id": "thelec-3580043472",
+      "id": "thelec-7181270538",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -676,7 +885,7 @@
       "published_at": "2026-10-21T00:30:53+00:00"
     },
     {
-      "id": "thelec-550239480",
+      "id": "thelec-8911007374",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -687,7 +896,7 @@
       "published_at": "2026-10-21T00:30:12+00:00"
     },
     {
-      "id": "thelec-8485849412",
+      "id": "thelec-5156187134",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -698,7 +907,7 @@
       "published_at": "2026-10-21T00:29:59+00:00"
     },
     {
-      "id": "thelec-7145922411",
+      "id": "thelec-9991568506",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -709,7 +918,7 @@
       "published_at": "2026-10-21T00:29:47+00:00"
     },
     {
-      "id": "simon-willison-3627315337",
+      "id": "simon-willison-3395474761",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -720,7 +929,7 @@
       "published_at": "2026-10-20T23:50:25+00:00"
     },
     {
-      "id": "aws-ml-8165076676",
+      "id": "aws-ml-6820829062",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -731,7 +940,7 @@
       "published_at": "2026-10-20T21:14:10+00:00"
     },
     {
-      "id": "simon-willison-6664711481",
+      "id": "simon-willison-6550687606",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -742,7 +951,7 @@
       "published_at": "2026-10-20T19:34:19+00:00"
     },
     {
-      "id": "latent-space-5224778048",
+      "id": "latent-space-4301870008",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -753,7 +962,7 @@
       "published_at": "2026-10-20T19:31:57+00:00"
     },
     {
-      "id": "the-decoder-1984875390",
+      "id": "the-decoder-9561023915",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -764,7 +973,7 @@
       "published_at": "2026-10-20T19:03:15+00:00"
     },
     {
-      "id": "the-decoder-1435896126",
+      "id": "the-decoder-8447955218",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -775,7 +984,7 @@
       "published_at": "2026-10-20T18:56:15+00:00"
     },
     {
-      "id": "aws-ml-9765898890",
+      "id": "aws-ml-1086101230",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -786,7 +995,7 @@
       "published_at": "2026-10-20T17:59:07+00:00"
     },
     {
-      "id": "aws-ml-5422967126",
+      "id": "aws-ml-9924852170",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -797,7 +1006,7 @@
       "published_at": "2026-10-20T17:52:50+00:00"
     },
     {
-      "id": "aws-ml-217842409",
+      "id": "aws-ml-1815224072",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -808,7 +1017,7 @@
       "published_at": "2026-10-20T17:48:27+00:00"
     },
     {
-      "id": "aws-ml-4170228057",
+      "id": "aws-ml-8065347454",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -819,29 +1028,7 @@
       "published_at": "2026-10-20T17:34:04+00:00"
     },
     {
-      "id": "the-decoder-3126489278",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
-      "summary": "<p><img alt=\"Stylized Mistral logos in yellow and orange on a wall symbolize the branding of the AI platform Nano Banana Pro.\" class=\"attachment-full size-full wp-post-image\" height=\"1429\" src=\"https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into ex...",
-      "link": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
-      "published_at": "2026-10-20T17:17:55+00:00"
-    },
-    {
-      "id": "the-decoder-3063431195",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/06/openai_Altman.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"terrible.\"</p>\n<p>The article <a href=\"https://the-decoder.com/sam-altman-reportedly-pitched...",
-      "link": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
-      "published_at": "2026-10-20T17:00:59+00:00"
-    },
-    {
-      "id": "aws-ml-2727296744",
+      "id": "aws-ml-3406132065",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -852,18 +1039,7 @@
       "published_at": "2026-10-20T16:42:53+00:00"
     },
     {
-      "id": "the-decoder-5212818298",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"941\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1672\" /></p>\n<p>        OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modern...",
-      "link": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
-      "published_at": "2026-10-20T16:40:29+00:00"
-    },
-    {
-      "id": "aws-ml-4441406752",
+      "id": "aws-ml-6296654857",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -874,7 +1050,7 @@
       "published_at": "2026-10-20T16:22:24+00:00"
     },
     {
-      "id": "huggingface-3552057924",
+      "id": "huggingface-6547820331",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -885,7 +1061,7 @@
       "published_at": "2026-10-20T16:09:19+00:00"
     },
     {
-      "id": "github-ai-8660295842",
+      "id": "github-ai-3412419507",
       "source_id": "github-ai",
       "source_name": "GitHub AI & ML",
       "category": "ai-products",
@@ -896,7 +1072,7 @@
       "published_at": "2026-10-20T16:05:03+00:00"
     },
     {
-      "id": "aws-ml-8483066675",
+      "id": "aws-ml-8289641136",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -907,7 +1083,7 @@
       "published_at": "2026-10-20T16:03:48+00:00"
     },
     {
-      "id": "microsoft-research-5263228698",
+      "id": "microsoft-research-1031522897",
       "source_id": "microsoft-research",
       "source_name": "Microsoft Research",
       "category": "ai-models",
@@ -918,7 +1094,7 @@
       "published_at": "2026-10-20T16:00:00+00:00"
     },
     {
-      "id": "aws-ml-4781496334",
+      "id": "aws-ml-8738224556",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -929,7 +1105,7 @@
       "published_at": "2026-10-20T15:57:57+00:00"
     },
     {
-      "id": "aws-ml-5406193697",
+      "id": "aws-ml-8025021349",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -940,7 +1116,7 @@
       "published_at": "2026-10-20T15:39:04+00:00"
     },
     {
-      "id": "leiphone-4549768840",
+      "id": "leiphone-48069751",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -951,7 +1127,7 @@
       "published_at": "2026-10-20T15:37:00+00:00"
     },
     {
-      "id": "aws-ml-8435748577",
+      "id": "aws-ml-8747933828",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -962,7 +1138,7 @@
       "published_at": "2026-10-20T15:36:39+00:00"
     },
     {
-      "id": "aws-ml-375606849",
+      "id": "aws-ml-5723350609",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -973,7 +1149,7 @@
       "published_at": "2026-10-20T15:33:54+00:00"
     },
     {
-      "id": "mit-tech-review-2168468799",
+      "id": "mit-tech-review-7245917394",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -984,7 +1160,7 @@
       "published_at": "2026-10-20T15:20:25+00:00"
     },
     {
-      "id": "huggingface-7673364489",
+      "id": "huggingface-5525145700",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -995,7 +1171,7 @@
       "published_at": "2026-10-20T15:19:48+00:00"
     },
     {
-      "id": "thelec-2495414006",
+      "id": "thelec-2857009889",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1006,7 +1182,7 @@
       "published_at": "2026-10-20T13:14:27+00:00"
     },
     {
-      "id": "thelec-5297015598",
+      "id": "thelec-2859527395",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1017,29 +1193,7 @@
       "published_at": "2026-10-20T13:14:23+00:00"
     },
     {
-      "id": "the-decoder-3305723183",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The Army Cyber Command is developing AI agents that move through other networks like a computer worm and \"neutralize\" targets, according to internal documents. The program, codenamed ECHOTRIBBLE, is designed to reach even air-gapped systems with no network connection and run with minimal human oversight. Experts warn about collateral damage, pointing out that AI ...",
-      "link": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
-      "published_at": "2026-10-20T12:32:56+00:00"
-    },
-    {
-      "id": "the-decoder-915582926",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/07/cloudflare_logo_wall-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models.</p>\n<p>The article <a href=\"https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/\">Cloudflare&#039;s Clairic pulls data from documents faster and cheaper than LLMs</a> appeared first on <a href=...",
-      "link": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
-      "published_at": "2026-10-20T12:04:56+00:00"
-    },
-    {
-      "id": "mistral-2211417076",
+      "id": "mistral-7135939146",
       "source_id": "mistral",
       "source_name": "Mistral AI",
       "category": "ai-models",
@@ -1050,7 +1204,7 @@
       "published_at": "2026-10-20T12:00:22+00:00"
     },
     {
-      "id": "mit-tech-review-101153022",
+      "id": "mit-tech-review-2920553002",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1061,18 +1215,7 @@
       "published_at": "2026-10-20T12:00:00+00:00"
     },
     {
-      "id": "the-decoder-5587422491",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "US bans Deepseek technology across federal civilian agencies",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek.</p>\n<p>The article <a href=\"https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/\">US bans Deepseek technology across federal civilian agencies</a> appeared first on <a href=\"https://the-decoder.com\">The De...",
-      "link": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
-      "published_at": "2026-10-20T11:34:54+00:00"
-    },
-    {
-      "id": "leiphone-87138408",
+      "id": "leiphone-507816704",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1083,7 +1226,7 @@
       "published_at": "2026-10-20T10:39:00+00:00"
     },
     {
-      "id": "nvidia-blog-7831419846",
+      "id": "nvidia-blog-5545564387",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1094,7 +1237,7 @@
       "published_at": "2026-10-20T10:30:11+00:00"
     },
     {
-      "id": "leiphone-9476290238",
+      "id": "leiphone-5308557121",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1105,7 +1248,7 @@
       "published_at": "2026-10-20T10:27:00+00:00"
     },
     {
-      "id": "leiphone-3292243758",
+      "id": "leiphone-3401122902",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1116,7 +1259,7 @@
       "published_at": "2026-10-20T10:04:00+00:00"
     },
     {
-      "id": "openai-news-781521897",
+      "id": "openai-news-149348965",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1127,7 +1270,7 @@
       "published_at": "2026-10-20T10:00:00+00:00"
     },
     {
-      "id": "thelec-6469019043",
+      "id": "thelec-3463586555",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1138,7 +1281,7 @@
       "published_at": "2026-10-20T09:59:10+00:00"
     },
     {
-      "id": "leiphone-2785171077",
+      "id": "leiphone-7806589081",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1149,7 +1292,7 @@
       "published_at": "2026-10-20T09:54:00+00:00"
     },
     {
-      "id": "thelec-9124933286",
+      "id": "thelec-2461070647",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1160,7 +1303,7 @@
       "published_at": "2026-10-20T09:44:49+00:00"
     },
     {
-      "id": "mit-tech-review-531861136",
+      "id": "mit-tech-review-8032437153",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1171,7 +1314,7 @@
       "published_at": "2026-10-20T09:00:00+00:00"
     },
     {
-      "id": "thelec-6411903831",
+      "id": "thelec-5020966383",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1182,7 +1325,7 @@
       "published_at": "2026-10-20T08:48:20+00:00"
     },
     {
-      "id": "thelec-4247964387",
+      "id": "thelec-876964032",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1193,7 +1336,7 @@
       "published_at": "2026-10-20T08:47:56+00:00"
     },
     {
-      "id": "thelec-4484889857",
+      "id": "thelec-6022149755",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1204,7 +1347,7 @@
       "published_at": "2026-10-20T08:47:51+00:00"
     },
     {
-      "id": "thelec-4051164663",
+      "id": "thelec-7856213671",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1215,7 +1358,7 @@
       "published_at": "2026-10-20T08:47:31+00:00"
     },
     {
-      "id": "openai-news-5599407225",
+      "id": "openai-news-151881408",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1226,7 +1369,7 @@
       "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
-      "id": "leiphone-7284202691",
+      "id": "leiphone-9424433264",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1237,7 +1380,7 @@
       "published_at": "2026-10-20T06:15:00+00:00"
     },
     {
-      "id": "leiphone-3238302043",
+      "id": "leiphone-6975507153",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1248,7 +1391,7 @@
       "published_at": "2026-10-20T06:08:00+00:00"
     },
     {
-      "id": "leiphone-9228690552",
+      "id": "leiphone-6288263735",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1259,7 +1402,7 @@
       "published_at": "2026-10-20T06:03:00+00:00"
     },
     {
-      "id": "geekpark-2999507950",
+      "id": "geekpark-2556648005",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1270,7 +1413,7 @@
       "published_at": "2026-10-20T05:46:53+00:00"
     },
     {
-      "id": "latent-space-2168238507",
+      "id": "latent-space-7862676442",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1281,7 +1424,7 @@
       "published_at": "2026-10-20T05:21:52+00:00"
     },
     {
-      "id": "nvidia-blog-136766414",
+      "id": "nvidia-blog-855170474",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1292,18 +1435,7 @@
       "published_at": "2026-10-20T05:00:00+00:00"
     },
     {
-      "id": "leiphone-3803096517",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "新石器完成近4亿美元新一轮融资，加速全球化与规模化商业落地",
-      "summary": "<p>10月20日，全球领先的自动驾驶科技公司新石器（Neolix）宣布正式完成E轮近4亿美元融资。本轮融资由博裕投资与某国家级基金联合领投，阿里巴巴AEF NextGen香港基金、Monolith砺思资本、纪源资本、淡马锡旗下Vertex Growth、华映资本、广汽资本、金鼎资本、朗玛峰创投、正大机器人、领航新界、高鹄资本等机构参与投资，磊石资本（Stone Venture）、信宸资本、高成投资、云启资本、软银亚洲、亦庄国投、浙创投资、惠新基金、鼎晖VGC、朝希资本、耀途资本、善水资本、高榕创投等早期及长期股东继续跟投。高鹄资本担任本轮融资独家财务顾问。</p><p>本轮融资也创造了今年国内自动驾驶领域最大单笔融资纪录，迄今为止，新石器公司累计融资额已突破百亿元人民币，融资规模居无人配送车行业第一。</p><p>过去一年来，新石器在商业化落地与技术演进上取得了显著进展。公司持续领跑全球最大无人驾驶车队规模，配送场景从电商快递场景出发，以运力网络为广大货主群体提供物流服务，持续助力客户实现清晰的降本增效；技术层面，新石器持续打造行业领先的视觉为主的端到端大模型，并通过云端、边端、车端三模型结合的统一架构，打造了行业最大的“运营、数据、算法”高效数据飞轮，推动规模化运营升级和提升效率。在全球化方面，新石器在行业内率先启动布局，并持续领跑全球无人配送车最大海外交付规模，不断在中...",
-      "link": "https://www.leiphone.com/category/industrynews/eSrgjx3nGEGMMePm.html",
-      "published_at": "2026-10-20T04:22:00+00:00"
-    },
-    {
-      "id": "geekpark-5828696666",
+      "id": "geekpark-2176720798",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1314,7 +1446,7 @@
       "published_at": "2026-10-20T01:34:14+00:00"
     },
     {
-      "id": "geekpark-2028595167",
+      "id": "geekpark-4416693334",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1325,7 +1457,7 @@
       "published_at": "2026-10-20T01:01:44+00:00"
     },
     {
-      "id": "openai-news-4546713940",
+      "id": "openai-news-8452424621",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1336,7 +1468,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-5697740360",
+      "id": "huggingface-8022777791",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1347,7 +1479,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-9870353509",
+      "id": "huggingface-1030760812",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1358,7 +1490,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-5764746686",
+      "id": "huggingface-1680589010",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1369,7 +1501,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-8460957569",
+      "id": "simon-willison-6767109365",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1380,7 +1512,7 @@
       "published_at": "2026-10-19T23:58:25+00:00"
     },
     {
-      "id": "aws-ml-7782355768",
+      "id": "aws-ml-6861985712",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1391,7 +1523,7 @@
       "published_at": "2026-10-19T23:32:19+00:00"
     },
     {
-      "id": "aws-ml-6788547835",
+      "id": "aws-ml-5116354303",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1402,7 +1534,7 @@
       "published_at": "2026-10-19T22:39:24+00:00"
     },
     {
-      "id": "aws-ml-3146909986",
+      "id": "aws-ml-7401577628",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1413,7 +1545,7 @@
       "published_at": "2026-10-19T21:14:44+00:00"
     },
     {
-      "id": "nvidia-blog-9369114926",
+      "id": "nvidia-blog-2050370535",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1424,7 +1556,7 @@
       "published_at": "2026-10-19T19:27:08+00:00"
     },
     {
-      "id": "github-ai-6677143898",
+      "id": "github-ai-4681486659",
       "source_id": "github-ai",
       "source_name": "GitHub AI & ML",
       "category": "ai-products",
@@ -1435,7 +1567,7 @@
       "published_at": "2026-10-19T18:47:22+00:00"
     },
     {
-      "id": "mit-tech-review-7588584637",
+      "id": "mit-tech-review-3603480385",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1446,7 +1578,7 @@
       "published_at": "2026-10-19T18:22:47+00:00"
     },
     {
-      "id": "mit-tech-review-4442948972",
+      "id": "mit-tech-review-8947279657",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1457,7 +1589,7 @@
       "published_at": "2026-10-19T17:45:55+00:00"
     },
     {
-      "id": "aws-ml-298161620",
+      "id": "aws-ml-5892057937",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1468,7 +1600,7 @@
       "published_at": "2026-10-19T16:49:19+00:00"
     },
     {
-      "id": "aws-ml-3068304259",
+      "id": "aws-ml-6837860653",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1479,7 +1611,7 @@
       "published_at": "2026-10-19T16:23:22+00:00"
     },
     {
-      "id": "aws-ml-1825165754",
+      "id": "aws-ml-1944360869",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1490,7 +1622,7 @@
       "published_at": "2026-10-19T16:05:17+00:00"
     },
     {
-      "id": "aws-ml-6407760837",
+      "id": "aws-ml-1854381411",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1501,7 +1633,7 @@
       "published_at": "2026-10-19T16:03:23+00:00"
     },
     {
-      "id": "nvidia-blog-9257228181",
+      "id": "nvidia-blog-1632800256",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1512,7 +1644,7 @@
       "published_at": "2026-10-19T15:00:31+00:00"
     },
     {
-      "id": "geekpark-9325896807",
+      "id": "geekpark-4313883364",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1523,7 +1655,7 @@
       "published_at": "2026-10-19T13:57:34+00:00"
     },
     {
-      "id": "openai-news-2063887279",
+      "id": "openai-news-4077820678",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1534,7 +1666,7 @@
       "published_at": "2026-10-19T12:00:00+00:00"
     },
     {
-      "id": "geekpark-6463347366",
+      "id": "geekpark-5193256649",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1545,7 +1677,7 @@
       "published_at": "2026-10-19T10:10:03+00:00"
     },
     {
-      "id": "mit-tech-review-4185097598",
+      "id": "mit-tech-review-5257185890",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1556,7 +1688,7 @@
       "published_at": "2026-10-19T09:08:05+00:00"
     },
     {
-      "id": "geekpark-2857533936",
+      "id": "geekpark-345969252",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1567,7 +1699,7 @@
       "published_at": "2026-10-19T01:18:11+00:00"
     },
     {
-      "id": "huggingface-2312606330",
+      "id": "huggingface-3841329182",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1578,7 +1710,7 @@
       "published_at": "2026-10-19T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-5481329448",
+      "id": "simon-willison-8572790612",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1589,7 +1721,7 @@
       "published_at": "2026-10-18T23:43:09+00:00"
     },
     {
-      "id": "simon-willison-3417365724",
+      "id": "simon-willison-8251820167",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
