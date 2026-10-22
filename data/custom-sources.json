@@ -1,11 +1,352 @@
 {
-  "generated_at": "2026-10-22T10:27:23.623518+00:00",
+  "generated_at": "2026-10-22T15:31:13.078060+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 172,
+  "count": 174,
   "items": [
     {
-      "id": "the-decoder-5467131968",
+      "id": "nvidia-blog-4001513676",
+      "source_id": "nvidia-blog",
+      "source_name": "NVIDIA Blog",
+      "category": "ai-products",
+      "module": "🛠️ 产品与工具",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [&#8230;]",
+      "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "published_at": "2026-10-22T15:00:02+00:00"
+    },
+    {
+      "id": "the-decoder-414763798",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Recursive shows first result of its AI-driven research process with Flint",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/recursive-flint-header-1.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, \"Eureka Machine,\" which independently tests and optimizes architectures. Recursive has yet to prove whether this approach will actual...",
+      "link": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+      "published_at": "2026-10-22T14:40:16+00:00"
+    },
+    {
+      "id": "google-deepmind-1253297368",
+      "source_id": "google-deepmind",
+      "source_name": "Google DeepMind",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published_at": "2026-10-22T14:30:24+00:00"
+    },
+    {
+      "id": "latent-space-7933213186",
+      "source_id": "latent-space",
+      "source_name": "Latent Space",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "You are the Team  — Anekha Sokhal, Moshi",
+      "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader&#8217;s workflow.",
+      "link": "https://www.latent.space/p/moshi",
+      "published_at": "2026-10-22T14:03:40+00:00"
+    },
+    {
+      "id": "geekpark-3103504610",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
+      "summary": "<p style=\"text-align: left;\">过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI 原生硬件成了投资市场的热门项目。</p>\n<p style=\"text-align: left;\">但其实，很多成熟形态的硬件同样有 AI 化的需求。这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。</p>\n<p style=\"text-align: left;\">以家电行业为例：供应链长，改一次硬件就要重走研发、测试、认证；销售链条长，从厂家、经销商到上门安装的电工，每一环都得接得住；成本又极度敏感，多一块钱都要反复掂量。</p>\n<p style=\"text-align: left;\">好在，家电已经为 AI 打好了地基。过去十几年，大量家电已经具备联网能力&mdash;&mdash;这意味着灵活升级的 OTA「管道」已经铺好，行业缺的是让设备真正被用起来的解决方案。</p>\n<p style=\"text-align: left;\">那么，硬件到底需要什么样的 AI？9 月，TypeSafe 推出的 Jev 在开发者圈引发了不少讨论，它提供了一个参照：Jev 不生成文字，只输出带置信度的判断。在硬件乃至具身领域的不少场景里，判断比生成更重要。</p>\n<p style=\"...",
+      "link": "http://www.geekpark.net/news/372762",
+      "published_at": "2026-10-22T13:20:53+00:00"
+    },
+    {
+      "id": "nvidia-blog-1592921355",
+      "source_id": "nvidia-blog",
+      "source_name": "NVIDIA Blog",
+      "category": "ai-products",
+      "module": "🛠️ 产品与工具",
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [&#8230;]",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "published_at": "2026-10-22T13:00:20+00:00"
+    },
+    {
+      "id": "leiphone-7090988426",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "当车企抢着自研电池，智己为什么反着来？",
+      "summary": "<p style=\"margin-top: 0; margin-bottom: 0;\">围绕电池展开的产品定义权正在成为行业中的焦点话题。</p><p style=\"margin-top: 0; margin-bottom: 0;\">小米、理想最近发布了自研电池品牌，与欣旺达、中创新航等电池厂商联手，宣告了车企要深入电池研发、制造环节的决心。李想说，“世界既需要最懂智能电动车的电池企业，也需要最懂电池的智能电动车企业。”</p><p style=\"margin-top: 0; margin-bottom: 0;\">而宁德时代首席制造官倪军直言，\"还是要专业的人做专业的事\"。</p><p style=\"margin-top: 0; margin-bottom: 0;\">有人转身自研，也有车企坚持全系搭载宁德时代。智己即将发布的新车，智己LS8NEO纯电版中，从电芯到电池包，均采用了宁德时代电池。</p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20261022//6ada018e482b3.jpg?imageMogr2/quality/90\" /></...",
+      "link": "https://www.leiphone.com/category/transportation/tlrld8EmPpRuUKDa.html",
+      "published_at": "2026-10-22T12:29:00+00:00"
+    },
+    {
+      "id": "leiphone-7385316604",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "summary": "<p>企业AI转型正在走向深水区，从单点工具和业务场景提效，向系统性的组织重构延伸。麦肯锡曾在《组织状态报告2026》中指出，尽管AI被视为新一轮生产力革命的重要驱动力，但真正将其转化为经营业绩的企业仍是少数，背后的关键在于，不少企业仍将AI转型停留在“工具升级”层面，却忽视了更本质的“组织重构”。如何将AI能力融入组织，转化为持续的生产力，将成为影响企业未来竞争力的关键。11月12日，百度将在百度世界2026大会上聚焦“智能组织”议题，或将提出AI时代的组织进化范式。</p><p>&nbsp;</p><p>10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。本届大会设置10+场分论坛，围绕“AI驱动组织跃迁”、“AI办公与知识工作”、“技术、行业与生态”三大方向展开，涵盖组织进化、智能体规模化落地、AI办公、AI+自进化、垂直产业增长、超级个体能力进阶等议题，为企业和开发者推进智能组织建设提供多维度的实践参考。</p><p>&nbsp;</p><p><strong>看点一：覆盖AI组织重构全链条，揭秘“智能组织”进化方法论</strong></p><p>&nbsp;</p><p>AI时代，组织形态或将朝着以人和智能体编队协同的方向演进，这一转变涉及人机协同机制、工作流重构、组织文化变革与安全治理等多个环节。本届大会分论坛议题将覆盖组织自上而下进行AI...",
+      "link": "https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html",
+      "published_at": "2026-10-22T12:03:00+00:00"
+    },
+    {
+      "id": "geekpark-3358136875",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "宇树 10 周年，王兴兴：我劝你相信 AI",
+      "summary": "<p>10 月 22 日，杭州国际博览中心热闹非常，不仅人多，而且机器人也特别多。</p>\n<p>这是 2026 年宇树科技举办的世界物理 AI 大会的现场，从四足机器人到人形机器人，你甚至可以说这里是全球「机器人密度」最高的地方。</p>\n<p>2026 年，也是宇树科技创立的第十年。有意思的是，在今天的舞台上，宇树科技创始人王兴兴，在谈机器人之外，聊的最多的就是当下最火热的 AI。</p>\n<p><strong>他不仅劝所有人要「相信 AI」，而且还反思，觉得自己「相信 AI 还相信得不够」</strong>。</p>\n<p>为什么这家中国、乃至全球机器人行业中最有实力的公司掌舵者，会这么说？物理 AI 的拐点，真的要到来了吗？</p>\n<h1>必须相信 AI</h1>\n<p>在王兴兴 36 分钟的演讲中，宇树自己的产品只占了开头和结尾。中间最长的一段，王兴兴在做一件事&mdash;&mdash;劝人相信 AI。</p>\n<p>从 AI 攻下了一批顶尖数学难题，「人类最智慧的金字塔的尖端」已经被击穿；到 AI 逆向工程让「传统软件公司的壁垒没了」；AI 视频里人物的表情和情绪「比真人演的还好很多」；顶尖大模型公司内部「已经实现了模型的自进化」。</p>\n<p>「这不是闹着玩的」。他的结论是，以当下的模型能力，哪怕不再进步，信息世界也已经被「完全击穿」。</p>\n<p>然后...",
+      "link": "http://www.geekpark.net/news/372759",
+      "published_at": "2026-10-22T11:56:03+00:00"
+    },
+    {
+      "id": "the-decoder-4798594941",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/cybersecurity_kraken-1.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal databases, and install cryptominers on its own. It runs up to 100,000 steps without human input. The owner of the hijacked model gets stuck with the bill.</p>\n<p>The article <a href=\"https://the-decoder.co...",
+      "link": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
+      "published_at": "2026-10-22T11:30:56+00:00"
+    },
+    {
+      "id": "leiphone-7710028489",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "深度解读全球 72 小时安全风暴：PHP 事件只是第一枪",
+      "summary": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20261022/6ad9ef86b5f20.png?imageMogr2/quality/90\" style=\"width: 100%;\" type=\"block\" /></section><section><section></section></section><section style=\"margin-top: 16px;\"><section><section style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em; margin-top: 24px;\"><span><span><span style=\"font-size: 15px;\">如果你昨天刚好踩中了所有这些坑，那你大概是 2026 年最惨的安全工程师。</span></span></span></section><section style=\"text-align: justify...",
+      "link": "https://www.leiphone.com/category/yanxishe/tvPJIsotGRQWkdwV.html",
+      "published_at": "2026-10-22T11:14:00+00:00"
+    },
+    {
+      "id": "leiphone-4326622149",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "超智深融 算力圳浓——第二十二届CCF全国高性能计算学术大会在深圳成功举办",
+      "summary": "<p style=\"margin-top: 0; margin-bottom: 0;\"><span>鹏城向海潮起处，算力奔腾启新程。10月17-20日，第二十二届CCF全国高性能计算学术大会（CCF HPC2026）于深圳国际会展中心正式拉开帷幕。本次大会与2026世界算力博览会（WEC2026）同期同馆举办，让滨海都市的开放蓬勃与超级算力的澎湃革新、前沿学术的深耕探索与产业生态的落地赋能在此碰撞交融，以“学术顶会+产业博览”双轮驱动的全新模式，书写了算力产业数实融合、科创赋能、共生共荣的崭新篇章。</span></p><p style=\"margin-top: 0; margin-bottom: 0;\"><span style=\"font-family: '楷体'; background: none;\">本届大会立足全国算力产业发展前沿，聚焦国产算力自主创新、超智深度融合、算力互联互通、绿色算力体系建设等核心热点，延续并升级“学术引领、产业融合、生态共建”的特色优势。大会广聚海内外顶尖力量，云集众多院士专家、资深学者、行业大咖及产业链头部企业精英，倾力打造集前沿技术研讨、创新成果展示、产业资源对接、全域生态协同于一体的高水平、专业化高性能计算交流合作平台，为我国算力产业高质量发展凝聚磅礴合力。</span></p><p style=\"margin-top: 0px; mar...",
+      "link": "https://www.leiphone.com/category/chips/ZciUaXjdyyGRgNRl.html",
+      "published_at": "2026-10-22T11:08:00+00:00"
+    },
+    {
+      "id": "leiphone-9489061846",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "summary": "<p>10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科&nbsp;DTMaaS&nbsp;平台上线，开发者可限时免费体验。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261022/6ad9e9b208f40.png?imageView2/2/w/740\" /></p><p>&nbsp;</p><p>蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现更优。</p><p>&nbsp;</p><p>相比于其他决策模型，LingDT-Decision-1.0首创支持原生多选与按序决策能力，更适配企业真实应用场景。在23项开源评测基准中，LingDT-Decision-1.0的综合评分超过了Microsoft-Decision-1、Jev&n...",
+      "link": "https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html",
+      "published_at": "2026-10-22T10:54:00+00:00"
+    },
+    {
+      "id": "leiphone-3968836418",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "《2026千川乘方投放宝典》出炉！助力商家迎战双11",
+      "summary": "<p>抖音兴趣电商逐渐步入精细化经营新阶段，电商营销的成本构成也日趋多元，单纯以广告消耗评估投放效果，已经很难还原品牌真实经营收益。为帮助商家建立全链路视角下的投放经营体系，进一步释放GMV增长潜力，《2026千川乘方投放宝典》正式出炉！宝典以千川乘方体系为核心，系统梳理了从投放升级、素材供给、达人营销到转化增效等完整落地路径，覆盖日常经营、新品冷启、大促爆发关键阶段，助力商家把握节点机遇，找到生意增长的更优解。</p><p><strong>01一键升级千川乘方，平滑承接全域投放资产</strong></p><p>乘方的核心变化，是把达人佣金、素材制作、营销权益等多项营销成本纳入核算，依靠综合营销ROI还原品牌真实的经营收益。<strong>商家无需推倒重建现有投放计划，全域投放计划可直接一键完成升级，存量在跑计划能够延续原有模型能力继续投放，实现投放资产的平滑迁移。</strong></p><p><strong>&gt;一键切换入口：</strong></p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261022/6ad9e5af8299e.png?imageView2/2/w/740\" /></p><p><strong>02优化素材投放...",
+      "link": "https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html",
+      "published_at": "2026-10-22T10:34:00+00:00"
+    },
+    {
+      "id": "leiphone-9582901697",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "独家丨灵钜创新完成数千万元天使轮，南山战新投、龙华资本联合投资",
+      "summary": "<section style=\"margin-bottom: 16px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" /></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><section><section><section style=\"margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, 244);\"><section style=\"margin: 0px; padding: 0px; clear: both; text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261022/6ad9df3de8749.jpg?imageMogr2/quality/90\" style=\"margin: 0px; padding: 0px; vertical-align: bottom; width: 100%; background-colo...",
+      "link": "https://www.leiphone.com/category/weiwu/ofJthQTqIHVZaF0M.html",
+      "published_at": "2026-10-22T10:06:00+00:00"
+    },
+    {
+      "id": "thelec-7592531905",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LG Display’s Q3 Operating Profit Falls 42% on Year",
+      "summary": "LG Display’s third-quarter operating profit fell 42% from a year earlier. Although the company returned to profitability from the previous quarter on higher organic light-emitting diode (OLED) shipments, a weaker dollar against the won and rising semiconductor prices, known as chipflation, limited m",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14842",
+      "published_at": "2026-10-22T10:05:57+00:00"
+    },
+    {
+      "id": "thelec-8945984958",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Hanwha Aerospace Showcases Aircraft Engines, Drones at Sacheon Airshow 2026",
+      "summary": "Hanwha Aerospace is participating in Sacheon Airshow 2026 to showcase technological capabilities developed in collaboration with South Korean aerospace companies.Hanwha Aerospace said Oct. 22 it is participating in Sacheon Airshow 2026, which runs through Oct. 25 at Sacheon Airfield in South Gyeongs",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14841",
+      "published_at": "2026-10-22T10:05:55+00:00"
+    },
+    {
+      "id": "thelec-1315402911",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "KAI, South Korean Air Force Strengthen Cooperation With Aircraft Operators",
+      "summary": "Korea Aerospace Industries (KAI) said Oct. 22 it has been hosting the 15th Korean Aircraft Technical Cooperation Group (K-TCG) and the ninth Safety Management Group (SMG) international meetings in Sacheon, South Gyeongsang Province, since Oct. 21.K-TCG is an international consultative body jointly o",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14840",
+      "published_at": "2026-10-22T10:05:52+00:00"
+    },
+    {
+      "id": "thelec-4421079547",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Wacker, Moyuum to Jointly Develop Silicone Baby Bottle Nipples",
+      "summary": "Wacker Chemicals Korea, the South Korean subsidiary of Germany’s Wacker, said Oct. 22 it signed a memorandum of understanding (MOU) with Moyuum, a baby care brand operated by Elyssia, on Oct. 21 to jointly develop silicone baby bottle nipples. The signing ceremony at Wacker Chemicals Korea’s Pangyo",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14838",
+      "published_at": "2026-10-22T10:05:50+00:00"
+    },
+    {
+      "id": "thelec-3855771330",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Nvidia Unveils OpenShell Architecture to Monitor AI Agents",
+      "summary": "Nvidia unveiled its OpenShell reference architecture at its annual GTC 2026 Berlin conference on Oct. 21 local time, designed to support the secure deployment and operation of artificial intelligence (AI) agents.A reference architecture provides a standard blueprint for building new data center syst",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14839",
+      "published_at": "2026-10-22T10:05:49+00:00"
+    },
+    {
+      "id": "thelec-3051825025",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "GM to Adopt LMR Batteries in Fourth-Generation EV Platform",
+      "summary": "General Motors (GM) plans to adopt lithium manganese-rich (LMR) batteries in its next-generation, fourth-generation electric vehicle (EV) platform.GM said Oct. 22 it unveiled its future vehicle technology strategy, including the battery plan, at the GM Forward event held in New York on Oct. 21 local",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14836",
+      "published_at": "2026-10-22T10:05:33+00:00"
+    },
+    {
+      "id": "thelec-5597671376",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Youngwoo DSP Wins 4.6 Billion Won Samsung Display Equipment Order",
+      "summary": "Youngwoo DSP said Oct. 22 it signed a 4.6 billion won contract with Samsung Display to supply display manufacturing equipment.The contract covers display inspection and process equipment for Samsung Display\\'s factory in Vietnam. Youngwoo DSP supplies such equipment using optical inspection, image pr",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14835",
+      "published_at": "2026-10-22T10:05:32+00:00"
+    },
+    {
+      "id": "thelec-9835472038",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Applied Materials Korea President Park Kwang-sun Receives Industrial Service Medal",
+      "summary": "Applied Materials Korea received an Industrial Service Medal in recognition of its contributions to strengthening South Korea\\'s semiconductor industry competitiveness.Park Kwang-sun, president of Applied Materials Korea, received the medal at the 19th Semiconductor Day ceremony held at the Grand Int",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14834",
+      "published_at": "2026-10-22T10:05:31+00:00"
+    },
+    {
+      "id": "thelec-2094112991",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Nvidia Invests in AI Supply Chain to Expand Production Capacity",
+      "summary": "Nvidia is investing to meet growing demand for artificial intelligence (AI) infrastructure. The company is making advance payments to key suppliers to secure capacity for semiconductor packaging substrates, testing and co-packaged optics (CPO).Nvidia said Oct. 21 local time it is working with Samsun",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14833",
+      "published_at": "2026-10-22T10:05:24+00:00"
+    },
+    {
+      "id": "thelec-8347631416",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LG Innotek, Nvidia to Develop Robotic Sensing Solutions",
+      "summary": "LG Innotek is working with Nvidia to develop physical artificial intelligence (AI) sensing solutions, including vision sensing systems for humanoid robots and robotic hands. The collaboration combines Nvidia’s sensor data transmission technology with LG Innotek’s camera, light detection and ranging",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14832",
+      "published_at": "2026-10-22T10:05:19+00:00"
+    },
+    {
+      "id": "thelec-1178192776",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "POSCO Future M Adopts Palantir AI Platforms",
+      "summary": "POSCO Future M is adopting artificial intelligence (AI) platforms developed by U.S.-based Palantir Technologies.POSCO Future M said it signed an agreement with Palantir on Oct. 21 to adopt its Foundry data operations and analytics platform and its Artificial Intelligence Platform (AIP).Foundry integ",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14830",
+      "published_at": "2026-10-22T10:05:14+00:00"
+    },
+    {
+      "id": "thelec-7396668604",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "QRT Chairman Kim Young-boo Receives Bronze Tower Industrial Order of Merit",
+      "summary": "QRT chairman Kim Young-boo received the Bronze Tower Order of Industrial Service Merit at the 19th Semiconductor Day ceremony held at the Grand InterContinental Seoul Parnas in Gangnam, Seoul, on Oct. 21. He was recognized for establishing quality analysis and reliability testing infrastructure for",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14829",
+      "published_at": "2026-10-22T10:05:06+00:00"
+    },
+    {
+      "id": "thelec-1570590381",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "EcoPro Founder Sees Growth Opportunities for Ternary Batteries",
+      "summary": "EcoPro marked its 28th anniversary by emphasizing stronger competitiveness in ternary battery materials and preparations for future market demand.EcoPro said it held its 28th anniversary ceremony at its Pohang campus in North Gyeongsang Province on Oct. 22. In a commemorative address, founder Lee Do",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14828",
+      "published_at": "2026-10-22T10:04:50+00:00"
+    },
+    {
+      "id": "thelec-4284748367",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Samsung SDI to Sponsor South Korea's Chemistry Olympiad Team",
+      "summary": "Samsung SDI will become an official sponsor of South Korea\\'s national team competing in the International Chemistry Olympiad (IChO).Samsung SDI said Oct. 22 it signed a sponsorship agreement with the Korea Foundation for the Advancement of Science and Creativity (KOFAC) and the Korean Chemical Socie",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14827",
+      "published_at": "2026-10-22T10:04:49+00:00"
+    },
+    {
+      "id": "thelec-3533565258",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Sunic System Completes New Factory in Pyeongtaek",
+      "summary": "Sunic System has completed construction of its Pyeongtaek Brain City manufacturing facility, a production site approximately four times larger than its headquarters in Suwon.Sunic System said Oct. 22 it had completed construction of the new factory in Pyeongtaek Brain City. Following approval to occ",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14826",
+      "published_at": "2026-10-22T10:04:47+00:00"
+    },
+    {
+      "id": "thelec-615609075",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LG Electronics, K-water to Bring AI to Sihwa Tidal Power Plant",
+      "summary": "LG Electronics will work with Korea Water Resources Corp. (K-water) to deploy artificial intelligence (AI), digital twin and robotics technologies at the Sihwa Tidal Power Plant. The project marks the company’s first expansion of smart factory technologies developed in manufacturing into public infr",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14819",
+      "published_at": "2026-10-22T10:04:34+00:00"
+    },
+    {
+      "id": "the-decoder-9409503626",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -16,7 +357,7 @@
       "published_at": "2026-10-22T10:01:53+00:00"
     },
     {
-      "id": "mit-tech-review-1009641033",
+      "id": "mit-tech-review-589261047",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -27,7 +368,40 @@
       "published_at": "2026-10-22T10:00:00+00:00"
     },
     {
-      "id": "mit-tech-review-7734773241",
+      "id": "leiphone-5485123247",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Flowtica Rian：硬件的旧规律没变，新机会是做好Memory丨未来创新50人",
+      "summary": "<section style=\"margin-bottom: 16px;\"><span></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><section><section><section style=\"margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, 244);\"><section style=\"margin: 0px; padding: 0px; clear: both; text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261022/6ad9d6cc3a5aa.png?imageMogr2/quality/90\" style=\"margin: 0px; padding: 0px; vertical-align: bottom; width: 100%; background-color: transparent;\" /></section><section style...",
+      "link": "https://www.leiphone.com/category/weiwu/Sni49oUOM9rbTR7h.html",
+      "published_at": "2026-10-22T09:31:00+00:00"
+    },
+    {
+      "id": "leiphone-5869991186",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "独家丨徕芬副总联手苹果核心研发，创业移动出行咖啡智能硬件",
+      "summary": "<section style=\"margin-bottom: 16px;\"><span></span><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261022/6ad9d57471ba4.png?imageMogr2/quality/90\" style=\"text-align: center; color: rgb(34, 34, 34); letter-spacing: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; vertical-align: bottom; width: 100%;\" /></section><section><section><section><section style=\"margin: 24px 0px; padding: 0px; letter-spacing: 0.544px; text-align: justify; line-height: 1.75em;\"><span style=\"font-size: 15px;\"><span style=\"letter-spacing: 0.5px;\">雷峰网·鲸犀独家...",
+      "link": "https://www.leiphone.com/category/weiwu/kcT0Gob16vBuSwSl.html",
+      "published_at": "2026-10-22T09:24:00+00:00"
+    },
+    {
+      "id": "leiphone-3832729776",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Accio成双11商家生意加速器：蓄水期缩短半个月、15分钟全网爆款调优",
+      "summary": "<p>激战正酣的2026 双11商家，正在迎来AI agent的全面实战助力。</p><p>&nbsp;</p><p>来自阿里旗下全球电商AI工作台Accio的消息，今年双十一，越来越多商家把Accio当成其AI产品首选，其跨平台店铺经营诊断、选品上新与数据分析等核心能力，正在帮助商家大幅压缩时间和提升效率，成为电商商家双11生意加速器。</p><p>&nbsp;</p><p>Accio上的多平台店铺全景经营分析、多平台广告投放效果分析、商品数据清洗与表格加工、商品素材包自动填充补全、电商商品与竞对搜索等，成为今年大促最受商家欢迎的功能。</p><p>&nbsp;</p><p>“过往要巡店查看和修改每个产品的投流推广情况，光是跑完单一平台就至少要 2 小时。今天跟 Accio 配合，只用了大约 15 分钟就把全网高投入高回报、低投入低回报的品盘梳理得清清楚楚。”00 后新锐电商操盘手邦邦说。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261022/6ad9d085428a3.png?imageView2/2/w/740\" />&nbsp;</p><p>&nbsp;</p><p>作为习惯与 AI 协同的年轻操盘...",
+      "link": "https://www.leiphone.com/category/industrynews/wZadstkZcVlLudqv.html",
+      "published_at": "2026-10-22T09:00:00+00:00"
+    },
+    {
+      "id": "mit-tech-review-1857154145",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -38,7 +412,7 @@
       "published_at": "2026-10-22T08:41:18+00:00"
     },
     {
-      "id": "the-decoder-2037760755",
+      "id": "the-decoder-9179254283",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -49,7 +423,7 @@
       "published_at": "2026-10-22T08:35:22+00:00"
     },
     {
-      "id": "geekpark-985675389",
+      "id": "geekpark-6678891993",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -60,7 +434,7 @@
       "published_at": "2026-10-22T08:20:34+00:00"
     },
     {
-      "id": "geekpark-6507172987",
+      "id": "geekpark-6758497634",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -71,7 +445,7 @@
       "published_at": "2026-10-22T08:15:50+00:00"
     },
     {
-      "id": "leiphone-4068569793",
+      "id": "leiphone-1636775233",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -82,7 +456,7 @@
       "published_at": "2026-10-22T08:14:00+00:00"
     },
     {
-      "id": "huggingface-4716411617",
+      "id": "huggingface-1761156037",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -93,7 +467,7 @@
       "published_at": "2026-10-22T07:51:31+00:00"
     },
     {
-      "id": "latent-space-8485544908",
+      "id": "latent-space-2660648137",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -104,7 +478,7 @@
       "published_at": "2026-10-22T07:42:44+00:00"
     },
     {
-      "id": "geekpark-5185133542",
+      "id": "geekpark-5936764688",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -115,7 +489,7 @@
       "published_at": "2026-10-22T07:23:08+00:00"
     },
     {
-      "id": "geekpark-5747553604",
+      "id": "geekpark-8141644104",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -126,7 +500,18 @@
       "published_at": "2026-10-22T06:15:28+00:00"
     },
     {
-      "id": "nvidia-blog-7225206454",
+      "id": "openai-news-697450877",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "published_at": "2026-10-22T06:00:00+00:00"
+    },
+    {
+      "id": "nvidia-blog-7619978298",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -137,7 +522,7 @@
       "published_at": "2026-10-22T05:00:56+00:00"
     },
     {
-      "id": "nvidia-blog-8206502957",
+      "id": "nvidia-blog-9863760018",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -148,7 +533,7 @@
       "published_at": "2026-10-22T05:00:27+00:00"
     },
     {
-      "id": "nvidia-blog-4096076425",
+      "id": "nvidia-blog-5286256712",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -159,7 +544,7 @@
       "published_at": "2026-10-22T05:00:25+00:00"
     },
     {
-      "id": "nvidia-blog-9860307167",
+      "id": "nvidia-blog-121420052",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -170,7 +555,7 @@
       "published_at": "2026-10-22T05:00:23+00:00"
     },
     {
-      "id": "nvidia-blog-588754091",
+      "id": "nvidia-blog-6492200551",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -181,7 +566,7 @@
       "published_at": "2026-10-22T05:00:19+00:00"
     },
     {
-      "id": "nvidia-blog-683684728",
+      "id": "nvidia-blog-8949153836",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -192,7 +577,7 @@
       "published_at": "2026-10-22T05:00:02+00:00"
     },
     {
-      "id": "leiphone-8064762823",
+      "id": "leiphone-1625848602",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -203,7 +588,7 @@
       "published_at": "2026-10-22T04:47:00+00:00"
     },
     {
-      "id": "leiphone-5853467107",
+      "id": "leiphone-6140129359",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -214,7 +599,7 @@
       "published_at": "2026-10-22T02:27:00+00:00"
     },
     {
-      "id": "leiphone-1509178175",
+      "id": "leiphone-9401887819",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -225,7 +610,7 @@
       "published_at": "2026-10-22T02:19:00+00:00"
     },
     {
-      "id": "leiphone-5088912712",
+      "id": "leiphone-9957887768",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -236,7 +621,7 @@
       "published_at": "2026-10-22T02:13:00+00:00"
     },
     {
-      "id": "leiphone-2499300518",
+      "id": "leiphone-6365155626",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -247,7 +632,7 @@
       "published_at": "2026-10-22T02:12:00+00:00"
     },
     {
-      "id": "leiphone-3234045435",
+      "id": "leiphone-2013960276",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -258,7 +643,7 @@
       "published_at": "2026-10-22T01:51:00+00:00"
     },
     {
-      "id": "thelec-7753233576",
+      "id": "thelec-4800741806",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -269,7 +654,7 @@
       "published_at": "2026-10-22T01:30:28+00:00"
     },
     {
-      "id": "thelec-4243234736",
+      "id": "thelec-7978236113",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -280,7 +665,7 @@
       "published_at": "2026-10-22T01:30:01+00:00"
     },
     {
-      "id": "thelec-1578400002",
+      "id": "thelec-5938751815",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -291,7 +676,7 @@
       "published_at": "2026-10-22T01:29:35+00:00"
     },
     {
-      "id": "thelec-5343637592",
+      "id": "thelec-7213053106",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -302,7 +687,7 @@
       "published_at": "2026-10-22T01:29:23+00:00"
     },
     {
-      "id": "thelec-9596765287",
+      "id": "thelec-9282946636",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -313,7 +698,7 @@
       "published_at": "2026-10-22T01:29:04+00:00"
     },
     {
-      "id": "thelec-5024418365",
+      "id": "thelec-3697979677",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -324,7 +709,7 @@
       "published_at": "2026-10-22T01:28:50+00:00"
     },
     {
-      "id": "thelec-9529361793",
+      "id": "thelec-6741023241",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -335,7 +720,7 @@
       "published_at": "2026-10-22T01:28:18+00:00"
     },
     {
-      "id": "thelec-7914988301",
+      "id": "thelec-9747794758",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -346,7 +731,7 @@
       "published_at": "2026-10-22T01:27:41+00:00"
     },
     {
-      "id": "geekpark-9695682868",
+      "id": "geekpark-6943811086",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -357,7 +742,7 @@
       "published_at": "2026-10-22T00:48:32+00:00"
     },
     {
-      "id": "geekpark-1404898233",
+      "id": "geekpark-8566564145",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -368,7 +753,7 @@
       "published_at": "2026-10-22T00:14:02+00:00"
     },
     {
-      "id": "aws-ml-4637627956",
+      "id": "aws-ml-9500008947",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -379,7 +764,7 @@
       "published_at": "2026-10-21T23:38:38+00:00"
     },
     {
-      "id": "aws-ml-3995897863",
+      "id": "aws-ml-1676581187",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -390,7 +775,7 @@
       "published_at": "2026-10-21T23:36:47+00:00"
     },
     {
-      "id": "thelec-3437277123",
+      "id": "thelec-7056327726",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -401,7 +786,7 @@
       "published_at": "2026-10-21T22:51:16+00:00"
     },
     {
-      "id": "thelec-2108918309",
+      "id": "thelec-9399291147",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -412,7 +797,7 @@
       "published_at": "2026-10-21T22:51:14+00:00"
     },
     {
-      "id": "thelec-3691535845",
+      "id": "thelec-2359130713",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -423,7 +808,7 @@
       "published_at": "2026-10-21T22:51:10+00:00"
     },
     {
-      "id": "thelec-8508075562",
+      "id": "thelec-1244630162",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -434,7 +819,7 @@
       "published_at": "2026-10-21T22:51:05+00:00"
     },
     {
-      "id": "thelec-1497886926",
+      "id": "thelec-3549891328",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -445,7 +830,7 @@
       "published_at": "2026-10-21T22:50:52+00:00"
     },
     {
-      "id": "aws-ml-6305122776",
+      "id": "aws-ml-3338471991",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -456,7 +841,7 @@
       "published_at": "2026-10-21T21:23:26+00:00"
     },
     {
-      "id": "openai-news-4888434769",
+      "id": "openai-news-5387061193",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -467,7 +852,7 @@
       "published_at": "2026-10-21T21:00:00+00:00"
     },
     {
-      "id": "aws-ml-9154309419",
+      "id": "aws-ml-8850725124",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -478,7 +863,7 @@
       "published_at": "2026-10-21T20:00:22+00:00"
     },
     {
-      "id": "the-decoder-4792999590",
+      "id": "the-decoder-2326266461",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -489,7 +874,7 @@
       "published_at": "2026-10-21T19:45:01+00:00"
     },
     {
-      "id": "aws-ml-4722658574",
+      "id": "aws-ml-682323769",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -500,7 +885,7 @@
       "published_at": "2026-10-21T19:19:50+00:00"
     },
     {
-      "id": "simon-willison-1986290164",
+      "id": "simon-willison-3818274666",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -511,7 +896,7 @@
       "published_at": "2026-10-21T18:41:53+00:00"
     },
     {
-      "id": "huggingface-1491378850",
+      "id": "huggingface-5944357210",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -522,7 +907,7 @@
       "published_at": "2026-10-21T18:26:30+00:00"
     },
     {
-      "id": "the-decoder-8088038869",
+      "id": "the-decoder-4786201802",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -533,7 +918,7 @@
       "published_at": "2026-10-21T17:44:22+00:00"
     },
     {
-      "id": "huggingface-3646569424",
+      "id": "huggingface-1678453907",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -544,7 +929,7 @@
       "published_at": "2026-10-21T17:35:36+00:00"
     },
     {
-      "id": "the-decoder-5731398279",
+      "id": "the-decoder-5561971861",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -555,7 +940,7 @@
       "published_at": "2026-10-21T17:10:46+00:00"
     },
     {
-      "id": "openai-news-5736108612",
+      "id": "openai-news-280532384",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -566,7 +951,7 @@
       "published_at": "2026-10-21T17:00:00+00:00"
     },
     {
-      "id": "simon-willison-7380803341",
+      "id": "simon-willison-2973088261",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -577,7 +962,7 @@
       "published_at": "2026-10-21T16:25:16+00:00"
     },
     {
-      "id": "google-research-1646100266",
+      "id": "google-research-3985972020",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -588,7 +973,7 @@
       "published_at": "2026-10-21T16:23:53+00:00"
     },
     {
-      "id": "huggingface-6206254664",
+      "id": "huggingface-5976072553",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -599,7 +984,7 @@
       "published_at": "2026-10-21T16:04:43+00:00"
     },
     {
-      "id": "microsoft-research-4632916332",
+      "id": "microsoft-research-845733784",
       "source_id": "microsoft-research",
       "source_name": "Microsoft Research",
       "category": "ai-models",
@@ -610,7 +995,7 @@
       "published_at": "2026-10-21T16:00:00+00:00"
     },
     {
-      "id": "huggingface-4701088771",
+      "id": "huggingface-8909820792",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -621,7 +1006,7 @@
       "published_at": "2026-10-21T14:58:18+00:00"
     },
     {
-      "id": "the-decoder-1742898417",
+      "id": "the-decoder-389114419",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -632,7 +1017,7 @@
       "published_at": "2026-10-21T14:45:45+00:00"
     },
     {
-      "id": "the-decoder-859822109",
+      "id": "the-decoder-1928288629",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -643,18 +1028,7 @@
       "published_at": "2026-10-21T14:40:51+00:00"
     },
     {
-      "id": "geekpark-4668922255",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "奇瑞说，中国家庭的下一台车是摩托",
-      "summary": "<p>「SUV 有了、轿车有了、MPV 也有了，你再买什么？中国家庭接下来要买的车，就是一台摩托。」</p>\n<p>说这话的是奇瑞智能科技副总经理涂小岳。10 月 19 日，2026 奇瑞全球创新大会期间，奇瑞旗下的两轮公司零维科技第一次正式面对媒体。芜湖下着雨，展台上摆着一台白色的增程巡航车、一台银色的电动探索踏板，还有一顶能把导航投到眼前的智能头盔。</p>\n<p><img alt=\"零维科技在 2026 奇瑞全球创新大会上展出的 GROW C3 与 SOLO X5\" src=\"https://imgslim.geekpark.net/uploads/image/file/e0/d6/e0d619b0776e4d3e0267ef38f89a8085.jpg\" /></p>\n<p>车企造摩托，这件事本身不算新闻。宝马、本田早就两条腿走路，长城有灵魂，吉利有钱江，长安刚把轻骑收入囊中。真正值得多看两眼的是，奇瑞给这家公司定的目标，听上去不太像一家摩托车厂。</p>\n<h2>出口是本田的四倍，利润不到六成</h2>\n<p>先算一笔账。中国摩托车商会的数据显示，2025 年全国摩托车销量约 2197 万辆，其中出口 1337 万辆，连续 31 年全球第一。但国内销量在下滑，燃油摩托内销同比减少 6.18%；唯一逆势猛涨的是 250cc 以上的大排量休闲车型，全年卖出 95 万辆，...",
-      "link": "http://www.geekpark.net/news/372692",
-      "published_at": "2026-10-21T14:26:58+00:00"
-    },
-    {
-      "id": "the-decoder-3532413554",
+      "id": "the-decoder-9192152732",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -665,7 +1039,7 @@
       "published_at": "2026-10-21T13:42:05+00:00"
     },
     {
-      "id": "latent-space-6702632711",
+      "id": "latent-space-1690334130",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -676,18 +1050,7 @@
       "published_at": "2026-10-21T13:04:19+00:00"
     },
     {
-      "id": "the-decoder-1062638612",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signal of possible retaliation.</p>\n<p>The article <a href=\"https://the-decoder....",
-      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
-      "published_at": "2026-10-21T13:04:19+00:00"
-    },
-    {
-      "id": "openai-news-5193512952",
+      "id": "openai-news-5385014701",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -698,18 +1061,7 @@
       "published_at": "2026-10-21T13:00:00+00:00"
     },
     {
-      "id": "the-decoder-7375725314",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation for the behavior.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-can...",
-      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
-      "published_at": "2026-10-21T12:34:57+00:00"
-    },
-    {
-      "id": "mistral-3437417236",
+      "id": "mistral-536874657",
       "source_id": "mistral",
       "source_name": "Mistral AI",
       "category": "ai-models",
@@ -720,7 +1072,7 @@
       "published_at": "2026-10-21T12:00:20+00:00"
     },
     {
-      "id": "openai-news-8385199425",
+      "id": "openai-news-6554797541",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -731,7 +1083,7 @@
       "published_at": "2026-10-21T12:00:00+00:00"
     },
     {
-      "id": "thelec-4202895465",
+      "id": "thelec-5976027930",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -742,7 +1094,7 @@
       "published_at": "2026-10-21T11:19:31+00:00"
     },
     {
-      "id": "thelec-48748251",
+      "id": "thelec-5346036403",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -753,7 +1105,7 @@
       "published_at": "2026-10-21T11:19:26+00:00"
     },
     {
-      "id": "thelec-1054784803",
+      "id": "thelec-9352408321",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -764,7 +1116,7 @@
       "published_at": "2026-10-21T11:18:51+00:00"
     },
     {
-      "id": "thelec-4200881533",
+      "id": "thelec-3810271824",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -775,7 +1127,7 @@
       "published_at": "2026-10-21T11:18:50+00:00"
     },
     {
-      "id": "thelec-2960636208",
+      "id": "thelec-1534853416",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -786,7 +1138,7 @@
       "published_at": "2026-10-21T11:18:31+00:00"
     },
     {
-      "id": "thelec-6977453284",
+      "id": "thelec-6060824037",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -797,7 +1149,7 @@
       "published_at": "2026-10-21T11:18:29+00:00"
     },
     {
-      "id": "thelec-2780004290",
+      "id": "thelec-7798391854",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -808,7 +1160,7 @@
       "published_at": "2026-10-21T11:18:27+00:00"
     },
     {
-      "id": "thelec-7332990835",
+      "id": "thelec-968010877",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -819,7 +1171,7 @@
       "published_at": "2026-10-21T11:18:24+00:00"
     },
     {
-      "id": "thelec-8104689739",
+      "id": "thelec-6162612969",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -830,7 +1182,7 @@
       "published_at": "2026-10-21T11:18:19+00:00"
     },
     {
-      "id": "thelec-6066521891",
+      "id": "thelec-2552655927",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -841,7 +1193,7 @@
       "published_at": "2026-10-21T11:18:09+00:00"
     },
     {
-      "id": "thelec-3634873645",
+      "id": "thelec-6076919897",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -852,7 +1204,7 @@
       "published_at": "2026-10-21T11:18:07+00:00"
     },
     {
-      "id": "thelec-2976389153",
+      "id": "thelec-8368036970",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -863,7 +1215,7 @@
       "published_at": "2026-10-21T11:18:00+00:00"
     },
     {
-      "id": "thelec-3577366308",
+      "id": "thelec-2244942851",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -874,7 +1226,7 @@
       "published_at": "2026-10-21T11:17:58+00:00"
     },
     {
-      "id": "thelec-9227608535",
+      "id": "thelec-3125868624",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -885,40 +1237,7 @@
       "published_at": "2026-10-21T11:17:57+00:00"
     },
     {
-      "id": "thelec-7887535567",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Qualcomm Expands V2X Support to Japan's 760MHz Standard",
-      "summary": "Qualcomm said on Oct. 20 local time that it is expanding the communication standards supported by its vehicle-to-everything (V2X) platform.The company will integrate support for the 760MHz ARIB-T109 standard, established by Japan\\'s Association of Radio Industries and Businesses (ARIB), into its V2X",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14784",
-      "published_at": "2026-10-21T11:17:55+00:00"
-    },
-    {
-      "id": "thelec-3462231220",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "BOS Semiconductors Partners With LG, Hana Micron on Automotive Chiplets",
-      "summary": "BOS Semiconductors said on Oct. 21 it will collaborate with LG Electronics and Hana Micron to develop chiplet-based automotive semiconductors.The three companies will establish a cooperative framework covering the entire development cycle, from next-generation automotive chip design and integration",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14783",
-      "published_at": "2026-10-21T11:17:54+00:00"
-    },
-    {
-      "id": "thelec-9728192352",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "H&L Advanced Launches First Open Recruitment Drive",
-      "summary": "H&amp;L Advanced said on Oct. 21 that it is launching an open recruitment drive for entry-level employees in the second half of this year. It marks the company\\'s first recruitment campaign since the establishment of the merged entity.The company plans to hire double-digit numbers of employees in both ma",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14790",
-      "published_at": "2026-10-21T11:17:21+00:00"
-    },
-    {
-      "id": "nvidia-blog-7596428799",
+      "id": "nvidia-blog-4269847695",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -929,7 +1248,7 @@
       "published_at": "2026-10-21T10:50:37+00:00"
     },
     {
-      "id": "nvidia-blog-8101140344",
+      "id": "nvidia-blog-8947349088",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -940,7 +1259,7 @@
       "published_at": "2026-10-21T10:45:17+00:00"
     },
     {
-      "id": "nvidia-blog-6863644570",
+      "id": "nvidia-blog-8164085566",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -951,7 +1270,7 @@
       "published_at": "2026-10-21T10:30:41+00:00"
     },
     {
-      "id": "nvidia-blog-53950166",
+      "id": "nvidia-blog-7954397314",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -962,7 +1281,7 @@
       "published_at": "2026-10-21T10:30:40+00:00"
     },
     {
-      "id": "nvidia-blog-4289522150",
+      "id": "nvidia-blog-3723418114",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -973,7 +1292,7 @@
       "published_at": "2026-10-21T10:30:25+00:00"
     },
     {
-      "id": "nvidia-blog-5145019803",
+      "id": "nvidia-blog-7760346874",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -984,7 +1303,7 @@
       "published_at": "2026-10-21T10:30:02+00:00"
     },
     {
-      "id": "leiphone-4785875600",
+      "id": "leiphone-8358246983",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -995,7 +1314,7 @@
       "published_at": "2026-10-21T10:20:00+00:00"
     },
     {
-      "id": "nvidia-blog-6728128721",
+      "id": "nvidia-blog-7704117942",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1006,7 +1325,7 @@
       "published_at": "2026-10-21T10:10:01+00:00"
     },
     {
-      "id": "nvidia-blog-2834655628",
+      "id": "nvidia-blog-8238410428",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1017,7 +1336,7 @@
       "published_at": "2026-10-21T10:00:07+00:00"
     },
     {
-      "id": "leiphone-2174154009",
+      "id": "leiphone-5929283605",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1028,7 +1347,7 @@
       "published_at": "2026-10-21T10:00:00+00:00"
     },
     {
-      "id": "leiphone-3390943871",
+      "id": "leiphone-6400218013",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -1039,7 +1358,7 @@
       "published_at": "2026-10-21T09:32:00+00:00"
     },
     {
-      "id": "nvidia-blog-3675068313",
+      "id": "nvidia-blog-546862606",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1050,29 +1369,7 @@
       "published_at": "2026-10-21T09:30:16+00:00"
     },
     {
-      "id": "leiphone-9370369636",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "IDC最新报告：阿里云占中国汽车公共云市场份额超45%",
-      "summary": "<p>根据国际数据公司（IDC）最新发布的《中国汽车云市场（2026年上半年）跟踪》报告，2026年上半年中国汽车公共云基础设施市场规模约83.4亿元人民币。其中，阿里云市场份额达45.1%，接近半壁江山，在该市场的收入同比增长111%。这也是自2021年起，阿里云已连续11期位居中国汽车公共云基础设施市场第一。</p><p>随着大模型在智能座舱、智能辅助驾驶等场景中加速落地，汽车行业对算力资源与AI技术的需求持续增长。阿里云作为提供全栈人工智能服务的全球领导者，凭借以千问大模型、平头哥自研AI芯片，以及高性价比、高稳定性的云计算和AI基础设施，正成为越来越多车企的主流选择。</p><p><br /></p>",
-      "link": "https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html",
-      "published_at": "2026-10-21T09:28:00+00:00"
-    },
-    {
-      "id": "leiphone-9720106209",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "混合办公催生新赛道：专业视讯终端为何被企业重新审视",
-      "summary": "<p>企业会议室正在经历一种看似反常的变化：协作工具越来越多，重要会议的组织成本却未必随之下降。</p><p>远端成员听不清发言、共享材料看不清细节、会前反复调试设备、不同平台之间切换繁琐，这些问题未必单独出现在预算表上，却常在跨区域会商、客户沟通和项目评审中集中显现。</p><p>国家发展改革委印发的《“十四五”数字经济发展规划》提出，大型企业要打造一体化数字平台、贯通全价值链业务协同；中小企业可从远程协作、数字化办公等需求迫切的环节切入。 当跨空间沟通成为常态，会议终端逐渐超出行政采购条目的意义，开始连接人、声、画、内容、日程与系统。</p><p>10月21日，在北京CVTE产业园举行的MAXHUB 2026“专业在场，成就高效”新品媒体品鉴会上，MAXHUB发布新一代专业视讯终端、面向不同会议空间的分体式方案和全向麦产品。作为会议平板品类开创者、连续九年市占率领跑行业的品牌，MAXHUB将高端商务会议作为新品验证场，并以玻璃墙面混响、不同发言距离、远端环境噪声、移动发言和多平台入会等环节，还原关键会议中常见的协作阻滞。</p><p style=\"text-align: center;\"><strong>会议室为何成了协作链路中的短板</strong></p><p>企业数字化走到今天，会议室仍常被视为一个独立空间：一块显示屏、一套音视频设备、一个会议软件账号。但协作早已跨...",
-      "link": "https://www.leiphone.com/category/industrynews/PKwYyRhgChvd69xK.html",
-      "published_at": "2026-10-21T09:11:00+00:00"
-    },
-    {
-      "id": "geekpark-7579433887",
+      "id": "geekpark-3729013911",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1083,18 +1380,7 @@
       "published_at": "2026-10-21T09:10:33+00:00"
     },
     {
-      "id": "thelec-823359046",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "AMD, Intel Join Forces on x86 CPU AI Development",
-      "summary": "AMD and Intel are collaborating to simplify artificial intelligence development for x86 central processing units (CPUs). The companies announced on Oct. 20 local time that they will consolidate their x86 CPU optimization efforts within PyTorch into the oneAPI Deep Neural Network Library (oneDNN).The",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14786",
-      "published_at": "2026-10-21T07:39:51+00:00"
-    },
-    {
-      "id": "openai-news-2245008135",
+      "id": "openai-news-2040227856",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1105,7 +1391,7 @@
       "published_at": "2026-10-21T07:00:00+00:00"
     },
     {
-      "id": "openai-news-2731336654",
+      "id": "openai-news-9873875776",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1116,7 +1402,7 @@
       "published_at": "2026-10-21T07:00:00+00:00"
     },
     {
-      "id": "latent-space-163584249",
+      "id": "latent-space-2234685590",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1127,139 +1413,7 @@
       "published_at": "2026-10-21T06:54:09+00:00"
     },
     {
-      "id": "leiphone-4440305332",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
-      "summary": "<p><span>机器人在哪里练，练成后用在哪里？越来越多的探索指向同一个答案：把训练放进真实的工位，这就是“实景实训平台”。据中国信息通信研究院《具身智能训练场研究报告（2026年）》及多家机构测算，训练通用具身模型至少需要千万小时级真实交互数据，而目前全球可用的高质量真机具身语料仅在百万小时量级，相差约一个数量级。若主要依靠专家遥控真机采集，产出往往不过每天数十小时。缺的不是又一间展厅，而是能把采集、标注、训练、部署失败样本再送回去的数据流水线。在张江的觅蜂科技实训实验室，00后数据采集组长朱绵锐正与一台机器人并肩而立。“哪怕只是拿瓶子、放物件这样简单的小动作，我们也需要反复‘教学’几百遍，它们才能慢慢熟练。”朱绵锐如是说。这间被誉为“机器人学校”的实验室，折射出当前“语料饥渴”的现实困境。大语言模型可依托互联网海量文本实现“自学”，而机器人只能在真实世界中一寸寸“磨”出动作数据。</span></p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261021/6ad85fec3ca58.png?imageView2/2/w/740\" /></p><p style=\"text-align: center;\"><span>图1 数据采集员手持...",
-      "link": "https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html",
-      "published_at": "2026-10-21T06:53:00+00:00"
-    },
-    {
-      "id": "thelec-7200764274",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "MICUBE Solution’s SmartAI Earns Top S Rating for Manufacturing AI Development",
-      "summary": "MICUBE Solution, a provider of smart factory and manufacturing AI solutions, announced that its SmartAI platform received the highest S rating in the Manufacturing AI Development Capability Assessment conducted under the Ministry of SMEs and Startups’ 2026 Smart Factory Supplier Capability Assessmen",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14728",
-      "published_at": "2026-10-21T06:51:35+00:00"
-    },
-    {
-      "id": "thelec-6523171611",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Five Major Korean Bank CEOs Apologize for Hacking Breaches",
-      "summary": "The chief executives of South Korea’s five major commercial banks apologized for recent personal data breaches during a parliamentary audit and pledged to increase cybersecurity budgets and staffing.Lee Chan-jin, governor of the Financial Supervisory Service (FSS), said the regulator would thoroughl",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14729",
-      "published_at": "2026-10-21T06:51:00+00:00"
-    },
-    {
-      "id": "thelec-9830661525",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "[AI FinOps④] Competition Heats Up in AI Cost Management Services",
-      "summary": "Bespin Global and AI Gateway X are also emerging as notable players in artificial intelligence (AI) FinOps.Bespin Global is expanding its FinPlex multicloud FinOps platform to support AI workloads. The company plans to provide AI cost management and control alongside cloud cost management through Fi",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14739",
-      "published_at": "2026-10-21T06:50:42+00:00"
-    },
-    {
-      "id": "thelec-9802417184",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "CJ ONE Expands Membership Benefits Into Mobility Services",
-      "summary": "CJ ONE, the lifestyle membership program operated by CJ OliveNetworks, is expanding its customer benefits into mobility services. CJ ONE said it signed a memorandum of understanding (MOU) with mobility fintech company EZL to launch a transit card tailored to foreign visitors to South Korea by the en",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14740",
-      "published_at": "2026-10-21T06:50:31+00:00"
-    },
-    {
-      "id": "thelec-3218552915",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "KB Kookmin Bank, SK hynix Partner on 250 Billion Won Chip Supplier Guarantees",
-      "summary": "KB Kookmin Bank said on Oct. 20 it signed a memorandum of understanding (MOU) with SK hynix and Korea Trade Insurance Corp. (K-SURE) to strengthen the semiconductor export supply chain. Under the agreement, KB Kookmin Bank and SK hynix will make joint special contributions, which K-SURE will use to",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14741",
-      "published_at": "2026-10-21T06:50:18+00:00"
-    },
-    {
-      "id": "leiphone-4336987171",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
-      "summary": "<p style=\"text-align: left; margin-bottom: 0pt;\"><span>质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。抓取入柜、多项目质检、成品分拣，机器人与工人同线作</span><span>业，一气呵</span><span>成</span><span>。</span></p><p style=\"margin-bottom: 0pt;\"><span>一次看似简单的抓取，背后串联起感知、判断与执行。在智元2026年9月公开的具身模型中，一帧画面可编码为24个视觉词元（Token）；相关实验还展示了模型生成连续动作的低延迟能力。但若要算清抓取的成本，不能只数视觉词元，还需综合推理耗时、芯片功耗、执行成功率和设备投入。</span></p><p style=\"margin-bottom: 0pt;\"><span>这恰好引出智能经济的两块硬成本：一端是模型处理信息的词元用量，另一端是硬件和系统完成任务的实际成本。Token正成为连接模型服务、推理算力与数据供给的重要计量接口，却还不是衡量所有智能作业价值的唯一尺度。</span></p><p style=\"margin-bottom: 0pt;\"><span>电力按“度”计量，模型服务按“词元”计费。Token经济学正加速渗透至更广泛的应用场景。9月11日，工...",
-      "link": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
-      "published_at": "2026-10-21T06:29:00+00:00"
-    },
-    {
-      "id": "leiphone-7663457368",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
-      "summary": "<p style=\"text-align: center; margin-bottom: 0pt;\"><br /></p><p><span><span>智能体也开始领“工号”了。8月31日，张江科学之门模力社区，</span><span>智能体身份码节点管理平台</span><span>正式上线，30家单位参与节点发放。越来越多的智能体将拥有可识别、可管理的数字身份。</span></span></p><p style=\"margin-bottom: 0pt;\"><span>但当Agent从个人电脑里的工具，变成能够跨系统调用、参与业务流程的“数字同事”，一个比技术更现实的问题随之浮现：谁给它派活，谁来验收成果，出了问题又由谁担责？这道题，考验的已不只是智能体的能力，更是组织的管理能力。</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20261021//6ad8578ab9e7e.jpg?imageMogr2/quality/90\" /></p><p style=\"text-align: center; margin-bottom: ...",
-      "link": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
-      "published_at": "2026-10-21T06:14:00+00:00"
-    },
-    {
-      "id": "thelec-9967573987",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "[AI FinOps③] AI Gateways Centralize Usage and Cost Control",
-      "summary": "Infrastructure optimization is considered a core policy in artificial intelligence (AI) FinOps. It prioritizes cost-effective models and calls high-performance models only when necessary to minimize token consumption. The FinOps Foundation also recommends rightsizing AI environments to manage costs.",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14734",
-      "published_at": "2026-10-21T05:42:42+00:00"
-    },
-    {
-      "id": "thelec-1072974885",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "YoungLimWon Soft Lab, KB Kookmin Bank Partner to Integrate ERP and Banking Services",
-      "summary": "Enterprise solutions provider YoungLimWon Soft Lab and KB Kookmin Bank have signed a memorandum of understanding (MOU) to integrate enterprise resource planning (ERP) systems with banking services, aiming to improve cash management convenience and operational efficiency for corporate customers.The c",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14748",
-      "published_at": "2026-10-21T05:41:54+00:00"
-    },
-    {
-      "id": "thelec-503405262",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "SAP Offers Free Consulting, 50% ERP Discounts to 100 Growing Companies",
-      "summary": "SAP Korea plans to select 100 small and midsize enterprises (SMEs) with strong growth potential and support their adoption of enterprise resource planning (ERP) systems and artificial intelligence (AI). The initiative marks an expansion beyond its traditional focus on large corporate customers, aimi",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14756",
-      "published_at": "2026-10-21T05:41:18+00:00"
-    },
-    {
-      "id": "leiphone-5564328542",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "双11大促火热开局，千川多重产品助力生意爆发",
-      "summary": "<p>双11大促火热开局，抖音电商千川阶段性投放数据正式出炉！平台加码流量扶持，乘方星选、达人营销、智能优惠券等多款产品协同发力，助力商家抢抓大促红利，迎来生意爆发。破百万、破千万商品与店铺规模大幅走高，多重补贴权益持续释放增量空间，为商家带来确定性增长机遇！</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261021/6ad84996275e2.jpg?imageView2/2/w/740\" /></p>",
-      "link": "https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html",
-      "published_at": "2026-10-21T05:13:00+00:00"
-    },
-    {
-      "id": "latent-space-8630688562",
+      "id": "latent-space-8183455551",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1270,7 +1424,7 @@
       "published_at": "2026-10-21T05:01:26+00:00"
     },
     {
-      "id": "openai-news-2112373044",
+      "id": "openai-news-1236930360",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1281,7 +1435,7 @@
       "published_at": "2026-10-21T04:50:00+00:00"
     },
     {
-      "id": "geekpark-3512478496",
+      "id": "geekpark-6608573864",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1292,40 +1446,7 @@
       "published_at": "2026-10-21T04:16:25+00:00"
     },
     {
-      "id": "leiphone-7157217504",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了",
-      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261021/6ad839630cd72.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
-      "link": "https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html",
-      "published_at": "2026-10-21T04:09:00+00:00"
-    },
-    {
-      "id": "leiphone-479686408",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」",
-      "summary": "<section><section><section><section><section style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261021/6ad82a8f481b6.jpg?imageView2/2/w/740\" /></section><section><section></section></section><section style=\"margin-top: 16px;\"><section><section style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em; margin-top: 24px;\"><span><span style=\"letter-spacing: 0.5px;\">一个六岁的孩子问AI“为什么天是蓝的”。三秒钟，“瑞利散射”的解释弹了出来，精确、流畅、挑不出毛病。</span></span></section><section style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"><span><span style=\"letter-spaci...",
-      "link": "https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html",
-      "published_at": "2026-10-21T03:07:00+00:00"
-    },
-    {
-      "id": "leiphone-5764099557",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "从安防到工业，海康威视底气从何而来",
-      "summary": "<section><section><section><section><section><section><p style=\"text-align: center; margin-bottom: 24px; line-height: 1.75em; margin-top: 16px;\"><span><span style=\"letter-spacing: 0.5px;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261021/6ad8288b50e2a.jpg?imageView2/2/w/740\" /></span></span></p><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em; margin-top: 16px;\"><span><span style=\"letter-spacing: 0.5px;\">2026年中国国际工业博览会的工业自动化展区，海康威视的展台被人群围了好几层。</span></span></p><section style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"><span><span s...",
-      "link": "https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html",
-      "published_at": "2026-10-21T02:57:00+00:00"
-    },
-    {
-      "id": "geekpark-3023832815",
+      "id": "geekpark-8263716234",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1336,51 +1457,7 @@
       "published_at": "2026-10-21T00:37:07+00:00"
     },
     {
-      "id": "thelec-9336793202",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Korea’s Top Offensive Security Firms Vie for Dominance",
-      "summary": "Who will emerge as South Korea’s leading offensive security company?The country’s three major offensive security firms — Theori, Enki White Hat and Stealien — are competing head-to-head as surging demand for simulated cyberattacks amid an AI-driven hacking crisis sends their valuations soaring.The t",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14765",
-      "published_at": "2026-10-21T00:32:10+00:00"
-    },
-    {
-      "id": "thelec-7495663292",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Sh Suhyup Bank Completes Stablecoin Banking PoC",
-      "summary": "Sh Suhyup Bank said on Oct. 20 it has completed a proof of concept (PoC) for stablecoin-based deposit and lending services in partnership with fintech security company Aton.The bank said the project confirmed the technical feasibility of expanding stablecoin applications beyond payments and remittan",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14768",
-      "published_at": "2026-10-21T00:31:48+00:00"
-    },
-    {
-      "id": "thelec-4833411349",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Lenovo, Lomin Launch AI Data De-Identification Appliance",
-      "summary": "Lenovo Korea is partnering with document AI company Lomin to introduce the Lomin Redact AI Appliance, a server-based solution designed to de-identify personal information using artificial intelligence.The appliance integrates AI computing infrastructure, de-identification software and an operating e",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14769",
-      "published_at": "2026-10-21T00:31:37+00:00"
-    },
-    {
-      "id": "thelec-1742398807",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Cohesity Names Matthew Johnston APJ Channel Sales Head",
-      "summary": "AI-powered data security company Cohesity said on Oct. 20 it has appointed Matthew Johnston as senior director of partner sales for Asia Pacific and Japan (APJ).Johnston will lead the company’s partner and channel market strategies across Australia, New Zealand, Singapore and ASEAN, South Korea, Jap",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14770",
-      "published_at": "2026-10-21T00:31:20+00:00"
-    },
-    {
-      "id": "openai-news-3886899102",
+      "id": "openai-news-402423129",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1391,7 +1468,7 @@
       "published_at": "2026-10-21T00:00:00+00:00"
     },
     {
-      "id": "openai-news-2679009910",
+      "id": "openai-news-1175191941",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1402,7 +1479,7 @@
       "published_at": "2026-10-21T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-2982512200",
+      "id": "simon-willison-8973486210",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1413,7 +1490,7 @@
       "published_at": "2026-10-20T23:50:25+00:00"
     },
     {
-      "id": "aws-ml-7658112651",
+      "id": "aws-ml-8442640407",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1424,7 +1501,7 @@
       "published_at": "2026-10-20T21:14:10+00:00"
     },
     {
-      "id": "simon-willison-7468260672",
+      "id": "simon-willison-5058067446",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1435,7 +1512,7 @@
       "published_at": "2026-10-20T19:34:19+00:00"
     },
     {
-      "id": "latent-space-2818183666",
+      "id": "latent-space-7441497757",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1446,7 +1523,7 @@
       "published_at": "2026-10-20T19:31:57+00:00"
     },
     {
-      "id": "aws-ml-1785300239",
+      "id": "aws-ml-726996213",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1457,7 +1534,7 @@
       "published_at": "2026-10-20T17:59:07+00:00"
     },
     {
-      "id": "aws-ml-6216889297",
+      "id": "aws-ml-7402692531",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1468,7 +1545,7 @@
       "published_at": "2026-10-20T17:52:50+00:00"
     },
     {
-      "id": "aws-ml-3649704629",
+      "id": "aws-ml-4278685887",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1479,7 +1556,7 @@
       "published_at": "2026-10-20T17:48:27+00:00"
     },
     {
-      "id": "aws-ml-1567483360",
+      "id": "aws-ml-8481273229",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1490,7 +1567,7 @@
       "published_at": "2026-10-20T17:34:04+00:00"
     },
     {
-      "id": "aws-ml-2966034227",
+      "id": "aws-ml-9171574240",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1501,7 +1578,7 @@
       "published_at": "2026-10-20T16:42:53+00:00"
     },
     {
-      "id": "aws-ml-9364805400",
+      "id": "aws-ml-5285645825",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1512,7 +1589,7 @@
       "published_at": "2026-10-20T16:22:24+00:00"
     },
     {
-      "id": "huggingface-5754772764",
+      "id": "huggingface-4710859947",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1523,7 +1600,7 @@
       "published_at": "2026-10-20T16:09:19+00:00"
     },
     {
-      "id": "github-ai-233605000",
+      "id": "github-ai-5858617285",
       "source_id": "github-ai",
       "source_name": "GitHub AI & ML",
       "category": "ai-products",
@@ -1534,7 +1611,7 @@
       "published_at": "2026-10-20T16:05:03+00:00"
     },
     {
-      "id": "aws-ml-3965756282",
+      "id": "aws-ml-4775182503",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1545,7 +1622,7 @@
       "published_at": "2026-10-20T16:03:48+00:00"
     },
     {
-      "id": "microsoft-research-9602507176",
+      "id": "microsoft-research-1001931811",
       "source_id": "microsoft-research",
       "source_name": "Microsoft Research",
       "category": "ai-models",
@@ -1556,7 +1633,7 @@
       "published_at": "2026-10-20T16:00:00+00:00"
     },
     {
-      "id": "aws-ml-4978025453",
+      "id": "aws-ml-4370051360",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1567,7 +1644,7 @@
       "published_at": "2026-10-20T15:57:57+00:00"
     },
     {
-      "id": "aws-ml-4784122134",
+      "id": "aws-ml-2858901888",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1578,18 +1655,7 @@
       "published_at": "2026-10-20T15:39:04+00:00"
     },
     {
-      "id": "leiphone-5638021567",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "王友清教授团队论文被ACM MM 2026录用｜ACM MM 2026",
-      "summary": "<section style=\"background-color: rgb(232, 242, 252); font-style: normal; font-weight: 400; text-align: justify; font-size: 16px; color: rgb(62, 62, 62);\"><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>来源：CVer<br /></em></span></p><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>文章链接：https://mp.weixin.qq.com/s/Xax4gmcHdwmTPcAJ768tQg</em></span></p><p></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><section><section style=\"display: inline-block; width: 95%; vert...",
-      "link": "https://www.leiphone.com/category/private/JI8CBnLPkIokurs6.html",
-      "published_at": "2026-10-20T15:37:00+00:00"
-    },
-    {
-      "id": "aws-ml-5590225269",
+      "id": "aws-ml-6939771570",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1600,7 +1666,7 @@
       "published_at": "2026-10-20T15:36:39+00:00"
     },
     {
-      "id": "aws-ml-5067290401",
+      "id": "aws-ml-8041157490",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1611,7 +1677,7 @@
       "published_at": "2026-10-20T15:33:54+00:00"
     },
     {
-      "id": "mit-tech-review-1421193312",
+      "id": "mit-tech-review-7131153649",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1622,7 +1688,7 @@
       "published_at": "2026-10-20T15:20:25+00:00"
     },
     {
-      "id": "mistral-630708758",
+      "id": "mistral-7549755498",
       "source_id": "mistral",
       "source_name": "Mistral AI",
       "category": "ai-models",
@@ -1633,7 +1699,7 @@
       "published_at": "2026-10-20T12:00:22+00:00"
     },
     {
-      "id": "mit-tech-review-9117453056",
+      "id": "mit-tech-review-5667229396",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1644,7 +1710,7 @@
       "published_at": "2026-10-20T12:00:00+00:00"
     },
     {
-      "id": "nvidia-blog-9649301921",
+      "id": "nvidia-blog-7875461462",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -1655,7 +1721,7 @@
       "published_at": "2026-10-20T10:30:11+00:00"
     },
     {
-      "id": "openai-news-9308639411",
+      "id": "openai-news-1565219946",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1666,7 +1732,7 @@
       "published_at": "2026-10-20T10:00:00+00:00"
     },
     {
-      "id": "mit-tech-review-664744023",
+      "id": "mit-tech-review-9276765053",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1677,7 +1743,7 @@
       "published_at": "2026-10-20T09:00:00+00:00"
     },
     {
-      "id": "openai-news-1591592368",
+      "id": "openai-news-216505740",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1688,7 +1754,7 @@
       "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
-      "id": "geekpark-7154639030",
+      "id": "geekpark-2716889100",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1699,7 +1765,7 @@
       "published_at": "2026-10-20T05:46:53+00:00"
     },
     {
-      "id": "latent-space-1965702884",
+      "id": "latent-space-3719017236",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -1710,18 +1776,7 @@
       "published_at": "2026-10-20T05:21:52+00:00"
     },
     {
-      "id": "nvidia-blog-1476520609",
-      "source_id": "nvidia-blog",
-      "source_name": "NVIDIA Blog",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.  Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some [&#8230;]",
-      "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-      "published_at": "2026-10-20T05:00:00+00:00"
-    },
-    {
-      "id": "geekpark-5610999994",
+      "id": "geekpark-2876073457",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1732,7 +1787,7 @@
       "published_at": "2026-10-20T01:34:14+00:00"
     },
     {
-      "id": "geekpark-6374598064",
+      "id": "geekpark-6079519200",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -1743,7 +1798,7 @@
       "published_at": "2026-10-20T01:01:44+00:00"
     },
     {
-      "id": "openai-news-3296312120",
+      "id": "openai-news-3000442658",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -1754,7 +1809,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-5671923556",
+      "id": "huggingface-5509448182",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1765,7 +1820,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-3768268735",
+      "id": "huggingface-9635751199",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1776,7 +1831,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-7601278150",
+      "id": "huggingface-7359429910",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -1787,7 +1842,7 @@
       "published_at": "2026-10-20T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-5223329510",
+      "id": "simon-willison-1329170043",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -1798,7 +1853,7 @@
       "published_at": "2026-10-19T23:58:25+00:00"
     },
     {
-      "id": "aws-ml-5185229785",
+      "id": "aws-ml-9233351074",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1809,7 +1864,7 @@
       "published_at": "2026-10-19T23:32:19+00:00"
     },
     {
-      "id": "aws-ml-5001123967",
+      "id": "aws-ml-6114303686",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1820,7 +1875,7 @@
       "published_at": "2026-10-19T22:39:24+00:00"
     },
     {
-      "id": "aws-ml-6512257894",
+      "id": "aws-ml-1298008947",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1831,18 +1886,7 @@
       "published_at": "2026-10-19T21:14:44+00:00"
     },
     {
-      "id": "nvidia-blog-9027907767",
-      "source_id": "nvidia-blog",
-      "source_name": "NVIDIA Blog",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive [&#8230;]",
-      "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-      "published_at": "2026-10-19T19:27:08+00:00"
-    },
-    {
-      "id": "github-ai-1550719402",
+      "id": "github-ai-6388577299",
       "source_id": "github-ai",
       "source_name": "GitHub AI & ML",
       "category": "ai-products",
@@ -1853,7 +1897,7 @@
       "published_at": "2026-10-19T18:47:22+00:00"
     },
     {
-      "id": "mit-tech-review-1642953066",
+      "id": "mit-tech-review-6668451405",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1864,7 +1908,7 @@
       "published_at": "2026-10-19T18:22:47+00:00"
     },
     {
-      "id": "mit-tech-review-9347013624",
+      "id": "mit-tech-review-6691320887",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -1873,28 +1917,6 @@
       "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
       "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
       "published_at": "2026-10-19T17:45:55+00:00"
-    },
-    {
-      "id": "geekpark-4291222728",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "AI 里没有答案的问题，需要一场「深谈」",
-      "summary": "<p>去年，极客公园创新大会第一次办起「小场深谈」。场子都不大，百人左右围坐在一起。</p>\n<p>有些瞬间仍然记忆犹新。</p>\n<ul>\n<li>在「超级个体」专场，一位观众站起来。他刚从大厂跳槽到一家小厂，正用 AI 做自己的第一款产品。他向嘉宾说出自己的困惑：我还在打工，做公众号、视频号，早晚会被老板和同事刷到。这个冲突，怎么解？</li>\n<li>在「硬控 AI」专场，有人直接向刚刚离职的小米 AI 眼镜负责人提问：如果给你两个亿，你会去做哪种 AI 眼镜？有人继续追问，你觉得豆包手机助手到底是真需求还是伪需求？</li>\n<li>在「重塑关系」专场，一位精神科医生，问做陪伴机器人的嘉宾：你是希望它把人带回现实社会的交往，还是给这个家添一个新成员？</li>\n</ul>\n<p>这些问题都不「大」，但都很真，带着一个人具体的处境，来自坐在你旁边的人。</p>\n<p>有老朋友说，这让他们想起极客公园 17 年前的样子&mdash;&mdash;在借来的索尼探梦地下室里，一群人席地而坐。</p>\n<p>如果你参加过去年的「小场深谈」，很可能还记得这种 Vibe。不是发布会式的提问，更像小场子里几个人围坐时，把一个人正在卡住、关心的事摊开来聊。</p>\n<p>去年的「小场深谈」，共设置了 4 个主题专场，包涵 12 场深度访谈，数百位观众走进小场，165 个朋友甚至同时买了...",
-      "link": "http://www.geekpark.net/news/372579",
-      "published_at": "2026-10-19T13:57:34+00:00"
-    },
-    {
-      "id": "openai-news-4393638868",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "link": "https://openai.com/index/low-resource-programming-languages",
-      "published_at": "2026-10-19T12:00:00+00:00"
     }
   ]
 }
