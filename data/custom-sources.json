@@ -1,11 +1,66 @@
 {
-  "generated_at": "2026-10-26T18:48:59.612675+00:00",
+  "generated_at": "2026-10-26T23:02:58.020994+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 77,
+  "count": 81,
   "items": [
     {
-      "id": "aws-ml-7488563341",
+      "id": "thelec-1270455132",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "HD Hyundai Marine Solution’s Nine-Month Revenue Rises 27% to 1.81 Trillion Won",
+      "summary": "HD Hyundai Marine Solution reported third-quarter revenue of 650.1 billion won and operating profit of 95.7 billion won on Oct. 26, up 26.7% and 2.2%, respectively, from a year earlier.Revenue for the first nine months reached 1.8051 trillion won, while operating profit totaled 286.7 billion won. Th",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14945",
+      "published_at": "2026-10-26T22:45:47+00:00"
+    },
+    {
+      "id": "openai-news-9991096707",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published_at": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "id": "the-decoder-6093474832",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_earth.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control.</p>\n<p>The article <a href=\"https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-it...",
+      "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+      "published_at": "2026-10-26T20:30:55+00:00"
+    },
+    {
+      "id": "the-decoder-3646254198",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_bull_.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also carries roughly $800 billion in long-term compute commitments....",
+      "link": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+      "published_at": "2026-10-26T19:14:45+00:00"
+    },
+    {
+      "id": "simon-willison-5383180400",
+      "source_id": "simon-willison",
+      "source_name": "Simon Willison",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Quoting Jason Koebler",
+      "summary": "<blockquote cite=\"https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/\"><p>Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.404media.co...",
+      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "published_at": "2026-10-26T19:00:25+00:00"
+    },
+    {
+      "id": "aws-ml-6336909833",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -16,7 +71,7 @@
       "published_at": "2026-10-26T17:56:58+00:00"
     },
     {
-      "id": "the-decoder-8422759328",
+      "id": "the-decoder-5192502240",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -27,7 +82,7 @@
       "published_at": "2026-10-26T17:50:15+00:00"
     },
     {
-      "id": "mit-tech-review-4431757336",
+      "id": "mit-tech-review-9654523696",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -38,7 +93,7 @@
       "published_at": "2026-10-26T17:45:43+00:00"
     },
     {
-      "id": "aws-ml-189031226",
+      "id": "aws-ml-8433053788",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -49,7 +104,7 @@
       "published_at": "2026-10-26T17:27:20+00:00"
     },
     {
-      "id": "the-decoder-2585181645",
+      "id": "the-decoder-5403160819",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -60,7 +115,7 @@
       "published_at": "2026-10-26T17:19:40+00:00"
     },
     {
-      "id": "aws-ml-6947125459",
+      "id": "aws-ml-8417726862",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -71,7 +126,18 @@
       "published_at": "2026-10-26T17:15:14+00:00"
     },
     {
-      "id": "the-decoder-8725226324",
+      "id": "openai-news-3648368952",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published_at": "2026-10-26T14:30:00+00:00"
+    },
+    {
+      "id": "the-decoder-9650307558",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -82,7 +148,18 @@
       "published_at": "2026-10-26T14:21:23+00:00"
     },
     {
-      "id": "thelec-2096639977",
+      "id": "openai-news-3466278819",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published_at": "2026-10-26T13:45:00+00:00"
+    },
+    {
+      "id": "thelec-3695297127",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -93,7 +170,7 @@
       "published_at": "2026-10-26T13:30:11+00:00"
     },
     {
-      "id": "thelec-1021117128",
+      "id": "thelec-6184569191",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -104,7 +181,7 @@
       "published_at": "2026-10-26T13:30:09+00:00"
     },
     {
-      "id": "thelec-7651356046",
+      "id": "thelec-3975496946",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +192,7 @@
       "published_at": "2026-10-26T13:30:08+00:00"
     },
     {
-      "id": "leiphone-5338162215",
+      "id": "leiphone-6566181834",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -126,7 +203,7 @@
       "published_at": "2026-10-26T11:26:00+00:00"
     },
     {
-      "id": "leiphone-9804939290",
+      "id": "leiphone-4447095012",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -137,7 +214,7 @@
       "published_at": "2026-10-26T10:25:00+00:00"
     },
     {
-      "id": "geekpark-5750225335",
+      "id": "geekpark-3781849807",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -148,7 +225,7 @@
       "published_at": "2026-10-26T10:16:50+00:00"
     },
     {
-      "id": "geekpark-3725853139",
+      "id": "geekpark-8780217470",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -159,7 +236,7 @@
       "published_at": "2026-10-26T10:16:08+00:00"
     },
     {
-      "id": "openai-news-3864044003",
+      "id": "openai-news-4562632202",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -170,7 +247,7 @@
       "published_at": "2026-10-26T10:00:00+00:00"
     },
     {
-      "id": "the-decoder-3993267094",
+      "id": "the-decoder-8723019163",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -181,7 +258,7 @@
       "published_at": "2026-10-26T09:49:33+00:00"
     },
     {
-      "id": "the-decoder-4407862880",
+      "id": "the-decoder-5387509759",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -192,7 +269,7 @@
       "published_at": "2026-10-26T09:18:15+00:00"
     },
     {
-      "id": "mit-tech-review-472770463",
+      "id": "mit-tech-review-8602351738",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -203,7 +280,7 @@
       "published_at": "2026-10-26T09:01:00+00:00"
     },
     {
-      "id": "openai-news-4901330472",
+      "id": "openai-news-5970730781",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -214,7 +291,18 @@
       "published_at": "2026-10-26T07:00:00+00:00"
     },
     {
-      "id": "leiphone-1195249483",
+      "id": "openai-news-4933082187",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "published_at": "2026-10-26T07:00:00+00:00"
+    },
+    {
+      "id": "leiphone-6092111549",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -225,7 +313,7 @@
       "published_at": "2026-10-26T06:58:00+00:00"
     },
     {
-      "id": "thelec-7893344979",
+      "id": "thelec-8681617434",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +324,7 @@
       "published_at": "2026-10-26T06:04:33+00:00"
     },
     {
-      "id": "thelec-7490675964",
+      "id": "thelec-2757355258",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +335,7 @@
       "published_at": "2026-10-26T06:04:28+00:00"
     },
     {
-      "id": "thelec-2414737532",
+      "id": "thelec-4544548280",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -258,7 +346,7 @@
       "published_at": "2026-10-26T06:04:21+00:00"
     },
     {
-      "id": "thelec-8218309938",
+      "id": "thelec-4134017698",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -269,7 +357,7 @@
       "published_at": "2026-10-26T06:04:17+00:00"
     },
     {
-      "id": "thelec-8737289570",
+      "id": "thelec-830991195",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -280,7 +368,7 @@
       "published_at": "2026-10-26T06:04:15+00:00"
     },
     {
-      "id": "leiphone-5019353092",
+      "id": "leiphone-4504859919",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -291,7 +379,7 @@
       "published_at": "2026-10-26T02:37:00+00:00"
     },
     {
-      "id": "geekpark-6845225970",
+      "id": "geekpark-5565112006",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -302,7 +390,18 @@
       "published_at": "2026-10-26T00:34:07+00:00"
     },
     {
-      "id": "thelec-8737731014",
+      "id": "openai-news-6028114828",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "published_at": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "thelec-9139947949",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -313,7 +412,7 @@
       "published_at": "2026-10-25T23:14:10+00:00"
     },
     {
-      "id": "thelec-8001647260",
+      "id": "thelec-9811533669",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -324,7 +423,7 @@
       "published_at": "2026-10-25T23:13:52+00:00"
     },
     {
-      "id": "thelec-9302067796",
+      "id": "thelec-8258628481",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -335,7 +434,7 @@
       "published_at": "2026-10-25T23:13:42+00:00"
     },
     {
-      "id": "thelec-2932357062",
+      "id": "thelec-8779265592",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -346,7 +445,7 @@
       "published_at": "2026-10-25T23:13:31+00:00"
     },
     {
-      "id": "thelec-4024470982",
+      "id": "thelec-4170065200",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -357,7 +456,7 @@
       "published_at": "2026-10-25T23:13:20+00:00"
     },
     {
-      "id": "thelec-9312897823",
+      "id": "thelec-555521629",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -368,7 +467,7 @@
       "published_at": "2026-10-25T23:13:02+00:00"
     },
     {
-      "id": "thelec-8730105398",
+      "id": "thelec-2451031551",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -379,7 +478,7 @@
       "published_at": "2026-10-25T23:12:31+00:00"
     },
     {
-      "id": "thelec-956010740",
+      "id": "thelec-6064802996",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -390,7 +489,7 @@
       "published_at": "2026-10-25T23:12:21+00:00"
     },
     {
-      "id": "thelec-4112996645",
+      "id": "thelec-9074678536",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -401,7 +500,7 @@
       "published_at": "2026-10-25T23:12:10+00:00"
     },
     {
-      "id": "thelec-3736566743",
+      "id": "thelec-14863665",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -412,7 +511,7 @@
       "published_at": "2026-10-25T23:11:45+00:00"
     },
     {
-      "id": "thelec-7097204611",
+      "id": "thelec-9933886842",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -423,7 +522,7 @@
       "published_at": "2026-10-25T22:31:21+00:00"
     },
     {
-      "id": "thelec-6245731460",
+      "id": "thelec-306749561",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -434,7 +533,7 @@
       "published_at": "2026-10-25T22:31:18+00:00"
     },
     {
-      "id": "thelec-7691592405",
+      "id": "thelec-7440997700",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -445,7 +544,7 @@
       "published_at": "2026-10-25T22:31:15+00:00"
     },
     {
-      "id": "thelec-5313973603",
+      "id": "thelec-4798916511",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -456,7 +555,7 @@
       "published_at": "2026-10-25T22:31:03+00:00"
     },
     {
-      "id": "thelec-5593536400",
+      "id": "thelec-6687988085",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -467,7 +566,7 @@
       "published_at": "2026-10-25T22:30:58+00:00"
     },
     {
-      "id": "thelec-7838533852",
+      "id": "thelec-4176999378",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -478,7 +577,7 @@
       "published_at": "2026-10-25T22:30:32+00:00"
     },
     {
-      "id": "thelec-1507792944",
+      "id": "thelec-9973592052",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -489,7 +588,7 @@
       "published_at": "2026-10-25T22:30:23+00:00"
     },
     {
-      "id": "thelec-1791863860",
+      "id": "thelec-2965649360",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -500,7 +599,7 @@
       "published_at": "2026-10-25T22:30:20+00:00"
     },
     {
-      "id": "thelec-8401977699",
+      "id": "thelec-3532236626",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -511,7 +610,7 @@
       "published_at": "2026-10-25T22:30:18+00:00"
     },
     {
-      "id": "thelec-5174292519",
+      "id": "thelec-3525507017",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -522,7 +621,7 @@
       "published_at": "2026-10-25T22:30:03+00:00"
     },
     {
-      "id": "thelec-1379499410",
+      "id": "thelec-1721252868",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -533,7 +632,7 @@
       "published_at": "2026-10-25T22:29:58+00:00"
     },
     {
-      "id": "thelec-6407368946",
+      "id": "thelec-2334854716",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -544,7 +643,7 @@
       "published_at": "2026-10-25T22:29:55+00:00"
     },
     {
-      "id": "simon-willison-3759731390",
+      "id": "simon-willison-5164501402",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -555,7 +654,7 @@
       "published_at": "2026-10-25T15:10:19+00:00"
     },
     {
-      "id": "the-decoder-8649539869",
+      "id": "the-decoder-1328935941",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -566,7 +665,7 @@
       "published_at": "2026-10-25T10:08:49+00:00"
     },
     {
-      "id": "the-decoder-1517097469",
+      "id": "the-decoder-3004332398",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -577,7 +676,7 @@
       "published_at": "2026-10-25T09:37:46+00:00"
     },
     {
-      "id": "the-decoder-4053867157",
+      "id": "the-decoder-643852997",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -588,29 +687,7 @@
       "published_at": "2026-10-25T09:12:10+00:00"
     },
     {
-      "id": "the-decoder-7451803744",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/ai_empires.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more than $600 billion in 2026. Yet mounting debt, protests against data centers, an...",
-      "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
-      "published_at": "2026-10-25T08:09:32+00:00"
-    },
-    {
-      "id": "the-decoder-2059154442",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like Deepseek are piling on more price pressure.</p>\n<p>The article <a href=\"https://the-decoder...",
-      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
-      "published_at": "2026-10-25T07:30:11+00:00"
-    },
-    {
-      "id": "thelec-1701900171",
+      "id": "thelec-6965673150",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -621,7 +698,7 @@
       "published_at": "2026-10-25T01:54:19+00:00"
     },
     {
-      "id": "thelec-5887905039",
+      "id": "thelec-2103343800",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -632,7 +709,7 @@
       "published_at": "2026-10-25T01:54:12+00:00"
     },
     {
-      "id": "thelec-5160452261",
+      "id": "thelec-3192629626",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -643,7 +720,7 @@
       "published_at": "2026-10-25T01:53:39+00:00"
     },
     {
-      "id": "thelec-3048110219",
+      "id": "thelec-5929562459",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -654,7 +731,7 @@
       "published_at": "2026-10-25T01:53:34+00:00"
     },
     {
-      "id": "thelec-6198387079",
+      "id": "thelec-3434879680",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -665,7 +742,7 @@
       "published_at": "2026-10-25T01:45:23+00:00"
     },
     {
-      "id": "thelec-7976460531",
+      "id": "thelec-7355271971",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -676,7 +753,7 @@
       "published_at": "2026-10-25T01:45:20+00:00"
     },
     {
-      "id": "thelec-6672094210",
+      "id": "thelec-6774488462",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -687,7 +764,7 @@
       "published_at": "2026-10-25T01:45:15+00:00"
     },
     {
-      "id": "thelec-9206096892",
+      "id": "thelec-172941650",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -698,7 +775,7 @@
       "published_at": "2026-10-25T01:45:07+00:00"
     },
     {
-      "id": "thelec-6401716582",
+      "id": "thelec-4369544643",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -709,7 +786,7 @@
       "published_at": "2026-10-25T01:45:05+00:00"
     },
     {
-      "id": "geekpark-5318687795",
+      "id": "geekpark-5884786045",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -720,7 +797,7 @@
       "published_at": "2026-10-25T00:52:41+00:00"
     },
     {
-      "id": "leiphone-546542032",
+      "id": "leiphone-4084371585",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -731,7 +808,7 @@
       "published_at": "2026-10-24T08:49:00+00:00"
     },
     {
-      "id": "leiphone-3981892300",
+      "id": "leiphone-8385401183",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -742,7 +819,7 @@
       "published_at": "2026-10-24T08:43:00+00:00"
     },
     {
-      "id": "leiphone-9356941333",
+      "id": "leiphone-1553627069",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -753,7 +830,7 @@
       "published_at": "2026-10-24T08:37:00+00:00"
     },
     {
-      "id": "latent-space-517881406",
+      "id": "latent-space-936841014",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -764,7 +841,7 @@
       "published_at": "2026-10-24T07:18:29+00:00"
     },
     {
-      "id": "simon-willison-9121310007",
+      "id": "simon-willison-8082943641",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -775,7 +852,7 @@
       "published_at": "2026-10-24T03:59:57+00:00"
     },
     {
-      "id": "leiphone-5338526754",
+      "id": "leiphone-848065442",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -786,7 +863,7 @@
       "published_at": "2026-10-24T03:40:00+00:00"
     },
     {
-      "id": "leiphone-8045682598",
+      "id": "leiphone-6516012725",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -797,7 +874,7 @@
       "published_at": "2026-10-24T02:53:00+00:00"
     },
     {
-      "id": "leiphone-3060405690",
+      "id": "leiphone-6522031150",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -808,7 +885,7 @@
       "published_at": "2026-10-24T02:44:00+00:00"
     },
     {
-      "id": "geekpark-3700035092",
+      "id": "geekpark-7238668502",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -817,39 +894,6 @@
       "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/51/80/518047a03496253e470b6f3b4c348644.png\" /></p>\n<h1>苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达</h1>\n<p>苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。</p>\n<p>苹果此前表示，iPhone Duo 的预购需求表现异常强劲，公司正在努力尽快将产品交付给消费者。苹果同时确认，全球 Apple Store 门店会提供少量供现场顾客购买的库存，但提醒消费者，这些现货可能很快售罄。对于希望不经预购、直接前往门店购买的用户来说，能否买到新机仍存在较大不确定性。</p>\n<p>这次供应紧张，与 iPhone Duo 在预购阶段迅速售罄的情况相吻合。预购于 10 月 16 日开启后，部分配置的预计发货时间很快被推迟。此后，苹果官网显示的新订单交付日期进一步延后，部分订单...",
       "link": "http://www.geekpark.net/news/372858",
       "published_at": "2026-10-24T00:34:27+00:00"
-    },
-    {
-      "id": "simon-willison-5537729715",
-      "source_id": "simon-willison",
-      "source_name": "Simon Willison",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Quick Study",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/quick-study-painter\">Quick Study</a></p>\n        <p>Prompt <a href=\"https://claude.ai/share/71adda96-193f-4f2a-97c0-454e08066afb\">to Claude Opus 5.5 High</a>:</p>\n<blockquote>\n<p><code>Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush</code></p>\n</blockquote>\n<p>See also <a href=\"https://simonwillison.net/2026/Aug/25/pelican-watercolor/\">my previous experiment</a> getting Claude Fable to simulate a watercolor illustration ...",
-      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "published_at": "2026-10-23T21:35:13+00:00"
-    },
-    {
-      "id": "simon-willison-6981718207",
-      "source_id": "simon-willison",
-      "source_name": "Simon Willison",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Introducing Kimi K3.1 Pro",
-      "summary": "<p><strong><a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Introducing Kimi K3.1 Pro</a></strong></p>\nKimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot  promise \"Full model weights will be released by Nov 4, 2026\".</p>\n<p>They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).</p>\n<p>The <a href=\"https://platform.kimi.ai/docs/pricing/chat\">US dollar pricing</a> is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price ...",
-      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "published_at": "2026-10-23T19:40:54+00:00"
-    },
-    {
-      "id": "google-research-8148158327",
-      "source_id": "google-research",
-      "source_name": "Google Research",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "summary": "Generative AI",
-      "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "published_at": "2026-10-23T18:51:33+00:00"
     }
   ]
 }
