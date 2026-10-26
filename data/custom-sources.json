@@ -1,11 +1,121 @@
 {
-  "generated_at": "2026-10-26T05:49:12.930797+00:00",
+  "generated_at": "2026-10-26T12:24:06.967875+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 81,
+  "count": 72,
   "items": [
     {
-      "id": "leiphone-6112535155",
+      "id": "geekpark-8539763744",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "今年的 1024，可能是最后一个程序员节",
+      "summary": "<p><strong>作者｜Wildcard</strong></p>\n<p><strong>编辑｜靖宇</strong></p>\n<p>今天一整天， X 上都有人在讨论，「<strong>1024 程序员节日快乐，今年会不会是最后一个程序员节了</strong>」。</p>\n<p>这一天恰好是周六。微博上的话题叫「今年程序员节自带休息日」，配文说 AI 工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。</p>\n<p>影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗「F5」键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，「今年的黄金键帽，应该发给 AI」。</p>\n<p>一家机构的节日推文写得更直白，「今年的程序员节，我们扩招了，会指挥 AI 做东西的，也算程序员」。</p>\n<p>而在小红书上，有程序员在「古法编程时代」的标签下清理旧书，《图解 HTTP》三块一本，算法书十块。另一条帖子的标题是「程序员的书，多抓鱼都不收」，最后卖出去的几本里，最贵的竟然是《人月神话》。</p>\n<p>一个节日，被放了假，被扩了招，连它的「圣经」都在二手市场上打折。</p>\n<p>节日通常不会死于被取消。它死于没有人再需要它来确认自己是谁。要理解这句话，得先回到这个节日是怎么来的。</p>\n<h1><strong><em>01</em></strong></h1>\n...",
+      "link": "http://www.geekpark.net/news/372944",
+      "published_at": "2026-10-26T10:16:50+00:00"
+    },
+    {
+      "id": "geekpark-9788474219",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+      "summary": "<p><strong>作者｜宇航猿</strong></p>\n<p><strong>编辑｜靖宇</strong></p>\n<p>10 月 23 日上午，Kimi 官方在 X 和视频号上发了一段 24 秒的视频。</p>\n<p>画面里是一台复古风格的老式电脑，屏幕上开着 Kimi Code，终端里一行行地写着 Three.js 代码，在生成一个复杂的 3D 场景。眼尖的网友很快在左上角的模型栏里找到了答案&mdash;&mdash;「Model: Kimi K3.1」。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/a3/dc/a3dcee375aef47237471ec6404ff6dba.png\" /></p>\n<p>Kimi 官方发布的 K3.1 预热视频｜图片来源：X @Kimi_Moonshot</p>\n<p><strong>用一台老古董般的机器，跑一段今天最前沿的 3D 代码，这个反差本身就是月之暗面想说的话。</strong></p>\n<p>十几个小时后，10 月 24 日零点刚过，卡着程序员节，Kimi K3.1 Pro 正式上线，同步推出的还有一个速度快 2 到 3 倍的 Highspeed 版本。官方承诺，完整模型权重将...",
+      "link": "http://www.geekpark.net/news/372943",
+      "published_at": "2026-10-26T10:16:08+00:00"
+    },
+    {
+      "id": "the-decoder-1759969671",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+      "summary": "<p><img alt=\"According to an analysis by the financial management platform Ramp, companies have significantly increased their spending on AI applications. Ramp analyzed spending data from tens of thousands of companies and billions of transactions.\" class=\"attachment-full size-full wp-post-image\" height=\"816\" src=\"https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1456\" /></p>\n<p>        High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power.</p>\n<p>The article...",
+      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+      "published_at": "2026-10-26T09:49:33+00:00"
+    },
+    {
+      "id": "the-decoder-3295928004",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1195\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/Walden-Robotics-robot.avif\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there.</p>\n<p>The article <a href=\"https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/\">Toyota is betting $6.4 billion a year on humanoid robots and factory automation</a> appeared fir...",
+      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+      "published_at": "2026-10-26T09:18:15+00:00"
+    },
+    {
+      "id": "leiphone-4173283829",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
+      "summary": "<p>国产大模型的竞争，正从模型层延伸到算力层：再强的模型，最终都要基于算子在芯片上执行。同一个模型、同一块芯片，换一套更优的算子，有时会带来数倍的性能提升。算子的效率决定了同样的显卡能跑多快，也决定了每个 token 的价格。</p><p>DeepSeek 近日全面开源推理框架 DeepInfer。继模型权重和 FlashMLA、DeepGEMM 等算子库之后，他们把模型运行的链路开放了。其中的 FlashMLA，有工程师在芯片上逐行手调的版本，算子性能跑到了硬件极限的 90% 以上，这也是人类手艺目前在部分芯片上达到的极限成绩。</p><p>而这个极限，同一周就被 AI 刷新了。据悉，截至 10 月 22 日，完全由 AI 编写算子、无人工逐行调优的 ForgeKernel，同时登顶两个算子评测榜：英伟达主场的 SOL-ExecBench FlashInfer-Bench 合集第一，以及昇腾 CANN 官方仓库维护的 CANNBench A3 硬件榜第一，基准加速比 1.835×，领先第二名 25%。在名次之外，AI自主优化算子的能力不容小觑：在DeepSeek v4.1 Flash的算子上，相比DeepSeek开源的英伟达版本，ForgeKernel也通过从0用AI迭代的方式实现了性能超越。</p><p>这是智能进化的接力。无论是DeepSeek的开源精神还是算子优化榜...",
+      "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+      "published_at": "2026-10-26T06:58:00+00:00"
+    },
+    {
+      "id": "thelec-6035575957",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "HD Hyundai Site Solution to Develop Autonomous Excavators Using Virtual Simulation",
+      "summary": "HD Hyundai Site Solution plans to advance its autonomous excavator technology by developing a virtual simulation platform.HD Hyundai Site Solution said on Oct. 25 that it had been selected as the lead contractor for a government-funded project under the Ministry of Trade, Industry and Resources (MOT",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14907",
+      "published_at": "2026-10-26T06:04:33+00:00"
+    },
+    {
+      "id": "thelec-939050041",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Samsung SDI to Supply 1.5 GWh of ESS Solutions to US Energy Firm",
+      "summary": "Samsung SDI will supply additional energy storage system (ESS) solutions to US energy company Alpha Omega Power (AOP).Samsung SDI said on Oct. 26 that its US subsidiary, Samsung SDI America (SDIA), had signed an agreement with AOP to supply 1 gigawatt-hour (GWh) of ESS solutions. Including the 0.5 G",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14906",
+      "published_at": "2026-10-26T06:04:28+00:00"
+    },
+    {
+      "id": "thelec-1023262689",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "GI Tech Wins Automotive Glass Inspection Equipment Order From KCC Glass",
+      "summary": "GI Tech has secured an order worth approximately 3.1 billion won for equipment that detects defects in automotive glass.GI Tech said on Oct. 26 that it had signed a contract with KCC Glass to supply defect inspection systems for automotive glass production. The agreement covers upgrades to existing",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14908",
+      "published_at": "2026-10-26T06:04:21+00:00"
+    },
+    {
+      "id": "thelec-3121044241",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LS Eco Energy to Invest 64.9 Billion Won in Vietnam Ultracapacitor Plant",
+      "summary": "LS Eco Energy plans to invest 64.9 billion won in Vietnam to build an ultracapacitor (UC) production facility for artificial intelligence (AI) data centers.LS Eco Energy said in a regulatory filing on Oct. 26 that it would invest 64.9 billion won in a new medium-sized ultracapacitor cell production",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14910",
+      "published_at": "2026-10-26T06:04:17+00:00"
+    },
+    {
+      "id": "thelec-3014070893",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "KT&G Launches Duty-Free Exclusive ESSE IT'S KIIK YELLOW",
+      "summary": "KT&amp;G launched its new duty-free exclusive cigarette product, ESSE IT\\'S KIIK YELLOW, at six major airports and downtown duty-free stores in South Korea on Oct. 26.The new product is a 100-millimeter superslim cigarette designed to reduce tobacco odor in the mouth after smoking. The packaging features",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14913",
+      "published_at": "2026-10-26T06:04:15+00:00"
+    },
+    {
+      "id": "leiphone-9289665520",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -16,7 +126,7 @@
       "published_at": "2026-10-26T02:37:00+00:00"
     },
     {
-      "id": "geekpark-530219817",
+      "id": "geekpark-6332714498",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -27,7 +137,7 @@
       "published_at": "2026-10-26T00:34:07+00:00"
     },
     {
-      "id": "thelec-6760674520",
+      "id": "thelec-574033454",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -38,7 +148,7 @@
       "published_at": "2026-10-25T23:14:10+00:00"
     },
     {
-      "id": "thelec-7441254749",
+      "id": "thelec-5975222635",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -49,7 +159,7 @@
       "published_at": "2026-10-25T23:13:52+00:00"
     },
     {
-      "id": "thelec-1209781204",
+      "id": "thelec-1891938487",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -60,7 +170,7 @@
       "published_at": "2026-10-25T23:13:42+00:00"
     },
     {
-      "id": "thelec-2228178824",
+      "id": "thelec-9934505640",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -71,7 +181,7 @@
       "published_at": "2026-10-25T23:13:31+00:00"
     },
     {
-      "id": "thelec-815485331",
+      "id": "thelec-3490129176",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -82,7 +192,7 @@
       "published_at": "2026-10-25T23:13:20+00:00"
     },
     {
-      "id": "thelec-9806738445",
+      "id": "thelec-8854866811",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -93,7 +203,7 @@
       "published_at": "2026-10-25T23:13:02+00:00"
     },
     {
-      "id": "thelec-9013798473",
+      "id": "thelec-3927429161",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -104,7 +214,7 @@
       "published_at": "2026-10-25T23:12:31+00:00"
     },
     {
-      "id": "thelec-5735574506",
+      "id": "thelec-4318496222",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +225,7 @@
       "published_at": "2026-10-25T23:12:21+00:00"
     },
     {
-      "id": "thelec-262702956",
+      "id": "thelec-6286752316",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -126,7 +236,7 @@
       "published_at": "2026-10-25T23:12:10+00:00"
     },
     {
-      "id": "thelec-9415564449",
+      "id": "thelec-100802755",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -137,7 +247,7 @@
       "published_at": "2026-10-25T23:11:45+00:00"
     },
     {
-      "id": "thelec-6538610421",
+      "id": "thelec-1230684448",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +258,7 @@
       "published_at": "2026-10-25T22:31:21+00:00"
     },
     {
-      "id": "thelec-597760657",
+      "id": "thelec-2275337706",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +269,7 @@
       "published_at": "2026-10-25T22:31:18+00:00"
     },
     {
-      "id": "thelec-4211077505",
+      "id": "thelec-2304515726",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -170,7 +280,7 @@
       "published_at": "2026-10-25T22:31:15+00:00"
     },
     {
-      "id": "thelec-6271372380",
+      "id": "thelec-5911113998",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -181,7 +291,7 @@
       "published_at": "2026-10-25T22:31:03+00:00"
     },
     {
-      "id": "thelec-3188617948",
+      "id": "thelec-4966963130",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -192,7 +302,7 @@
       "published_at": "2026-10-25T22:30:58+00:00"
     },
     {
-      "id": "thelec-4583788882",
+      "id": "thelec-6030262261",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -203,7 +313,7 @@
       "published_at": "2026-10-25T22:30:32+00:00"
     },
     {
-      "id": "thelec-749495456",
+      "id": "thelec-6734669165",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -214,7 +324,7 @@
       "published_at": "2026-10-25T22:30:23+00:00"
     },
     {
-      "id": "thelec-8948756963",
+      "id": "thelec-2160359731",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -225,7 +335,7 @@
       "published_at": "2026-10-25T22:30:20+00:00"
     },
     {
-      "id": "thelec-4042246870",
+      "id": "thelec-4436414231",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +346,7 @@
       "published_at": "2026-10-25T22:30:18+00:00"
     },
     {
-      "id": "thelec-418824200",
+      "id": "thelec-4535238675",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +357,7 @@
       "published_at": "2026-10-25T22:30:03+00:00"
     },
     {
-      "id": "thelec-8838411855",
+      "id": "thelec-1187478339",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -258,7 +368,7 @@
       "published_at": "2026-10-25T22:29:58+00:00"
     },
     {
-      "id": "thelec-5771708490",
+      "id": "thelec-9456520136",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -269,7 +379,7 @@
       "published_at": "2026-10-25T22:29:55+00:00"
     },
     {
-      "id": "simon-willison-6498792130",
+      "id": "simon-willison-9650930919",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -280,7 +390,7 @@
       "published_at": "2026-10-25T15:10:19+00:00"
     },
     {
-      "id": "the-decoder-6584831496",
+      "id": "the-decoder-7753584146",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -291,7 +401,7 @@
       "published_at": "2026-10-25T10:08:49+00:00"
     },
     {
-      "id": "the-decoder-6330099759",
+      "id": "the-decoder-1153936524",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -302,7 +412,7 @@
       "published_at": "2026-10-25T09:37:46+00:00"
     },
     {
-      "id": "the-decoder-5285751117",
+      "id": "the-decoder-7603748156",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -313,7 +423,7 @@
       "published_at": "2026-10-25T09:12:10+00:00"
     },
     {
-      "id": "the-decoder-6918688722",
+      "id": "the-decoder-4226652755",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -324,7 +434,7 @@
       "published_at": "2026-10-25T08:09:32+00:00"
     },
     {
-      "id": "the-decoder-9217041539",
+      "id": "the-decoder-9807586247",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -335,7 +445,7 @@
       "published_at": "2026-10-25T07:30:11+00:00"
     },
     {
-      "id": "the-decoder-7950711778",
+      "id": "the-decoder-4402413889",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -346,7 +456,7 @@
       "published_at": "2026-10-25T06:55:22+00:00"
     },
     {
-      "id": "thelec-9720281501",
+      "id": "thelec-5730030791",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -357,7 +467,7 @@
       "published_at": "2026-10-25T01:54:19+00:00"
     },
     {
-      "id": "thelec-1229517424",
+      "id": "thelec-6772456124",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -368,7 +478,7 @@
       "published_at": "2026-10-25T01:54:12+00:00"
     },
     {
-      "id": "thelec-3208294995",
+      "id": "thelec-3169945034",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -379,7 +489,7 @@
       "published_at": "2026-10-25T01:53:39+00:00"
     },
     {
-      "id": "thelec-6938561355",
+      "id": "thelec-24078082",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -390,7 +500,7 @@
       "published_at": "2026-10-25T01:53:34+00:00"
     },
     {
-      "id": "thelec-3117410750",
+      "id": "thelec-2541921030",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -401,7 +511,7 @@
       "published_at": "2026-10-25T01:45:23+00:00"
     },
     {
-      "id": "thelec-3741230609",
+      "id": "thelec-5033657798",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -412,7 +522,7 @@
       "published_at": "2026-10-25T01:45:20+00:00"
     },
     {
-      "id": "thelec-3306079025",
+      "id": "thelec-3860925501",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -423,7 +533,7 @@
       "published_at": "2026-10-25T01:45:15+00:00"
     },
     {
-      "id": "thelec-3409052943",
+      "id": "thelec-1249460490",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -434,7 +544,7 @@
       "published_at": "2026-10-25T01:45:07+00:00"
     },
     {
-      "id": "thelec-6730892495",
+      "id": "thelec-7707476793",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -445,7 +555,7 @@
       "published_at": "2026-10-25T01:45:05+00:00"
     },
     {
-      "id": "geekpark-6211636968",
+      "id": "geekpark-7899403780",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -456,7 +566,7 @@
       "published_at": "2026-10-25T00:52:41+00:00"
     },
     {
-      "id": "the-decoder-8554375432",
+      "id": "the-decoder-5351627561",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -467,7 +577,7 @@
       "published_at": "2026-10-24T15:19:33+00:00"
     },
     {
-      "id": "the-decoder-8565948308",
+      "id": "the-decoder-5288511110",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -478,29 +588,7 @@
       "published_at": "2026-10-24T14:34:05+00:00"
     },
     {
-      "id": "the-decoder-7667183030",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/dessa_block.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a MacBook Pro M4 Max but isn't publicly available yet.</p>\n<p>The article <a href=\"https://the-decoder.com/blocks-new-...",
-      "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
-      "published_at": "2026-10-24T14:09:46+00:00"
-    },
-    {
-      "id": "the-decoder-9221510370",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to conta...",
-      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "published_at": "2026-10-24T11:12:36+00:00"
-    },
-    {
-      "id": "leiphone-4788444670",
+      "id": "leiphone-9861339630",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -511,7 +599,7 @@
       "published_at": "2026-10-24T08:49:00+00:00"
     },
     {
-      "id": "leiphone-9763609661",
+      "id": "leiphone-2124794104",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -522,7 +610,7 @@
       "published_at": "2026-10-24T08:43:00+00:00"
     },
     {
-      "id": "leiphone-1424624349",
+      "id": "leiphone-909165063",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -533,7 +621,7 @@
       "published_at": "2026-10-24T08:37:00+00:00"
     },
     {
-      "id": "latent-space-1197807942",
+      "id": "latent-space-9333754313",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -544,7 +632,7 @@
       "published_at": "2026-10-24T07:18:29+00:00"
     },
     {
-      "id": "simon-willison-3280831584",
+      "id": "simon-willison-1576662831",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -555,7 +643,7 @@
       "published_at": "2026-10-24T03:59:57+00:00"
     },
     {
-      "id": "leiphone-22988686",
+      "id": "leiphone-2885252351",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -566,7 +654,7 @@
       "published_at": "2026-10-24T03:40:00+00:00"
     },
     {
-      "id": "leiphone-6146866557",
+      "id": "leiphone-1054065378",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -577,7 +665,7 @@
       "published_at": "2026-10-24T02:53:00+00:00"
     },
     {
-      "id": "leiphone-178423442",
+      "id": "leiphone-424875122",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -588,7 +676,7 @@
       "published_at": "2026-10-24T02:44:00+00:00"
     },
     {
-      "id": "geekpark-2848488495",
+      "id": "geekpark-1482305830",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -599,7 +687,7 @@
       "published_at": "2026-10-24T00:34:27+00:00"
     },
     {
-      "id": "simon-willison-1736414170",
+      "id": "simon-willison-5488451730",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -610,7 +698,7 @@
       "published_at": "2026-10-23T21:35:13+00:00"
     },
     {
-      "id": "simon-willison-1049755857",
+      "id": "simon-willison-7584603413",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -621,7 +709,7 @@
       "published_at": "2026-10-23T19:40:54+00:00"
     },
     {
-      "id": "google-research-10057178",
+      "id": "google-research-6551902598",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -632,7 +720,7 @@
       "published_at": "2026-10-23T18:51:33+00:00"
     },
     {
-      "id": "aws-ml-8450021219",
+      "id": "aws-ml-3338772768",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -643,7 +731,7 @@
       "published_at": "2026-10-23T17:48:54+00:00"
     },
     {
-      "id": "openai-news-4740299052",
+      "id": "openai-news-4975079044",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -654,7 +742,7 @@
       "published_at": "2026-10-23T17:00:00+00:00"
     },
     {
-      "id": "aws-ml-1664481630",
+      "id": "aws-ml-1872374860",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -665,7 +753,7 @@
       "published_at": "2026-10-23T16:30:10+00:00"
     },
     {
-      "id": "aws-ml-9743088125",
+      "id": "aws-ml-4523387098",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -676,7 +764,7 @@
       "published_at": "2026-10-23T16:24:55+00:00"
     },
     {
-      "id": "aws-ml-4315635016",
+      "id": "aws-ml-4245809772",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -687,7 +775,7 @@
       "published_at": "2026-10-23T16:21:36+00:00"
     },
     {
-      "id": "huggingface-4127721788",
+      "id": "huggingface-450149507",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -698,7 +786,7 @@
       "published_at": "2026-10-23T16:15:50+00:00"
     },
     {
-      "id": "latent-space-5774400325",
+      "id": "latent-space-2602638856",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -707,193 +795,6 @@
       "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
       "link": "https://latent.space/p/ai-is-getting-good-at-math/",
       "published_at": "2026-10-23T15:19:48+00:00"
-    },
-    {
-      "id": "leiphone-2948263005",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-      "summary": "<p>10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。</p><p>面向AI for Work数万亿美元级蓝海市场，全球领先的AI营销科技公司钛动科技，在会上正式发布行业首个 Pro Agent ——Navos Pro。Navos Pro以 Professional、Proactive、Profitable 三大核心属性构建产品内核，让结果导向（Result-Driven）的 AI for Work成为现实，持续推动 AI 成为企业全球增长与生产力变革的核心引擎。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261023/6adb52cc8c509.png?imageView2/2/w/740\" />&nbsp;</p><p style=\"text-align: center;\"><span style=\"font-size: 12px;\">【Kevin Knight博士开场演讲】</span></p><p style=\"text-align: justify;\">本次大会由国际AI泰斗 Kevin Knight 博士领衔开场演讲，发言嘉宾汇聚 OpenAI、Goog...",
-      "link": "https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html",
-      "published_at": "2026-10-23T12:20:00+00:00"
-    },
-    {
-      "id": "leiphone-4837633472",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投",
-      "summary": "<section></section><section><section><section><section><section><section><section></section><section><section style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span></section><section><br /></section></section></section></section></section></section></section></section><section><section style=\"text-align: justify;\">1.不少备孕人群购买！“好健康”牡蛎精被海关检出污染物，山姆紧急召回</section><section style=\"text-align: justify;\">2.宁德时代董秘被打？知情人士回应</section><p style=\"text-align: justify;\">3.怕担责先跑路？娃哈哈集团董事长许思敏离职</p><section style=\"text-align: justify;\">4.DeepSeek完成近1000亿元融资，宁德时代、腾讯参投</section><s...",
-      "link": "https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html",
-      "published_at": "2026-10-23T11:16:00+00:00"
-    },
-    {
-      "id": "leiphone-8085077152",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Kimi K3.1 泄露：3D 成本仅有 GPT-6 Astra 的 1/14！横扫海外视觉三巨头",
-      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261023/6adb3c211d3e5.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
-      "link": "https://www.leiphone.com/category/yanxishe/PZo9w14YeFSo4jmf.html",
-      "published_at": "2026-10-23T10:57:00+00:00"
-    },
-    {
-      "id": "leiphone-6018678528",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "从技术首创到规模上车，华为乾崑车载激光投影以金辑奖印证技术领先",
-      "summary": "<p>10月23日，在盖世汽车主办的第八届金辑奖颁奖盛典上，HUAWEI XSCENE 华为乾崑车载激光投影凭借在智能座舱视听领域的技术突破与规模化商用落地，荣膺“金辑奖·2026最佳技术实践应用奖”。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261023/6adb38ac43651.jpg?imageMogr2/quality/90\" /></p><p>过去几年，智能座舱视听解决方案的竞争一度集中在屏幕数量、芯片算力与配置清单的堆叠上；而今天，市场的天平正从“有没有”转向“好不好用”，用户的体验成为检验技术价值的最终标准。由汽车产业全媒体平台盖世汽车发起的“金辑奖·最佳技术实践应用奖”，旨在寻找和表彰真正具有产业价值和全球潜力的创新成果。这意味着获奖的不是实验室里的概念或专利，而是一套装进量产车、被真实用户使用的解决方案。</p><p>凭借领先光学技术，华为乾崑车载激光投影打破座舱空间边界，为消费者提供超越期待的智能化全新体验，并以可量产、可复制的整车级适配能力，为搭载车型塑造差异化竞争力。华为乾崑车载激光投影荣获“金辑奖·最佳技术实践应用奖”，充分展示了其行业领先的技术与规模化商用能力。</p><p><img src=\"https://static.leiphone.com/uplo...",
-      "link": "https://www.leiphone.com/category/industrynews/nBef7qz74xPmuw5X.html",
-      "published_at": "2026-10-23T10:43:00+00:00"
-    },
-    {
-      "id": "leiphone-3557599137",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "覆盖存、拣、运全场景，海康机器人2026移动机器人新品发布会举行",
-      "summary": "<p>深耕制造业一线十余年，海康机器人以AI为全业务基座，业务覆盖机器视觉、移动机器人、关节机器人与具身机器人，通过1000余个细分应用场景的落地，沉淀了扎实的技术能力与丰富的场景经验。</p><p style=\"text-align: left;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261023/6adb2f88cd82d.png?imageView2/2/w/740\" />&nbsp;<span style=\"text-align: left;\">10月23日，海康机器人以“全链·进化”为主题，举办2026移动机器人新品发布会暨CeMAT预展专场，聚焦“存、拣、运”全流程，发布箱式方案全新升级并推出“明智”系列单体智能产品，构建覆盖箱式存拣与搬运配送的厂内物流全链路解决方案。</span></p><h2 style=\"text-align: left;\">&nbsp;上半场：箱式存拣持续进化</h2><p>箱式货到人拆零拣选是流通仓储领域需求最大、技术创新最活跃的领域之一，库容与效率难以兼顾、项目交付质量参差不齐，是行业长期面临的共性挑战。</p><p style=\"text-align: left;\"><img src=\"https://static.leiphone.com/uploa...",
-      "link": "https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html",
-      "published_at": "2026-10-23T10:15:00+00:00"
-    },
-    {
-      "id": "latent-space-9031160010",
-      "source_id": "latent-space",
-      "source_name": "Latent Space",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "[AINews] Black October",
-      "summary": "the Cyber onslaught continues.",
-      "link": "https://latent.space/p/ainews-black-october/",
-      "published_at": "2026-10-23T10:09:29+00:00"
-    },
-    {
-      "id": "openai-news-5772055171",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published_at": "2026-10-23T10:00:00+00:00"
-    },
-    {
-      "id": "leiphone-4362924726",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "当超算走出实验室：一场从”算得快”到”算得值”的产业迁徙",
-      "summary": "<p><span style=\"font-family: 'Arial'; font-size: 11pt;\">记者：郭思</span></p><p><span style=\"font-family: 'Arial'; font-size: 11pt;\">编辑：包永刚</span></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">导语：超算产业需要更多算力中立供应商</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20261023//6adb1f2b6c98a.jpg?imageMogr2/quality/90\" /></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size:...",
-      "link": "https://www.leiphone.com/category/chips/weZAv8C0bQZltLxn.html",
-      "published_at": "2026-10-23T08:52:00+00:00"
-    },
-    {
-      "id": "leiphone-74191298",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地",
-      "summary": "<p>在企业网 D1net 主办的 2026 秋季央国企 CIO 及数科公司高管峰会（第 19 届）上，硅基流动解决方案总监唐安波出席峰会并作主题分享：《从“算力”到“Token 生产力”：央国企大模型规模化落地的推理基础设施与 ROI 实践》。以下为分享内容精华。</p><p>当下，AI 应用正处于爆发式增长的早期阶段，Token 消耗量呈指数级增长。这背后，模型架构持续演进，版本更新节奏快速；同时，算力架构也在不断演进。模型与算力之间，是相互推动的迭代过程。对于企业来说，一方面要适配这些变化，另一方面又要面向自己的业务场景提供多元化模型服务，还要把成本控制在合理范围内。</p><p>硅基流动在做的事，就是打通从算力到 Token 之间的转化层：把算力统一纳管起来；通过自研推理引擎，让模型跑得更快、更好。我们既在公有云端建设 Token 工厂，也帮助央国企在内部打造自己的 Token 工厂。</p><p>简言之，通过系统化的推理工程，做好模型与算力的多重适配。基于此，硅基流动提出 Token 生产力核心公式：<strong>Token 生产力 = 产能 × 利用率 × 交付质量</strong>。其中，产能由芯片硬件能力、模型优化水平共同决定；利用率依靠流量治理与算力智能调度实现；交付质量包含模型推理精度、工具调用等任务执行成功率，以及生产环境必备的 SLA 服务稳定性。<...",
-      "link": "https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html",
-      "published_at": "2026-10-23T08:32:00+00:00"
-    },
-    {
-      "id": "leiphone-7920907992",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "为什么说奇瑞是一家AI公司？",
-      "summary": "<section><section><section><section><section><section><section label=\"Powered by 135editor.com\"><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261023/6adb1ab4e40ce.jpg?imageMogr2/quality/90\" style=\"background-color: transparent; width: 562px; height: 481px;\" /></section></section></section></section></section><section><section><section><section><section style=\"width: 100%; display: flex; padding: 0px 14px 0px 14px;\"><section style=\"display: flex; width: 100%;\"><section><section><span><br /...",
-      "link": "https://www.leiphone.com/category/transportation/j8cK1UDhub9VuCpu.html",
-      "published_at": "2026-10-23T08:31:00+00:00"
-    },
-    {
-      "id": "leiphone-5355851622",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
-      "summary": "<p>10月22日，在2026中国计算机大会上，阿里巴巴千问事业部AI算法负责人蒋冠军分享了千问打造Personal Agent的技术实践。他认为，真正的Personal Agent阶段，应该带来增量价值的创造和个性化的主动服务，模型、记忆与生态是共同构建这一核心能力的三要素。</p><p>他表示，Personal Agent解决日常工作、学习、生活问题的理论上限接近100%，释放这一潜力的关键，在于让系统能力与问题解决路径更好地匹配，通过模型、记忆与生态能力的高效协同，为不同问题找到最优解决路径。</p><p><br /></p>",
-      "link": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
-      "published_at": "2026-10-23T07:38:00+00:00"
-    },
-    {
-      "id": "leiphone-1168405309",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "融资10亿+元，亿铸科技加速通用存算一体产业化",
-      "summary": "<p>国内首家通用存算一体架构（GP-IMC®）AI大算力芯片公司亿铸科技完成10亿+元融资。随着AI算力需求持续增长，通用存算一体等新型算力架构受到资本市场和产业界关注，亿铸科技也在技术研发与产品产业化方面持续推进。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261023/6adb09b9cbc72.jpg?imageMogr2/quality/90\" /></p><p>亿铸科技正式运营于2022年，持续聚焦通用存算一体技术研发，坚持“通用存算一体+超异构”技术路线，围绕3D DRAM存算一体等技术方向持续布局。公司产品具备大吞吐、高性价比、低功耗等特点，并兼容CUDA、PyTorch等主流生态，为数据中心、AI云计算等场景提供软件易用、Token成本更低的全新算力解决方案。</p><p>此次融资将为亿铸科技后续研发投入、产品迭代及产业化推进提供进一步支持。随着技术研发和产品落地持续推进，其通用存算一体技术路线及相关产品也将得到更充分的市场验证。在AI算力需求持续增长的背景下，围绕芯片架构、存储技术、软件生态及产品应用的持续创新，正在成为推动新型算力技术走向产业应用的重要因素。</p><p style=\"color: white; font-size: 1px;\">雷峰网 雷峰网</p>",
-      "link": "https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html",
-      "published_at": "2026-10-23T07:16:00+00:00"
-    },
-    {
-      "id": "leiphone-750176168",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "剧中角色“喊你休息” 红果短剧上线防沉迷提醒视频",
-      "summary": "<p>近日，红果短剧上线“休息提醒”和“睡眠提醒”两项机制。用户看剧超过一定时长，或在深夜时段打开红果短剧时，可能会在推荐页刷到一条特别的视频：熟悉的短剧角色对着镜头，提醒用户放下手机，休息一下。</p><p>据介绍，“休息提醒”在用户看剧超过一定时长后触发：在剧集播放页，屏幕上方会出现“是时候休息下啦”的提示；在推荐页，用户则会刷到一条提醒视频。“睡眠提醒”则面向深夜时段仍在看剧的用户。目前，提醒机制正逐步覆盖更多用户。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261023/6adb08ca9e2cd.jpg?imageMogr2/quality/90\" /></p><p style=\"text-align: center; font-size: 12px;\">（红果短剧的提醒视频由多位短剧虚拟角色出镜）</p><p><strong>剧中角色当起“提醒员”，台词延续剧情风格</strong></p><p>红果短剧的提醒视频由贺平生、姜月初、赵一帆、陈子昂等多位短剧虚拟角色出镜，每条视频在10-20秒左右，角色们沿用了在剧中的人设和说话方式。</p><p>身着古装的贺平生开口便是“今日就到这，都散了吧”，又劝观众“修行不是一夜的事”“明天还有明天的路要走”。姜月初的语气更像在哄人入睡，“...",
-      "link": "https://www.leiphone.com/category/industrynews/GmXZhkN2aewwJOXM.html",
-      "published_at": "2026-10-23T07:12:00+00:00"
-    },
-    {
-      "id": "geekpark-2666837657",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
-      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/bc/1d/bc1d7da9262701c829504e18b08df008.jpg\" /></p><p>头图来源：Hirdwire</p><p>2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。</p><p>过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate 30 天入账 180 万美元；Tenniix 首战筹得近百万美元后，其母公司英汉思动力完成红杉联合领投的三轮共超亿元融资；最新收官的 AceiiLab 首批量产正在交付，单台售价约 2000 美元，早鸟价 999 美元。</p><p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/99/3f/993f9f8b3217efaf5f18c4627095111b....",
-      "link": "http://www.geekpark.net/news/372807",
-      "published_at": "2026-10-23T06:15:58+00:00"
-    },
-    {
-      "id": "geekpark-482825436",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
-      "summary": "<p>两万元，一个床套。</p>\n<p>这可能是极客公园史上体验过单价最高的消费级产品之一。</p>\n<p>我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。</p>\n<p>很多中国家庭的卧室里，床垫往往是最舍得花钱的大件。无论你想要乳胶、记忆棉，还是水暖毯、凉席，选择都很多。为了睡得更舒服，人们向来不吝于投入。</p>\n<p>可就是在这样一个再成熟不过的品类里，Eight Sleep 连床垫本身都没碰，只在人和床垫之间加了一层会流动的水，做了个床套，就卖到了两万元，还让硅谷大佬们心甘情愿地买单。</p>\n<p>它到底凭什么？我带着又怀疑又新奇的视角「花式」睡了三个月。出差回来倒时差的夜晚，生理期的那几天，感冒的那一周，还有放假沉迷打游戏的凌晨，我从不同场景去观察，Eight Sleep 究竟是如何影响我的睡眠的。</p>\n<p>体验了三个月后，我更愿意这样描述 Eight Sleep 的作用：与其说它让人睡得更好，不如说它帮那些对温度敏感、睡眠有点小毛病的人，找回了正常入睡的能力。Eight Sleep 绝不是所有失眠患者的解药，它能让人更快犯困，...",
-      "link": "http://www.geekpark.net/news/372805",
-      "published_at": "2026-10-23T06:10:37+00:00"
-    },
-    {
-      "id": "geekpark-5003863210",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
-      "summary": "<p>这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。</p>\n<p>大公司的打法很统一，<strong>先造一个入口，再把 AI 慢慢塞进去</strong>。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。Nothing 在耳机上加了一个物理开关，可以一键切换道监听调音模式。这些原本属于专业设备的能力，正在被一件件压进可以随手带的小东西里。</p>\n<p>而且它们做的方向越来越窄，这样意味着不用跟大厂比算力，只要把一个小痛点解得足够深。众筹页上的数字也说明有人买单，NOPIA 的目标是 5 万美元，最后筹到 161.9 万。不过用户得足够认这个痛点，才肯为一件只做一件事的东西付 650 美元。在众筹之后更考验小公司的是交付能力，NOPIA 要等到 2027 年初才发货。把能力下放到口袋里不难，难的是让它在口袋里待得住。</p>\n<p>以下，是「造物 100」栏目第 9 期推荐的最新造物。</p>\n<p><strong>降噪耳机 Nothing Headphone (1) Pro：每边三个单元，价格涨了 100 美元</strong><...",
-      "link": "http://www.geekpark.net/news/372803",
-      "published_at": "2026-10-23T06:03:13+00:00"
-    },
-    {
-      "id": "geekpark-5434458059",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
-      "summary": "<p>「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。</p>\n<p><strong>消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。</strong>过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但这依然是存量和认知以内的东西」。</p>\n<p>所以他给今年的 AI 定了一个很朴素的标准：「<strong>AI 最重要的，是他是不是更理解我们，以及是不是更理解我们的消费者。</strong>」</p>\n<p>一个用户在飞猪上买了去看世界杯的机票，从没搜过任何和球迷有关的关键词，但他曾经是运动人群。把这两条线索组合成人群包推给运动品牌和足球品类，购买转化率比日常高出 3 倍以上。</p>\n<p>「即使可能消费环境让我们有一些焦虑，但是 AI 的能力让我们打开更多购买的可能。」家洛说道，对于商家而言，<strong>商家的增长最大的机会，来自人群不断变迁的变化。</strong></p>\n<p>一个学生是数码用户，却不是家电家装用户；一旦步入职场，他立刻会变成家电、珠宝、化妆品、服装品类最大的潜在消费者。这种变迁「不能简单用一个年龄判断，而是他作...",
-      "link": "http://www.geekpark.net/news/372801",
-      "published_at": "2026-10-23T05:56:53+00:00"
     }
   ]
 }
