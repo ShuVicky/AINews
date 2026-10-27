@@ -1,11 +1,264 @@
 {
-  "generated_at": "2026-10-27T08:14:25.542034+00:00",
+  "generated_at": "2026-10-27T14:49:21.643808+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 81,
+  "count": 90,
   "items": [
     {
-      "id": "geekpark-8422607147",
+      "id": "latent-space-3555163405",
+      "source_id": "latent-space",
+      "source_name": "Latent Space",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+      "link": "https://latent.space/p/offline-coding/",
+      "published_at": "2026-10-27T14:41:25+00:00"
+    },
+    {
+      "id": "the-decoder-2749527364",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+      "summary": "<p><img alt=\"Illustration showing the Metis octahedron in a dotted circular path with an arrow and a yellow checkmark; below it, a Go board tilted at an angle with white and blank stones, with a dotted line pointing toward it.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/metis-reasoning-07-reasoning-illustration.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasonin...",
+      "link": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+      "published_at": "2026-10-27T13:55:24+00:00"
+    },
+    {
+      "id": "the-decoder-1309114347",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_navier.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of researc...",
+      "link": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+      "published_at": "2026-10-27T12:37:24+00:00"
+    },
+    {
+      "id": "the-decoder-9630268740",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+      "summary": "<p><img alt=\"OpenAI is developing a new line of AI agents with premium pricing that could reshape the AI services market.\" class=\"attachment-full size-full wp-post-image\" height=\"816\" src=\"https://the-decoder.com/wp-content/uploads/2025/01/openai_chatgpt_journalists_newsroom.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1456\" /></p>\n<p>        Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web.</p>\n<p>The article <a href=\"https://the-decoder.com/openais-partner-content-arrives-in-chatgpt...",
+      "link": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+      "published_at": "2026-10-27T11:39:24+00:00"
+    },
+    {
+      "id": "the-decoder-6416046686",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers.</p>\n<p>The article <a href=\"https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/\">Anthropic uses its IPO letter to renew its pled...",
+      "link": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+      "published_at": "2026-10-27T11:20:51+00:00"
+    },
+    {
+      "id": "mit-tech-review-7037610822",
+      "source_id": "mit-tech-review",
+      "source_name": "MIT Technology Review",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "published_at": "2026-10-27T11:19:18+00:00"
+    },
+    {
+      "id": "the-decoder-9794835719",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems are distinct dimensions that can’t be reduced to a single \"IQ score.\"</p>\n<p>The article <a h...",
+      "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+      "published_at": "2026-10-27T10:09:26+00:00"
+    },
+    {
+      "id": "the-decoder-4511567704",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1365\" /></p>\n<p>        ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/\">Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips</a> appeared first on <a href=\"https://the-decoder.com\">The Decode...",
+      "link": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+      "published_at": "2026-10-27T09:58:16+00:00"
+    },
+    {
+      "id": "leiphone-8804055515",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
+      "summary": "<p>机票和酒店订好，还是忍不住隔几天查查价格。降了，算算退改费用，看要不要重订；没降，过两天再看。花不了多少时间，却总得惦记着。</p><p>为了追剧开了会员，剧看完就没再打开，自动续费却一直没停。直到某天翻账单，才发现又扣了几个月的钱。</p><p>这些事务单次处理并不复杂，却一直需要反复关注。过去，AI可以帮忙查一次价格、分析一份账单，跟进工作仍然留给用户。现在，灵光想把这部分也接过去。</p><p>10月27日，蚂蚁集团发布灵光2.0，以 “能管事的个人AI助理”为定位，成为国内大厂首批落地的Personal Agent产品。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261027/6ae07358a9b4f.jpg?imageView2/2/w/740\" /></p><p>它想带来的变化很直接：不再是被动响应指令、完成单次任务，而是能主动发现需求、持续帮你管理事务。</p><p>Muse之后，全球Personal Agent竞争开始加速，国内大厂也在密集布局。灵光率先交出产品答卷，从盯票价、理账单等日常小事入手，让AI开始替用户持续管事。</p><p class=\"heading-2 ace-line old-record-...",
+      "link": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+      "published_at": "2026-10-27T09:56:00+00:00"
+    },
+    {
+      "id": "thelec-6275764868",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Hanwha Ocean's Nine-Month Operating Profit Reaches 1.66 Trillion Won",
+      "summary": "Hanwha Ocean said on Oct. 27 that third-quarter revenue reached 3.4139 trillion won and operating profit totaled 485.7 billion won, driven by increased sales of high-value-added vessels. Revenue rose 12.9% from a year earlier, while operating profit increased 67.6%.For the first nine months, cumulat",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14972",
+      "published_at": "2026-10-27T09:50:13+00:00"
+    },
+    {
+      "id": "thelec-3342179123",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Hanwha Systems Posts 831.6 Billion Won in Third-Quarter Revenue on Defense Growth",
+      "summary": "Hanwha Systems said on Oct. 27 that it posted third-quarter revenue of 831.6 billion won and operating profit of 99.1 billion won, driven by strong performance in its defense business. Revenue rose 30.1% from a year earlier, while operating profit increased 60.5%. Compared with the previous quarter,",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14974",
+      "published_at": "2026-10-27T09:50:10+00:00"
+    },
+    {
+      "id": "thelec-7487541206",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "HD Hyundai Electric to Invest Additional 198 Billion Won in Cheongju Distribution Campus",
+      "summary": "HD Hyundai Electric will invest an additional 198 billion won in its power distribution campus in Cheongju, North Chungcheong Province. The company plans to expand production capacity amid growing demand for power distribution equipment, particularly from artificial intelligence (AI) data centers an",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14973",
+      "published_at": "2026-10-27T09:50:08+00:00"
+    },
+    {
+      "id": "leiphone-796224521",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应",
+      "summary": "<section></section><section><section><section><section><section><section><section></section><section><p style=\"text-align: center; margin-bottom: 15px;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span></p></section></section></section></section></section></section></section><section><p style=\"text-align: justify; margin-bottom: 15px;\">1.长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求</p><p style=\"text-align: justify; margin-bottom: 15px;\">2.Seedance 核心研发负责人周畅被曝离职？接近字节人士否认</p><p style=\"text-align: justify; margin-bottom: 15px;\">3.李楠谈iPhone Duo屏幕开裂问题：本质是苹果和供应链生疏了</p><p style=\"text-align: justify; margin-...",
+      "link": "https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html",
+      "published_at": "2026-10-27T09:34:00+00:00"
+    },
+    {
+      "id": "geekpark-6816227841",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/bc/27/bc278280152ca16346b5eb8f068c3405.jpg\" /></p><p>头图图片来源：iFixit</p><p>2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。</p><p>它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。</p><p>这份专利 2015 年 1 月获得授权，发明人一共六位，其中一位叫特努斯（John Ternus）。</p><p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/d7/15/d7152d6ad1d31eb9393ae98189cad216.png\" /></p><p>苹果 2011 年递交的折叠设备专利附图｜图片来源：Apple</p><p>十五年后，2026 年 9 月 9 日，当年署名的这位工程师，第一次以苹果 CEO 的身份走上发布会舞台，发布的正是一台可以对折的 iPhone：iPhone Duo。<...",
+      "link": "http://www.geekpark.net/news/373008",
+      "published_at": "2026-10-27T09:24:34+00:00"
+    },
+    {
+      "id": "thelec-4294648035",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "KT Unveils Token Factory Platform With Over 500 AI Models, Set for Oct. 30 Launch",
+      "summary": "KT unveiled KT Token Factory on Oct. 27, a platform integrating more than 500 domestic and international artificial intelligence (AI) models. The service allows businesses to select AI models suited to their tasks and manage usage and costs through a single platform.KT plans to launch the service fo",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14956",
+      "published_at": "2026-10-27T09:11:07+00:00"
+    },
+    {
+      "id": "thelec-1865329235",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Lablup Sets IPO Price at 19,000 Won, Aims to Raise 41.4 Billion Won",
+      "summary": "Lablup, which is scheduled to list on the KOSDAQ market on Nov. 3, has set its initial public offering (IPO) price at 19,000 won per share, raising 41.4 billion won. According to the company, 1,129 institutional investors participated in the bookbuilding process from Oct. 13 to 19, generating a dema",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14957",
+      "published_at": "2026-10-27T09:10:46+00:00"
+    },
+    {
+      "id": "thelec-4280419058",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Moonshot AI's Kimi K3.1 Pro Outperforms GPT-6 Astra in Benchmark Rankings",
+      "summary": "Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, an upgraded version of its Kimi K3 model. Just as its predecessor made a significant impact on the global AI industry, Kimi K3.1 has outperformed OpenAI\\'s GPT-6 Astra in independent evaluations, approaching the perf",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=14971",
+      "published_at": "2026-10-27T09:10:02+00:00"
+    },
+    {
+      "id": "leiphone-2791639856",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "千问办公接入乐奇AI眼镜，一句话发起任务",
+      "summary": "<p>10月27日，在乐奇AI眼镜新品发布会上，乐奇Rokid和千问办公宣布达成合作，千问办公正式接入乐奇AI眼镜。用户在“Rokid AI”App里的智能体商店添加“千问办公”，绑定千问办公账号后，就可以戴上眼镜用语音唤起千问办公、下发任务，并在眼镜端查看结果。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261027/6ae068d099ed3.png?imageView2/2/w/740\" />&nbsp;</p><p>&nbsp;</p><p>比如，用户直接说：“千问办公，帮我调研一下AI眼镜的行业现状。”千问办公收到指令后就会开始执行，完成后交付产出，用户在眼镜上就能直接查看研究报告。执行过程中，用户不必反复查看进度，千问办公会实时推送状态通知。如果任务涉及现场内容，用户还可以结合眼镜拍摄的画面提问。比如，用户开会时看着桌上的方案说：“看一下眼前的方案有哪些风险。”千问办公就能结合画面进行分析，用户可以就其中某项风险继续追问。</p><p>&nbsp;</p><p>在此次合作中，乐奇Rokid提供AI眼镜硬件、系统适配、账号接入和眼镜端交互入口；千问办公提供Agent运行能力，负责理解语音、图像和任务...",
+      "link": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
+      "published_at": "2026-10-27T09:03:00+00:00"
+    },
+    {
+      "id": "leiphone-6489243461",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "summary": "<p>10月27日，由蚂蚁灵波科技主办的首届“蚂蚁灵波具身大模型挑战赛”线上初赛正式落下帷幕。官方数据显示：大赛共吸引了海内外1855支队伍、3252位选手报名。参赛者来自13个国家，覆盖648 个知名高校、科研院所以及头部科技企业及具身智能公司，其中包含 41个海外高校和单位，首届大赛就创下行业最大规模。据悉，线下总决赛将于11月14至16日在上海张江以48小时真机黑客松的形式举行。&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261027/6ae06750f2c68.png?imageView2/2/w/740\" /></p><p><strong>1855支团队 清北及海外名校与产业一线选手同台竞技&nbsp;</strong></p><p>今年9月，蚂蚁灵波科技联合魔搭社区、阿里云天池，在2026外滩大会上发起了首届“蚂蚁灵波具身大模型挑战赛”。这是一场具身智能算法挑战赛，以开源模型LingBot-VLA2.0为技术底座，聚焦模型训练调优、仿真泛化测评与真实机器人适配，面向全球企业、高校、个人开发者及技术爱好者开放。&nbsp;</p><p>10月27日0点，线上初赛报名截止。大赛共有1855支团队报名，吸引了清华大学...",
+      "link": "https://www.leiphone.com/category/industrynews/g4nk653U5p12RMpR.html",
+      "published_at": "2026-10-27T09:00:00+00:00"
+    },
+    {
+      "id": "geekpark-9226421570",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+      "summary": "<p>大的，终于来了。</p>\n<p>10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中，<strong>这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元</strong>，发行价区间尚未披露。</p>\n<p>24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收 162.86 亿美元，去年同期只有 11.63 亿美元；第二季度交出 9.74 亿美元经营利润，迎来公司历史上首个经营盈利的季度；至于账面上高达 807 亿美元的净亏损，大头是 723.88 亿美元的可转债、衍生负债和 SAFE 公允价值变动，属于非现金的会计费用。</p>\n<p>但在这些华尔街叙事之外，国内的开发者和日常使用者有着另一种割裂的体感。在中国大陆用户眼里，Claude 大概是目前市面上封号最多、风控最严苛、用起来最让人恼火的 AI 产品。</p>\n<p><strong>为什么一家做出顶尖大模型的公司，在面对普通个人用户时总是显得如此冷淡</strong>？</p>\n<p>翻完招股书的财务附注和风险提示，答案其实就写在账本上。在 Anthropic 的商业版图里，个人用户贡献的真金白银占比非常小。</p>\n<h1 sty...",
+      "link": "http://www.geekpark.net/news/373006",
+      "published_at": "2026-10-27T08:55:13+00:00"
+    },
+    {
+      "id": "geekpark-7501156709",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+      "summary": "<p>10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《<strong>用 Manus 改造 Manus</strong>》。</p>\n<p>文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的需求原文，一字未改。</p>\n<p>更让他意外的是，这位工程师当时同时在处理十几、二十个需求。在今天的 Manus，这已经是常态。</p>\n<p>这篇文章信息量很大，有几件事最值得记下来。</p>\n<p>Manus 内部做了一个叫 Manus-mono 的统一代码入口，配上一本写给 AI 看的说明书，让 AI 能看到跨仓库的全局。一个需求，一个人就能写完所有端。移动端团队一直只有 7 个人，同时负责 2 个产品、4 个 App，进度和网页版基本同步。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/32/1d/321d0359eee7fc5190a1fd06e11593b2.png\" /></p>\n<p>所有产品...",
+      "link": "http://www.geekpark.net/news/373004",
+      "published_at": "2026-10-27T08:49:29+00:00"
+    },
+    {
+      "id": "geekpark-3687132717",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+      "summary": "<p>10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。</p>\n<p>对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&mdash;&mdash;这是个人机器人从技术探索走向消费市场的关键环节，也是检验商业化能力的重要维度。</p>\n<p>随着人工智能从数字世界走向物理世界，机器人产业的竞争正从技术展示延伸至工程化、产品化和商业化能力，启元此次量产实践提供了一个观察个人机器人产业化进程的具体样本。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/6a/c6/6ac6ee1d2fa459291f1d8ee580151b75.png\" /></p>\n<h1 style=\"text-align: center;\"><strong><em>01</em></strong></h1>\n<p style=\"text-align: center;\"><strong>一个月从 0...",
+      "link": "http://www.geekpark.net/news/373003",
+      "published_at": "2026-10-27T08:46:19+00:00"
+    },
+    {
+      "id": "geekpark-890681259",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/63/91/6391b5eaf5f268ab1691e932148c6d47.png\" /></p>\n<p>Shopify AI 交易订单增长了 13 倍。</p>\n<p>10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。</p>\n<p>这一次抢首发的，不只是守在屏幕前的人。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/92/7d/927d8a23c547e81c3aab9d16b837431d.png\" /></p>\n<p>今年 Agent 成为 iPhone Duo 黄牛最严厉的父亲｜图片来源：Apple</p>\n<p>在 MacRumors 论坛上，一位没抢到的用户愤愤不平地吐槽，Reddit 上有人在炫耀自己设置的 Muse 机器人一口气拿下了好几台，真人还没来得及点，库存就被 AI 扫走了。</p>\n<p>Muse 是 Meta 在 9 月 8 日推出的...",
+      "link": "http://www.geekpark.net/news/373002",
+      "published_at": "2026-10-27T08:42:40+00:00"
+    },
+    {
+      "id": "geekpark-8866459399",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -16,7 +269,18 @@
       "published_at": "2026-10-27T07:59:20+00:00"
     },
     {
-      "id": "latent-space-887240396",
+      "id": "leiphone-4233117935",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型",
+      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261027/6ae05569a1f9a.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
+      "link": "https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html",
+      "published_at": "2026-10-27T07:43:00+00:00"
+    },
+    {
+      "id": "latent-space-8172640808",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -27,7 +291,40 @@
       "published_at": "2026-10-27T07:24:59+00:00"
     },
     {
-      "id": "thelec-7785113433",
+      "id": "leiphone-7773235055",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看",
+      "summary": "<p>距离10月28日华为双十一焕新季·全场景新品发布会越来越近，华为畅享系列的新一代产品也逐渐揭开面纱。10月27日，随着华为畅享 100 系列三款单品海报陆续释出，这一系列在外观设计、核心配置与日常体验方面的看点进一步明朗。据了解，华为畅享 100 系列已于10月23日开启预订，此次新品包括华为畅享 100、华为畅享 100 Pro及华为畅享 100 Pro Max三款机型，围绕麒麟8系芯片、华为巨鲸大电池与鸿蒙星盾防诈等核心配置展开布局，全方位满足消费者的多元化需求。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261027/6ae0436feaabf.jpg?imageMogr2/quality/90\" /></p><p>流畅耐用体验，是华为畅享 100 系列最核心的升级主线，其根基在于麒麟芯片与鸿蒙系统的软硬协同。根据官方信息，华为畅享 100 系列搭载麒麟8系芯片，这意味着三款机型都将拥有领先同档位的硬核算力，可以从容应对社交、影音、游戏等主流日常场景，带来更稳定的运行体验；配合鸿蒙7.0的系统级深度调优，应用启动、页面滑动、多任务切换、扫码支付等高频操作均能保持顺滑流畅，且长期使用后的性能衰减得到有效缓解，为用户带来贯穿整个使用周期的持久跟手与顺滑体验。</p><p><img ...",
+      "link": "https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html",
+      "published_at": "2026-10-27T06:25:00+00:00"
+    },
+    {
+      "id": "leiphone-1619587302",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”",
+      "summary": "<p>10月27日，百度发布并开源文心 Unlimited OCR 2，全球首次实现任意页数文档解析，将 OCR 的处理上限从数十页推向“无限”，并达到最先进水平（SOTA）。实测显示，该模型能够一次性解析《哈利·波特》全系列 7 部作品，累计超过 3600 页，在文档长度大幅增加的情况下，依然保持较高的精度和处理效率，推动文档解析技术迈向OCR 3.0时代。</p><p>﻿</p><p>公开基准测试显示，在面向多页文档解析的 MPDocBench，以及专门评估百页级超长文档解析能力的 MarathonDocBench 上，文心 Unlimited OCR 2 的综合得分分别为 84.6分和 77.1分，达到端到端性能SOTA，大幅领先 Qwen 3.8-Max、Gemini-3.8-Flash、GLM-5.3-Flash、DeepSeek-4.1-Flash等模型。</p><p>﻿</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261027/6ae0427b51a0f.png?imageView2/2/w/740\" /></p><p>﻿</p><p>这一突破得益于文心 Unlimited OCR 2 所提出的稀疏参考滑动窗口注意力机制（...",
+      "link": "https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html",
+      "published_at": "2026-10-27T06:21:00+00:00"
+    },
+    {
+      "id": "leiphone-8766524755",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
+      "summary": "<p>从底层芯片、神经形态计算，到机器人自主部署、极端环境物理智能和地表物理环境建模，人工智能前沿技术正沿着多条不同路径推进产业应用落地。如何让实验室里的原创成果跨越工程验证与商业化之间的距离，成为科研创新走向产业实践的重要课题。</p><p>10月26日，北京智源人工智能研究院发布的“源创计划”首期路演在中关村国际技术交易中心举办。临界核科技、灵枢启智、张量场科技、苍穹极智、潜向量科技五个项目集中亮相，分别聚焦3D自选通V-RRAM芯片、神经形态具身智能、哈密顿世界模型、极端环境的可靠物理智能、地表物理环境统一世界模型等方向。活动还设置了项目与基金洽谈环节，推动创业团队与投资机构交流对接。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261027/6ae040998a734.png?imageView2/2/w/740\" />&nbsp;</p><p><strong>从“源头创新”到“产业验证”，源创计划要打通的不只是资金</strong></p><p>活动现场，智源研究院副院长杨洋介绍了“源创计划”的定位与支持机制。作为主要面向智源学者群体的原创技术创业孵化计划，源创计划聚焦人工智能领域的原创科研课题，遵循“源头创新、快速决策、小步...",
+      "link": "https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html",
+      "published_at": "2026-10-27T06:15:00+00:00"
+    },
+    {
+      "id": "thelec-4349117418",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -38,7 +335,7 @@
       "published_at": "2026-10-27T05:57:32+00:00"
     },
     {
-      "id": "thelec-4652749509",
+      "id": "thelec-3520820106",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -49,7 +346,7 @@
       "published_at": "2026-10-27T05:57:30+00:00"
     },
     {
-      "id": "thelec-9258302971",
+      "id": "thelec-3999347082",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -60,7 +357,7 @@
       "published_at": "2026-10-27T05:57:28+00:00"
     },
     {
-      "id": "thelec-1507263988",
+      "id": "thelec-3726032759",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -71,7 +368,7 @@
       "published_at": "2026-10-27T05:57:27+00:00"
     },
     {
-      "id": "thelec-5625405926",
+      "id": "thelec-7980074782",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -82,7 +379,7 @@
       "published_at": "2026-10-27T05:57:26+00:00"
     },
     {
-      "id": "thelec-8511256414",
+      "id": "thelec-5921383256",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -93,7 +390,7 @@
       "published_at": "2026-10-27T05:57:21+00:00"
     },
     {
-      "id": "leiphone-5594898516",
+      "id": "leiphone-8123112216",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -104,7 +401,7 @@
       "published_at": "2026-10-27T05:55:00+00:00"
     },
     {
-      "id": "thelec-2587516607",
+      "id": "thelec-2654716652",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +412,7 @@
       "published_at": "2026-10-27T05:46:55+00:00"
     },
     {
-      "id": "leiphone-6624750169",
+      "id": "leiphone-9328791175",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -126,7 +423,7 @@
       "published_at": "2026-10-27T02:09:00+00:00"
     },
     {
-      "id": "leiphone-5803015562",
+      "id": "leiphone-9476089718",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -137,7 +434,7 @@
       "published_at": "2026-10-27T02:05:00+00:00"
     },
     {
-      "id": "thelec-4916918902",
+      "id": "thelec-4755908124",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +445,7 @@
       "published_at": "2026-10-27T01:58:26+00:00"
     },
     {
-      "id": "thelec-6979202075",
+      "id": "thelec-6637820702",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +456,7 @@
       "published_at": "2026-10-27T01:58:16+00:00"
     },
     {
-      "id": "thelec-5372863278",
+      "id": "thelec-9369965652",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -170,7 +467,7 @@
       "published_at": "2026-10-27T01:57:49+00:00"
     },
     {
-      "id": "thelec-4035846549",
+      "id": "thelec-8391729139",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -181,7 +478,7 @@
       "published_at": "2026-10-27T01:56:56+00:00"
     },
     {
-      "id": "thelec-5217993308",
+      "id": "thelec-26817081",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -192,7 +489,7 @@
       "published_at": "2026-10-27T01:56:41+00:00"
     },
     {
-      "id": "thelec-6006509230",
+      "id": "thelec-7912199003",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -203,7 +500,7 @@
       "published_at": "2026-10-27T01:56:28+00:00"
     },
     {
-      "id": "thelec-943195097",
+      "id": "thelec-5064013686",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -214,7 +511,7 @@
       "published_at": "2026-10-27T01:56:15+00:00"
     },
     {
-      "id": "thelec-8554201806",
+      "id": "thelec-1593605898",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -225,7 +522,7 @@
       "published_at": "2026-10-27T01:55:47+00:00"
     },
     {
-      "id": "leiphone-5697728065",
+      "id": "leiphone-8482878252",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -236,7 +533,7 @@
       "published_at": "2026-10-27T01:55:00+00:00"
     },
     {
-      "id": "thelec-9249247722",
+      "id": "thelec-5931106929",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +544,7 @@
       "published_at": "2026-10-27T00:30:21+00:00"
     },
     {
-      "id": "thelec-5443485830",
+      "id": "thelec-2224404284",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -258,7 +555,7 @@
       "published_at": "2026-10-27T00:30:21+00:00"
     },
     {
-      "id": "thelec-164208337",
+      "id": "thelec-890745732",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -269,7 +566,7 @@
       "published_at": "2026-10-27T00:30:21+00:00"
     },
     {
-      "id": "thelec-1270135988",
+      "id": "thelec-2914764952",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -280,7 +577,7 @@
       "published_at": "2026-10-27T00:29:34+00:00"
     },
     {
-      "id": "thelec-2758053002",
+      "id": "thelec-8020222371",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -291,7 +588,7 @@
       "published_at": "2026-10-27T00:29:34+00:00"
     },
     {
-      "id": "thelec-8268386687",
+      "id": "thelec-1586841554",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -302,7 +599,7 @@
       "published_at": "2026-10-27T00:29:34+00:00"
     },
     {
-      "id": "geekpark-8042191088",
+      "id": "geekpark-708341398",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -313,18 +610,18 @@
       "published_at": "2026-10-27T00:26:51+00:00"
     },
     {
-      "id": "leiphone-5476518172",
+      "id": "leiphone-4243401226",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
       "module": "📊 行业观察",
-      "title": "知名具身智能公司陷欠薪停工风波：员工称欠薪近800万元，CEO称联系不上实控人；iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题",
-      "summary": "<section></section><section><section><section><section><section><section><section></section><section><p style=\"text-align: center; margin-bottom: 15px;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span></p></section></section></section></section></section></section></section><section><p style=\"text-align: justify; margin-bottom: 15px;\">1.知名具身智能公司陷欠薪停工风波：员工称欠薪近800万元，CEO称联系不上实控人</p><p style=\"text-align: justify; margin-bottom: 15px;\">2.iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题</p><p style=\"text-align: justify; margin-bottom: 15px;\">3.00后美女经理玩梗“老登”遭吐槽：小鹏总裁悬赏100万澄清</p><p style=\"text-align: just...",
+      "title": "iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」",
+      "summary": "<section></section><section><section><section><section><section><section><section></section><section><p style=\"text-align: center; margin-bottom: 15px;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span></p></section></section></section></section></section></section></section><section><p style=\"text-align: justify; margin-bottom: 15px;\">1.iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题</p><p style=\"text-align: justify; margin-bottom: 15px;\">2.00后美女经理玩梗“老登”遭吐槽：小鹏总裁悬赏100万澄清</p><p style=\"text-align: justify; margin-bottom: 15px;\">3.宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」</p><p style=\"text-align: justify; margin-b...",
       "link": "https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html",
       "published_at": "2026-10-27T00:20:00+00:00"
     },
     {
-      "id": "simon-willison-166794668",
+      "id": "simon-willison-8079413010",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -335,7 +632,7 @@
       "published_at": "2026-10-26T23:53:07+00:00"
     },
     {
-      "id": "thelec-4455777271",
+      "id": "thelec-495118907",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -346,7 +643,7 @@
       "published_at": "2026-10-26T22:45:47+00:00"
     },
     {
-      "id": "openai-news-5511077156",
+      "id": "openai-news-1312339038",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -357,7 +654,7 @@
       "published_at": "2026-10-26T22:00:00+00:00"
     },
     {
-      "id": "the-decoder-410362537",
+      "id": "the-decoder-4695624599",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -368,7 +665,7 @@
       "published_at": "2026-10-26T20:30:55+00:00"
     },
     {
-      "id": "the-decoder-8642526285",
+      "id": "the-decoder-5161808921",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -379,7 +676,7 @@
       "published_at": "2026-10-26T19:14:45+00:00"
     },
     {
-      "id": "simon-willison-9683469830",
+      "id": "simon-willison-9801525484",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -390,7 +687,7 @@
       "published_at": "2026-10-26T19:00:25+00:00"
     },
     {
-      "id": "aws-ml-378010590",
+      "id": "aws-ml-6320464145",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -401,7 +698,7 @@
       "published_at": "2026-10-26T17:56:58+00:00"
     },
     {
-      "id": "the-decoder-9651196117",
+      "id": "the-decoder-7596783037",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -412,18 +709,18 @@
       "published_at": "2026-10-26T17:50:15+00:00"
     },
     {
-      "id": "mit-tech-review-9129395810",
+      "id": "mit-tech-review-8275145070",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
       "module": "📊 行业观察",
       "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
       "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "published_at": "2026-10-26T17:45:43+00:00"
     },
     {
-      "id": "aws-ml-7133421193",
+      "id": "aws-ml-7446767937",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -434,7 +731,7 @@
       "published_at": "2026-10-26T17:27:20+00:00"
     },
     {
-      "id": "the-decoder-168619809",
+      "id": "the-decoder-3039628851",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -445,7 +742,7 @@
       "published_at": "2026-10-26T17:19:40+00:00"
     },
     {
-      "id": "aws-ml-949474134",
+      "id": "aws-ml-1700438405",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -456,7 +753,7 @@
       "published_at": "2026-10-26T17:15:14+00:00"
     },
     {
-      "id": "simon-willison-14162407",
+      "id": "simon-willison-2346395777",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -467,7 +764,7 @@
       "published_at": "2026-10-26T16:15:00+00:00"
     },
     {
-      "id": "openai-news-8942180071",
+      "id": "openai-news-1677384966",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -478,18 +775,7 @@
       "published_at": "2026-10-26T14:30:00+00:00"
     },
     {
-      "id": "the-decoder-3890867846",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1152\" src=\"https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Meta plans to sell new stock to raise money for its AI infrastructure buildout.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/\">Meta plans up to $95 billion in stock sales to fund its AI buildout</a> appeared first on <a href=\"https://the-decoder.com\">The Decoder</a>.</p>",
-      "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
-      "published_at": "2026-10-26T14:21:23+00:00"
-    },
-    {
-      "id": "openai-news-8087850451",
+      "id": "openai-news-2016177233",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -500,7 +786,7 @@
       "published_at": "2026-10-26T13:45:00+00:00"
     },
     {
-      "id": "thelec-6862881070",
+      "id": "thelec-2175293609",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -511,7 +797,7 @@
       "published_at": "2026-10-26T13:30:11+00:00"
     },
     {
-      "id": "thelec-4610960326",
+      "id": "thelec-2239631498",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -522,7 +808,7 @@
       "published_at": "2026-10-26T13:30:09+00:00"
     },
     {
-      "id": "thelec-3981669922",
+      "id": "thelec-5804647508",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -533,7 +819,7 @@
       "published_at": "2026-10-26T13:30:08+00:00"
     },
     {
-      "id": "leiphone-5210940808",
+      "id": "leiphone-2499837028",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -544,7 +830,7 @@
       "published_at": "2026-10-26T11:26:00+00:00"
     },
     {
-      "id": "leiphone-4328693651",
+      "id": "leiphone-6198534231",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -555,7 +841,7 @@
       "published_at": "2026-10-26T10:25:00+00:00"
     },
     {
-      "id": "geekpark-9627840303",
+      "id": "geekpark-8125155650",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -566,7 +852,7 @@
       "published_at": "2026-10-26T10:16:50+00:00"
     },
     {
-      "id": "geekpark-2587438371",
+      "id": "geekpark-1254930160",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -577,7 +863,7 @@
       "published_at": "2026-10-26T10:16:08+00:00"
     },
     {
-      "id": "openai-news-9297972804",
+      "id": "openai-news-4843195896",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -588,29 +874,7 @@
       "published_at": "2026-10-26T10:00:00+00:00"
     },
     {
-      "id": "the-decoder-3223658305",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
-      "summary": "<p><img alt=\"According to an analysis by the financial management platform Ramp, companies have significantly increased their spending on AI applications. Ramp analyzed spending data from tens of thousands of companies and billions of transactions.\" class=\"attachment-full size-full wp-post-image\" height=\"816\" src=\"https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1456\" /></p>\n<p>        High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power.</p>\n<p>The article...",
-      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
-      "published_at": "2026-10-26T09:49:33+00:00"
-    },
-    {
-      "id": "the-decoder-5951865938",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1195\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/Walden-Robotics-robot.avif\" style=\"height: auto; margin-bottom: 10px;\" width=\"2048\" /></p>\n<p>        Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there.</p>\n<p>The article <a href=\"https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/\">Toyota is betting $6.4 billion a year on humanoid robots and factory automation</a> appeared fir...",
-      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
-      "published_at": "2026-10-26T09:18:15+00:00"
-    },
-    {
-      "id": "mit-tech-review-3079048864",
+      "id": "mit-tech-review-2749917420",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -621,7 +885,7 @@
       "published_at": "2026-10-26T09:01:00+00:00"
     },
     {
-      "id": "openai-news-9979333273",
+      "id": "openai-news-2424217374",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -632,7 +896,7 @@
       "published_at": "2026-10-26T07:00:00+00:00"
     },
     {
-      "id": "openai-news-9279810888",
+      "id": "openai-news-648553552",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -643,7 +907,7 @@
       "published_at": "2026-10-26T07:00:00+00:00"
     },
     {
-      "id": "leiphone-6881654700",
+      "id": "leiphone-2155023701",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -654,7 +918,7 @@
       "published_at": "2026-10-26T06:58:00+00:00"
     },
     {
-      "id": "thelec-4131303308",
+      "id": "thelec-9295556528",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -665,7 +929,7 @@
       "published_at": "2026-10-26T06:04:33+00:00"
     },
     {
-      "id": "thelec-5551064979",
+      "id": "thelec-5604349370",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -676,40 +940,7 @@
       "published_at": "2026-10-26T06:04:28+00:00"
     },
     {
-      "id": "thelec-8018094724",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "GI Tech Wins Automotive Glass Inspection Equipment Order From KCC Glass",
-      "summary": "GI Tech has secured an order worth approximately 3.1 billion won for equipment that detects defects in automotive glass.GI Tech said on Oct. 26 that it had signed a contract with KCC Glass to supply defect inspection systems for automotive glass production. The agreement covers upgrades to existing",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14908",
-      "published_at": "2026-10-26T06:04:21+00:00"
-    },
-    {
-      "id": "thelec-5931890013",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LS Eco Energy to Invest 64.9 Billion Won in Vietnam Ultracapacitor Plant",
-      "summary": "LS Eco Energy plans to invest 64.9 billion won in Vietnam to build an ultracapacitor (UC) production facility for artificial intelligence (AI) data centers.LS Eco Energy said in a regulatory filing on Oct. 26 that it would invest 64.9 billion won in a new medium-sized ultracapacitor cell production",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14910",
-      "published_at": "2026-10-26T06:04:17+00:00"
-    },
-    {
-      "id": "thelec-1357722307",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "KT&G Launches Duty-Free Exclusive ESSE IT'S KIIK YELLOW",
-      "summary": "KT&amp;G launched its new duty-free exclusive cigarette product, ESSE IT\\'S KIIK YELLOW, at six major airports and downtown duty-free stores in South Korea on Oct. 26.The new product is a 100-millimeter superslim cigarette designed to reduce tobacco odor in the mouth after smoking. The packaging features",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14913",
-      "published_at": "2026-10-26T06:04:15+00:00"
-    },
-    {
-      "id": "leiphone-3738817235",
+      "id": "leiphone-3374820305",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -720,7 +951,7 @@
       "published_at": "2026-10-26T02:37:00+00:00"
     },
     {
-      "id": "geekpark-3325229876",
+      "id": "geekpark-8350287458",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -731,7 +962,7 @@
       "published_at": "2026-10-26T00:34:07+00:00"
     },
     {
-      "id": "openai-news-4150904856",
+      "id": "openai-news-8196587393",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -742,73 +973,7 @@
       "published_at": "2026-10-26T00:00:00+00:00"
     },
     {
-      "id": "thelec-5926288328",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Capcom Hacked Again, 11.77 Million Accounts Exposed",
-      "summary": "Japanese game developer Capcom has suffered another cyberattack, six years after its previous breach. Information associated with more than 11.77 million Capcom accounts worldwide has been leaked.Capcom announced Oct. 22 local time that its online membership service, CAPCOM ID, had been accessed wit",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14863",
-      "published_at": "2026-10-25T23:14:10+00:00"
-    },
-    {
-      "id": "thelec-38389747",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "ENKI WhiteHat Releases Free PHP2Shell Scanner",
-      "summary": "ENKI WhiteHat said Oct. 23 it is offering a free diagnostic scanner to conduct an initial assessment of whether systems are affected by the critical PHP vulnerabilities known as PHP2Shell (CVE-2026-109618 and CVE-2026-109619).The scanner checks PHP versions and relevant configurations to identify po",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14864",
-      "published_at": "2026-10-25T23:13:52+00:00"
-    },
-    {
-      "id": "thelec-3394043749",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "IGLOO Secures Patent for Cloud Outage Log Management",
-      "summary": "IGLOO Corporation said Oct. 23 it has secured a patent for a cloud-based log management server that continuously collects log data during network outages and stores the records in sequence.Cloud environments connect servers and services through networks, making log transmission vulnerable to even te",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14865",
-      "published_at": "2026-10-25T23:13:42+00:00"
-    },
-    {
-      "id": "thelec-2664186931",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Korean, Japanese Cybersecurity Firms Explore Cooperation",
-      "summary": "The Korea Information Security Industry Association (KISIA) said Oct. 23 it held Security Connect Tokyo 2026, a networking event for Korean and Japanese cybersecurity companies, in Tokyo in cooperation with the Ministry of Science and ICT.The event was jointly organized with the Tokyo IT Support Cen",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14868",
-      "published_at": "2026-10-25T23:13:31+00:00"
-    },
-    {
-      "id": "thelec-6632523605",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Unclaimed Telecom Refunds Remain Near 3 Billion Won for Five Years",
-      "summary": "South Korea’s three major mobile carriers have held nearly 3 billion won in unclaimed customer refunds for five consecutive years. Although customers are notified of refunds by text message, the requirement to complete a separate application process has been cited as an obstacle to receiving the mon",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14873",
-      "published_at": "2026-10-25T23:13:20+00:00"
-    },
-    {
-      "id": "thelec-8319015683",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LINE Games Releases CODE EXIT Demo 2.0",
-      "summary": "LINE Games released Demo 2.0 of CODE EXIT, a cooperative sci-fi horror game for PC being developed by Phase 8 Studio, on Oct. 23.The demo is available on Steam and the Epic Games Store. Based on player feedback collected during an earlier Steam playtest, the developer has improved controls and the c",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=14874",
-      "published_at": "2026-10-25T23:13:02+00:00"
-    },
-    {
-      "id": "simon-willison-2612028330",
+      "id": "simon-willison-1183980800",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -819,40 +984,7 @@
       "published_at": "2026-10-25T15:10:19+00:00"
     },
     {
-      "id": "the-decoder-6895373250",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/nvidia-flora-hero-robot-hands.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls short on descriptive accuracy. Nvidia is positioning Flo...",
-      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
-      "published_at": "2026-10-25T10:08:49+00:00"
-    },
-    {
-      "id": "the-decoder-9817603471",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/tasteval_and_rsi.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027.</p>\n<p>The article <a href=\"https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-...",
-      "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
-      "published_at": "2026-10-25T09:37:46+00:00"
-    },
-    {
-      "id": "the-decoder-5001099974",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/claude_claude_baby_logos.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition.</p>\n<p>The article <a href=\"https://the-decoder.com/anthropic-say...",
-      "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
-      "published_at": "2026-10-25T09:12:10+00:00"
-    },
-    {
-      "id": "geekpark-7340022665",
+      "id": "geekpark-3301506800",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -861,39 +993,6 @@
       "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/9b/1a/9b1aaf523c45509ba917776c57981979.png\" /></p>\n<h2>​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉</h2>\n<p>苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中&mdash;&mdash;几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。</p>\n<p>一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到内铰链下方异样，随后听到清晰的「咔嚓」声，屏幕随即沿铰链裂开，内屏表面与外部铰链均无磕碰或夹痕，他前往 Apple Store 后苹果直接为其更换了故障机。国内也有类似案例。</p>\n<p>综合目前反馈，问题可能出在 iPhone Duo 的铰链上，但涉及规模不算大，更可能是装配公差导致，而非设计缺陷，具体情况还有待后续观察。截至发稿，苹果官方尚未就这一批次屏幕问题作出公开说明。</p>\n<p>如果苹果售后检测确认非人为导致，将会为用户更换新机。但若被认定为磕碰所致，则需...",
       "link": "http://www.geekpark.net/news/372860",
       "published_at": "2026-10-25T00:52:41+00:00"
-    },
-    {
-      "id": "leiphone-513068108",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
-      "summary": "<p>从 Vibe Coding 到 Skill、Agent，AI 正打开新一轮创业窗口：一个人也能打造应用，一项技能也能成为产品。随着创作与开发门槛降低，新的机会正在浮现——让自己做出的 AI 产品，成为用户愿意付费的生意。&nbsp;</p><p>面向这股浪潮，10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松，邀请开发者带着应用、Skill 或 Agent 参赛：接入支付，把创意推向真实市场，争夺 20 万元总奖池。报名截至12月1日，线下决赛将于12月26日举行。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261024/6adc70a115998.png?imageView2/2/w/740\" /></p><p>&nbsp;这场黑客松不只比创意与技术，更看产品在真实交易中的价值。这也是支付宝AI支付“开发者为先”产品战略的重要举措：通过持续降低AI产品的商业化门槛，让开发者更少为收款、交付与定价发愁，让好项目更快变成好生意。</p><p>&nbsp;<strong>五大赛道，把作品推向市场&nbsp;</strong></p><p>一个独立应用、一项 Agent 技能，都可以成为参赛的起点。本次大...",
-      "link": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
-      "published_at": "2026-10-24T08:49:00+00:00"
-    },
-    {
-      "id": "leiphone-526839614",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
-      "summary": "<p>10月21日，支付宝车载助手亮相科大讯飞智能汽车产品技术发布会，宣布与讯飞星火智慧座舱战略合作升级，正式启动「讯宝计划」，推动智能座舱从信息交互向生活服务延伸，让车主在车内即可办理更多日常事物。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261024/6adc6ed0230a9.png?imageView2/2/w/740\" /></p><p><strong>&nbsp;四大生活服务场景将落地，覆盖出行高频需求</strong></p><p>&nbsp;发布会上，支付宝车载助手接入星火智慧座舱3.0的合作成果正式亮相。依托讯飞汽车 Master Agent 的统一调度，双方围绕车主出行生活需求，将推出四大服务场景：&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261024/6adc6ed0e24d0.png?imageView2/2/w/740\" /></p><p><strong>高速无感通行：</strong> 用户授权后，可通过支付宝无感扣费，实现快速通行，无需扫码。&nb...",
-      "link": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
-      "published_at": "2026-10-24T08:43:00+00:00"
-    },
-    {
-      "id": "leiphone-4657447144",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
-      "summary": "<p>10月24日，百度健康宣布升级文心健康管家，发布「好医矩阵」和「健康相机」。其中好医矩阵包括“好医答、好医加号、好医说、好医榜、好医评”等多项功能，进一步实现AI+真人医生在线问诊与线下就诊等全流程医疗服务的闭环；而全网首发的健康动态视频识别的健康相机，除了支持打字、方言语音、拍照，还支持用户拍摄视频上传、边拍边说等全模态输入的交互方式，进一步降低用户描述健康问题的门槛。</p><p><strong>百度健康总经理杨明璐</strong>表示，AI在医疗领域的发展价值，不仅要看服务了多少用户，更要看能否为每一个生命的负责。百度健康持续投入「AI+真人」模式，让诊疗的决定权始终掌握在专业医生手中，赋能但不替代，辅助但不主导，让健康的每一步都有医靠。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261024/6adc6cf90cf32.jpeg?imageView2/2/w/740\" /></p><p>发布会上，<strong>中国工程院院士、中国抗癌协会理事长樊代明</strong>分享了《中国肿瘤整合诊治指南》（CACA指南）的研制推广成果，以及协会在肿瘤科普、医学文化建设方面的工作。他提出，AI是医学普惠的放大器：依托百度AI打...",
-      "link": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
-      "published_at": "2026-10-24T08:37:00+00:00"
     }
   ]
 }
