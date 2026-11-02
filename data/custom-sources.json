@@ -1,11 +1,132 @@
 {
-  "generated_at": "2026-11-01T23:46:57.405386+00:00",
+  "generated_at": "2026-11-02T04:49:46.295817+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 92,
+  "count": 71,
   "items": [
     {
-      "id": "simon-willison-7433728896",
+      "id": "leiphone-6131477443",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "2026 全球 AI 新云 NeoCloud：考验基本功的时候到了",
+      "summary": "<p>10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。</p><p>CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯穿整条产业链。在这场全球竞争中，九章云极是为数不多跻身第一梯队的中国厂商。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261102/6ae7ec7586eb4.png?imageView2/2/w/740\" /></p><p style=\"text-align: center;\">2026全球顶级AI新云NeoCloud图谱</p><p>这张图谱提供了观察行业的窗口：全球NeoCloud服务商正在告别单一算力售卖模式，走向商业模式分化、能力边界持续延伸的专业化赛道。</p><p>资本对头部标的的评估标尺也随之迭代，算力规模、硬件跑分等浅层指标逐步失效，行业核心评判标准收敛至四项：总体拥有成本（TCO）、训推交付稳定性、Token服务效率、AI基础设施工程成熟度。四项指标共同锚定技术底盘、履约能力、客户价值与长期经营质量，把...",
+      "link": "https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html",
+      "published_at": "2026-11-02T01:54:00+00:00"
+    },
+    {
+      "id": "thelec-2561400806",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Hyundai Motor Group to Break Ground on Saemangeum AI Data Center in 2027",
+      "summary": "Hyundai Motor Group is moving ahead with its artificial intelligence (AI) data center project in Saemangeum, North Jeolla Province. The group has confirmed investment participation by major affiliates, including Hyundai Motor and Kia, and plans to establish special purpose companies (SPCs) in Novemb",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15118",
+      "published_at": "2026-11-02T01:24:25+00:00"
+    },
+    {
+      "id": "thelec-4686795400",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Nvidia to Become Naver’s Third-Largest Shareholder, Overtaking Founder",
+      "summary": "Nvidia is set to become Naver’s third-largest shareholder through a capital increase next month, pushing Naver Chairman Lee Hae-jin down one position to fourth place.According to a regulatory filing with South Korea’s Financial Supervisory Service on Oct. 30, Naver revised the payment date for its t",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15117",
+      "published_at": "2026-11-02T01:24:25+00:00"
+    },
+    {
+      "id": "thelec-3702883784",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LG CNS Fills Indonesia AI Data Center, Cautious on GPU Spending",
+      "summary": "LG CNS has secured lease agreements for 100% of its artificial intelligence (AI) data center capacity in Indonesia ahead of completion. Meanwhile, the company said it would invest gradually in its graphics processing unit (GPU) services business after assessing demand and commercial viability.During",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15116",
+      "published_at": "2026-11-02T01:24:25+00:00"
+    },
+    {
+      "id": "thelec-1836872354",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Douzone Bizon Hack Raises Data Leak Concerns at 10 Clients",
+      "summary": "The fallout from a hacking incident at Douzone Bizon is widening amid concerns that customer data may have been compromised. Ten of the company’s clients have already been notified of potential data leaks. The affected organizations include a former customer that terminated its service six months ag",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15154",
+      "published_at": "2026-11-02T01:23:27+00:00"
+    },
+    {
+      "id": "thelec-3726692365",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Hyundai AutoEver Q3 Operating Profit Falls 2.6% as Vehicle Software Recovery Lags",
+      "summary": "Hyundai AutoEver reported consolidated revenue of 1.2247 trillion won and operating profit of 68.9 billion won for the third quarter, according to a regulatory filing on Oct. 30.Revenue rose 16.2% from a year earlier, while operating profit declined 2.6%. Net profit fell 14.9% to 44.9 billion won.Th",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15145",
+      "published_at": "2026-11-02T01:23:27+00:00"
+    },
+    {
+      "id": "thelec-12691089",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Security Flaws Found in Five Popular AI Coding Tools, Including OpenAI Codex",
+      "summary": "Multiple security vulnerabilities have been discovered in five popular artificial intelligence (AI) development tools, potentially allowing hackers to execute code, steal files or manipulate browser address bars. Some flaws in tools including OpenAI’s Codex and Microsoft’s Visual Studio Code (VS Cod",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15134",
+      "published_at": "2026-11-02T01:23:27+00:00"
+    },
+    {
+      "id": "thelec-1467629715",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "KISIA to Showcase Financial Security Solutions at FISCON 2026",
+      "summary": "The Korea Information Security Industry Association (KISIA) will organize a cybersecurity industry exhibition at FISCON 2026, a financial information security conference in South Korea.KISIA said on Oct. 30 that it will participate as a sponsor of the conference and organize a corporate exhibition s",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15131",
+      "published_at": "2026-11-02T01:23:27+00:00"
+    },
+    {
+      "id": "thelec-8226402904",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Google’s Gemini 4 Carbon Tops Artificial Analysis Rankings",
+      "summary": "Google, which had faced concerns that prolonged delays in releasing a frontier AI model had left it behind in the AI race, is seeking to regain ground with the successive launches of Gemini 4 Argon (Argon) and, two weeks later, Gemini 4 Carbon (Carbon).Carbon, unveiled on Oct. 28 local time, the sam",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15128",
+      "published_at": "2026-11-02T01:23:27+00:00"
+    },
+    {
+      "id": "thelec-1300300743",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "KISIA’s Bid to Join Naver Cloud AI Security Project Stalls",
+      "summary": "A cooperation proposal made publicly by the Korea Information Security Industry Association (KISIA) in September for the Cybersecurity-Specialized AI Foundation Model Development Project has made no progress for more than 40 days, THE ELEC has learned.The Naver Cloud consortium, which is carrying ou",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15125",
+      "published_at": "2026-11-02T01:23:27+00:00"
+    },
+    {
+      "id": "geekpark-2650741081",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+      "summary": "<p>&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/40/0d/400d5d82a33f4d6cc7c1f4a536a86e6d.png\" /></p>\n<h2>苹果 CEO：不会为了做 AI 而做产品</h2>\n<p>苹果 CEO 约翰&middot;特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。</p>\n<p>特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段很满意。」</p>\n<p>特努斯补充，苹果一定会在新产品中运用人工智能，但他表示：「我们不想为了做 AI 而推出 AI。如果我们做得好，用户不会去思考这个功能到底是 AI 实现的，还是传统软件实现的。重点在于，我们是否打造出用户真正喜爱的产品。」（来源：环球市场播报）<img src=\"https://imgslim.geekpark.net/uploads/image/file/5b/8f/5b8fb122b9d72798871b7eabdff74890.png\" /></p...",
+      "link": "http://www.geekpark.net/news/373252",
+      "published_at": "2026-11-02T00:27:02+00:00"
+    },
+    {
+      "id": "simon-willison-4008127959",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -16,7 +137,7 @@
       "published_at": "2026-11-01T23:24:22+00:00"
     },
     {
-      "id": "thelec-555950477",
+      "id": "thelec-4629692803",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -27,7 +148,7 @@
       "published_at": "2026-11-01T20:15:32+00:00"
     },
     {
-      "id": "thelec-8240064674",
+      "id": "thelec-4065547261",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -38,7 +159,7 @@
       "published_at": "2026-11-01T20:15:29+00:00"
     },
     {
-      "id": "thelec-5066430625",
+      "id": "thelec-2893339615",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -49,7 +170,7 @@
       "published_at": "2026-11-01T20:15:27+00:00"
     },
     {
-      "id": "thelec-9942949435",
+      "id": "thelec-6828967942",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -60,7 +181,7 @@
       "published_at": "2026-11-01T20:15:25+00:00"
     },
     {
-      "id": "simon-willison-676254975",
+      "id": "simon-willison-1451939767",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -71,7 +192,7 @@
       "published_at": "2026-11-01T16:49:04+00:00"
     },
     {
-      "id": "the-decoder-6511146690",
+      "id": "the-decoder-4646167648",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -82,7 +203,7 @@
       "published_at": "2026-11-01T14:56:44+00:00"
     },
     {
-      "id": "the-decoder-2857107516",
+      "id": "the-decoder-3409823708",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -93,7 +214,7 @@
       "published_at": "2026-11-01T14:36:49+00:00"
     },
     {
-      "id": "the-decoder-9097190063",
+      "id": "the-decoder-3595137353",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -104,7 +225,7 @@
       "published_at": "2026-11-01T12:33:01+00:00"
     },
     {
-      "id": "the-decoder-9058532443",
+      "id": "the-decoder-7241385391",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -115,7 +236,7 @@
       "published_at": "2026-11-01T12:05:04+00:00"
     },
     {
-      "id": "the-decoder-1949874351",
+      "id": "the-decoder-6739112633",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -126,7 +247,7 @@
       "published_at": "2026-11-01T11:25:21+00:00"
     },
     {
-      "id": "geekpark-1998563205",
+      "id": "geekpark-5166766449",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -137,7 +258,7 @@
       "published_at": "2026-11-01T10:03:12+00:00"
     },
     {
-      "id": "geekpark-8547496691",
+      "id": "geekpark-5188768729",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -148,7 +269,7 @@
       "published_at": "2026-11-01T09:57:50+00:00"
     },
     {
-      "id": "the-decoder-6921629475",
+      "id": "the-decoder-9144228807",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -159,7 +280,7 @@
       "published_at": "2026-11-01T09:51:06+00:00"
     },
     {
-      "id": "leiphone-2015071249",
+      "id": "leiphone-9218380119",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -170,7 +291,7 @@
       "published_at": "2026-11-01T09:46:00+00:00"
     },
     {
-      "id": "leiphone-3019799725",
+      "id": "leiphone-8749287540",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -181,7 +302,7 @@
       "published_at": "2026-11-01T07:13:00+00:00"
     },
     {
-      "id": "leiphone-3404846478",
+      "id": "leiphone-6688140615",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -192,7 +313,7 @@
       "published_at": "2026-11-01T06:36:00+00:00"
     },
     {
-      "id": "leiphone-8378156185",
+      "id": "leiphone-9896832041",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -203,7 +324,7 @@
       "published_at": "2026-11-01T06:29:00+00:00"
     },
     {
-      "id": "geekpark-1249380472",
+      "id": "geekpark-6410971372",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -214,7 +335,7 @@
       "published_at": "2026-11-01T00:29:48+00:00"
     },
     {
-      "id": "simon-willison-8895253568",
+      "id": "simon-willison-6548061555",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -225,7 +346,7 @@
       "published_at": "2026-10-31T23:15:22+00:00"
     },
     {
-      "id": "simon-willison-7955453903",
+      "id": "simon-willison-6812390431",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -236,7 +357,7 @@
       "published_at": "2026-10-31T22:10:01+00:00"
     },
     {
-      "id": "the-decoder-9182111894",
+      "id": "the-decoder-7469741995",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -247,7 +368,7 @@
       "published_at": "2026-10-31T19:20:55+00:00"
     },
     {
-      "id": "the-decoder-6359310465",
+      "id": "the-decoder-7609534466",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -258,7 +379,7 @@
       "published_at": "2026-10-31T16:38:37+00:00"
     },
     {
-      "id": "latent-space-5266299410",
+      "id": "latent-space-4530483604",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -269,7 +390,7 @@
       "published_at": "2026-10-31T16:05:00+00:00"
     },
     {
-      "id": "the-decoder-3471058690",
+      "id": "the-decoder-9032768236",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -280,7 +401,7 @@
       "published_at": "2026-10-31T15:06:14+00:00"
     },
     {
-      "id": "the-decoder-5968446404",
+      "id": "the-decoder-2510181622",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -291,7 +412,7 @@
       "published_at": "2026-10-31T10:43:58+00:00"
     },
     {
-      "id": "leiphone-354427644",
+      "id": "leiphone-6761301124",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -302,7 +423,7 @@
       "published_at": "2026-10-31T09:55:00+00:00"
     },
     {
-      "id": "latent-space-8102090044",
+      "id": "latent-space-5077812501",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -313,7 +434,7 @@
       "published_at": "2026-10-31T05:00:48+00:00"
     },
     {
-      "id": "leiphone-9498852246",
+      "id": "leiphone-6923393529",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -324,7 +445,7 @@
       "published_at": "2026-10-31T03:31:00+00:00"
     },
     {
-      "id": "leiphone-497671468",
+      "id": "leiphone-9518937595",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -335,7 +456,7 @@
       "published_at": "2026-10-31T02:51:00+00:00"
     },
     {
-      "id": "geekpark-2638139235",
+      "id": "geekpark-6503200806",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -346,7 +467,7 @@
       "published_at": "2026-10-31T00:03:20+00:00"
     },
     {
-      "id": "leiphone-84459047",
+      "id": "leiphone-8216628294",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -357,7 +478,7 @@
       "published_at": "2026-10-30T22:52:00+00:00"
     },
     {
-      "id": "aws-ml-2172153487",
+      "id": "aws-ml-353760277",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -368,7 +489,7 @@
       "published_at": "2026-10-30T22:42:24+00:00"
     },
     {
-      "id": "geekpark-2824239709",
+      "id": "geekpark-5338303408",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -379,7 +500,7 @@
       "published_at": "2026-10-30T22:26:23+00:00"
     },
     {
-      "id": "simon-willison-3891662137",
+      "id": "simon-willison-2833129493",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -390,7 +511,7 @@
       "published_at": "2026-10-30T21:59:22+00:00"
     },
     {
-      "id": "aws-ml-3892933058",
+      "id": "aws-ml-8543729578",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -401,7 +522,7 @@
       "published_at": "2026-10-30T21:40:03+00:00"
     },
     {
-      "id": "huggingface-4345241",
+      "id": "huggingface-6788664355",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -412,7 +533,7 @@
       "published_at": "2026-10-30T17:57:24+00:00"
     },
     {
-      "id": "aws-ml-3241159471",
+      "id": "aws-ml-3781516208",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -423,7 +544,7 @@
       "published_at": "2026-10-30T17:32:20+00:00"
     },
     {
-      "id": "aws-ml-7274195630",
+      "id": "aws-ml-1163767184",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -434,7 +555,7 @@
       "published_at": "2026-10-30T17:27:45+00:00"
     },
     {
-      "id": "nvidia-blog-3212166746",
+      "id": "nvidia-blog-2757259591",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -445,7 +566,7 @@
       "published_at": "2026-10-30T15:00:10+00:00"
     },
     {
-      "id": "leiphone-4235418735",
+      "id": "leiphone-5611015675",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -456,7 +577,7 @@
       "published_at": "2026-10-30T14:20:00+00:00"
     },
     {
-      "id": "microsoft-research-3197182181",
+      "id": "microsoft-research-7898840649",
       "source_id": "microsoft-research",
       "source_name": "Microsoft Research",
       "category": "ai-models",
@@ -467,7 +588,7 @@
       "published_at": "2026-10-30T13:05:28+00:00"
     },
     {
-      "id": "leiphone-599517908",
+      "id": "leiphone-5925451713",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -478,7 +599,7 @@
       "published_at": "2026-10-30T11:32:00+00:00"
     },
     {
-      "id": "leiphone-5912459399",
+      "id": "leiphone-6949461711",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -489,7 +610,7 @@
       "published_at": "2026-10-30T11:12:00+00:00"
     },
     {
-      "id": "leiphone-337254779",
+      "id": "leiphone-2098175820",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -500,7 +621,7 @@
       "published_at": "2026-10-30T11:12:00+00:00"
     },
     {
-      "id": "leiphone-4185557752",
+      "id": "leiphone-3115482791",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -511,7 +632,7 @@
       "published_at": "2026-10-30T11:08:00+00:00"
     },
     {
-      "id": "leiphone-8696520758",
+      "id": "leiphone-876904686",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -522,7 +643,7 @@
       "published_at": "2026-10-30T10:38:00+00:00"
     },
     {
-      "id": "leiphone-369840563",
+      "id": "leiphone-9931691698",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -533,7 +654,7 @@
       "published_at": "2026-10-30T10:03:00+00:00"
     },
     {
-      "id": "leiphone-8445404983",
+      "id": "leiphone-6436284135",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -544,7 +665,7 @@
       "published_at": "2026-10-30T09:51:00+00:00"
     },
     {
-      "id": "leiphone-8608377988",
+      "id": "leiphone-147199958",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -555,7 +676,7 @@
       "published_at": "2026-10-30T09:33:00+00:00"
     },
     {
-      "id": "openai-news-7038141329",
+      "id": "openai-news-9746061659",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -566,7 +687,7 @@
       "published_at": "2026-10-30T09:30:00+00:00"
     },
     {
-      "id": "leiphone-4126670852",
+      "id": "leiphone-7668416105",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -577,7 +698,7 @@
       "published_at": "2026-10-30T09:02:00+00:00"
     },
     {
-      "id": "openai-news-9617201922",
+      "id": "openai-news-2842326088",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -588,7 +709,7 @@
       "published_at": "2026-10-30T09:00:00+00:00"
     },
     {
-      "id": "thelec-3347803100",
+      "id": "thelec-4240518714",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -599,7 +720,7 @@
       "published_at": "2026-10-30T08:55:56+00:00"
     },
     {
-      "id": "thelec-1374411203",
+      "id": "thelec-3301876990",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -610,7 +731,7 @@
       "published_at": "2026-10-30T08:55:45+00:00"
     },
     {
-      "id": "thelec-823276106",
+      "id": "thelec-4712015211",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -621,7 +742,7 @@
       "published_at": "2026-10-30T08:55:37+00:00"
     },
     {
-      "id": "thelec-947950822",
+      "id": "thelec-6247938568",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -632,7 +753,7 @@
       "published_at": "2026-10-30T08:55:22+00:00"
     },
     {
-      "id": "leiphone-4038804285",
+      "id": "leiphone-85206536",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -643,18 +764,7 @@
       "published_at": "2026-10-30T08:48:00+00:00"
     },
     {
-      "id": "leiphone-2692080664",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "科大讯飞董事长与总裁主动降薪，两人均少领超2000万；阿维塔回应会议视频被吐槽「演的太尬」：是摆拍，但事是真的；百度副总裁吴甜已离职",
-      "summary": "<section></section><section><section><section><section><section><section><section></section><section><section style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span></section><section><br /></section></section></section></section></section></section></section></section><p style=\"text-align: justify;\">1.科大讯飞回应高管薪资质疑：董事长与总裁主动降薪，两人均少领超2000万</p><p style=\"text-align: justify;\">2.内部会议视频被吐槽演的太尬！阿维塔副总裁：是摆拍，但事是真的</p><p style=\"text-align: justify;\">3.华为“天才少年”杨玉雯加盟南京大学</p><p style=\"text-align: justify;\">4.百度确认吴甜已离职，文心模型下周将发布新进展</p><p style=\"text-align: justify;\">5.王腾创业首...",
-      "link": "https://www.leiphone.com/category/zaobao/zRRabO7xif7QiyjK.html",
-      "published_at": "2026-10-30T08:42:00+00:00"
-    },
-    {
-      "id": "latent-space-5335462057",
+      "id": "latent-space-2424447205",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -665,7 +775,7 @@
       "published_at": "2026-10-30T08:24:29+00:00"
     },
     {
-      "id": "geekpark-9049228356",
+      "id": "geekpark-4854471035",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -674,347 +784,6 @@
       "summary": "<div>\n<div class=\"ace-line ace-line old-record-id-doxcnIb83MYx6QNb1u1Bsrub3of\"><strong>作者｜Cynthia</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnGwchlOzgSG2VxqXjEgRkze\"><strong>编辑｜郑玄</strong></div>\n</div>\n<p>过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。</p>\n<p>一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&hellip;&hellip;</p>\n<p><strong>但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。</strong></p>\n<p>时间去了哪里？</p>\n<p>写提示词、等待 AI 生成是一部分；生成效果不理想，手动在 IDE 中 修改是另一部分。甚至，开发完成后，代码还需要打开终端测试；准备项目汇报，又要切换到文档和演示工具。</p>\n<p><strong>每换一个应用、开启一段新会话，都可能需要重新解释：项目在做什么，为什么这样设计，刚才改到了哪里，还有哪些问题没解决...",
       "link": "http://www.geekpark.net/news/373190",
       "published_at": "2026-10-30T05:49:25+00:00"
-    },
-    {
-      "id": "thelec-8876344824",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Samsung Expects Exynos 2700 to Gain Market Share",
-      "summary": "Samsung Electronics expects its Exynos processors to gain market share.Shin Seung-cheol, vice president of Samsung Electronics\\' System LSI Business under its Device Solutions (DS) division, said during the company\\'s third-quarter earnings conference call on Oct. 29, \\\"We have improved artificial inte",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15068",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-6423523591",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Samsung's Chip Profit Hits 106.5 Trillion Won, Device Business Posts Loss",
-      "summary": "Samsung Electronics posted an operating profit of 107.4 trillion won in the third quarter, becoming the first global technology company to surpass 100 trillion won in quarterly operating profit. However, its finished-product business, including smartphones and TVs, recorded an operating loss of 800",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15063",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-4808743754",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Samsung SDS Q3 Revenue Rises 11.2% to 3.77 Trillion Won",
-      "summary": "Samsung SDS reported an 11.2% year-on-year increase in third-quarter revenue, driven by growth in its cloud and logistics businesses.Samsung SDS said in a regulatory filing on Oct. 29 that its preliminary consolidated revenue for the third quarter of 2026 reached 3.7725 trillion won, while operating",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15062",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-3441789494",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Samyang Unveils Ultrapure Water Ion Exchange Resin for Next-Generation Semiconductors",
-      "summary": "Samyang Corp. unveiled an ultrapure water ion exchange resin for next-generation semiconductor manufacturing at its TRILITE DAY 2026 event on Oct. 28. About 70 employees and executives from water treatment customers attended the event, held in the auditorium on the first floor of the company’s headq",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15058",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-4652336548",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Alphabet's Cloud Revenue Surges 103%, but Cash Flow Deteriorates",
-      "summary": "Alphabet, Google\\'s parent company, reported a surprise doubling of cloud revenue, but its free cash flow (FCF) deficit deepened amid massive investments in artificial intelligence (AI) infrastructure. Shares plunged nearly 10% in after-hours trading after revenue and earnings fell short of market ex",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15057",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-6159952246",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Emro to Build AI Procurement Automation Agent for GS Caltex",
-      "summary": "Emro will build an artificial intelligence (AI) agent to automate small-value materials procurement at GS Caltex.Emro, an AI-based supply chain management software company, said on Oct. 29 that it had won a contract to develop a procurement automation AI agent for GS Caltex.The project focuses on au",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15056",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-7422247256",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "FuriosaAI Raises 820 Billion Won in Series D Funding, Reaches 3.8 Trillion Won Valuation",
-      "summary": "FuriosaAI, a fabless artificial intelligence (AI) semiconductor company, said on Oct. 29 that it had completed an 820 billion won Series D funding round.Strong demand from domestic and overseas investors prompted the company to raise its fundraising target from the original range of 450 billion to 7",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15054",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-4105220568",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Kakao Open-Sources Two AI Search Models Optimized for Korean",
-      "summary": "Kakao has released two open-source embedding models designed for developing personalized artificial intelligence (AI) agents. The models feature improved Korean-language search performance and smaller model sizes to enhance operational efficiency.Kakao said on Oct. 29 that it had released two Kanana",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15053",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-8411284671",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Kolon Benit Holds AI Infrastructure Training for Partners",
-      "summary": "Kolon Benit is strengthening its partners\\' technical capabilities in response to the expanding artificial intelligence (AI) infrastructure market.Kolon Benit said on Oct. 29 that it is holding the \\\"Kolon Benit Partner Academy\\\" for partner engineers from Oct. 27 to 30 at its AI Solution Center in Gas",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15052",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-2437726242",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "AutoCrypt Demonstrates Vehicle Hacking, Showcases Security Testing Technology",
-      "summary": "AutoCrypt said on Oct. 28 that it demonstrated real-world vehicle hacking at the 2026 Connected Mobility Alliance General Assembly, held at Paradise City in Incheon, South Korea.The demonstration showed how automotive cybersecurity threats are assessed and security verification technologies are appl",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15050",
-      "published_at": "2026-10-30T04:25:29+00:00"
-    },
-    {
-      "id": "thelec-7013304055",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "NC's Aion 2 Tops Japan Steam Chart for Third Straight Week",
-      "summary": "NC\\'s massively multiplayer online role-playing game (MMORPG) Aion 2 topped Steam\\'s weekly sales chart in Japan for the third consecutive week. The game also maintained high rankings in major markets across Europe and South America, continuing its global commercial success.According to NC on Oct. 30,",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15112",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-4373612533",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanmi Semiconductor Q3 Profit Rises Year on Year but Falls 30% Sequentially",
-      "summary": "Hanmi Semiconductor reported year-on-year growth in third-quarter earnings, but its performance declined by about 30% from the previous quarter.Hanmi Semiconductor said on Oct. 30 that third-quarter revenue reached 181 billion won and operating profit totaled 90.8 billion won, up 8.9% and 33.9%, res",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15108",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-3085954142",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LG CNS Q3 Operating Profit Rises 15% as Financial IT Revenue Grows 21%",
-      "summary": "LG CNS reported increases in both revenue and operating profit in the third quarter, driven by growth in artificial intelligence (AI), cloud services and next-generation financial systems projects. Revenue growth of more than 20% in its financial IT business contributed significantly to the overall",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15106",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-9211669540",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Pearl Abyss Releases First Crimson Desert DLC, Enters Steam Top 10",
-      "summary": "Pearl Abyss released “Charting the Unknown,” the first downloadable content (DLC) expansion for its open-world action-adventure game “Crimson Desert Enhanced,” worldwide on Oct. 30. The paid expansion arrives about seven months after the original game’s launch in March.Crimson Desert was developed u",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15104",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-1736105143",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Jin Air Suffers API Attack, Exposing Data of 1,454 Customers",
-      "summary": "Jin Air has suffered a data breach exposing the personal information of 1,454 customers.Jin Air said in a notice on its website on Oct. 29 that it had detected an external intrusion attempt targeting its member information retrieval application programming interface (API) on Oct. 28. An attack explo",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15103",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-5653120079",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "NIPA Holds 45.8 Billion Won in Export Talks With Japanese Companies",
-      "summary": "The National IT Industry Promotion Agency (NIPA) said on Oct. 29 that it held export consultations worth a combined 45.8 billion won in Tokyo, Japan.NIPA hosted the Korea-Japan Digital Business Partnership event in Tokyo on Oct. 28 and 29, bringing together 37 South Korean digital technology compani",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15101",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-134268058",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Akamai Expands Cloud Services With AI Inference and Agent Execution Tools",
-      "summary": "Akamai Technologies is expanding into artificial intelligence (AI) model operations and agent execution. Beyond selling graphics processing units (GPUs) and servers for cloud environments, the company has added services for running and managing AI models.Akamai said on Oct. 29 that it launched beta",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15100",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-1989250014",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "KISA President Lee Sang-joong Dismissed Three Months Before Term Ends",
-      "summary": "Lee Sang-joong, president of the Korea Internet & Security Agency (KISA), has been dismissed with about three months remaining in his term. Lee indicated he would pursue legal action to challenge the dismissal.According to industry sources on Oct. 29, a recommendation to dismiss Lee received final a",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15099",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-7592596207",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Ateco Seeks Kosdaq Listing Through Technology-Based IPO",
-      "summary": "Ateco, a manufacturer of back-end memory semiconductor equipment, said it submitted an application for a preliminary Kosdaq listing review to the Korea Exchange on Oct. 28.Ateco is pursuing a Kosdaq listing under the technology-based special listing program, with Mirae Asset Securities and IBK Inves",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15093",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-8246034517",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Intel, SAP Partner to Connect Enterprise Systems With Robots Through Physical AI",
-      "summary": "Intel and SAP announced a partnership in physical artificial intelligence (AI) technology at SAP TechEd 2026 on Oct. 29.The companies integrated SAP Extended Warehouse Management (SAP EWM), a warehouse logistics management system, with Intel\\'s edge AI hardware and software.When a company makes opera",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15092",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-4993312659",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Ibiden to Invest 1.28 Trillion Won in CPU Substrate Capacity",
-      "summary": "Japanese semiconductor package substrate maker Ibiden plans to invest 1.28 trillion won to expand production capacity for high-performance semiconductor package substrates used in artificial intelligence (AI) servers. The investment is aimed at meeting growing demand for central processing unit (CPU",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15090",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-1489723269",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Haesung DS Posts Record Quarterly Revenue of 245.3 Billion Won",
-      "summary": "Haesung DS posted its highest quarterly revenue on record in the third quarter, surpassing its previous peak of 224.3 billion won set in the third quarter of 2022 for the first time in four years.Haesung DS said in a preliminary earnings disclosure on Oct. 29 that third-quarter consolidated revenue",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15088",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-4207128252",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Zaram Technology Wins 2.97 Billion Won ASIC Supply Contract",
-      "summary": "Zaram Technology disclosed on Oct. 29 that it signed a 2.9713 billion won contract to supply application-specific integrated circuits (ASICs) to AirPoint. The contract is equivalent to about 27.9% of its 2025 revenue of approximately 10.6435 billion won.The ASICs to be supplied are designed for elec",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15087",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-7998443019",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Semitech's Semiconductor Equipment Sales Surge 115%",
-      "summary": "Hanwha Semitech\\'s semiconductor equipment sales surged 115.2% in the third quarter from a year earlier. Companywide revenue rose 56% as all business segments, including surface mount technology (SMT) and machine tools, recorded growth.Hanwha Semitech said on Oct. 29 that third-quarter revenue reache",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15086",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-7203454844",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "AMD to Supply Latest Server CPUs, DPUs to Oracle",
-      "summary": "AMD announced on Oct. 27 (local time) that it will supply its latest server central processing units (CPUs) and data processing units (DPUs) to Oracle Cloud Infrastructure (OCI).The products include AMD’s sixth-generation EPYC Venice CPUs and Pensando DPUs. The EPYC Venice processors will be used in",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15069",
-      "published_at": "2026-10-30T04:23:57+00:00"
-    },
-    {
-      "id": "thelec-7898603892",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Ocean Reaches Labor Deal, Raising Base Pay by 140,000 won",
-      "summary": "Hanwha Ocean has finalized a wage and collective bargaining agreement with its direct employees’ union after five months of negotiations.The Hanwha Ocean branch of the Korean Metal Workers’ Union (KMWU) held a general meeting on Oct. 29 to vote on a tentative agreement, with all 4,707 union members",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15097",
-      "published_at": "2026-10-30T04:08:59+00:00"
-    },
-    {
-      "id": "thelec-5161543950",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Optonics Sets IPO Price at 12,000 won Per Share",
-      "summary": "Optonics has finalized its initial public offering (IPO) price at 12,000 won per share ahead of its listing on the KOSDAQ market.Optonics said on Oct. 29 that it set the IPO price at 12,000 won, the upper end of its indicative range of 10,000 to 12,000 won. The offering is expected to raise 26.4 bil",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15098",
-      "published_at": "2026-10-30T04:08:57+00:00"
-    },
-    {
-      "id": "thelec-4023822886",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "SK Retains Key CEOs, Names Chung Seung-il to Lead SK Innovation",
-      "summary": "SK Group has announced its 2027 executive appointments, retaining the chief executive officers (CEOs) of major affiliates while reshuffling energy business leadership centered on SK Innovation. The appointments suggest the group is prioritizing continuity over sweeping management changes as its core",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15107",
-      "published_at": "2026-10-30T04:08:45+00:00"
-    },
-    {
-      "id": "thelec-1365856388",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LS Cable & System to Build Rare-Earth Magnet Plant to Cut China Reliance",
-      "summary": "LS Cable & System is seeking to secure rare-earth materials from sources outside China. The company said on Oct. 30 that it plans to build a rare-earth permanent magnet manufacturing plant in Gumi, North Gyeongsang Province.On Oct. 29, Korea Motion Works, LS Cable & System\\'s rare-earth permanent mag",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15110",
-      "published_at": "2026-10-30T04:08:01+00:00"
-    },
-    {
-      "id": "geekpark-1906876329",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
-      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/02/64/02644a2f89f2e3c078fd52a66ef1e4fe.png\" /></p>\n<h1>谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收</h1>\n<p>Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/fa/f7/faf775e9f314b741c0cd9e4603e99f2e.png\" /></p>\n<p>这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预期，增速为五个季度来最慢。这项业务约占公司总营收的一半，也是为巨额 AI 投资提供资金的关键来源。</p>\n<p>摩根大通分析师 Doug Anmuth 等人在研报中表示，业绩和股价反应显示，对于投入数千亿美元建设 A...",
-      "link": "http://www.geekpark.net/news/373154",
-      "published_at": "2026-10-30T00:15:04+00:00"
-    },
-    {
-      "id": "openai-news-3779776250",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "published_at": "2026-10-30T00:00:00+00:00"
     }
   ]
 }
