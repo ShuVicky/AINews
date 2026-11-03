@@ -1,11 +1,176 @@
 {
-  "generated_at": "2026-11-02T22:25:34.799102+00:00",
+  "generated_at": "2026-11-03T03:38:21.709077+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 91,
+  "count": 93,
   "items": [
     {
-      "id": "the-decoder-9550402043",
+      "id": "thelec-5087804678",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Up to 5,000 Developers Infected by Malware on SpaceX-Owned Cursor Marketplace",
+      "summary": "A malicious extension disguised as Anthropic’s Claude Code was uploaded to the marketplace of artificial intelligence (AI) development tool Cursor on Oct. 29, local time, potentially infecting up to 5,000 developers. The extension was designed to install an SSH backdoor, prompting warnings for devel",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15190",
+      "published_at": "2026-11-03T01:18:30+00:00"
+    },
+    {
+      "id": "thelec-5657765260",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Samsung SDS Begins Construction of Gumi AI Data Center, Plans Expansion to 120MW",
+      "summary": "Samsung SDS is building an artificial intelligence (AI) data center in Gumi, North Gyeongsang Province, with the potential to expand capacity to 120 megawatts (MW). The project marks a concrete step toward implementing Samsung Group’s 60 trillion won investment plan for the Yeongnam region, announce",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15176",
+      "published_at": "2026-11-03T01:18:30+00:00"
+    },
+    {
+      "id": "thelec-8105641544",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Lotte Innovate Q3 Operating Profit Surges 88%, Beats Expectations",
+      "summary": "Lotte Innovate’s operating profit surged 88% year-on-year in the third quarter, exceeding market expectations as its profitability-focused management strategy delivered tangible results. The company is also accelerating its artificial intelligence (AI) data center business, which it has identified a",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15171",
+      "published_at": "2026-11-03T01:18:30+00:00"
+    },
+    {
+      "id": "thelec-4691916532",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Naver Cloud Partners With South Korean Army to Build AI Logistics System",
+      "summary": "Naver Cloud will work with the Republic of Korea Army Logistics Command to build an artificial intelligence (AI)-based military logistics system.According to Naver Cloud, the company signed a memorandum of understanding (MOU) on Oct. 30 at the Army Logistics Command headquarters in Daejeon to optimi",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15169",
+      "published_at": "2026-11-03T01:18:30+00:00"
+    },
+    {
+      "id": "thelec-6518928514",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LG CNS Completes 30MW AI Data Center in Indonesia",
+      "summary": "LG CNS has completed an artificial intelligence (AI) data center in Indonesia, just over a year after winning a 100 billion won contract for the project. The company also secured customers for 100% of the facility\\'s capacity before completion.LG CNS announced on Nov. 2 that it had completed construc",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15156",
+      "published_at": "2026-11-03T01:18:30+00:00"
+    },
+    {
+      "id": "geekpark-2054127550",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/61/4b/614bf317d139012c27a2509f64d7a7a4.png\" /></p>\n<h1>Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元</h1>\n<p>11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。</p>\n<p>Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司第三季度营业亏损为 5.67 亿美元，而第二季度曾实现 9.74 亿美元营业利润。</p>\n<p>与此同时，Anthropic 披露约 8954 亿美元的 AI 基础设施相关支出承诺，涉及亚马逊、谷歌等合作伙伴。公司警告，部分算力供应依赖第三方融资，如果相关资金出现问题，可能影响交付时间和成本。（来源：Reuters）</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/67/6...",
+      "link": "http://www.geekpark.net/news/373358",
+      "published_at": "2026-11-03T00:40:51+00:00"
+    },
+    {
+      "id": "simon-willison-8071321069",
+      "source_id": "simon-willison",
+      "source_name": "Simon Willison",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "llm 0.37",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p>\n        <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.</p>\n<p>I added <code>gpt-6.1-sol</code> and <code>gpt-6.1-terra</code>, plus a new <a href=\"https://llm.datasette.io/en/stable/other-models.html#configure-an-openai-compatible-model\">llm openai endpoint add</a> command to make it easier to configure additional models that use OpenAI-compatible endpoints.</p>\n<p>I switched t...",
+      "link": "https://simonwillison.net/2026/Nov/2/llm/",
+      "published_at": "2026-11-02T23:49:30+00:00"
+    },
+    {
+      "id": "latent-space-7091186460",
+      "source_id": "latent-space",
+      "source_name": "Latent Space",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+      "link": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "published_at": "2026-11-02T23:01:02+00:00"
+    },
+    {
+      "id": "thelec-4460311480",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "​CEVA Unveils 2nd-Gen NeuPro NPU, Doubling AI Throughput",
+      "summary": "CEVA unveiled its second-generation NeuPro neural processing unit (NPU) product lineup on Nov. 2.​The second-generation lineup delivers up to twice the artificial intelligence (AI) processing throughput per square millimeter compared with the first generation, while energy efficiency has improved by",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15203",
+      "published_at": "2026-11-02T22:58:33+00:00"
+    },
+    {
+      "id": "thelec-3792105981",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LG Display, LG Energy Solution Named Insincere Disclosure Companies",
+      "summary": "LG Display and LG Energy Solution were designated as companies that failed to meet disclosure requirements after reporting allegations of occupational breach of trust against a former executive eight months late. The Korea Exchange (KRX) imposed a penalty of 8 million won on each company.​According",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15205",
+      "published_at": "2026-11-02T22:57:49+00:00"
+    },
+    {
+      "id": "thelec-9033265616",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "APS Buys 1 Billion Won in Treasury Shares",
+      "summary": "APS said Nov. 2 it would buy 1 billion won worth of its own shares to stabilize its stock price and attract top talent.​APS will enter into a trust agreement with Samsung Securities to buy back its shares. The agreement will run from Nov. 3 through May 3, 2027. The planned purchase price is 3,450 wo",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15204",
+      "published_at": "2026-11-02T22:57:47+00:00"
+    },
+    {
+      "id": "thelec-7117684334",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "MNC Solution Wins 12.5 Billion Won Mine-Clearing Equipment Contract",
+      "summary": "MNC Solution said in a regulatory filing on Nov. 2 that it signed a 12.5 billion won contract with LIG Defense & Aerospace (D&amp;A) to supply mine-clearing equipment. The company will develop and deliver a prototype acoustic generator for a multi-influence mine sweeping system. The contract runs throug",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15201",
+      "published_at": "2026-11-02T22:57:44+00:00"
+    },
+    {
+      "id": "thelec-8751224067",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "CK Solution Wins 47.3 Billion Won Guam Military Construction Contract",
+      "summary": "CK Solution has secured a construction contract worth about 47.3 billion won for a satellite communications facility at a U.S. Marine Corps base in Guam.CK Solution said in a regulatory filing on Nov. 2 that its U.S. subsidiary, CK USA Guam, signed a contract with local construction company Nan Inc.",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15200",
+      "published_at": "2026-11-02T22:57:43+00:00"
+    },
+    {
+      "id": "thelec-8098345657",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "KAI Delivers First Two FA-50M Jets to Malaysia",
+      "summary": "Korea Aerospace Industries (KAI) said Nov. 2 it completed the delivery of two FA-50M aircraft to the Royal Malaysian Air Force (RMAF) on Oct. 29, marking the first milestone in a contract signed in May 2023 to export 18 FA-50M jets to Malaysia.The FA-50M is a South Korean light attack aircraft devel",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15199",
+      "published_at": "2026-11-02T22:57:41+00:00"
+    },
+    {
+      "id": "latent-space-2676423828",
+      "source_id": "latent-space",
+      "source_name": "Latent Space",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+      "link": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "published_at": "2026-11-02T22:54:03+00:00"
+    },
+    {
+      "id": "the-decoder-347478918",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -16,7 +181,7 @@
       "published_at": "2026-11-02T20:00:03+00:00"
     },
     {
-      "id": "the-decoder-842478878",
+      "id": "the-decoder-5407161173",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -27,7 +192,7 @@
       "published_at": "2026-11-02T19:43:51+00:00"
     },
     {
-      "id": "the-decoder-2495560008",
+      "id": "the-decoder-1702410100",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -38,7 +203,29 @@
       "published_at": "2026-11-02T18:15:39+00:00"
     },
     {
-      "id": "aws-ml-3718290490",
+      "id": "openai-news-3667346066",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published_at": "2026-11-02T18:00:00+00:00"
+    },
+    {
+      "id": "openai-news-3789348274",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published_at": "2026-11-02T18:00:00+00:00"
+    },
+    {
+      "id": "aws-ml-7283555182",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -49,7 +236,7 @@
       "published_at": "2026-11-02T17:11:21+00:00"
     },
     {
-      "id": "aws-ml-5525117477",
+      "id": "aws-ml-5568492930",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -60,7 +247,7 @@
       "published_at": "2026-11-02T17:01:31+00:00"
     },
     {
-      "id": "aws-ml-2694473501",
+      "id": "aws-ml-1435184846",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -71,7 +258,7 @@
       "published_at": "2026-11-02T17:01:16+00:00"
     },
     {
-      "id": "aws-ml-9008700732",
+      "id": "aws-ml-515065559",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -82,7 +269,7 @@
       "published_at": "2026-11-02T17:00:58+00:00"
     },
     {
-      "id": "mit-tech-review-2964814772",
+      "id": "mit-tech-review-5950172178",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -93,7 +280,7 @@
       "published_at": "2026-11-02T17:00:00+00:00"
     },
     {
-      "id": "the-decoder-228175155",
+      "id": "the-decoder-9697717175",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -104,7 +291,7 @@
       "published_at": "2026-11-02T16:26:03+00:00"
     },
     {
-      "id": "the-decoder-876912516",
+      "id": "the-decoder-5617261149",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -115,7 +302,18 @@
       "published_at": "2026-11-02T15:42:27+00:00"
     },
     {
-      "id": "openai-news-4594033132",
+      "id": "openai-news-5523596265",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "published_at": "2026-11-02T15:30:00+00:00"
+    },
+    {
+      "id": "openai-news-7270756588",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -126,7 +324,7 @@
       "published_at": "2026-11-02T15:00:00+00:00"
     },
     {
-      "id": "simon-willison-2400221030",
+      "id": "simon-willison-9175379838",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -137,7 +335,7 @@
       "published_at": "2026-11-02T13:31:26+00:00"
     },
     {
-      "id": "leiphone-4750808677",
+      "id": "leiphone-6741754812",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -148,7 +346,7 @@
       "published_at": "2026-11-02T13:13:00+00:00"
     },
     {
-      "id": "mit-tech-review-6109992920",
+      "id": "mit-tech-review-9203312465",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -159,7 +357,7 @@
       "published_at": "2026-11-02T13:10:32+00:00"
     },
     {
-      "id": "the-decoder-7602772608",
+      "id": "the-decoder-6125653661",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -170,7 +368,7 @@
       "published_at": "2026-11-02T11:47:14+00:00"
     },
     {
-      "id": "the-decoder-3262158786",
+      "id": "the-decoder-7056972403",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -181,7 +379,7 @@
       "published_at": "2026-11-02T10:47:59+00:00"
     },
     {
-      "id": "leiphone-7695816705",
+      "id": "leiphone-4395340815",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -192,7 +390,7 @@
       "published_at": "2026-11-02T10:34:00+00:00"
     },
     {
-      "id": "leiphone-754181218",
+      "id": "leiphone-3072335669",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -203,7 +401,7 @@
       "published_at": "2026-11-02T10:23:00+00:00"
     },
     {
-      "id": "leiphone-2203570873",
+      "id": "leiphone-6317176481",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -214,7 +412,7 @@
       "published_at": "2026-11-02T10:21:00+00:00"
     },
     {
-      "id": "leiphone-3419422713",
+      "id": "leiphone-3928359623",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -225,7 +423,7 @@
       "published_at": "2026-11-02T10:14:00+00:00"
     },
     {
-      "id": "thelec-8569523641",
+      "id": "thelec-3242932892",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +434,7 @@
       "published_at": "2026-11-02T09:56:41+00:00"
     },
     {
-      "id": "thelec-1353022352",
+      "id": "thelec-658293842",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +445,7 @@
       "published_at": "2026-11-02T09:56:31+00:00"
     },
     {
-      "id": "thelec-7746370404",
+      "id": "thelec-865121013",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -258,7 +456,7 @@
       "published_at": "2026-11-02T09:56:08+00:00"
     },
     {
-      "id": "thelec-6545371843",
+      "id": "thelec-1494099184",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -269,7 +467,7 @@
       "published_at": "2026-11-02T09:56:07+00:00"
     },
     {
-      "id": "thelec-9596420722",
+      "id": "thelec-7968457136",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -280,7 +478,7 @@
       "published_at": "2026-11-02T09:56:04+00:00"
     },
     {
-      "id": "thelec-9537500424",
+      "id": "thelec-9515333186",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -291,7 +489,7 @@
       "published_at": "2026-11-02T09:56:02+00:00"
     },
     {
-      "id": "thelec-276794434",
+      "id": "thelec-6573906988",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -302,7 +500,7 @@
       "published_at": "2026-11-02T09:43:31+00:00"
     },
     {
-      "id": "leiphone-3112569207",
+      "id": "leiphone-4660055396",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -313,7 +511,7 @@
       "published_at": "2026-11-02T09:41:00+00:00"
     },
     {
-      "id": "thelec-1207310554",
+      "id": "thelec-3688452005",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -324,7 +522,7 @@
       "published_at": "2026-11-02T09:37:11+00:00"
     },
     {
-      "id": "thelec-9026792880",
+      "id": "thelec-5138190164",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -335,7 +533,7 @@
       "published_at": "2026-11-02T09:37:10+00:00"
     },
     {
-      "id": "thelec-110282682",
+      "id": "thelec-1921246790",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -346,7 +544,7 @@
       "published_at": "2026-11-02T09:37:07+00:00"
     },
     {
-      "id": "thelec-3165604975",
+      "id": "thelec-7463647511",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -357,7 +555,7 @@
       "published_at": "2026-11-02T09:37:05+00:00"
     },
     {
-      "id": "thelec-3660234067",
+      "id": "thelec-5011291786",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -368,7 +566,7 @@
       "published_at": "2026-11-02T09:36:58+00:00"
     },
     {
-      "id": "thelec-857185757",
+      "id": "thelec-147709286",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -379,7 +577,7 @@
       "published_at": "2026-11-02T09:36:51+00:00"
     },
     {
-      "id": "thelec-1366747247",
+      "id": "thelec-8230081265",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -390,7 +588,7 @@
       "published_at": "2026-11-02T09:36:44+00:00"
     },
     {
-      "id": "thelec-8032958432",
+      "id": "thelec-848447400",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -401,7 +599,7 @@
       "published_at": "2026-11-02T09:36:33+00:00"
     },
     {
-      "id": "thelec-2738234174",
+      "id": "thelec-3849683283",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -412,7 +610,7 @@
       "published_at": "2026-11-02T09:36:32+00:00"
     },
     {
-      "id": "mit-tech-review-9336123960",
+      "id": "mit-tech-review-7780222435",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -423,7 +621,7 @@
       "published_at": "2026-11-02T09:35:19+00:00"
     },
     {
-      "id": "leiphone-5880195222",
+      "id": "leiphone-1416377736",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -434,7 +632,7 @@
       "published_at": "2026-11-02T09:26:00+00:00"
     },
     {
-      "id": "thelec-3374739358",
+      "id": "thelec-6241056529",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -445,7 +643,7 @@
       "published_at": "2026-11-02T09:15:59+00:00"
     },
     {
-      "id": "thelec-5113085422",
+      "id": "thelec-2474507137",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -456,7 +654,7 @@
       "published_at": "2026-11-02T09:15:44+00:00"
     },
     {
-      "id": "thelec-609940756",
+      "id": "thelec-9207896901",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -467,7 +665,7 @@
       "published_at": "2026-11-02T09:15:44+00:00"
     },
     {
-      "id": "thelec-8128430579",
+      "id": "thelec-740540089",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -478,7 +676,7 @@
       "published_at": "2026-11-02T09:15:44+00:00"
     },
     {
-      "id": "thelec-6420250734",
+      "id": "thelec-2673762131",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -489,7 +687,7 @@
       "published_at": "2026-11-02T09:15:44+00:00"
     },
     {
-      "id": "thelec-5451200266",
+      "id": "thelec-3442747443",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -500,7 +698,7 @@
       "published_at": "2026-11-02T09:15:44+00:00"
     },
     {
-      "id": "thelec-8978796385",
+      "id": "thelec-5068754061",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -511,18 +709,7 @@
       "published_at": "2026-11-02T09:15:44+00:00"
     },
     {
-      "id": "thelec-1825159647",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "HanWool & Jeju’s Largest Shareholder, Executives Buy 129,000 Shares",
-      "summary": "HanWool Semiconductor, the largest shareholder of HanWool & Jeju, and the company’s executives disclosed on Nov. 2 that they had purchased a substantial number of shares in the open market. The total purchase value was approximately 123 million won.On Oct. 30, HanWool Semiconductor purchased 37,862",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15163",
-      "published_at": "2026-11-02T09:15:44+00:00"
-    },
-    {
-      "id": "leiphone-9084502256",
+      "id": "leiphone-1527464168",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -533,7 +720,7 @@
       "published_at": "2026-11-02T09:06:00+00:00"
     },
     {
-      "id": "openai-news-7662420006",
+      "id": "openai-news-8375993260",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -544,7 +731,7 @@
       "published_at": "2026-11-02T09:00:00+00:00"
     },
     {
-      "id": "leiphone-8733254607",
+      "id": "leiphone-3803108656",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -555,7 +742,7 @@
       "published_at": "2026-11-02T08:49:00+00:00"
     },
     {
-      "id": "leiphone-9254173628",
+      "id": "leiphone-4876532877",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -566,7 +753,7 @@
       "published_at": "2026-11-02T08:32:00+00:00"
     },
     {
-      "id": "leiphone-8456090863",
+      "id": "leiphone-2759454858",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -577,7 +764,7 @@
       "published_at": "2026-11-02T08:30:00+00:00"
     },
     {
-      "id": "leiphone-5284875484",
+      "id": "leiphone-5306848688",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -588,7 +775,7 @@
       "published_at": "2026-11-02T08:23:00+00:00"
     },
     {
-      "id": "leiphone-9234773253",
+      "id": "leiphone-3862058469",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -599,7 +786,7 @@
       "published_at": "2026-11-02T07:23:00+00:00"
     },
     {
-      "id": "leiphone-1521192764",
+      "id": "leiphone-6237429838",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -610,7 +797,7 @@
       "published_at": "2026-11-02T07:09:00+00:00"
     },
     {
-      "id": "leiphone-7854425423",
+      "id": "leiphone-8018774533",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -621,7 +808,7 @@
       "published_at": "2026-11-02T06:33:00+00:00"
     },
     {
-      "id": "leiphone-8847946015",
+      "id": "leiphone-5443237449",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -632,7 +819,7 @@
       "published_at": "2026-11-02T06:15:00+00:00"
     },
     {
-      "id": "leiphone-9795152777",
+      "id": "leiphone-6546786479",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -643,7 +830,7 @@
       "published_at": "2026-11-02T05:59:00+00:00"
     },
     {
-      "id": "leiphone-3250864875",
+      "id": "leiphone-2136573721",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -654,106 +841,7 @@
       "published_at": "2026-11-02T01:54:00+00:00"
     },
     {
-      "id": "thelec-4777146926",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hyundai Motor Group to Break Ground on Saemangeum AI Data Center in 2027",
-      "summary": "Hyundai Motor Group is moving ahead with its artificial intelligence (AI) data center project in Saemangeum, North Jeolla Province. The group has confirmed investment participation by major affiliates, including Hyundai Motor and Kia, and plans to establish special purpose companies (SPCs) in Novemb",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15118",
-      "published_at": "2026-11-02T01:24:25+00:00"
-    },
-    {
-      "id": "thelec-5740336096",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Nvidia to Become Naver’s Third-Largest Shareholder, Overtaking Founder",
-      "summary": "Nvidia is set to become Naver’s third-largest shareholder through a capital increase next month, pushing Naver Chairman Lee Hae-jin down one position to fourth place.According to a regulatory filing with South Korea’s Financial Supervisory Service on Oct. 30, Naver revised the payment date for its t",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15117",
-      "published_at": "2026-11-02T01:24:25+00:00"
-    },
-    {
-      "id": "thelec-9375332119",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LG CNS Fills Indonesia AI Data Center, Cautious on GPU Spending",
-      "summary": "LG CNS has secured lease agreements for 100% of its artificial intelligence (AI) data center capacity in Indonesia ahead of completion. Meanwhile, the company said it would invest gradually in its graphics processing unit (GPU) services business after assessing demand and commercial viability.During",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15116",
-      "published_at": "2026-11-02T01:24:25+00:00"
-    },
-    {
-      "id": "thelec-1753635481",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Douzone Bizon Hack Raises Data Leak Concerns at 10 Clients",
-      "summary": "The fallout from a hacking incident at Douzone Bizon is widening amid concerns that customer data may have been compromised. Ten of the company’s clients have already been notified of potential data leaks. The affected organizations include a former customer that terminated its service six months ag",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15154",
-      "published_at": "2026-11-02T01:23:27+00:00"
-    },
-    {
-      "id": "thelec-4320005772",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hyundai AutoEver Q3 Operating Profit Falls 2.6% as Vehicle Software Recovery Lags",
-      "summary": "Hyundai AutoEver reported consolidated revenue of 1.2247 trillion won and operating profit of 68.9 billion won for the third quarter, according to a regulatory filing on Oct. 30.Revenue rose 16.2% from a year earlier, while operating profit declined 2.6%. Net profit fell 14.9% to 44.9 billion won.Th",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15145",
-      "published_at": "2026-11-02T01:23:27+00:00"
-    },
-    {
-      "id": "thelec-4644873143",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Security Flaws Found in Five Popular AI Coding Tools, Including OpenAI Codex",
-      "summary": "Multiple security vulnerabilities have been discovered in five popular artificial intelligence (AI) development tools, potentially allowing hackers to execute code, steal files or manipulate browser address bars. Some flaws in tools including OpenAI’s Codex and Microsoft’s Visual Studio Code (VS Cod",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15134",
-      "published_at": "2026-11-02T01:23:27+00:00"
-    },
-    {
-      "id": "thelec-1279781281",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "KISIA to Showcase Financial Security Solutions at FISCON 2026",
-      "summary": "The Korea Information Security Industry Association (KISIA) will organize a cybersecurity industry exhibition at FISCON 2026, a financial information security conference in South Korea.KISIA said on Oct. 30 that it will participate as a sponsor of the conference and organize a corporate exhibition s",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15131",
-      "published_at": "2026-11-02T01:23:27+00:00"
-    },
-    {
-      "id": "thelec-8569049505",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Google’s Gemini 4 Carbon Tops Artificial Analysis Rankings",
-      "summary": "Google, which had faced concerns that prolonged delays in releasing a frontier AI model had left it behind in the AI race, is seeking to regain ground with the successive launches of Gemini 4 Argon (Argon) and, two weeks later, Gemini 4 Carbon (Carbon).Carbon, unveiled on Oct. 28 local time, the sam",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15128",
-      "published_at": "2026-11-02T01:23:27+00:00"
-    },
-    {
-      "id": "thelec-5167205298",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "KISIA’s Bid to Join Naver Cloud AI Security Project Stalls",
-      "summary": "A cooperation proposal made publicly by the Korea Information Security Industry Association (KISIA) in September for the Cybersecurity-Specialized AI Foundation Model Development Project has made no progress for more than 40 days, THE ELEC has learned.The Naver Cloud consortium, which is carrying ou",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15125",
-      "published_at": "2026-11-02T01:23:27+00:00"
-    },
-    {
-      "id": "geekpark-1127287510",
+      "id": "geekpark-8709257840",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -764,7 +852,7 @@
       "published_at": "2026-11-02T00:27:02+00:00"
     },
     {
-      "id": "openai-news-9140689348",
+      "id": "openai-news-4955968151",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -775,7 +863,18 @@
       "published_at": "2026-11-02T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-5888706400",
+      "id": "openai-news-4624394303",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published_at": "2026-11-02T00:00:00+00:00"
+    },
+    {
+      "id": "simon-willison-5679061971",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -786,51 +885,7 @@
       "published_at": "2026-11-01T23:24:22+00:00"
     },
     {
-      "id": "thelec-2103114550",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hyosung Heavy Industries, Siemens Partner on Digital Power Grid Technology",
-      "summary": "Hyosung Heavy Industries will collaborate with Germany\\'s Siemens on digital power grids and artificial intelligence (AI) data center solutions.Hyosung Heavy Industries said it signed a Global Strategic Partnership Agreement (GSPA) with Siemens at the Grand InterContinental Seoul Parnas on Oct. 30.Th",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15150",
-      "published_at": "2026-11-01T20:15:32+00:00"
-    },
-    {
-      "id": "thelec-1477778114",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "HD Hyundai Robotics Expands Physical AI Partnership With Palantir",
-      "summary": "HD Hyundai Robotics is working with global AI software company Palantir Technologies to advance its physical AI solutions.HD Hyundai Robotics said on Nov. 1 that it delivered a keynote presentation at Palantir\\'s Sovereignty Bootcamp in New York. The event focused on protecting corporate data and cri",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15151",
-      "published_at": "2026-11-01T20:15:29+00:00"
-    },
-    {
-      "id": "thelec-2270722081",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Defense USA Wins US Navy Landing Ship Contract",
-      "summary": "Hanwha Defense USA said on Nov. 1 that it secured a contract from TOTE Services, the US Navy’s vessel construction manager (VCM), to build one medium landing ship (LSM). The contract is valued at 357.5 billion won. Construction will be carried out at Hanwha Philly Shipyard, with work scheduled to be",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15152",
-      "published_at": "2026-11-01T20:15:27+00:00"
-    },
-    {
-      "id": "thelec-4915807791",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Ocean Develops Domestic Submarine Horizontal Launch System",
-      "summary": "Hanwha Ocean said on Nov. 1 that it had successfully developed a water-ram horizontal launch system, a key piece of submarine equipment, using domestic technology. The achievement follows 10 years of collaboration with the Agency for Defense Development (ADD).The horizontal launch system is a critic",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15153",
-      "published_at": "2026-11-01T20:15:25+00:00"
-    },
-    {
-      "id": "simon-willison-5446693998",
+      "id": "simon-willison-2828280484",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -841,7 +896,7 @@
       "published_at": "2026-11-01T16:49:04+00:00"
     },
     {
-      "id": "the-decoder-7196635954",
+      "id": "the-decoder-8856959896",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -852,7 +907,7 @@
       "published_at": "2026-11-01T14:56:44+00:00"
     },
     {
-      "id": "the-decoder-7427105057",
+      "id": "the-decoder-8310754405",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -863,7 +918,7 @@
       "published_at": "2026-11-01T14:36:49+00:00"
     },
     {
-      "id": "the-decoder-5639897315",
+      "id": "the-decoder-7191987581",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -874,7 +929,7 @@
       "published_at": "2026-11-01T12:33:01+00:00"
     },
     {
-      "id": "geekpark-3264642806",
+      "id": "geekpark-5188372655",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -885,7 +940,7 @@
       "published_at": "2026-11-01T10:03:12+00:00"
     },
     {
-      "id": "geekpark-6685550122",
+      "id": "geekpark-8207319909",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -896,7 +951,7 @@
       "published_at": "2026-11-01T09:57:50+00:00"
     },
     {
-      "id": "leiphone-8705076390",
+      "id": "leiphone-7851901388",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -907,7 +962,7 @@
       "published_at": "2026-11-01T09:46:00+00:00"
     },
     {
-      "id": "leiphone-1584275366",
+      "id": "leiphone-5533640693",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -918,7 +973,7 @@
       "published_at": "2026-11-01T07:13:00+00:00"
     },
     {
-      "id": "geekpark-173415321",
+      "id": "geekpark-9707395881",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -929,7 +984,7 @@
       "published_at": "2026-11-01T00:29:48+00:00"
     },
     {
-      "id": "simon-willison-1350406844",
+      "id": "simon-willison-7082168324",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -940,7 +995,7 @@
       "published_at": "2026-10-31T23:15:22+00:00"
     },
     {
-      "id": "simon-willison-5342417608",
+      "id": "simon-willison-8425598868",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -951,7 +1006,7 @@
       "published_at": "2026-10-31T22:10:01+00:00"
     },
     {
-      "id": "latent-space-7759324494",
+      "id": "latent-space-8448235206",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -962,7 +1017,7 @@
       "published_at": "2026-10-31T16:05:00+00:00"
     },
     {
-      "id": "latent-space-5287672157",
+      "id": "latent-space-4985213413",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -971,39 +1026,6 @@
       "summary": "It turns out you cannot have your cake AND eat it",
       "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
       "published_at": "2026-10-31T05:00:48+00:00"
-    },
-    {
-      "id": "geekpark-976028300",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
-      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/25/34/2534bb5db2534bf8ea4b0982daa6e132.png\" /></p>\n<h2>国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri</h2>\n<p>10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air、iPhone Duo。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/b3/72/b372d4c7d34112e68be8ee5678c2f366.png\" /></p>\n<p>阿里巴巴强调，在任何问题、文档和图片发送给千问之前，都会先征得用户同意。</p>\n<p>苹果表示，这些功能由其自有模型驱动；用户也可以选择接入阿里巴巴千问，在 S...",
-      "link": "http://www.geekpark.net/news/373220",
-      "published_at": "2026-10-31T00:03:20+00:00"
-    },
-    {
-      "id": "aws-ml-3167480397",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "summary": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
-      "published_at": "2026-10-30T22:42:24+00:00"
-    },
-    {
-      "id": "geekpark-6815072148",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
-      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/1c/b8/1cb8951256f5c64cecdf22fcd283313a.png\" /></p><p>头图图片来源：Apple</p><p>10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27.3 正式发布时，面向中国用户推出。</p><p>苹果中国官网的 Apple 智能页面也改了口。9 月 iPhone 18 和 iPhone Duo 发布时，国行产品页上 Apple 智能后面跟着的是一句「推出时间依监管部门审批情况而定」，到这周新款 MacBook Pro 发布，国行页面还是这句话。现在页面顶部写的是：「Apple 智能的首批核心功能将于今年稍晚推出。」</p><p><strong>从 2024 年 6 月在 WWDC 上亮相算起，国行 iPhone 等了整整两年半。</strong></p><p>今年 3 月 31 日凌晨，有国行 iPhone 用户发现设置里的「Siri」变成了「Apple 智能与 Siri...",
-      "link": "http://www.geekpark.net/news/373238",
-      "published_at": "2026-10-30T22:26:23+00:00"
     }
   ]
 }
