@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T16:00:32.455314+00:00",
+  "generated_at": "2026-11-22T21:55:51.918674+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 104,
+  "count": 101,
   "items": [
     {
-      "id": "the-decoder-1408668096",
+      "id": "the-decoder-6432872815",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -16,7 +16,7 @@
       "published_at": "2026-11-22T15:15:48+00:00"
     },
     {
-      "id": "the-decoder-8031041003",
+      "id": "the-decoder-1391377261",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -27,7 +27,18 @@
       "published_at": "2026-11-22T14:20:28+00:00"
     },
     {
-      "id": "the-decoder-7867547332",
+      "id": "leiphone-8546147627",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "解码比亚迪高端化：一家技术公司的自我进化",
+      "summary": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20261122/6b02f9a0ad942.png?imageMogr2/quality/90\" style=\"width: 100%;\" type=\"block\" /></section><section><section></section></section><section style=\"margin-top: 16px;\"><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em; margin-top: 24px;\"><span><span style=\"letter-spacing: 0.5px;\">20万元以上的车，比亚迪一个季度卖出了17.35万辆。</span></span></p><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"...",
+      "link": "https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html",
+      "published_at": "2026-11-22T14:19:00+00:00"
+    },
+    {
+      "id": "the-decoder-7543739575",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -38,7 +49,7 @@
       "published_at": "2026-11-22T13:00:43+00:00"
     },
     {
-      "id": "leiphone-9050682821",
+      "id": "leiphone-3169444104",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -49,7 +60,7 @@
       "published_at": "2026-11-22T12:55:00+00:00"
     },
     {
-      "id": "thelec-4415851452",
+      "id": "thelec-66435788",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -60,7 +71,7 @@
       "published_at": "2026-11-22T12:30:34+00:00"
     },
     {
-      "id": "the-decoder-9005146543",
+      "id": "the-decoder-1871960538",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -71,7 +82,7 @@
       "published_at": "2026-11-22T12:07:56+00:00"
     },
     {
-      "id": "the-decoder-63372664",
+      "id": "the-decoder-864418088",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -82,7 +93,7 @@
       "published_at": "2026-11-22T11:08:31+00:00"
     },
     {
-      "id": "leiphone-8301101710",
+      "id": "leiphone-7669693452",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -93,7 +104,7 @@
       "published_at": "2026-11-22T10:15:00+00:00"
     },
     {
-      "id": "the-decoder-2245455624",
+      "id": "the-decoder-6656061825",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -104,7 +115,7 @@
       "published_at": "2026-11-22T09:41:37+00:00"
     },
     {
-      "id": "thelec-7492186645",
+      "id": "thelec-7842963463",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -115,7 +126,7 @@
       "published_at": "2026-11-22T04:34:13+00:00"
     },
     {
-      "id": "thelec-9783224197",
+      "id": "thelec-7215678825",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -126,7 +137,7 @@
       "published_at": "2026-11-22T04:34:12+00:00"
     },
     {
-      "id": "thelec-192000741",
+      "id": "thelec-4398570448",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -137,7 +148,7 @@
       "published_at": "2026-11-22T04:34:09+00:00"
     },
     {
-      "id": "thelec-912055548",
+      "id": "thelec-6219498377",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -148,7 +159,7 @@
       "published_at": "2026-11-22T04:34:06+00:00"
     },
     {
-      "id": "thelec-8288535512",
+      "id": "thelec-2885914261",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +170,7 @@
       "published_at": "2026-11-22T04:34:04+00:00"
     },
     {
-      "id": "thelec-3944013295",
+      "id": "thelec-24455337",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -170,7 +181,7 @@
       "published_at": "2026-11-22T04:33:59+00:00"
     },
     {
-      "id": "thelec-2368065971",
+      "id": "thelec-3284759600",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -181,7 +192,18 @@
       "published_at": "2026-11-22T04:33:51+00:00"
     },
     {
-      "id": "aws-ml-3597634866",
+      "id": "geekpark-4288404250",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+      "summary": "<p style=\"text-align: center;\">&nbsp;</p>\n<p>头图来源：极客公园</p>\n<p>今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。</p>\n<p>关于这个问题，行业有两种思路。一种堆参数、扩算力，相信通用大模型终会跨过工业门槛；另一种扎进真实片场，从具体需求自下而上生长。达瓦科技走的是后一条路径。</p>\n<p>达瓦科技总部位于重庆永川，团队从 2014 年开始运营科技影视片场，2023 年成立达瓦科技，转向 AI 模型，今年已连续完成 Pre-A 轮、A 轮融资，累计融资约 5 亿元人民币。</p>\n<p>他们选择的路线是「重控制、轻渲染」：自研控制层基座模型 Latent Stage，把对人物、动作、镜头、灯光、场景的理解和控制单独做成一层，再交给渲染层出画面。围绕这条路线，公司有两款产品：面向专业内容团队、做离线生成的 FilmOS，以及在单张消费级显卡上就能实时运行的世界模型 Scenes AI。</p>\n<p>这套架构的底气来自数据。达瓦在真实片场中积累了约 180TB 的结构化「过程数据」，记录的不只是成片画面，还有从剧本、机位、灯光到动作捕...",
+      "link": "http://www.geekpark.net/news/374303",
+      "published_at": "2026-11-22T02:03:57+00:00"
+    },
+    {
+      "id": "aws-ml-6405021170",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -192,7 +214,29 @@
       "published_at": "2026-11-22T01:59:13+00:00"
     },
     {
-      "id": "thelec-2670789140",
+      "id": "geekpark-679052983",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+      "summary": "<p>&nbsp;</p>\n<p>头图来源：腾讯</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>腾讯的 AI 故事，正在进入一个有些沉重的阶段。</p>\n<p>11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/0c/f2/0cf297d13962deb19ff3475bdf8a037f.png\" /></p>\n<p>图片来源：腾讯财报</p>\n<p>本季度，腾讯资本开支达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；研发投入 323.6 亿元，同比增长 42%。大规模算力采购和预付款之下，自由现金流为负 691 亿元；若剔除算力采购预付款，自由现金流仍有 169 亿元。</p>\n<p>单看收入，这依旧是一份稳健的财报。但把 AI 拆出来，曲线的分叉比上一季度更明显：若剔除混元、元宝、CodeBuddy、WorkBuddy、小微等新 AI 产品的...",
+      "link": "http://www.geekpark.net/news/374302",
+      "published_at": "2026-11-22T01:58:48+00:00"
+    },
+    {
+      "id": "geekpark-8081344888",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+      "summary": "<p>&nbsp;</p>\n<p>头图来源：ChatGPT 生成</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/87/43/8743c3e8ec6ac34f56682b7221845dac.png\" /></p>\n<p>图片来源：x</p>\n<p>两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。</p>\n<p>过去不到一个月，混元刚刚完成一轮高密度产品发布&mdash;&mdash;11 月 4 日推出的 Hy4 首次跻身全球最强开源模型之列，拿下 Agent Arena 开源模型榜首、Artificial Analysis 中国模型第二的成绩；一周后，定位「极致性价比」的 Hy4 flash 快速跟进，单任务成本仅为 Hy4 的二十分之...",
+      "link": "http://www.geekpark.net/news/374301",
+      "published_at": "2026-11-22T01:56:28+00:00"
+    },
+    {
+      "id": "thelec-1601274554",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -203,7 +247,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-7817033183",
+      "id": "thelec-4638969503",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -214,7 +258,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-5634010745",
+      "id": "thelec-4547601108",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -225,7 +269,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-5199941018",
+      "id": "thelec-8250971909",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +280,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-2831659222",
+      "id": "thelec-4310661824",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +291,29 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "simon-willison-7417338731",
+      "id": "geekpark-1572181229",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/df/81/df81df39ba7242c890d2a4fc67bf7ced.png\" /></p>\n<h1>《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房</h1>\n<p>Take-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。</p>\n<p>GTA6 的首发收入已经超过影史票房冠军《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。</p>\n<p>本次首发热度极高，甚至在周四改变了全球互联网流量走向。</p>\n<p>互联网交换中心运营商 DE-CIX 称，该游戏上线催生全球数据流量新纪录。GTA6 上线时段的数据吞吐量，较今年年初常规周均值高出 25%。</p>\n<p>Streams Charts 的数据显示，它同时创下直播观看纪录，全平台峰值在线观众 791 万人，流量主要来自 Twitch 和 YouTube。（来源：环球市场播报）</p>\n...",
+      "link": "http://www.geekpark.net/news/374300",
+      "published_at": "2026-11-22T01:05:22+00:00"
+    },
+    {
+      "id": "openai-news-8635397415",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "category": "ai-models",
+      "module": "🤖 模型与研究",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "published_at": "2026-11-22T00:00:00+00:00"
+    },
+    {
+      "id": "simon-willison-5023171395",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -258,7 +324,7 @@
       "published_at": "2026-11-21T23:56:28+00:00"
     },
     {
-      "id": "the-decoder-5527115409",
+      "id": "the-decoder-4210280724",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -269,7 +335,7 @@
       "published_at": "2026-11-21T16:23:45+00:00"
     },
     {
-      "id": "the-decoder-8911121102",
+      "id": "the-decoder-9179610613",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -280,7 +346,7 @@
       "published_at": "2026-11-21T16:04:29+00:00"
     },
     {
-      "id": "the-decoder-9694332784",
+      "id": "the-decoder-8520304555",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -291,7 +357,7 @@
       "published_at": "2026-11-21T13:32:35+00:00"
     },
     {
-      "id": "the-decoder-4980913192",
+      "id": "the-decoder-4519643364",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -302,7 +368,7 @@
       "published_at": "2026-11-21T11:19:49+00:00"
     },
     {
-      "id": "latent-space-8727325141",
+      "id": "latent-space-726012032",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -313,7 +379,7 @@
       "published_at": "2026-11-21T05:02:13+00:00"
     },
     {
-      "id": "leiphone-4766130228",
+      "id": "leiphone-4910093003",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -324,7 +390,7 @@
       "published_at": "2026-11-21T03:47:00+00:00"
     },
     {
-      "id": "leiphone-6183257363",
+      "id": "leiphone-7321967122",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -335,7 +401,7 @@
       "published_at": "2026-11-21T02:59:00+00:00"
     },
     {
-      "id": "aws-ml-3572790059",
+      "id": "aws-ml-8033385078",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -346,7 +412,18 @@
       "published_at": "2026-11-21T01:06:42+00:00"
     },
     {
-      "id": "aws-ml-4562978601",
+      "id": "geekpark-8112706151",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+      "summary": "<p style=\"text-align: center;\"><img height=\"392\" src=\"https://imgslim.geekpark.net/uploads/image/file/97/c9/97c9699ff88acd605de153c7a7235c94.png\" /></p>\n<h2 style=\"text-align: left;\"><span style=\"font-weight: bold;\">传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元</span></h2>\n<p style=\"text-align: left;\">据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。</p>\n<p style=\"text-align: left;\">林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。</p>\n<p style=\"text-align: left;\">知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。</p>\n<p style=\"te...",
+      "link": "http://www.geekpark.net/news/374299",
+      "published_at": "2026-11-21T00:17:10+00:00"
+    },
+    {
+      "id": "aws-ml-5905976023",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -357,7 +434,7 @@
       "published_at": "2026-11-21T00:14:26+00:00"
     },
     {
-      "id": "google-research-329721920",
+      "id": "google-research-6102809688",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -368,7 +445,7 @@
       "published_at": "2026-11-20T23:30:30+00:00"
     },
     {
-      "id": "aws-ml-5052562120",
+      "id": "aws-ml-274238217",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -379,7 +456,7 @@
       "published_at": "2026-11-20T23:07:03+00:00"
     },
     {
-      "id": "aws-ml-7820467788",
+      "id": "aws-ml-4801932405",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -390,7 +467,7 @@
       "published_at": "2026-11-20T22:35:24+00:00"
     },
     {
-      "id": "latent-space-4926867174",
+      "id": "latent-space-2939126625",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -401,7 +478,7 @@
       "published_at": "2026-11-20T21:18:41+00:00"
     },
     {
-      "id": "aws-ml-5087119136",
+      "id": "aws-ml-9921237349",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -412,7 +489,7 @@
       "published_at": "2026-11-20T20:37:31+00:00"
     },
     {
-      "id": "aws-ml-6392043973",
+      "id": "aws-ml-1380520438",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -423,7 +500,7 @@
       "published_at": "2026-11-20T20:22:00+00:00"
     },
     {
-      "id": "simon-willison-3794928267",
+      "id": "simon-willison-5976216673",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -434,7 +511,7 @@
       "published_at": "2026-11-20T19:21:49+00:00"
     },
     {
-      "id": "aws-ml-8729699640",
+      "id": "aws-ml-913892007",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -445,7 +522,7 @@
       "published_at": "2026-11-20T18:24:06+00:00"
     },
     {
-      "id": "mit-tech-review-2705919911",
+      "id": "mit-tech-review-6170553144",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -456,7 +533,7 @@
       "published_at": "2026-11-20T18:15:15+00:00"
     },
     {
-      "id": "simon-willison-6104941821",
+      "id": "simon-willison-4753898510",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -467,7 +544,7 @@
       "published_at": "2026-11-20T16:30:48+00:00"
     },
     {
-      "id": "leiphone-2036072333",
+      "id": "leiphone-7788515971",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -478,7 +555,7 @@
       "published_at": "2026-11-20T14:07:00+00:00"
     },
     {
-      "id": "leiphone-9970192948",
+      "id": "leiphone-5285638815",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -489,7 +566,7 @@
       "published_at": "2026-11-20T11:10:00+00:00"
     },
     {
-      "id": "leiphone-5725406604",
+      "id": "leiphone-3270546552",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -500,7 +577,7 @@
       "published_at": "2026-11-20T10:27:00+00:00"
     },
     {
-      "id": "leiphone-6273903452",
+      "id": "leiphone-4744708002",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -511,7 +588,7 @@
       "published_at": "2026-11-20T10:09:00+00:00"
     },
     {
-      "id": "openai-news-6895885020",
+      "id": "openai-news-2953553093",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -522,7 +599,7 @@
       "published_at": "2026-11-20T10:00:00+00:00"
     },
     {
-      "id": "thelec-3898925581",
+      "id": "thelec-7029545643",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -533,7 +610,7 @@
       "published_at": "2026-11-20T08:44:23+00:00"
     },
     {
-      "id": "thelec-7351196564",
+      "id": "thelec-9935894765",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -544,7 +621,7 @@
       "published_at": "2026-11-20T08:44:21+00:00"
     },
     {
-      "id": "leiphone-7056640967",
+      "id": "leiphone-7545499172",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -555,7 +632,7 @@
       "published_at": "2026-11-20T08:41:00+00:00"
     },
     {
-      "id": "leiphone-5283302781",
+      "id": "leiphone-1348085895",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -566,7 +643,7 @@
       "published_at": "2026-11-20T08:39:00+00:00"
     },
     {
-      "id": "leiphone-892278092",
+      "id": "leiphone-8991711325",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -577,7 +654,7 @@
       "published_at": "2026-11-20T08:37:00+00:00"
     },
     {
-      "id": "leiphone-4614389683",
+      "id": "leiphone-6473482949",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -588,7 +665,7 @@
       "published_at": "2026-11-20T08:36:00+00:00"
     },
     {
-      "id": "leiphone-3844150309",
+      "id": "leiphone-4588697552",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -599,7 +676,7 @@
       "published_at": "2026-11-20T08:35:00+00:00"
     },
     {
-      "id": "thelec-3101855173",
+      "id": "thelec-5013949299",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -610,7 +687,7 @@
       "published_at": "2026-11-20T08:33:45+00:00"
     },
     {
-      "id": "thelec-5423827043",
+      "id": "thelec-675636361",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -621,7 +698,18 @@
       "published_at": "2026-11-20T08:33:39+00:00"
     },
     {
-      "id": "leiphone-4137101874",
+      "id": "geekpark-6589262431",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+      "summary": "<div>\n<div class=\"ace-line ace-line old-record-id-doxcnedYKlwhkgE1SJSt1JOylDg\"><strong>作者｜宇航猿</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnhR1uUcLlnzZhjcODLazBod\"><strong>编辑｜靖宇</strong></div>\n</div>\n<p>AI 吞掉了软件，现在，它要吞掉工业了。</p>\n<p>卸任亚马逊 CEO 五年后，杰夫&middot;贝佐斯没忍住，又给自己找了个班上。</p>\n<p>当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克&middot;巴贾杰（Vik Bajaj）罕见同台。<strong>他现在的最新头衔，是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO</strong>。这是自 2021 年交出亚马逊帅印后，这位商业巨头首次重回一线担任 CEO。</p>\n<p>早在 2024 年底种子期就掏钱投资的贝佐斯，在台上毫不掩饰自己的兴奋，直言项目进展太快，自己根本「没法坐在场边干看着」。</p>\n<p>能让贝佐斯重返战场的，是个大赌局。</p>\n<p>点开 Prometheu...",
+      "link": "http://www.geekpark.net/news/374282",
+      "published_at": "2026-11-20T08:24:30+00:00"
+    },
+    {
+      "id": "leiphone-6121974160",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -632,7 +720,7 @@
       "published_at": "2026-11-20T07:49:00+00:00"
     },
     {
-      "id": "leiphone-3699202978",
+      "id": "leiphone-7280797650",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -643,7 +731,7 @@
       "published_at": "2026-11-20T07:47:00+00:00"
     },
     {
-      "id": "leiphone-4134257276",
+      "id": "leiphone-3272620421",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -654,7 +742,7 @@
       "published_at": "2026-11-20T07:43:00+00:00"
     },
     {
-      "id": "latent-space-8045707553",
+      "id": "latent-space-9459761092",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -665,7 +753,7 @@
       "published_at": "2026-11-20T07:12:24+00:00"
     },
     {
-      "id": "leiphone-7216123117",
+      "id": "leiphone-4843394897",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -676,7 +764,7 @@
       "published_at": "2026-11-20T06:40:00+00:00"
     },
     {
-      "id": "leiphone-3213613130",
+      "id": "leiphone-9064403448",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -687,7 +775,7 @@
       "published_at": "2026-11-20T06:03:00+00:00"
     },
     {
-      "id": "leiphone-6818556599",
+      "id": "leiphone-2781431347",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -698,7 +786,7 @@
       "published_at": "2026-11-20T05:40:00+00:00"
     },
     {
-      "id": "thelec-816879743",
+      "id": "thelec-9704059472",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -709,7 +797,7 @@
       "published_at": "2026-11-20T05:15:58+00:00"
     },
     {
-      "id": "thelec-9668219868",
+      "id": "thelec-6314941027",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -720,7 +808,7 @@
       "published_at": "2026-11-20T05:15:58+00:00"
     },
     {
-      "id": "thelec-9487037387",
+      "id": "thelec-6709580875",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -731,7 +819,7 @@
       "published_at": "2026-11-20T05:15:58+00:00"
     },
     {
-      "id": "thelec-9684030162",
+      "id": "thelec-6075114716",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -742,7 +830,7 @@
       "published_at": "2026-11-20T05:15:58+00:00"
     },
     {
-      "id": "thelec-7218842493",
+      "id": "thelec-232163821",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -753,7 +841,7 @@
       "published_at": "2026-11-20T05:15:39+00:00"
     },
     {
-      "id": "thelec-6511529392",
+      "id": "thelec-5928136353",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -764,7 +852,7 @@
       "published_at": "2026-11-20T05:15:39+00:00"
     },
     {
-      "id": "thelec-5780361189",
+      "id": "thelec-7157487002",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -775,7 +863,7 @@
       "published_at": "2026-11-20T05:15:39+00:00"
     },
     {
-      "id": "thelec-2079951005",
+      "id": "thelec-3528290322",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -786,7 +874,7 @@
       "published_at": "2026-11-20T05:15:39+00:00"
     },
     {
-      "id": "thelec-548139784",
+      "id": "thelec-5979078042",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -797,18 +885,7 @@
       "published_at": "2026-11-20T05:15:39+00:00"
     },
     {
-      "id": "leiphone-4193124921",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
-      "summary": "<section style=\"margin-bottom: 16px; text-align: center;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/6a6c4981e5bcb.jpg?imageMogr2/quality/90\" /></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><section><section><section style=\"margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, 244);\"><section style=\"margin: 0px; padding: 0px; clear: both; text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261120/6affa96a24c2a.png?imageMogr2/qual...",
-      "link": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
-      "published_at": "2026-11-20T03:22:00+00:00"
-    },
-    {
-      "id": "simon-willison-626290112",
+      "id": "simon-willison-8163164569",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -819,7 +896,7 @@
       "published_at": "2026-11-20T03:01:57+00:00"
     },
     {
-      "id": "simon-willison-2135436305",
+      "id": "simon-willison-9268198144",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -830,7 +907,18 @@
       "published_at": "2026-11-20T02:49:57+00:00"
     },
     {
-      "id": "aws-ml-223608740",
+      "id": "geekpark-8226757297",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/3c/34/3c3474ce84f673130932665a4ce55ed3.png\" /></p>\n<h1><strong>「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元</strong></h1>\n<p>11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市，<strong>首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。</strong></p>\n<p>该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回落至 100 美元（现汇率约合 668.1 元人民币）下方。</p>\n<p>按收盘价计算，Anthropic 市值约为 1.27 万亿美元（现汇率约合 8.48 万亿元人民币），成为全球最受关注的 AI 公司之一。不过，其每股收益为 -59.62 美元（现汇率约合 -398.3 元人民币）...",
+      "link": "http://www.geekpark.net/news/374235",
+      "published_at": "2026-11-20T01:04:08+00:00"
+    },
+    {
+      "id": "aws-ml-8888968658",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -841,7 +929,7 @@
       "published_at": "2026-11-20T00:34:07+00:00"
     },
     {
-      "id": "aws-ml-5947075040",
+      "id": "aws-ml-6219890274",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -852,7 +940,7 @@
       "published_at": "2026-11-20T00:33:30+00:00"
     },
     {
-      "id": "openai-news-8251880459",
+      "id": "openai-news-4814990249",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -863,7 +951,7 @@
       "published_at": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "openai-news-9734427081",
+      "id": "openai-news-7774214931",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -874,7 +962,7 @@
       "published_at": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-8167802787",
+      "id": "huggingface-9458508285",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -885,7 +973,7 @@
       "published_at": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "huggingface-2639816577",
+      "id": "huggingface-6725556272",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -896,7 +984,7 @@
       "published_at": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "latent-space-7535530626",
+      "id": "latent-space-2892530276",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -907,7 +995,7 @@
       "published_at": "2026-11-19T23:58:21+00:00"
     },
     {
-      "id": "thelec-3540488445",
+      "id": "thelec-1813978635",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -918,7 +1006,7 @@
       "published_at": "2026-11-19T23:15:17+00:00"
     },
     {
-      "id": "thelec-8754768092",
+      "id": "thelec-9972433446",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -929,7 +1017,7 @@
       "published_at": "2026-11-19T23:15:17+00:00"
     },
     {
-      "id": "thelec-4372696131",
+      "id": "thelec-2196897273",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -940,7 +1028,7 @@
       "published_at": "2026-11-19T23:15:17+00:00"
     },
     {
-      "id": "thelec-4049838222",
+      "id": "thelec-2076774937",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -951,7 +1039,7 @@
       "published_at": "2026-11-19T23:15:17+00:00"
     },
     {
-      "id": "thelec-4347307587",
+      "id": "thelec-9429410165",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -962,7 +1050,7 @@
       "published_at": "2026-11-19T23:15:17+00:00"
     },
     {
-      "id": "aws-ml-3154806483",
+      "id": "aws-ml-1950797203",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -973,7 +1061,7 @@
       "published_at": "2026-11-19T23:02:16+00:00"
     },
     {
-      "id": "thelec-4694263127",
+      "id": "thelec-2006579514",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -984,7 +1072,7 @@
       "published_at": "2026-11-19T22:51:59+00:00"
     },
     {
-      "id": "thelec-7482957124",
+      "id": "thelec-7586241366",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -995,7 +1083,7 @@
       "published_at": "2026-11-19T22:51:53+00:00"
     },
     {
-      "id": "thelec-695049444",
+      "id": "thelec-7289415789",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -1006,7 +1094,7 @@
       "published_at": "2026-11-19T22:51:47+00:00"
     },
     {
-      "id": "aws-ml-4711691140",
+      "id": "aws-ml-923799092",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1017,7 +1105,7 @@
       "published_at": "2026-11-19T22:20:23+00:00"
     },
     {
-      "id": "aws-ml-2892689056",
+      "id": "aws-ml-2821683066",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -1026,127 +1114,6 @@
       "summary": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it.",
       "link": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
       "published_at": "2026-11-19T22:16:22+00:00"
-    },
-    {
-      "id": "aws-ml-2088227872",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
-      "summary": "Amazon SageMaker AI now monitors your generative AI inference endpoints by default and tells you when a change could improve performance or lower cost. It tracks latency, GPU utilization, and serving configuration, then sends a finding through AWS Health with a one-click path to benchmark alternatives in SageMaker Studio before you apply any change.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
-      "published_at": "2026-11-19T21:28:18+00:00"
-    },
-    {
-      "id": "aws-ml-2046468722",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
-      "summary": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to demonstrate their skills while gathering the evidence needed to make informed hiring decisions?&nbsp; Structured behavioral interviews offer a research-backed approach to this challenge. They use consistent, job-related questions and clear scoring criteria […]",
-      "link": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
-      "published_at": "2026-11-19T21:23:20+00:00"
-    },
-    {
-      "id": "simon-willison-8051815036",
-      "source_id": "simon-willison",
-      "source_name": "Simon Willison",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "PostgreSQL 19 Released",
-      "summary": "<p><strong><a href=\"https://www.postgresql.org/about/news/postgresql-19-released-3449/\">PostgreSQL 19 Released</a></strong></p>\nMost years PostgreSQL ships a new release in September, but this year's release came two months later <a href=\"https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\">thanks mainly</a> to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse.</p>\n<p>This release was definitely worth the wait. My favorite new feature is this one:</p>\n<blockquote>\n<p>For applications that sen...",
-      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-      "published_at": "2026-11-19T20:43:57+00:00"
-    },
-    {
-      "id": "google-research-4267750568",
-      "source_id": "google-research",
-      "source_name": "Google Research",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "A game you cannot win unless you have a quantum computer",
-      "summary": "Quantum",
-      "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
-      "published_at": "2026-11-19T20:03:00+00:00"
-    },
-    {
-      "id": "aws-ml-103211075",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-      "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or deny checks at defined points in the agent loop.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
-      "published_at": "2026-11-19T20:01:06+00:00"
-    },
-    {
-      "id": "nvidia-blog-2473457122",
-      "source_id": "nvidia-blog",
-      "source_name": "NVIDIA Blog",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-      "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to [&#8230;]",
-      "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "published_at": "2026-11-19T20:00:15+00:00"
-    },
-    {
-      "id": "aws-ml-9090018122",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
-      "summary": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices run on the Amazon Polly generative engine and support seven languages.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
-      "published_at": "2026-11-19T19:53:32+00:00"
-    },
-    {
-      "id": "aws-ml-5027296971",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
-      "summary": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
-      "published_at": "2026-11-19T18:48:55+00:00"
-    },
-    {
-      "id": "aws-ml-1731617417",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
-      "summary": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your own league.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
-      "published_at": "2026-11-19T18:26:22+00:00"
-    },
-    {
-      "id": "aws-ml-2139824652",
-      "source_id": "aws-ml",
-      "source_name": "AWS Machine Learning",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
-      "summary": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-      "published_at": "2026-11-19T18:20:54+00:00"
-    },
-    {
-      "id": "nvidia-blog-9509144682",
-      "source_id": "nvidia-blog",
-      "source_name": "NVIDIA Blog",
-      "category": "ai-products",
-      "module": "🛠️ 产品与工具",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
-      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "published_at": "2026-11-19T17:00:35+00:00"
     }
   ]
 }
