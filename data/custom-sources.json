@@ -1,11 +1,242 @@
 {
-  "generated_at": "2026-11-23T02:22:45.252658+00:00",
+  "generated_at": "2026-11-23T11:02:19.378552+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 90,
+  "count": 80,
   "items": [
     {
-      "id": "geekpark-4791543055",
+      "id": "thelec-2142489410",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "KAI Signs Aerospace Research Agreements With DGIST, UNIST",
+      "summary": "Korea Aerospace Industries (KAI) said on Nov. 23 that it signed memorandums of understanding (MOUs) on aerospace industry-academia cooperation with Daegu Gyeongbuk Institute of Science and Technology (DGIST) and Ulsan National Institute of Science and Technology (UNIST) on Nov. 19 and 20, respective",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15840",
+      "published_at": "2026-11-23T08:09:16+00:00"
+    },
+    {
+      "id": "thelec-7083180169",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Samsung Heavy Industries Names Lee Wang-keun as New CEO",
+      "summary": "Samsung Heavy Industries said on Nov. 23 that it has nominated Lee Wang-keun, head of its Shipbuilding and Offshore Division, as its new chief executive officer (CEO), promoting him to president. The company plans to finalize and announce its regular executive appointments for 2027 soon.Lee holds ba",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15839",
+      "published_at": "2026-11-23T08:09:15+00:00"
+    },
+    {
+      "id": "thelec-429486019",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Hana Aerodynamics Wins KAI Trainer Aircraft Repair Order",
+      "summary": "Hana Aerodynamics, a manufacturer specializing in aircraft components, is expanding into the aircraft maintenance, repair and overhaul (MRO) business.Hana Aerodynamics said on Nov. 23 that it secured an order from Korea Aerospace Industries (KAI) for airframe life-extension repairs on the KT-1B basi",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15838",
+      "published_at": "2026-11-23T08:09:13+00:00"
+    },
+    {
+      "id": "thelec-869014543",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Sensirion Launches Two Manifold-Mount Liquid Flow Sensors",
+      "summary": "Swiss sensor manufacturer Sensirion has launched two liquid flow sensors designed for direct mounting onto fluid manifolds, eliminating the need for separate tubing and connectors to simplify equipment assembly and reduce costs.Sensirion said on Nov. 23 that it began global distribution of the SLF3S",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15837",
+      "published_at": "2026-11-23T08:09:10+00:00"
+    },
+    {
+      "id": "thelec-2863352349",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "PGT to Nearly Triple Battery Material Output in 2027",
+      "summary": "Battery materials maker PGT plans to nearly triple its lithium salt production next year from this year\\'s level, supported by long-term supply contracts with South Korean battery companies, including SK On.PGT said it filed a securities registration statement with the Financial Services Commission o",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15830",
+      "published_at": "2026-11-23T08:09:02+00:00"
+    },
+    {
+      "id": "thelec-9676193174",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Inovance, AMP Korea Develop High-Speed Battery Notching Machine",
+      "summary": "Inovance and AMP Korea have developed a high-speed battery electrode notching machine using an advanced motion control solution.AMP Korea said it developed the high-speed battery notching machine using Inovance\\'s motion control technology. The equipment achieved a processing speed of more than 350 e",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15831",
+      "published_at": "2026-11-23T08:08:57+00:00"
+    },
+    {
+      "id": "thelec-3077425240",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "LS Cable & System Begins Work on 700 Billion Won US Power Grid Project",
+      "summary": "LS Cable & System is beginning construction work on a roughly 700 billion won high-voltage power grid project in New York after state authorities approved the construction plan for the project contracted in February.LS Cable & System said on Nov. 23 that it will supply 345-kilovolt (kV) high-voltage",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15832",
+      "published_at": "2026-11-23T08:08:56+00:00"
+    },
+    {
+      "id": "thelec-6622266085",
+      "source_id": "thelec",
+      "source_name": "TheElec",
+      "category": "supply-chain",
+      "module": "⚙️ 供应链与硬件",
+      "title": "Coway Wins Five Honors at 2026 PIN UP Design Awards",
+      "summary": "Coway said on Nov. 23 that all of its BEREX products entered in the 2026 PIN UP Design Awards were selected as winners.The PIN UP Design Awards are regarded as one of South Korea\\'s three major design competitions. The awards recognize outstanding designs based on a comprehensive evaluation of creati",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=15836",
+      "published_at": "2026-11-23T08:08:52+00:00"
+    },
+    {
+      "id": "geekpark-1249407569",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "二级回收，将成为争夺下一代太空经济入场券的「新风向标」",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/8c/96/8c96d148c9bfe2c6e6c9e1817340f741.png\" /></p>\n<p>美国中部时间 11 月 14 日，星舰飞船在结束约 22.5 小时的轨道飞行后返回地球，被发射塔机械臂捕获。这是人类航天史上第一次完成了轨道级大载重飞船的回收工程验证，二级回收也第一次有了成功案例。</p>\n<p>在一些业内人士看来，这不是一次普通的「回收动作」。<strong>二级回收真正影响的，可能是太空经济的成本曲线。</strong>全可重复使用、大规模天地往返运输一旦跑通，人类进入太空并返回地球的成本有望明显下降，太空旅游、太空算力、太空基建也将随之打开新的空间。<strong>有观点判断，拐点已至，窗口期正在到来；对中国商业航天而言，追赶的紧迫性也随之上升。</strong></p>\n<p>业内常有一种误读：把星舰当成一枚传统意义上的「火箭」，进而把二级回收理解成一级回收的翻版。事实上，此次「筷子」接住的是星舰飞船，所谓二级回收，回收的也是这艘飞船。</p>\n<p>一级回收和二级回收，并不在同一个技术命题里。一级分离时速度约 2 公里/秒，返回全程 6 到 7 分钟；二级则要从约 7...",
+      "link": "http://www.geekpark.net/news/374355",
+      "published_at": "2026-11-23T07:49:06+00:00"
+    },
+    {
+      "id": "geekpark-1325155295",
+      "source_id": "geekpark",
+      "source_name": "极客公园",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
+      "summary": "<div>\n<div class=\"ace-line ace-line old-record-id-doxcnTsSDor8O1WvxZtJCcM6GUc\"><strong>作者｜李苏</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnuNJMcrmv8kZwDGVJEPiKoc\"><strong>编辑｜郑玄</strong></div>\n</div>\n<p>11 月 19 日，拼多多发布 2026 年第三季度未经审计财报。季度营收 1083.41 亿元，同比微增 0.1%，低于市场约 1155 亿元的一致预期。归属于普通股股东的净利润 295.41 亿元，同比增长 0.7%，高于市场预期的 261.75 亿元。</p>\n<p>财报发布前，市场普遍预计净利润将同比下滑 13%左右，实际披露的数据与预测方向相反。</p>\n<p>营收停在原地，利润超出预期，两项指标的走向几乎相反。这种分化说明利润表内部正在发生结构性调整，单看任何一个总数都不足以概括这个季度，需要把营收和费用以及利润三条线逐一拆开，观察每条线背后的资源流向。</p>\n<p>时间点提供了另一条线索。就在财报发布前夕，拼多多商家服务团队升级售后申诉体系，推出申诉优赔服务，平台开始主动介入异常售后订单的核实与补偿。</p>\n<p>管理层在财报...",
+      "link": "http://www.geekpark.net/news/374348",
+      "published_at": "2026-11-23T07:18:26+00:00"
+    },
+    {
+      "id": "leiphone-45391015",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场",
+      "summary": "<p>11月20日至21日，首届AI音乐视觉黑客松在北京国家会议中心举办。本次黑客松活动由剪映、全球AI原生共创社区WaytoAGI与北京ACE科技创新大会ACE-CON拔尖儿联合发起，是行业内首个面向音乐视觉的AI黑客松，旨在为开发者与创作者提供跨界协作与创意展示的平台。</p><p>与一般AI创作比赛不同，这场黑客松把真实的乐队演出需求搬进现场。活动期间，厨子和戏子、裁缝铺、斯斯与帆、张彤禧Selina、KAWA、CircleArena环形竞技场等音乐人先后登台，伴随演出，舞台大屏切换着与音乐同步的影像。这些MV与现场视觉，由五十组来自全国的AIGC创作者在活动现场使用剪映Hub，历时4小时完成。白皮书、柏林护士等乐队的成员也以创作者身份参加工作坊。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03d596aa135.jpg?imageView2/2/w/740\" />&nbsp;（首届AI音乐视觉黑客松现场）</p><p style=\"text-align: left;\"><strong style=\"font-size: 24px;\">01｜</strong><strong style=\"text-align:...",
+      "link": "https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html",
+      "published_at": "2026-11-23T06:39:00+00:00"
+    },
+    {
+      "id": "leiphone-8465067273",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？",
+      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03d3fb60b2f.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
+      "link": "https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html",
+      "published_at": "2026-11-23T05:50:00+00:00"
+    },
+    {
+      "id": "leiphone-7758440056",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "一场 APEC，测出了大疆手持影像的含金量",
+      "summary": "<p>2026 年 11 月，深圳 APEC 峰会落幕了，但在过去一周的新闻中心里，留下了一个极为少见的画面：</p><p>在严肃的高压新闻现场，除了必须在场的广播级摄像机与长焦镜头之外，越来越多记者从口袋里掏出了一台口红大小的消费级相机。</p><p>从海外多个通讯社的首席记者、报社主编，到自掏腰包购买它的 APEC 工商领导人峰会全球理事会 CEO，这些原本习惯了传统专业影像设备的人，不约而同地拿起了这台中国制造的掌上云台相机。</p><p>当一款原本面向大众市场的消费级设备，开始密集地出现在容错率极低的国际新闻现场，它所回应的已不只是日常记录需求，记者对轻便、快速的专业工具的渴望，正逐渐显现。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03d0b76bb1e.jpeg?imageView2/2/w/740\" /></p><p style=\"text-align: center;\"><span style=\"color: #7F7F7F;\">深圳APEC新闻中心记者习惯拿出手持云台进行采访</span></p><h2>01 APEC 现场的真香时刻</h2><p>如果你站在本届 APEC 峰会的新闻中心，会看到一...",
+      "link": "https://www.leiphone.com/category/weiwu/xWhlWgFXgwlzWQMj.html",
+      "published_at": "2026-11-23T05:41:00+00:00"
+    },
+    {
+      "id": "leiphone-3593870406",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "加州起诉 OpenAI：说起来你可能不信，是模型先动的手",
+      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03d0c6b4b43.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
+      "link": "https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html",
+      "published_at": "2026-11-23T05:36:00+00:00"
+    },
+    {
+      "id": "leiphone-6324305198",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "科研成果 | NeurIPS 2026发表CCCI博士生蒋翔宇工作｜NeurIPS 2026",
+      "summary": "<section><section><section><section><section><section><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>来源：认知计算与群智协同创新实验室<br /></em></span></p><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>文章链接：https://mp.weixin.qq.com/s/hgf9ipDLqSuuepr2gDyJGQ</em></span></p></section></section></section></section></section><section style=\"width: 100%; text-align: center; margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;\"><section style=\"display: flex;\"><section style=\"width: 100%;\"><section><section style=\"text-align: justify;\"><p style=\"text-indent: 2em; margin: 0px;\">...",
+      "link": "https://www.leiphone.com/category/private/hvhKCQokQvsUlFxN.html",
+      "published_at": "2026-11-23T05:27:00+00:00"
+    },
+    {
+      "id": "leiphone-9584166395",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康",
+      "summary": "<p>11月22-23日，2026蚂蚁阿福医疗健康生态大会在广州举行。蚂蚁集团首席执行官韩歆毅在主论坛发言中表示，AI正在拓宽人类健康自塑的边界，让健康管理从“千人一方”走向“一人一方”、从“以治病为中心”转向“以健康为中心”，这是AI对医疗健康领域最深远的影响之一，其价值不亚于AI医疗和AI药物研发。他认为，AI与健康的深度融合正当其时，AI促进健康蕴含巨大需求空间。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03bc77c8d83.png?imageView2/2/w/740\" />&nbsp;</p><p style=\"text-align: center;\">图说：韩歆毅在蚂蚁阿福医疗健康生态大会发言时，佩戴了阿福全新发布的AI健康戒指。</p><p>&nbsp;</p><p>韩歆毅表示，从行业趋势看，AI正在快速提升医疗服务的“下限”和“上限”，一头促进医疗服务的均衡普惠，一头重塑医药研发的创新范式。今天，借助蚂蚁阿福等AI工具，基层和偏远地区的医生也能在日常工作中获得专业的支持，群众也能得到像三甲医院一样专业的健康咨询和诊疗建议。全球范围内，随着AI与前沿生物技术深度结合，创新药...",
+      "link": "https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html",
+      "published_at": "2026-11-23T04:10:00+00:00"
+    },
+    {
+      "id": "leiphone-7442281131",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "蚂蚁阿福App新版发布：实时视频“望闻问切”功能上线，小毛小病在家也能搞定",
+      "summary": "<p>11月23日的蚂蚁阿福医疗健康生态大会上，健康AI蚂蚁阿福发布新版：基于蚂蚁百灵医疗健康系列模型，新增实时视频“看健康”功能，用户可与阿福视频电话，让阿福帮忙看症状、看状态、看药品、看报告，像真人一样“望闻问切”分析健康问题，并可联动医生在线把关。这意味着，日常一些不舒服或者小毛小病，用户通过“AI+真人医生”在家就能搞定。</p><p>&nbsp;</p><p>此外，新版蚂蚁阿福App对于“AI健康管家”能力也做了升级：结合用户的健康档案或者智能健康硬件，制定个性化减重、控糖、育儿等方案，并陪伴用户达成。为了让健康管理更量化和简单，阿福也进一步扩容了所打通的健康硬件品类，在体脂秤、血糖仪、运动手表等基础上，新发布了阿福AI健康手环和阿福AI健康戒指，实现睡眠、心率、运动、女性生理周期等指标的关注和分析。</p><p>&nbsp;</p><p>据了解，新版蚂蚁阿福App以蚂蚁百灵医疗健康系列模型LingSante为基座，包括Air和Flash系列大语言模型、健康预测模型、实时音视频框架和Med-Guard医疗安全防护模型，使阿福在专业性、前沿性和安全性上进一步提升，让用户用得更放心。这也是蚂蚁阿福首次集中发布医疗健康大模型家族，展示了其在医疗健康AI基础设施上的系统布局。</p><p>&nbsp;</p><p style=\"text-align: center;\"><i...",
+      "link": "https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html",
+      "published_at": "2026-11-23T03:47:00+00:00"
+    },
+    {
+      "id": "leiphone-7336793173",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "国内首个！蚂蚁阿福医生版上线“循证金标准”UpToDate ，打造全场景医生AI工作台",
+      "summary": "<p>11月22日，蚂蚁阿福医生版发布PC工作台（电脑端）版本，同时接入威科集团循证医学临床决策支持解决方案UpToDate，成为国内首个接入该专业功能的AI平台。<strong>即日起，全国医生、护士及药师等卫生专业技术人员都可通过阿福医生版限时免费试用UpToDate。</strong></p><p>&nbsp;</p><p>此次升级，<strong>阿福医生版实现了手机App加PC工作台的双端布局，</strong>医生既可以便捷地在手机上借助阿福在线接诊、管理和沟通患者，也能在电脑上借助阿福的AI工具完成整理病历、分析数据、生成医学PPT等较复杂任务，双端打通使用起来更方便。</p><p>&nbsp;</p><p>“阿福期待成为医生临床判断的得力助手，和医生一起应对医疗的复杂性。”蚂蚁集团CEO韩歆毅在当天的论坛上表示。他强调，AI在临床上的价值，不是替医生做决定，而是让医生的每个决定，都建立在更完整的信息和更扎实的证据上。</p><p>&nbsp;</p><p><strong>解决问诊、患者随访、科研难题</strong></p><p><strong>阿福医生版成为全场景的AI工作台</strong></p><p>&nbsp;</p><p>长期以来，医生面临较高的工作负荷，日常诊疗之外，还要进行大量病历书写、患者随访等工作，部分医生同时承担科研教学任务。如何减少重复...",
+      "link": "https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html",
+      "published_at": "2026-11-23T03:38:00+00:00"
+    },
+    {
+      "id": "leiphone-6394919676",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "0跨境经验，鞋履卖家借助Shopee轻出海跨出第一步",
+      "summary": "<p>近些年来，伴随着东南亚电商市场的蓬勃发展，不少国内电商卖家开始把目光转移到东南亚地区，但对于这些卖家来说，国内的经营已是轻车熟路，但如何把已打通的渠道和供应链复刻到其他市场？这是一次机会也是一次挑战，沁竹电子商务商行（以下简称“沁竹”）的经营者小雅，便是其中的探索者。</p><p>此前，小雅一直专注于国内电商市场，尚未涉足跨境业务。今年7月底，小雅从平台了解到Shopee轻出海模式后决定尝试将现有商品销售到海外。如今，这支仅有两人的经营团队，已经通过轻出海将商品同步到东南亚七大站点，跑出了一条专属于中小卖家的跨境经验。</p><p>&nbsp;</p><p><strong>01 从0到1，跨出出海第一步</strong></p><p>2025年，小雅开始涉足电商业务，主要经营男鞋、女鞋等商品。随着经营经验逐渐积累，团队也开始将目光投向海外市场，希望在原有业务基础上寻找新的增长机会。不过，从熟悉的国内市场走向海外，并非一件容易的事。不同市场的消费需求、平台运营规则各有差异，商品管理、营销推广等环节也需要投入时间和精力。对于沁竹这样规模有限的小团队而言，如何以较低的成本迈出第一步，减少前期试错压力，成为需要考虑的首要问题。</p><p>今年7月底，小雅通过Shopee官网了解到轻出海模式，决定借此开启跨境业务。Shopee轻出海采用0佣金、0保证金、0年费的模式，同时提供平...",
+      "link": "https://www.leiphone.com/category/industrynews/UJ2aT1MWPavF3L26.html",
+      "published_at": "2026-11-23T02:39:00+00:00"
+    },
+    {
+      "id": "leiphone-2210213894",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "APEC 时刻，PHAIN 登上央视新闻，展现中国自研实力",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03a3bec9bc7.png?imageView2/2/w/740\" /></p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03a3bec5417.jpeg?imageView2/2/w/740\" /></p><p>央视镜头里的PHAIN数据手套：从人手操作到机器人训练数据<br /></p><p>APEC 期间，PHAIN 梵因动力自主研发的 G03 Pro T 数据手套亮相央视新闻《聊会儿APEC》。公司首席科学家 Peter Bradley Shull（肖培德）博士参与节目，佩戴 G03 Pro T 进行机器人遥操作演示，介绍利用手套采集操作数据、支持灵巧手训练的研究用途。<br /></p><p>“这是梵因动力的手套。”谈及灵巧手训练所需的数据，Peter 向观众介绍了手中的 G03。在全球目光聚焦 APEC 之际，PHAIN 的自研产品与科研探索一同走进国家级媒体镜头，展现中国企业在具身智能数据采集领域的创新成果。<...",
+      "link": "https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html",
+      "published_at": "2026-11-23T02:27:00+00:00"
+    },
+    {
+      "id": "leiphone-1936640698",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "中通快递与阿里云伶鹊达成深度合作，智慧AI打造客服新体验",
+      "summary": "<p>近日，阿里云伶鹊与中通快递达成深度合作，为中通快递打造企业级AI客服，在小件末端配送场景中落地智能语音热线和智能语音外呼两大能力。上线后“呼入+外呼”日均服务量达数十万通，AI“呼入”热线带来的下单转化率提升近20%。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261123/6b03a41b0ee61.png?imageView2/2/w/740\" />&nbsp;</p><p style=\"text-align: center;\">（AI客服产品示意图）</p><p>&nbsp;</p><p>在“呼入”场景下，用户拨通中通快递客服热线后，伶鹊可以听懂“我要改地址”、“快递显示签收但我没收到”、“到上海要几天”等高频诉求，再结合订单的实时状态，通过多轮对话引导用户修改和确认信息，直到把问题办完。</p><p>&nbsp;</p><p>在“外呼”场景下，快递员派件扫码前，伶鹊会自动拨通收件人电话，核对地址、取得客户授权、处理异常情况，批量完成服务。快递员只需处理真正复杂的情况，送件效率提升了数倍。</p><p>&nbsp;</p><p>目前，伶鹊针对中通客服对话场景优化了垂直大模型，能在快递行业这种高并发...",
+      "link": "https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html",
+      "published_at": "2026-11-23T02:26:00+00:00"
+    },
+    {
+      "id": "geekpark-8274635523",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -16,7 +247,7 @@
       "published_at": "2026-11-23T01:22:36+00:00"
     },
     {
-      "id": "thelec-2882419804",
+      "id": "thelec-9296474306",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -27,7 +258,7 @@
       "published_at": "2026-11-22T23:04:39+00:00"
     },
     {
-      "id": "thelec-6379536496",
+      "id": "thelec-4716336489",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -38,7 +269,7 @@
       "published_at": "2026-11-22T23:04:39+00:00"
     },
     {
-      "id": "thelec-3288059912",
+      "id": "thelec-3745833318",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -49,7 +280,7 @@
       "published_at": "2026-11-22T23:04:39+00:00"
     },
     {
-      "id": "thelec-4222930867",
+      "id": "thelec-8158789699",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -60,7 +291,7 @@
       "published_at": "2026-11-22T23:04:39+00:00"
     },
     {
-      "id": "thelec-8705585420",
+      "id": "thelec-8008862816",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -71,7 +302,7 @@
       "published_at": "2026-11-22T23:04:39+00:00"
     },
     {
-      "id": "thelec-6580503377",
+      "id": "thelec-8023395780",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -82,7 +313,7 @@
       "published_at": "2026-11-22T23:04:39+00:00"
     },
     {
-      "id": "simon-willison-5607480865",
+      "id": "simon-willison-3158468171",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -93,7 +324,7 @@
       "published_at": "2026-11-22T19:45:06+00:00"
     },
     {
-      "id": "the-decoder-9208370045",
+      "id": "the-decoder-7519808025",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -104,7 +335,7 @@
       "published_at": "2026-11-22T15:15:48+00:00"
     },
     {
-      "id": "the-decoder-7624330650",
+      "id": "the-decoder-4542289961",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -115,7 +346,7 @@
       "published_at": "2026-11-22T14:20:28+00:00"
     },
     {
-      "id": "leiphone-8957919549",
+      "id": "leiphone-7841303386",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -126,7 +357,7 @@
       "published_at": "2026-11-22T14:19:00+00:00"
     },
     {
-      "id": "the-decoder-5203933888",
+      "id": "the-decoder-2109578956",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -137,7 +368,7 @@
       "published_at": "2026-11-22T13:00:43+00:00"
     },
     {
-      "id": "leiphone-3918042793",
+      "id": "leiphone-1561441945",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -148,7 +379,7 @@
       "published_at": "2026-11-22T12:55:00+00:00"
     },
     {
-      "id": "thelec-3846799905",
+      "id": "thelec-425470266",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -159,7 +390,7 @@
       "published_at": "2026-11-22T12:30:34+00:00"
     },
     {
-      "id": "the-decoder-4728404883",
+      "id": "the-decoder-8574241713",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -170,7 +401,7 @@
       "published_at": "2026-11-22T12:07:56+00:00"
     },
     {
-      "id": "the-decoder-4962202521",
+      "id": "the-decoder-7599089835",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -181,7 +412,7 @@
       "published_at": "2026-11-22T11:08:31+00:00"
     },
     {
-      "id": "leiphone-1565681995",
+      "id": "leiphone-3242496441",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -192,7 +423,7 @@
       "published_at": "2026-11-22T10:15:00+00:00"
     },
     {
-      "id": "the-decoder-6286903121",
+      "id": "the-decoder-7137604859",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -203,7 +434,7 @@
       "published_at": "2026-11-22T09:41:37+00:00"
     },
     {
-      "id": "thelec-9310316889",
+      "id": "thelec-6645829009",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -214,7 +445,7 @@
       "published_at": "2026-11-22T04:34:13+00:00"
     },
     {
-      "id": "thelec-2798239172",
+      "id": "thelec-5594433681",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -225,7 +456,7 @@
       "published_at": "2026-11-22T04:34:12+00:00"
     },
     {
-      "id": "thelec-3580277835",
+      "id": "thelec-7248986232",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +467,7 @@
       "published_at": "2026-11-22T04:34:09+00:00"
     },
     {
-      "id": "thelec-103102642",
+      "id": "thelec-483195298",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +478,7 @@
       "published_at": "2026-11-22T04:34:06+00:00"
     },
     {
-      "id": "thelec-6057253425",
+      "id": "thelec-8953970976",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -258,7 +489,7 @@
       "published_at": "2026-11-22T04:34:04+00:00"
     },
     {
-      "id": "thelec-1647754246",
+      "id": "thelec-1988224237",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -269,7 +500,7 @@
       "published_at": "2026-11-22T04:33:59+00:00"
     },
     {
-      "id": "thelec-6102260134",
+      "id": "thelec-6635350936",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -280,7 +511,7 @@
       "published_at": "2026-11-22T04:33:51+00:00"
     },
     {
-      "id": "geekpark-5586690847",
+      "id": "geekpark-5444167055",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -291,7 +522,7 @@
       "published_at": "2026-11-22T02:03:57+00:00"
     },
     {
-      "id": "aws-ml-3409043389",
+      "id": "aws-ml-6243953031",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -302,7 +533,7 @@
       "published_at": "2026-11-22T01:59:13+00:00"
     },
     {
-      "id": "geekpark-4551735004",
+      "id": "geekpark-6577941020",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -313,7 +544,7 @@
       "published_at": "2026-11-22T01:58:48+00:00"
     },
     {
-      "id": "geekpark-3271089569",
+      "id": "geekpark-6640986372",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -324,7 +555,7 @@
       "published_at": "2026-11-22T01:56:28+00:00"
     },
     {
-      "id": "thelec-4167389014",
+      "id": "thelec-6841638419",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -335,7 +566,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-5945226705",
+      "id": "thelec-9278866472",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -346,7 +577,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-883687492",
+      "id": "thelec-2141606179",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -357,7 +588,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-3784569636",
+      "id": "thelec-4868605211",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -368,7 +599,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "thelec-3859097349",
+      "id": "thelec-1544835278",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -379,7 +610,7 @@
       "published_at": "2026-11-22T01:47:34+00:00"
     },
     {
-      "id": "geekpark-5920266157",
+      "id": "geekpark-2261923581",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -390,7 +621,7 @@
       "published_at": "2026-11-22T01:05:22+00:00"
     },
     {
-      "id": "openai-news-2934571295",
+      "id": "openai-news-5997994180",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "category": "ai-models",
@@ -401,7 +632,7 @@
       "published_at": "2026-11-22T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-8813336138",
+      "id": "simon-willison-8115774712",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -412,7 +643,7 @@
       "published_at": "2026-11-21T23:56:28+00:00"
     },
     {
-      "id": "the-decoder-1989307497",
+      "id": "the-decoder-5386839906",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -423,7 +654,7 @@
       "published_at": "2026-11-21T16:23:45+00:00"
     },
     {
-      "id": "the-decoder-7088324328",
+      "id": "the-decoder-5659972256",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -434,7 +665,7 @@
       "published_at": "2026-11-21T16:04:29+00:00"
     },
     {
-      "id": "the-decoder-7262880525",
+      "id": "the-decoder-7125405529",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -445,7 +676,7 @@
       "published_at": "2026-11-21T13:32:35+00:00"
     },
     {
-      "id": "the-decoder-7848880826",
+      "id": "the-decoder-381631543",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -456,7 +687,7 @@
       "published_at": "2026-11-21T11:19:49+00:00"
     },
     {
-      "id": "latent-space-5641853086",
+      "id": "latent-space-2220740139",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -467,7 +698,7 @@
       "published_at": "2026-11-21T05:02:13+00:00"
     },
     {
-      "id": "leiphone-2285488941",
+      "id": "leiphone-7718006501",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -478,7 +709,7 @@
       "published_at": "2026-11-21T03:47:00+00:00"
     },
     {
-      "id": "leiphone-1557856724",
+      "id": "leiphone-2143550591",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -489,7 +720,7 @@
       "published_at": "2026-11-21T02:59:00+00:00"
     },
     {
-      "id": "aws-ml-8861555861",
+      "id": "aws-ml-7067336222",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -500,7 +731,7 @@
       "published_at": "2026-11-21T01:06:42+00:00"
     },
     {
-      "id": "geekpark-4473555738",
+      "id": "geekpark-6589285740",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -511,7 +742,7 @@
       "published_at": "2026-11-21T00:17:10+00:00"
     },
     {
-      "id": "aws-ml-7262684807",
+      "id": "aws-ml-4919026810",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -522,7 +753,7 @@
       "published_at": "2026-11-21T00:14:26+00:00"
     },
     {
-      "id": "google-research-81864991",
+      "id": "google-research-2714911211",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -533,7 +764,7 @@
       "published_at": "2026-11-20T23:30:30+00:00"
     },
     {
-      "id": "aws-ml-3091524728",
+      "id": "aws-ml-2189386382",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -544,7 +775,7 @@
       "published_at": "2026-11-20T23:07:03+00:00"
     },
     {
-      "id": "aws-ml-8757051340",
+      "id": "aws-ml-5371350366",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -555,7 +786,7 @@
       "published_at": "2026-11-20T22:35:24+00:00"
     },
     {
-      "id": "latent-space-6784586483",
+      "id": "latent-space-2501915520",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -566,7 +797,7 @@
       "published_at": "2026-11-20T21:18:41+00:00"
     },
     {
-      "id": "aws-ml-5192145854",
+      "id": "aws-ml-6176081463",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -577,7 +808,7 @@
       "published_at": "2026-11-20T20:37:31+00:00"
     },
     {
-      "id": "aws-ml-4781913805",
+      "id": "aws-ml-8653866754",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -588,7 +819,7 @@
       "published_at": "2026-11-20T20:22:00+00:00"
     },
     {
-      "id": "simon-willison-6214754466",
+      "id": "simon-willison-7188085859",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -599,7 +830,7 @@
       "published_at": "2026-11-20T19:21:49+00:00"
     },
     {
-      "id": "aws-ml-6061522808",
+      "id": "aws-ml-4874148293",
       "source_id": "aws-ml",
       "source_name": "AWS Machine Learning",
       "category": "ai-products",
@@ -610,7 +841,7 @@
       "published_at": "2026-11-20T18:24:06+00:00"
     },
     {
-      "id": "mit-tech-review-9971202600",
+      "id": "mit-tech-review-3882628521",
       "source_id": "mit-tech-review",
       "source_name": "MIT Technology Review",
       "category": "industry",
@@ -621,7 +852,7 @@
       "published_at": "2026-11-20T18:15:15+00:00"
     },
     {
-      "id": "simon-willison-747030914",
+      "id": "simon-willison-2014794682",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -632,7 +863,7 @@
       "published_at": "2026-11-20T16:30:48+00:00"
     },
     {
-      "id": "leiphone-8971560635",
+      "id": "leiphone-2687466939",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -643,7 +874,7 @@
       "published_at": "2026-11-20T14:07:00+00:00"
     },
     {
-      "id": "leiphone-5365987668",
+      "id": "leiphone-2861862024",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -652,347 +883,6 @@
       "summary": "<section style=\"margin-bottom: 16px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/6a6c4981e5bcb.jpg?imageMogr2/quality/90\" /></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><section><section><section style=\"margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, 244);\"><section style=\"margin: 0px; padding: 0px; clear: both; text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261120/6b0012e593b81.png?imageMogr2/quality/90\" style=\"margi...",
       "link": "https://www.leiphone.com/category/weiwu/zv5a8TgwqnZmROX5.html",
       "published_at": "2026-11-20T11:10:00+00:00"
-    },
-    {
-      "id": "leiphone-246314582",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
-      "summary": "<p>11月19日至21日，第十一届世界智能制造博览会（以下简称“智博会”）在南京国际博览中心举办。无锡灵掌机器人科技有限公司（以下简称“灵掌机器人”）携全系列共9款灵巧手产品参展，重点展示了灵巧手在工业制造、太空任务、特种作业、科研与人形机器人等行业领域的落地场景及解决方案。</p><p>灵掌机器人创始人兼首席执行官张超介绍，灵巧手是具身智能走向真实操作的重要一环，也是连接智能决策与物理执行的关键末端。当前灵巧手行业正进入快速发展期，逐步进入真实应用场景中，市场需求也在持续释放。从工业产线上的重物抓取搬运，到危险环境中的远程防爆作业，再到太空航天器维修，灵巧手的市场应用空间广阔。</p><p>在张超看来，机器人发展的重要价值之一，是帮助人类承担那些危险、艰难、紧急或高风险的工作，解放人类创造力。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6b00209c07776.jpg?imageMogr2/quality/90\" /></p><p style=\"text-align: center; font-size: 12px;\">（图示：灵掌机器人联合创始人、硬件总工程师许钦桓交流会发言）</p><p>灵掌机器人联合创始人、硬件总工程师许钦桓在现场表示：“灵掌机器人的灵巧手，走的...",
-      "link": "https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html",
-      "published_at": "2026-11-20T10:27:00+00:00"
-    },
-    {
-      "id": "leiphone-6167360683",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "解读丨智能戒指红海之外，Elah Ring 正在深入美国腹地",
-      "summary": "<section style=\"margin-bottom: 16px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/6a6c4981e5bcb.jpg?imageMogr2/quality/90\" /></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><section><section><section style=\"margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, 244);\"><section style=\"margin: 0px; padding: 0px; clear: both; text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261120/6b001b8ded6cc.png?imageMogr2/quality/90\" style=\"margi...",
-      "link": "https://www.leiphone.com/category/weiwu/ptAnAiMGqEOX65EI.html",
-      "published_at": "2026-11-20T10:09:00+00:00"
-    },
-    {
-      "id": "openai-news-9197344525",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "Combatting adversarial distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "published_at": "2026-11-20T10:00:00+00:00"
-    },
-    {
-      "id": "thelec-2390396486",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Coway Signs Marketing Partnership MOU With Kyobo Book Centre",
-      "summary": "Coway said on Nov. 20 that it signed a memorandum of understanding (MOU) with Kyobo Book Centre for a marketing partnership at G-TOWER in Seoul on Nov. 19.The agreement aims to encourage customer participation in joint promotions the two companies have been running since the second half of 2026 and",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15799",
-      "published_at": "2026-11-20T08:44:23+00:00"
-    },
-    {
-      "id": "thelec-3527859627",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanjung NCS Wins Ministerial Award for Management Innovation",
-      "summary": "Hanjung NCS received a ministerial award from South Korea’s Ministry of SMEs and Startups in recognition of its liquid-cooling thermal management technology for energy storage systems (ESS) and achievements in management innovation.Hanjung NCS said it received the SME Management Innovation Award at",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15800",
-      "published_at": "2026-11-20T08:44:21+00:00"
-    },
-    {
-      "id": "leiphone-339839085",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "享界V8正式上市售价31.98万元起，鸿蒙智行首款纯电MPV瞄准高端家用",
-      "summary": "<p>11月20日，在“鸿蒙智行享界V8及星芒品牌发布会”现场，鸿蒙智行首款“家庭智慧旗舰MPV”享界V8正式上市，售价31.98-42.98万元，下定享界V8，享至高93000元购车权益，首批交付已于上市当日开启。作为鸿蒙智行切入家用MPV市场的首款产品，享界V8围绕家庭出行真实场景带来为家而生的100个设计，并以“8系价格、9系配置”重新定义家用标准，成为今年下半年家用车市场的强势黑马。目前，享界V8新车已在全国147城399店同步到店，消费者可就近体验实车或预约试驾。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6b0007a254918.jpg?imageMogr2/quality/90\" /></p><p>对一台家用MPV而言，内部空间是需求的第一入口。享界V8车身尺寸为5335mm×2005mm×1805mm，轴距长达3250mm，采用1:1:1黄金空间配比与真三排平权设计，为第三排提供更大的乘坐空间，使其不再只承担短途临时乘坐功能，让每一排家庭成员都享有同等的舒适；730mm超大侧滑门、380mm超低地台配合340mm超长B柱扶手，能大幅降低老人和孩子上下车的难度。这也意味着，三代同堂出行时，每一排、每位家人的乘坐体验都被照顾到，长途路上不再是前两排舒适、第三排将...",
-      "link": "https://www.leiphone.com/category/industrynews/Tjsd07j74heQpJKc.html",
-      "published_at": "2026-11-20T08:41:00+00:00"
-    },
-    {
-      "id": "leiphone-4826094311",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高",
-      "summary": "<p>为了一场从中国走向世界的购物节，美国达人专门请了一天假。</p><p>&nbsp;</p><p>“双11已经成为我们最重要的日子之一。”美国YouTube达人PETER ARVIDSON表示，速卖通是其主要合作平台，“几乎所有同行都在报道双11，我专门请了一天假来盯着。”</p><p>&nbsp;</p><p>达人忙着盯大促，中国商家忙着补库存，能源商家在美国站挂出“SOLD OUT”的大字报、跑步机品牌Ramypoket、手工模具品牌GBhouse纷纷后悔没有多备点货……11月19日，速卖通海外双11收官，从欧盟到美洲，再到正处极夜的北极圈，都有中国商家的好消息：美国单日成交创去年关税风波以来新高，巴西单日访客数、买家数创建站以来新高；品牌生意持续爆发，双11全周期大涨近50%，欧盟市场逆势大涨超三成。</p><p>&nbsp;</p><p>今年海外双11，热闹的不只是低价促销，更是中国品牌找到了新的增长空间。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6b000709a6377.png?imageView2/2/w/740\" />&nbsp;</p><p>&nbsp;</p><p><s...",
-      "link": "https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html",
-      "published_at": "2026-11-20T08:39:00+00:00"
-    },
-    {
-      "id": "leiphone-7952553480",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "速卖通双11收官：品牌成交大涨近50%，美国、巴西、小众潜力市场均创新高",
-      "summary": "<p>11月19日，海外双11收官。速卖通美国市场单日成交刷新去年关税风波以来纪录，巴西市场单日访客数创建站以来新高；品牌生意持续爆发，双11全周期大涨近50%，欧盟市场逆势大涨超三成。在关税与跨境履约成本变化之下，速卖通以品牌化建立消费者认知、以本地化提升交付确定性，率先跑出低价小包裹之外的新增长路径。平台还借助AI运营托管拓展增长边界，帮商家在北极圈、佛得角、挪威等冷门市场自动出单，刷新历年增速。品牌化、本地化叠加AI能力，速卖通正加速从“卖货渠道”向“品牌出海全新主场”跃迁。</p><p><br /></p>",
-      "link": "https://www.leiphone.com/category/industrynews/RBVQITzBAqkoQGzE.html",
-      "published_at": "2026-11-20T08:37:00+00:00"
-    },
-    {
-      "id": "leiphone-5997311096",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%",
-      "summary": "<p>东南亚年终购物旺季由双十一率先点燃。今年双十一，LazMall品牌商城贡献了区域总成交额的近八成，其成交额达到日常水平的7倍。Lazada“一键轻出海”业务成交额同比增长超200%，订单量达到平日近4倍。品牌消费持续升温，跨境生意节节攀升，中国商家正借势Lazada，抢先收获年终消费旺季的首波红利。</p><p>&nbsp;</p><p>大促期间，东南亚六大市场平均每单消费金额均实现同比增长，区域整体增幅超过30%。市场研究机构Cube Asia发布的《2026年东南亚电商精明消费者报告》显示，超过半数的精明消费者更倾向于在品牌商城购物。价格之外，商品品质、正品保障和购物体验，正成为影响消费者购买决策的重要因素。</p><p>&nbsp;</p><p>消费需求的变化，让越来越多的中国好货进入东南亚消费者的购物车。依托Lazada“一键轻出海”，中国品牌即可0门槛将商品销往东南亚。本次大促中，电脑配件、美妆、户外运动装备、男士运动鞋、手机及平板配件成为天猫业务中增长突出的五大品类。其中，电脑配件成交额同比增长超过7倍，彩妆增长超过10倍，户外运动装备增长近4倍。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6b0006...",
-      "link": "https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html",
-      "published_at": "2026-11-20T08:36:00+00:00"
-    },
-    {
-      "id": "leiphone-7440031494",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "CoCreate伦敦峰会揭开跨境B2B电商新机遇：阿里国际站欧洲订单三年增长70%",
-      "summary": "<p>11月19日，阿里国际站CoCreate峰会在英国伦敦举行，超过5000名欧洲中小企业主风雨无阻地奔赴这场AI跨境采购盛会。如此热情的背后，是跨境B2B电商正在迎来新的增长机遇。</p><p>&nbsp;</p><p>阿里国际站欧美买家业务副总裁郭威廷在现场透露了几个关键数字：三年来，阿里国际站欧洲订单、买家双双累计增长70%。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6b000605cf77d.png?imageView2/2/w/740\" />&nbsp;</p><p style=\"text-align: center;\">（图：阿里国际站欧美买家业务副总裁郭威廷）</p><p>&nbsp;</p><p>细分到品类，欧洲市场的增长更是“欧气满满”：创意玩具与礼品年同比GMV增长高达231%、摩托车与踏板车增长高达141%，此外汽车零配件、电子零配件等品类都呈现高速的双位数增长。</p><p>&nbsp;</p><p>为了进一步激发欧洲买家的采购热情，阿里国际站此次专门推出了“欧洲中小企业创业包”，旗下全球电商AI工作台Accio将向欧洲买家免费开放AI智能采购等功能。</p><p>&nbsp;</p><p>这...",
-      "link": "https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html",
-      "published_at": "2026-11-20T08:35:00+00:00"
-    },
-    {
-      "id": "thelec-3602321275",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Aerospace’s 3.6 Trillion Won K9 Deal Advances as India Discusses Third Order",
-      "summary": "Indian Ambassador to South Korea Gourangalal Das said India is discussing a third procurement program for South Korea’s K9 self-propelled howitzers.Das made the remarks on Nov. 19 during a presentation at the AJP Forum, titled “Deeper Cooperation: South Korea’s Strategic Partnership Diplomacy,” held",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15796",
-      "published_at": "2026-11-20T08:33:45+00:00"
-    },
-    {
-      "id": "thelec-1386623997",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "HD Hyundai Heavy Industries Discusses Shipbuilding Cooperation With US Maritime Administration",
-      "summary": "HD Hyundai said on Nov. 20 that a delegation from the US Maritime Administration (MARAD) visited HD Hyundai Heavy Industries’ Ulsan shipyard on Nov. 19 to discuss expanding bilateral cooperation in shipbuilding.MARAD is an agency under the US Department of Transportation responsible for supporting t",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15794",
-      "published_at": "2026-11-20T08:33:39+00:00"
-    },
-    {
-      "id": "geekpark-7378108682",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
-      "summary": "<div>\n<div class=\"ace-line ace-line old-record-id-doxcnedYKlwhkgE1SJSt1JOylDg\"><strong>作者｜宇航猿</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnhR1uUcLlnzZhjcODLazBod\"><strong>编辑｜靖宇</strong></div>\n</div>\n<p>AI 吞掉了软件，现在，它要吞掉工业了。</p>\n<p>卸任亚马逊 CEO 五年后，杰夫&middot;贝佐斯没忍住，又给自己找了个班上。</p>\n<p>当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克&middot;巴贾杰（Vik Bajaj）罕见同台。<strong>他现在的最新头衔，是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO</strong>。这是自 2021 年交出亚马逊帅印后，这位商业巨头首次重回一线担任 CEO。</p>\n<p>早在 2024 年底种子期就掏钱投资的贝佐斯，在台上毫不掩饰自己的兴奋，直言项目进展太快，自己根本「没法坐在场边干看着」。</p>\n<p>能让贝佐斯重返战场的，是个大赌局。</p>\n<p>点开 Prometheu...",
-      "link": "http://www.geekpark.net/news/374282",
-      "published_at": "2026-11-20T08:24:30+00:00"
-    },
-    {
-      "id": "leiphone-6924824458",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "方程豹钛9上市：27.99万元起，折叠方向盘首次上车",
-      "summary": "<p>11月19日，方程豹钛9正式上市，售价27.99万元起，置换价27.39万元起。作为比亚迪2026年收官车型，钛9首搭折叠智舱及DMS超级混动全能平台，进一步进入大型六座SUV市场。</p><p><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20261120//6afffad4dfbc6.jpg?imageMogr2/quality/90\" /></p><p>雷峰网了解到，折叠智舱搭载于钛9顶配版本，将折叠方向盘、躺平座椅、线控数字底盘与智慧生态结合。与常见的座椅放倒休息不同，这套方案将方向盘一并收纳，为驾驶位释放更多空间。</p><p>方程豹将钛9的产品主张概括为“定义全维硬派新境”。从此次发布的配置来看，它既保留了方盒子造型和全地形能力，也将空间、座舱和六座舒适性作为重点，希望覆盖家庭出行、长途自驾与户外活动等需求。</p><h3>折叠方向盘上车，驾驶位可以怎样变？</h3><p>钛9此次最受关注的配置，是顶配版本搭载的折叠方向盘。</p><p>按照官方介绍，这套方向盘支持0°至180°折叠，收纳过程控制在10秒以内，启停耐久寿命可达8万次。在离车泊入、泊出过程中，方向盘还可以同步完成折叠或展开。</p><p>与之配合的是可一键躺平的驾驶位座椅。座椅支持18向调节，靠背最大躺角...",
-      "link": "https://www.leiphone.com/category/transportation/Okzc1pyWcptuTh5J.html",
-      "published_at": "2026-11-20T07:49:00+00:00"
-    },
-    {
-      "id": "leiphone-1586994297",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "第六代 AMD EPYC 处理器技术峰会在京举行",
-      "summary": "<p><strong>重塑计算，领航 AI 时代：AMD 携手生态伙伴推动 Agentic AI 基础设施创新</strong></p><p>2026年11月19日，中国北京——今日，以“重塑计算，领航 AI 时代”为主题的第六代 AMD EPYC 处理器技术峰会在北京中国大饭店举行，吸引1237位嘉宾参会。AMD 携手服务器系统厂商、软件与硬件生态合作伙伴及行业用户，围绕第六代 AMD EPYC 处理器（代号“Venice”）的产品布局、应用性能及平台技术展开深入交流，并共同举行基于第六代 AMD EPYC 处理器的服务器新品上市仪式，展示面向 Agentic AI 时代的计算创新与生态成果。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6afffb188ea91.jpg?imageMogr2/quality/90\" /></p><p>随着 AI 应用从内容生成走向自主执行任务，企业对计算基础设施的需求正发生变化。智能体在调用模型之外，还需要访问数据、运行代码、调用工具并与业务系统交互。随任务执行产生的大量沙箱与并发计算需求，使 CPU 的处理能力、资源效率及平台扩展能力成为支撑智能体规模化部署的重要基础。本次峰会结合产品技术解读与现场方案展示，呈现第六代AMD EPYC处理...",
-      "link": "https://www.leiphone.com/category/industrynews/TVtcS88CGW5q5JDk.html",
-      "published_at": "2026-11-20T07:47:00+00:00"
-    },
-    {
-      "id": "leiphone-7752794944",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "灵光开放生态再扩容：新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
-      "summary": "<p>近日，蚂蚁集团旗下AI助手灵光宣布开放生态再度扩容，新增企业微信、腾讯文档、腾讯会议、飞常准等7项外部连接能力。至此，灵光支持的外部服务及连接能力已从47项增加至54项，进一步拓展AI助手在个人生活、办公协作、差旅出行等场景中的服务边界。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6afffa0216b1d.jpg?imageMogr2/quality/90\" /></p><p>此次新增能力进一步覆盖用户日常高频需求。在个人生活场景中，灵光新增相册连接能力，并通过快捷指令支持修改壁纸、备忘录等系统操作，推动AI与手机原生功能深度融合；在办公场景中，企业微信、腾讯文档和腾讯会议的加入，进一步丰富了灵光在企业沟通、文档协作、会议管理等方面的服务能力；在出行场景中，飞常准的接入则为用户获取航班动态等出行信息提供了更多便利。</p><p>AI助手的竞争正从模型能力和对话体验，走向真实场景中的事务托管。对下一代AI应用而言，能否打通不同平台和服务之间的壁垒，将直接影响AI助手的实用价值与用户体验。连接器不仅是AI能力的延伸，更是推动AI从“回答问题”走向“托管事务”的关键基础设施。</p><p>此前，灵光接入钉钉、飞书、微信读书等服务，到此次新增企业协作、系统操作和航班服务能力，...",
-      "link": "https://www.leiphone.com/category/industrynews/walzAUin5QxPaCOQ.html",
-      "published_at": "2026-11-20T07:43:00+00:00"
-    },
-    {
-      "id": "latent-space-8528070855",
-      "source_id": "latent-space",
-      "source_name": "Latent Space",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
-      "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
-      "link": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
-      "published_at": "2026-11-20T07:12:24+00:00"
-    },
-    {
-      "id": "leiphone-7524359323",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "当AI影视遇上文化出海：优秀作品亮相第47届美国电影市场",
-      "summary": "<p>当地时间11月10日至15日，第47届美国电影市场（AFM）在洛杉矶举行。AI影视平台携中国传统文化题材作品亮相展会并达成多项海外合作，为中华文化国际传播探索技术赋能的新实践。</p><p>本届展会以“全球影视经济新图景”为主题，聚焦全球影视产业融资、制作、发行领域的新机遇，吸引来自全球超85个国家的数千名制片人、发行商、投资者及业界代表参会。中国电影联合展台、法国电影联盟、美国银行等机构平台，美国狮门影业、法国高蒙电影公司等全球领军影视企业亮相展会。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6affeb4ce254d.jpg?imageMogr2/quality/90\" /></p><p style=\"text-align: center; font-size: 12px;\">11月12日，美国电影市场（AFM）创新交流空间（Innovation Hub）现场。</p><p>人工智能与影视产业融合是本届展会的核心议题之一，主办方通过创新交流空间（Innovation Hub）等专项板块，推动AI等新兴技术与影视产业的深度对接。</p><p>期间，由反向时钟（Reverse Clock Entertainment）、兆原文化集团联合出品的AI电影项目《点睛》（Effi...",
-      "link": "https://www.leiphone.com/category/industrynews/sFbtCLZ06plyUxPF.html",
-      "published_at": "2026-11-20T06:40:00+00:00"
-    },
-    {
-      "id": "leiphone-9581806033",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应",
-      "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20261120/6affe1b049bdc.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; padding-right: 0px;\"><section style=\"width: 100%; background: rgb(246, 248, 255); padding: 20px 0px...",
-      "link": "https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html",
-      "published_at": "2026-11-20T06:03:00+00:00"
-    },
-    {
-      "id": "leiphone-1510480576",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "支付宝小荷包联合蚂蚁庄园上线爱心插件，近50万用户共同守护流浪动物",
-      "summary": "<p>冬天的寒风一点点钻进街巷，街边的毛孩子该如何度过一年里最难捱的季节？</p><p>近日，支付宝小荷包宣布联合蚂蚁庄园发起“守护流浪动物”计划。该计划以小荷包的共同管账能力为基础，联动蚂蚁庄园的公益互动玩法，让普通用户也能顺手做公益，陪小流浪们温暖过冬，目前已吸引近50万用户参与。</p><p><strong>用小荷包管理救助花销</strong></p><p><strong>账目公开透明</strong></p><p>记者从支付宝小荷包的荷包圈发现，大量救助群体在用小荷包管理流浪动物的公益救助花销。作为支持多人共同管账的工具，小荷包具备账单公开透明、收支实时共享的特性：多个人可以同时参与一本账，每一笔收入与支出都实时同步、有据可查。</p><p>更进一步，用户还能将账单公开到小荷包荷包圈，支持公众访问、查看，相当于零成本搭建起一个面向社会的财务公示窗口。对于长期依赖社会捐赠的流浪动物救助而言，这种“看得见”的透明，正是信任的基础。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261120/6affdd3b78a79.jpg?imageMogr2/quality/90\" /></p><p style=\"text-align: center; font-size: 12px;\">图说：大量...",
-      "link": "https://www.leiphone.com/category/industrynews/Xe1FWkNUk4IQr4kx.html",
-      "published_at": "2026-11-20T05:40:00+00:00"
-    },
-    {
-      "id": "thelec-5899408834",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Japan's Furukawa Electric Sues LG Chem Over DDF Patent Infringement",
-      "summary": "Japan\\'s Furukawa Electric said on Nov. 19 that it had filed a lawsuit against LG Chem seeking to prohibit the manufacture and sale of dicing die-bonding film (DDF), a semiconductor packaging material. The lawsuit was filed with the Seoul Central District Court on Oct. 30.Furukawa Electric alleges th",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15772",
-      "published_at": "2026-11-20T05:15:58+00:00"
-    },
-    {
-      "id": "thelec-6272667204",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LG Innotek Promotes Cho Ji-tae to Executive Vice President",
-      "summary": "LG Innotek has promoted the head of its Package Solution Business Unit to executive vice president in its regular executive appointments for 2027. The company also appointed research and development (R&amp;D) specialists to vice president positions as it accelerates the development of next-generation bu",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15771",
-      "published_at": "2026-11-20T05:15:58+00:00"
-    },
-    {
-      "id": "thelec-2249153171",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LG Electronics Promotes Lee Sang-woo, Baek Seung-tae to Presidents",
-      "summary": "LG Electronics has appointed a new head of its Media Entertainment Solution (MS) division, which oversees its TV and media businesses. Lee Sang-woo, head of corporate strategy at LG Corp., has been promoted to president and named head of the MS division and its Display Business Unit. Baek Seung-tae,",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15770",
-      "published_at": "2026-11-20T05:15:58+00:00"
-    },
-    {
-      "id": "thelec-1210426072",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "YEST Wins Final Ruling in HPSP Door Patent Dispute, Three Cases Remain",
-      "summary": "YEST has secured a final legal victory in a patent scope confirmation lawsuit involving the door-locking mechanism of HPSP\\'s high-pressure hydrogen annealing (HPA) equipment. The ruling confirms that the locking mechanism design submitted by YEST falls outside the scope of HPSP\\'s patent rights.The t",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15769",
-      "published_at": "2026-11-20T05:15:58+00:00"
-    },
-    {
-      "id": "thelec-9984559979",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Samsung Names New Memory, Mobile Chiefs as Co-CEOs Shed Dual Roles",
-      "summary": "Samsung Electronics will retain its two-CEO structure led by Vice Chairman Young Hyun Jun and President TM Roh while relieving both executives of their additional responsibilities as business unit heads.Sang Joon Hwang and Won-Joon Choi were appointed heads of the Memory Business and Mobile eXperien",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15793",
-      "published_at": "2026-11-20T05:15:39+00:00"
-    },
-    {
-      "id": "thelec-156215881",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "ASICLAND Wins $10.47 Million Memory Controller Production Order",
-      "summary": "ASICLAND has secured a mass-production supply contract for high-performance memory controllers. The contract is valued at $10.47 million based on the initial purchase order (PO).ASICLAND said on Nov. 20 it had signed a new mass-production supply agreement for high-performance memory controllers. The",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15790",
-      "published_at": "2026-11-20T05:15:39+00:00"
-    },
-    {
-      "id": "thelec-8331740607",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Samsung Display Showcases QD-OLED Gaming Monitors at G-STAR 2026",
-      "summary": "Samsung Display is operating quantum dot (QD)-organic light-emitting diode (OLED) gaming experience zones with global game developers at G-STAR 2026 in Busan.Samsung Display said on Nov. 20 it is collaborating with CD PROJEKT RED and Krafton to showcase QD-OLED monitors at G-STAR 2026, held from Nov",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15789",
-      "published_at": "2026-11-20T05:15:39+00:00"
-    },
-    {
-      "id": "thelec-951722410",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LG Display Merges Large and Mid-Sized Display Divisions, Retains CEO",
-      "summary": "LG Display is merging its large and mid-sized display divisions to support the transition of mid-sized products to organic light-emitting diode (OLED) technology and accelerate decision-making. CEO Jeong Cheol-dong will remain in his position.LG Display announced its annual executive appointments an",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15784",
-      "published_at": "2026-11-20T05:15:39+00:00"
-    },
-    {
-      "id": "thelec-19292549",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Leeno Industrial Signs First Labor Agreement After Six Months of Talks",
-      "summary": "Leeno Industrial and its labor union have signed their first collective bargaining agreement, six months after negotiations began.The company, whose production was disrupted by a two-month strike, plans to present customers with specific measures to meet delivery deadlines.Leeno Industrial and the L",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15783",
-      "published_at": "2026-11-20T05:15:39+00:00"
-    },
-    {
-      "id": "simon-willison-4816221026",
-      "source_id": "simon-willison",
-      "source_name": "Simon Willison",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "llm-gemini 0.38.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.38.1\">llm-gemini 0.38.1</a></p>\n        <p>Gemini 4 Carbon only supports <code>low</code>, <code>medium</code> and <code>high</code> reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra <code>xhigh</code> level.</p>\n<p>I missed that when I added those models to the <code>llm-gemini</code> plugin, which is now fixed in this dot release.</p>\n<p>The <code>xhigh</code> setting for Hydrogen makes a <em>significant</em> difference. I updated my <a href=\"https://static.simonwillison.n...",
-      "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-      "published_at": "2026-11-20T03:01:57+00:00"
-    },
-    {
-      "id": "simon-willison-1444938608",
-      "source_id": "simon-willison",
-      "source_name": "Simon Willison",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Token fraud is here and it’s BAD (YouTube)",
-      "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=ZDpP7JXPlhc\">Token fraud is here and it’s BAD (YouTube)</a></strong></p>\nClaire Vo runs <a href=\"https://www.chatprd.ai\">ChatPRD</a>, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time.</p>\n<p>In this YouTube video (see also the <a href=\"https://x.com/clairevo/status/2119985786045227197\">accompanying Twitter post</a>) Claire describes the <em>flood</em> of token fraud she has seen from groups abusing the produc...",
-      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-      "published_at": "2026-11-20T02:49:57+00:00"
     }
   ]
 }
