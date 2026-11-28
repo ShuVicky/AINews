@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-11-28T04:52:46.888674+00:00",
+  "generated_at": "2026-11-28T13:55:58.254726+00:00",
   "window_hours": 72,
   "source_count": 21,
-  "count": 106,
+  "count": 91,
   "items": [
     {
-      "id": "latent-space-3173262357",
+      "id": "the-decoder-3714682947",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1440\" src=\"https://the-decoder.com/wp-content/uploads/2026/11/ukflag_blue.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4. METR criticized Anthropic for cutting \"most informative\" evidence before publication. The episode raises broader questions about the transparency of voluntary AI safety evaluations and again shows Europe's ...",
+      "link": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+      "published_at": "2026-11-28T13:42:00+00:00"
+    },
+    {
+      "id": "the-decoder-1001933487",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/11/neural_network_coffee.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight correct answers. Visual perception accounts for 73 percent of errors, and more compute time doesn't fix the problem.</p>\n<p>The article <a href...",
+      "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+      "published_at": "2026-11-28T11:12:30+00:00"
+    },
+    {
+      "id": "the-decoder-8465197014",
+      "source_id": "the-decoder",
+      "source_name": "The Decoder",
+      "category": "industry",
+      "module": "📊 行业观察",
+      "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1440\" src=\"https://the-decoder.com/wp-content/uploads/2026/11/embo_logo.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. Google Deepmind, Meta, and MIT researchers are behind the startup as the race for general-purpose robotics AI accelerates.</p>\n<p>The article <a href=\"https://the-decoder.com/ro...",
+      "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+      "published_at": "2026-11-28T10:48:18+00:00"
+    },
+    {
+      "id": "latent-space-8603733170",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -16,7 +49,7 @@
       "published_at": "2026-11-28T03:45:59+00:00"
     },
     {
-      "id": "leiphone-2435106910",
+      "id": "leiphone-4785620577",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -27,7 +60,7 @@
       "published_at": "2026-11-28T02:40:00+00:00"
     },
     {
-      "id": "geekpark-3412499814",
+      "id": "geekpark-4441688381",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -38,7 +71,7 @@
       "published_at": "2026-11-28T00:53:50+00:00"
     },
     {
-      "id": "simon-willison-6387988011",
+      "id": "simon-willison-3658516636",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -49,7 +82,7 @@
       "published_at": "2026-11-27T23:57:17+00:00"
     },
     {
-      "id": "latent-space-1950320044",
+      "id": "latent-space-821864886",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -60,7 +93,7 @@
       "published_at": "2026-11-27T22:19:18+00:00"
     },
     {
-      "id": "the-decoder-5317289019",
+      "id": "the-decoder-4185709137",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -71,7 +104,7 @@
       "published_at": "2026-11-27T19:38:37+00:00"
     },
     {
-      "id": "leiphone-2414000288",
+      "id": "leiphone-4249662873",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -82,7 +115,7 @@
       "published_at": "2026-11-27T19:14:00+00:00"
     },
     {
-      "id": "leiphone-2043597142",
+      "id": "leiphone-3986698769",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -93,7 +126,7 @@
       "published_at": "2026-11-27T19:06:00+00:00"
     },
     {
-      "id": "the-decoder-3934400192",
+      "id": "the-decoder-9427147905",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -104,7 +137,7 @@
       "published_at": "2026-11-27T18:27:02+00:00"
     },
     {
-      "id": "the-decoder-8587577753",
+      "id": "the-decoder-9913877062",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -115,7 +148,7 @@
       "published_at": "2026-11-27T16:58:56+00:00"
     },
     {
-      "id": "the-decoder-8714699497",
+      "id": "the-decoder-4881756907",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -126,7 +159,7 @@
       "published_at": "2026-11-27T16:06:43+00:00"
     },
     {
-      "id": "the-decoder-9802319123",
+      "id": "the-decoder-6493108567",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -137,7 +170,7 @@
       "published_at": "2026-11-27T16:05:23+00:00"
     },
     {
-      "id": "the-decoder-6110288463",
+      "id": "the-decoder-8585658089",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -148,7 +181,7 @@
       "published_at": "2026-11-27T15:37:47+00:00"
     },
     {
-      "id": "the-decoder-2925901427",
+      "id": "the-decoder-4948067148",
       "source_id": "the-decoder",
       "source_name": "The Decoder",
       "category": "industry",
@@ -159,7 +192,7 @@
       "published_at": "2026-11-27T14:57:25+00:00"
     },
     {
-      "id": "leiphone-325766019",
+      "id": "leiphone-2319483612",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -170,7 +203,7 @@
       "published_at": "2026-11-27T12:24:00+00:00"
     },
     {
-      "id": "leiphone-9880982616",
+      "id": "leiphone-3355207951",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -181,7 +214,7 @@
       "published_at": "2026-11-27T12:23:00+00:00"
     },
     {
-      "id": "leiphone-8308807418",
+      "id": "leiphone-3211252269",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -192,7 +225,7 @@
       "published_at": "2026-11-27T10:28:00+00:00"
     },
     {
-      "id": "leiphone-158717404",
+      "id": "leiphone-4250439808",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -203,7 +236,7 @@
       "published_at": "2026-11-27T09:56:00+00:00"
     },
     {
-      "id": "leiphone-3961746209",
+      "id": "leiphone-5173819591",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -214,7 +247,7 @@
       "published_at": "2026-11-27T09:37:00+00:00"
     },
     {
-      "id": "geekpark-9285587892",
+      "id": "geekpark-7190048568",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -225,7 +258,7 @@
       "published_at": "2026-11-27T09:26:31+00:00"
     },
     {
-      "id": "thelec-6003300220",
+      "id": "thelec-7610678794",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -236,7 +269,7 @@
       "published_at": "2026-11-27T09:03:33+00:00"
     },
     {
-      "id": "thelec-935179171",
+      "id": "thelec-1393880716",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -247,7 +280,7 @@
       "published_at": "2026-11-27T09:03:33+00:00"
     },
     {
-      "id": "thelec-2766589286",
+      "id": "thelec-1089156106",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -258,7 +291,7 @@
       "published_at": "2026-11-27T09:03:33+00:00"
     },
     {
-      "id": "leiphone-564801100",
+      "id": "leiphone-8807522573",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -269,7 +302,7 @@
       "published_at": "2026-11-27T08:41:00+00:00"
     },
     {
-      "id": "geekpark-5336020656",
+      "id": "geekpark-5561377680",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -280,7 +313,7 @@
       "published_at": "2026-11-27T08:29:54+00:00"
     },
     {
-      "id": "leiphone-2787821736",
+      "id": "leiphone-7051931705",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -291,7 +324,7 @@
       "published_at": "2026-11-27T08:18:00+00:00"
     },
     {
-      "id": "leiphone-3375420050",
+      "id": "leiphone-1916423025",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -302,7 +335,7 @@
       "published_at": "2026-11-27T07:43:00+00:00"
     },
     {
-      "id": "geekpark-346833901",
+      "id": "geekpark-9391461053",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -313,7 +346,7 @@
       "published_at": "2026-11-27T07:16:24+00:00"
     },
     {
-      "id": "leiphone-646637410",
+      "id": "leiphone-5475635171",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -324,7 +357,7 @@
       "published_at": "2026-11-27T07:10:00+00:00"
     },
     {
-      "id": "thelec-9752946068",
+      "id": "thelec-9144343559",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -335,7 +368,7 @@
       "published_at": "2026-11-27T07:00:27+00:00"
     },
     {
-      "id": "thelec-5680372351",
+      "id": "thelec-6942675852",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -346,7 +379,7 @@
       "published_at": "2026-11-27T07:00:25+00:00"
     },
     {
-      "id": "thelec-187509346",
+      "id": "thelec-1239509353",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -357,7 +390,7 @@
       "published_at": "2026-11-27T06:59:59+00:00"
     },
     {
-      "id": "thelec-7638493905",
+      "id": "thelec-3958749915",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -368,7 +401,7 @@
       "published_at": "2026-11-27T06:59:29+00:00"
     },
     {
-      "id": "thelec-1549421031",
+      "id": "thelec-9849406430",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -379,7 +412,7 @@
       "published_at": "2026-11-27T06:59:24+00:00"
     },
     {
-      "id": "thelec-8139341320",
+      "id": "thelec-8635585627",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -390,7 +423,7 @@
       "published_at": "2026-11-27T06:59:15+00:00"
     },
     {
-      "id": "thelec-1946719811",
+      "id": "thelec-5612817730",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -401,7 +434,7 @@
       "published_at": "2026-11-27T06:59:07+00:00"
     },
     {
-      "id": "thelec-2524069649",
+      "id": "thelec-3431331041",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -412,7 +445,7 @@
       "published_at": "2026-11-27T06:59:03+00:00"
     },
     {
-      "id": "thelec-7056062443",
+      "id": "thelec-7649327300",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -423,7 +456,7 @@
       "published_at": "2026-11-27T06:58:58+00:00"
     },
     {
-      "id": "thelec-4570143849",
+      "id": "thelec-144654132",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -434,7 +467,7 @@
       "published_at": "2026-11-27T06:58:58+00:00"
     },
     {
-      "id": "thelec-8735608462",
+      "id": "thelec-1266287997",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -445,7 +478,7 @@
       "published_at": "2026-11-27T06:58:58+00:00"
     },
     {
-      "id": "thelec-497759402",
+      "id": "thelec-4227547709",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -456,7 +489,7 @@
       "published_at": "2026-11-27T06:58:58+00:00"
     },
     {
-      "id": "thelec-2921324938",
+      "id": "thelec-5648725642",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -467,7 +500,7 @@
       "published_at": "2026-11-27T06:58:58+00:00"
     },
     {
-      "id": "thelec-2310017465",
+      "id": "thelec-9061854642",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -478,7 +511,7 @@
       "published_at": "2026-11-27T06:58:58+00:00"
     },
     {
-      "id": "thelec-6745147862",
+      "id": "thelec-4382826977",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -489,7 +522,7 @@
       "published_at": "2026-11-27T06:58:41+00:00"
     },
     {
-      "id": "thelec-7195595497",
+      "id": "thelec-9070839477",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -500,7 +533,7 @@
       "published_at": "2026-11-27T06:58:32+00:00"
     },
     {
-      "id": "leiphone-4841003447",
+      "id": "leiphone-102672818",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -511,7 +544,7 @@
       "published_at": "2026-11-27T06:46:00+00:00"
     },
     {
-      "id": "leiphone-6757008896",
+      "id": "leiphone-8188038349",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -522,7 +555,7 @@
       "published_at": "2026-11-27T06:26:00+00:00"
     },
     {
-      "id": "leiphone-1581875725",
+      "id": "leiphone-8584126865",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -533,7 +566,7 @@
       "published_at": "2026-11-27T05:52:00+00:00"
     },
     {
-      "id": "leiphone-2078482589",
+      "id": "leiphone-5886250944",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -544,7 +577,7 @@
       "published_at": "2026-11-27T05:25:00+00:00"
     },
     {
-      "id": "leiphone-7093421031",
+      "id": "leiphone-2754614129",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -555,7 +588,7 @@
       "published_at": "2026-11-27T05:22:00+00:00"
     },
     {
-      "id": "leiphone-6614958061",
+      "id": "leiphone-3366436547",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -566,7 +599,7 @@
       "published_at": "2026-11-27T03:47:00+00:00"
     },
     {
-      "id": "leiphone-5459129151",
+      "id": "leiphone-3798752160",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -577,7 +610,7 @@
       "published_at": "2026-11-27T03:07:00+00:00"
     },
     {
-      "id": "leiphone-544048321",
+      "id": "leiphone-7176503642",
       "source_id": "leiphone",
       "source_name": "雷峰网",
       "category": "industry",
@@ -588,7 +621,7 @@
       "published_at": "2026-11-27T02:58:00+00:00"
     },
     {
-      "id": "thelec-2287233447",
+      "id": "thelec-2430000383",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -599,7 +632,7 @@
       "published_at": "2026-11-27T00:58:01+00:00"
     },
     {
-      "id": "thelec-2268981545",
+      "id": "thelec-4942680585",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -610,7 +643,7 @@
       "published_at": "2026-11-27T00:58:01+00:00"
     },
     {
-      "id": "thelec-7250207869",
+      "id": "thelec-1658501109",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -621,7 +654,7 @@
       "published_at": "2026-11-27T00:58:01+00:00"
     },
     {
-      "id": "thelec-2287869611",
+      "id": "thelec-9782938782",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -632,7 +665,7 @@
       "published_at": "2026-11-27T00:58:01+00:00"
     },
     {
-      "id": "thelec-5886728471",
+      "id": "thelec-7480605591",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -643,7 +676,7 @@
       "published_at": "2026-11-27T00:58:01+00:00"
     },
     {
-      "id": "thelec-201519499",
+      "id": "thelec-3594630063",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -654,7 +687,7 @@
       "published_at": "2026-11-27T00:58:01+00:00"
     },
     {
-      "id": "thelec-5411446223",
+      "id": "thelec-2444352744",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -665,7 +698,7 @@
       "published_at": "2026-11-27T00:58:01+00:00"
     },
     {
-      "id": "geekpark-7181498835",
+      "id": "geekpark-2943449740",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -676,7 +709,7 @@
       "published_at": "2026-11-27T00:43:10+00:00"
     },
     {
-      "id": "simon-willison-7156321146",
+      "id": "simon-willison-6910056437",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -687,7 +720,7 @@
       "published_at": "2026-11-27T00:26:17+00:00"
     },
     {
-      "id": "huggingface-9438436535",
+      "id": "huggingface-8993442707",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -698,7 +731,7 @@
       "published_at": "2026-11-27T00:00:00+00:00"
     },
     {
-      "id": "latent-space-6749100930",
+      "id": "latent-space-6374916477",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -709,7 +742,7 @@
       "published_at": "2026-11-26T23:02:48+00:00"
     },
     {
-      "id": "thelec-9393625207",
+      "id": "thelec-464234530",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -720,7 +753,7 @@
       "published_at": "2026-11-26T22:57:59+00:00"
     },
     {
-      "id": "thelec-394015785",
+      "id": "thelec-2995387065",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -731,7 +764,7 @@
       "published_at": "2026-11-26T22:57:47+00:00"
     },
     {
-      "id": "thelec-4885500572",
+      "id": "thelec-6418694432",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -742,40 +775,7 @@
       "published_at": "2026-11-26T22:57:38+00:00"
     },
     {
-      "id": "the-decoder-9475292291",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sitting on \"one or more bombshells\" in cryptography.</p>\n<p>The a...",
-      "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
-      "published_at": "2026-11-26T19:31:46+00:00"
-    },
-    {
-      "id": "the-decoder-1331167091",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/10/openai.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also testing a Chat and Work mode merger.</p>\n<p>The article <a href=\"https://the-decoder.com/gpt-6-2-astra...",
-      "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-      "published_at": "2026-11-26T17:28:56+00:00"
-    },
-    {
-      "id": "the-decoder-702950940",
-      "source_id": "the-decoder",
-      "source_name": "The Decoder",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
-      "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1440\" src=\"https://the-decoder.com/wp-content/uploads/2026/11/us_china.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data.</p>\n<p>The article <a href=\"https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/\">After OpenAI and Anthropic shut the door on their data, a Chinese AI deve...",
-      "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
-      "published_at": "2026-11-26T15:45:08+00:00"
-    },
-    {
-      "id": "simon-willison-7900076236",
+      "id": "simon-willison-9448773474",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -786,7 +786,7 @@
       "published_at": "2026-11-26T15:09:31+00:00"
     },
     {
-      "id": "nvidia-blog-1756881221",
+      "id": "nvidia-blog-5027383034",
       "source_id": "nvidia-blog",
       "source_name": "NVIDIA Blog",
       "category": "ai-products",
@@ -797,7 +797,7 @@
       "published_at": "2026-11-26T14:00:22+00:00"
     },
     {
-      "id": "huggingface-2454935159",
+      "id": "huggingface-536191482",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -808,7 +808,7 @@
       "published_at": "2026-11-26T11:37:17+00:00"
     },
     {
-      "id": "geekpark-3052457707",
+      "id": "geekpark-5758560159",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -819,7 +819,7 @@
       "published_at": "2026-11-26T09:04:47+00:00"
     },
     {
-      "id": "geekpark-550299557",
+      "id": "geekpark-4244485054",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -830,7 +830,7 @@
       "published_at": "2026-11-26T08:38:54+00:00"
     },
     {
-      "id": "simon-willison-980728295",
+      "id": "simon-willison-4410524191",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -841,7 +841,7 @@
       "published_at": "2026-11-26T06:08:25+00:00"
     },
     {
-      "id": "simon-willison-9671039356",
+      "id": "simon-willison-7137794686",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -852,7 +852,7 @@
       "published_at": "2026-11-26T05:08:46+00:00"
     },
     {
-      "id": "huggingface-1933809107",
+      "id": "huggingface-2252717877",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -863,7 +863,7 @@
       "published_at": "2026-11-26T05:05:36+00:00"
     },
     {
-      "id": "thelec-1293623104",
+      "id": "thelec-2531313520",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -874,7 +874,7 @@
       "published_at": "2026-11-26T01:26:01+00:00"
     },
     {
-      "id": "thelec-2468891155",
+      "id": "thelec-2255466013",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -885,7 +885,7 @@
       "published_at": "2026-11-26T00:56:06+00:00"
     },
     {
-      "id": "thelec-7300388015",
+      "id": "thelec-9002573068",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -896,7 +896,7 @@
       "published_at": "2026-11-26T00:56:06+00:00"
     },
     {
-      "id": "geekpark-3541829108",
+      "id": "geekpark-78619962",
       "source_id": "geekpark",
       "source_name": "极客公园",
       "category": "industry",
@@ -907,7 +907,7 @@
       "published_at": "2026-11-26T00:19:57+00:00"
     },
     {
-      "id": "thelec-6588120437",
+      "id": "thelec-6545681920",
       "source_id": "thelec",
       "source_name": "TheElec",
       "category": "supply-chain",
@@ -918,7 +918,7 @@
       "published_at": "2026-11-26T00:08:01+00:00"
     },
     {
-      "id": "huggingface-2175419250",
+      "id": "huggingface-7775329315",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -929,7 +929,7 @@
       "published_at": "2026-11-26T00:00:00+00:00"
     },
     {
-      "id": "simon-willison-1240347193",
+      "id": "simon-willison-2513770567",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -940,7 +940,7 @@
       "published_at": "2026-11-25T23:26:32+00:00"
     },
     {
-      "id": "latent-space-7929155917",
+      "id": "latent-space-9031328398",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -951,7 +951,7 @@
       "published_at": "2026-11-25T22:28:01+00:00"
     },
     {
-      "id": "latent-space-703963353",
+      "id": "latent-space-7699116105",
       "source_id": "latent-space",
       "source_name": "Latent Space",
       "category": "ai-models",
@@ -962,7 +962,7 @@
       "published_at": "2026-11-25T22:23:41+00:00"
     },
     {
-      "id": "huggingface-7990851205",
+      "id": "huggingface-756510175",
       "source_id": "huggingface",
       "source_name": "HuggingFace Blog",
       "category": "ai-models",
@@ -973,7 +973,7 @@
       "published_at": "2026-11-25T18:52:55+00:00"
     },
     {
-      "id": "simon-willison-9225142013",
+      "id": "simon-willison-8227792904",
       "source_id": "simon-willison",
       "source_name": "Simon Willison",
       "category": "industry",
@@ -984,7 +984,7 @@
       "published_at": "2026-11-25T18:16:50+00:00"
     },
     {
-      "id": "google-research-4516721370",
+      "id": "google-research-6053966451",
       "source_id": "google-research",
       "source_name": "Google Research",
       "category": "ai-models",
@@ -995,7 +995,7 @@
       "published_at": "2026-11-25T17:10:27+00:00"
     },
     {
-      "id": "github-ai-9459388674",
+      "id": "github-ai-4673205211",
       "source_id": "github-ai",
       "source_name": "GitHub AI & ML",
       "category": "ai-products",
@@ -1004,171 +1004,6 @@
       "summary": "<p>Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/\">How to choose the next safe step in application modernization</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
       "published_at": "2026-11-25T15:00:00+00:00"
-    },
-    {
-      "id": "thelec-2781302108",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LIG D&A Provides Safety Equipment to 31 Suppliers",
-      "summary": "LIG Defense & Aerospace (D&amp;A) said Nov. 25 it had carried out a workplace safety support program for 31 suppliers.The company installed automated external defibrillators (AEDs) at 10 suppliers and automatic digital blood pressure monitors at 21 others. The program is in its second year, following th",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15914",
-      "published_at": "2026-11-25T12:56:05+00:00"
-    },
-    {
-      "id": "thelec-6195065074",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Dongwha Electrolyte Secures New Battery Customer in North America",
-      "summary": "Dongwha Electrolyte has expanded the customer base for its North American electrolyte business. The new customer is one of the world\\'s top 10 battery manufacturers by market share.Dongwha Electrolyte said Nov. 25 it had signed an agreement with a global battery cell manufacturer to supply electrolyt",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15915",
-      "published_at": "2026-11-25T12:56:03+00:00"
-    },
-    {
-      "id": "thelec-1534410518",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Chairman Kim Makes First Visit to Ourhome",
-      "summary": "Hanwha Group Chairman Kim Seung-youn visited Ourhome\\'s food research and development (R&amp;D) facility, marking his first visit to the company\\'s operations since Ourhome joined Hanwha Group in May 2025.Kim visited the Magok Food Research Center in Seoul on Nov. 25 to review product development efforts",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15916",
-      "published_at": "2026-11-25T12:56:01+00:00"
-    },
-    {
-      "id": "thelec-8427244817",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Aerospace Signs MOU With Brazilian Defense Firm",
-      "summary": "Hanwha Aerospace is stepping up its expansion into South America through a partnership with a Brazilian defense company.Hanwha Aerospace said Nov. 25 it had signed a memorandum of understanding (MOU) with Brazilian defense company Modirum Gespi on local business cooperation at Mostra BID Brasil 2026",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15917",
-      "published_at": "2026-11-25T12:55:59+00:00"
-    },
-    {
-      "id": "thelec-480084570",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "LiBEST Selected for Daejeon Defense Venture Program",
-      "summary": "Battery startup LiBEST has been selected as a new partner company in the 26th round of the Daejeon Defense Venture Center’s support program.LiBEST said Nov. 25 it had signed a business support agreement with the Daejeon Defense Venture Center at Daejeon Technopark on Nov. 20. The company plans to ta",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15918",
-      "published_at": "2026-11-25T12:55:57+00:00"
-    },
-    {
-      "id": "thelec-4745064653",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "ABB Launches Intelleqt Intelligent Low-Voltage Motor",
-      "summary": "ABB has launched Intelleqt, an intelligent low-voltage motor that provides real-time operating data.ABB unveiled the low-voltage motor, which integrates sensing, edge computing and communication capabilities during manufacturing, at the SPS industrial automation exhibition in Germany.Intelleqt colle",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15919",
-      "published_at": "2026-11-25T12:55:56+00:00"
-    },
-    {
-      "id": "thelec-5540664764",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Samsung SDI’s Ulsan Plant Wins Green Management Award",
-      "summary": "Samsung SDI’s Ulsan plant received an award from the Minister of Climate, Energy and Environment in recognition of its environmental management achievements.Samsung SDI said Nov. 25 its Ulsan plant won the grand prize in the outstanding green company category at the 2026 Green Management Excellence",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15920",
-      "published_at": "2026-11-25T12:55:55+00:00"
-    },
-    {
-      "id": "thelec-8505710622",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hyundai Mobis Wins 1 Trillion Won in Parts Orders",
-      "summary": "Hyundai Mobis has secured orders worth about 1 trillion won for braking and steering components from European and North American automakers. The company also expects to exceed its overseas order target for this year.Hyundai Mobis said Nov. 25 it will supply its internally developed integrated Mobis",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15921",
-      "published_at": "2026-11-25T12:55:53+00:00"
-    },
-    {
-      "id": "thelec-1352461927",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "Hanwha Aerospace Secures Export Rights for KM3",
-      "summary": "Hanwha Aerospace has secured export rights for the KM3 self-propelled amphibious bridging system, known as Suryong.Hanwha Aerospace said Nov. 25 it had amended its manufacturing license agreement (MLA) with Germany’s General Dynamics European Land Systems-Bridge Systems (GDELS-BS), the original manu",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15922",
-      "published_at": "2026-11-25T12:55:51+00:00"
-    },
-    {
-      "id": "thelec-4647145706",
-      "source_id": "thelec",
-      "source_name": "TheElec",
-      "category": "supply-chain",
-      "module": "⚙️ 供应链与硬件",
-      "title": "SK hynix Targets 100-Layer 3D DRAM Production Within Five Years",
-      "summary": "SK hynix expects 3D DRAM to be commercialized around 2031, with its first product featuring 100 layers of vertically stacked memory cells.\\\"We are developing 3D DRAM with the goal of mass production within the next four to five years,\\\" Choi Kang-sik, a distinguished engineer (DE) at SK hynix, said at",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=15925",
-      "published_at": "2026-11-25T12:17:48+00:00"
-    },
-    {
-      "id": "huggingface-329502980",
-      "source_id": "huggingface",
-      "source_name": "HuggingFace Blog",
-      "category": "ai-models",
-      "module": "🤖 模型与研究",
-      "title": "An Indic Voice Agent with CUGA",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "published_at": "2026-11-25T10:22:09+00:00"
-    },
-    {
-      "id": "mit-tech-review-1185923782",
-      "source_id": "mit-tech-review",
-      "source_name": "MIT Technology Review",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "AI is straining America’s open records systems",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
-      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "published_at": "2026-11-25T10:00:00+00:00"
-    },
-    {
-      "id": "geekpark-1391669893",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "Plaud、影石、小红书、Looki......我们发起了一场 AI 硬件圈的年度聚会",
-      "summary": "<p>在模型飞速演进的 2026 年，硬件世界反而开始告别「爽文叙事」。</p>\n<p>前两年聊 AI 硬件，行业里经常讨论做出一个取代智能手机的「下一代超级入口」的终局命题。听着很过瘾，但真干起来才发现，做硬件这事儿，哪有那么多一步登天。</p>\n<p>今年，气氛明显不一样了。</p>\n<p>创业者们扎进一个个具体的生活场景里，一批新形态的产品，正在一些新场景里逐渐成为共识。</p>\n<p>所以，今年跑得最快的几个方向，都没有「下一代入口」那么性感的叙事，但又都挺有意思：</p>\n<ul>\n<li>健康可穿戴</li>\n</ul>\n<p>AI 加入后，原本冰冷的身体信号，变成了普通消费者随时能看懂的身体状态、训练指导和睡眠建议。可穿戴，正在从记录仪变成随身教练。</p>\n<ul>\n<li>录音卡</li>\n</ul>\n<p>录音也正在从单纯的「存储」，向可以随时调取的个人记忆，甚至工作助手演进。以至于行业已经开始讨论，这类可以在特定场景里采集大量物理世界上下文的设备，也许会成为 Personal Agent 的第一个硬件形态。</p>\n<ul>\n<li>墨水屏</li>\n</ul>\n<p>一个典型的「反参数叙事」品类。彩墨屏技术的成熟，加上开源插件生态的繁荣，墨水屏从阅读器，演进出了 AI 画框、桌面信息板、影像相纸、手机背屏等一众形态。靠低打扰、常显的纸感体验，长出了完全...",
-      "link": "http://www.geekpark.net/news/374487",
-      "published_at": "2026-11-25T09:33:01+00:00"
-    },
-    {
-      "id": "geekpark-6944135347",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "从手腕到雪鞋，运动可穿戴探索下一个可能 | 对话 Heygo",
-      "summary": "<p style=\"text-align: left;\">随身可穿戴，是智能硬件领域里一个非常清晰且明确的产品方向。</p>\n<p style=\"text-align: left;\">背后的逻辑，是把硬件「传感化」，用传感器在物理世界里拿到过去模型很难获得的上下文数据，再经过 AI 处理，最终兑现成高价值的个人服务。</p>\n<p style=\"text-align: left;\">落在具体产品上，目前已经可以看到两个「超级共识」的形态：</p>\n<p style=\"text-align: left;\">一类是以语音采集为抓手的个人效率工具，代表公司 Plaud 目前估值已经突破百亿；另一类是个人健康监测设备，这个赛道里既有超级巨头苹果旗下的 Apple&nbsp;Watch，也已经出现了 WHOOP、Oura 这样的新锐独角兽企业。</p>\n<p style=\"text-align: left;\">所以，对新晋入场的创业者们而言，要想在激烈竞争的共识里找到机会，<span style=\"font-weight: bold;\">大概率需要找到一个新的「非共识」切口：要么是新的数据，要么是新的场景。</span></p>\n<p style=\"text-align: left;\">2025 年在深圳成立的 Heygo，正是希望在单板滑雪这个垂直场景里，重新挖掘数据的价值。</p>...",
-      "link": "http://www.geekpark.net/news/374470",
-      "published_at": "2026-11-25T06:45:34+00:00"
-    },
-    {
-      "id": "geekpark-3175006299",
-      "source_id": "geekpark",
-      "source_name": "极客公园",
-      "category": "industry",
-      "module": "📊 行业观察",
-      "title": "荣耀眼里的 AI 手机：前沿模型可以进来，但入口不能拿走",
-      "summary": "<p>作者｜张勇毅</p>\n<p>编辑｜郑玄</p>\n<p>&nbsp;</p>\n<p>11 月 23 日下午，荣耀在武汉发布了荣耀 700 系列，包括 700S、700 和 700 Pro 三款机型，补贴后 2899 元起，11 月 27 日开售。发布会上，全系 2 亿像素主摄、9000mAh 电池和背面那块 1.72 英寸小屏占了不少篇幅。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/3d/1c/3d1c57d7f5fc7797ce8649420f4991d7.jpg\" /></p>\n<p>AI 手机助手 YOYO 豆包，这一代在荣耀 700 上有了专属的背屏显示载体｜图片来源：极客公园</p>\n<p>但真正让手机圈竖起耳朵的，是荣耀官方通稿里的一个新称呼。荣耀手机上的 AI 助手一直叫 YOYO，到了荣耀 700 系列，它的正式名称变成了「AI 手机助手 YOYO 豆包」。</p>\n<p>此前市面上搭载豆包手机助手的手机只有努比亚两代产品，荣耀 700 系列成了第二款搭载豆包的手机，只不过豆包在这台手机上的位置，和在努比亚手机上并不一样。</p>\n<p><strong>AI 能力，从手机正面到背面</strong></p>\n<p>...",
-      "link": "http://www.geekpark.net/news/374462",
-      "published_at": "2026-11-25T05:02:43+00:00"
     }
   ]
 }
